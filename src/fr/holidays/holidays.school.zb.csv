@@ -1,0 +1,19 @@
+﻿Id;Country;StartDate;EndDate;Type;Names;OUnits;Comments
+d64618fa-43bc-4a99-ad6b-d67bf18df25e;FR;2020-02-16;2020-03-01;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZB;
+5887a588-b43e-4bd4-80f6-a6034a6bf677;FR;2020-04-12;2021-05-26;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZB;
+f6768f78-d340-4452-bd04-a41e24bff738;FR;2020-07-05;2021-08-31;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays,DE Sommer;ZB;
+2867e0f1-b57a-4518-82ef-8b8412ee91d8;FR;2020-10-18;2020-11-01;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZB;
+62c65aef-b1fe-41b1-9c8d-e8f63613313f;FR;2020-12-20;2021-01-03;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZB;
+752f40d1-fa83-4e65-a39e-3d241f9e05e1;FR;2021-02-21;2021-03-07;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZB;
+f80a8783-9f13-4150-997e-b3464b6cfdac;FR;2021-04-11;2021-04-25;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZB;
+c85453cc-5573-4f0c-bbf4-ff6290ac762b;FR;2021-07-07;2021-09-01;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays,DE Sommer;ZB;
+81f497f1-dba7-44f2-9926-effaf5651807;FR;2021-10-24;2021-11-07;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZB;
+03bf9d52-cf2f-4b93-9917-57e302c345c9;FR;2021-12-19;2022-01-02;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZB;
+b10b7179-99e3-49ec-a1d8-94f7b5b587df;FR;2022-02-06;2022-02-20;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZB;
+3171d511-62c3-48d2-a7cf-d4cf02b6ea84;FR;2022-04-10;2022-04-24;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZB;
+20e2d433-3fe3-4226-b021-4d0808226538;FR;2022-07-08;2022-08-31;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays,DE Sommer;ZB;
+8a6ea2ec-2a80-42e1-8f70-f49d28d5678b;FR;2022-10-23;2022-11-06;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZB;
+5f05e400-57a3-4c4e-8a06-9c77ac955574;FR;2022-12-18;2023-01-02;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZB;
+0c6b6096-e7bc-4cbb-9eec-bb523a958530;FR;2023-02-12;2023-02-26;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZB;
+d057ef80-1fbc-4258-8818-0b61267a8056;FR;2023-04-16;2023-05-01;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZB;
+2f0b9e3d-5a78-4f58-b95f-73e60e187fa0;FR;2023-07-09;2023-09-03;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays,DE Sommer;ZB;

@@ -1,0 +1,28 @@
+﻿Country;Code;ShortName;Names;Parent
+FR;FR-ZA;ZA;FR Zone A,DE Zone A,EN Zone A;
+FR;FR-ZB;ZB;FR Zone B,DE Zone B,EN Zone B;
+FR;FR-ZC;ZC;FR Zone C,DE Zone C,EN Zone C;
+FR;FR-ZA-BE;BE;FR Besançon;ZA
+FR;FR-ZA-BO;BO;FR Bordeaux;ZA
+FR;FR-ZA-CF;CF;FR Clermont-Ferrand;ZA
+FR;FR-ZA-DI;DI;FR Dijon;ZA
+FR;FR-ZA-GR;GR;FR Grenoble;ZA
+FR;FR-ZA-LI;LI;FR Limoges;ZA
+FR;FR-ZA-LY;LY;FR Lyon;ZA
+FR;FR-ZA-PO;PO;FR Poitiers;ZA
+FR;FR-ZB-AX;AX;FR Aix-Marseille;ZB
+FR;FR-ZB-AM;AM;FR Amiens;ZB
+FR;FR-ZB-LL;LL;FR Lille;ZB
+FR;FR-ZB-NM;NM;FR Nancy-Metz;ZB
+FR;FR-ZB-NA;NA;FR Nantes;ZB
+FR;FR-ZB-NI;NI;FR Nice;ZB
+FR;FR-ZB-NO;NO;FR Normandie;ZB
+FR;FR-ZB-OT;OT;FR Orléans-Tours;ZB
+FR;FR-ZB-RE;RE;FR Reims;ZB
+FR;FR-ZB-RN;RN;FR Rennes;ZB
+FR;FR-ZB-ST;ST;FR Strasbourg;ZB
+FR;FR-ZC-CR;CR;FR Créteil;ZC
+FR;FR-ZC-MO;MO;FR Montpellier;ZC
+FR;FR-ZC-PA;PA;FR Paris;ZC
+FR;FR-ZC-TO;TO;FR Toulouse;ZC
+FR;FR-ZC-VE;VE;FR Versailles;ZC

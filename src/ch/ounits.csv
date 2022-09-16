@@ -1,0 +1,9 @@
+﻿Country;Subdivisions;Code;ShortName;Names
+CH;VS;DE;DE;DE deutschsprachig,FR germanophone
+CH;VS;FR;FR;FR francophon,DE französischsprachig
+CH;BE;CH-KIT;KIT;DE Kindergärten
+CH;BE,NW;CH-VOL;VOL;DE Volksschulen
+CH;NW;CH-MIS;MIT;DE Mittelschulen
+CH;BE;CH-OBS;OBL;DE Obligatorische Schulen,FR Écoles obligatoires
+CH;FR;CH-PRI;PRIM;FR Écoles primaires (ville)
+CH;FR;CH-SE2;SEC2;FR Écoles sec. II

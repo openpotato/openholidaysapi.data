@@ -1,0 +1,30 @@
+﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+113d6e8d-70c5-4371-8ed1-6014080065b2;DE;2020-03-30;2020-04-17;School;DE Osterferien,EN Easter Holidays;SH
+a4a3e9ac-578e-435e-8b6a-6d3bdcf39608;DE;2020-05-22;;School;DE Himmelfahrt,EN Ascension;SH
+809edd99-2e24-4eb2-a6a8-26483ac731ec;DE;2020-06-29;2020-08-08;School;DE Sommerferien,EN Summer Holidays;SH
+7a722647-0002-478c-b648-5fdfe6a2abf2;DE;2020-10-05;2020-10-17;School;DE Herbstferien,EN Autumn Holidays;SH
+55434584-11f9-417f-b2ae-993c5d4ae8ea;DE;2020-12-21;2021-01-06;School;DE Weihnachtsferien,EN Christmas Holidays;SH
+a80da99c-cb94-4f61-a99f-9ce15db78ea6;DE;2021-04-01;2021-04-16;School;DE Osterferien,EN Easter Holidays;SH
+5febdd4f-27a8-4195-8fb2-b969cec562d2;DE;2021-05-14;2021-05-15;School;DE Himmelfahrt,EN Ascension;SH
+50bbed73-71bb-4ce8-8c09-c50b3f03e59c;DE;2021-06-21;2021-07-31;School;DE Sommerferien,EN Summer Holidays;SH
+f505ba97-2ac8-4725-b9f5-b9e41200319b;DE;2021-10-04;2021-10-16;School;DE Herbstferien,EN Autumn Holidays;SH
+f32a0a35-2b9a-45a7-a417-e501239a7131;DE;2021-12-23;2022-01-08;School;DE Weihnachtsferien,EN Christmas Holidays;SH
+03770012-8bc5-4363-9f80-508efea29b41;DE;2022-04-04;2022-04-16;School;DE Osterferien,EN Easter Holidays;SH
+12873d17-f4f3-4752-bac1-a7072f61e344;DE;2022-05-27;2022-05-28;School;DE Himmelfahrt,EN Ascension;SH
+491d12d3-fc6a-498e-b50e-69732ac05b83;DE;2022-07-04;2022-08-13;School;DE Sommerferien,EN Summer Holidays;SH
+a37db8e3-2da1-4ae4-9041-873e06d66887;DE;2022-10-10;2022-10-21;School;DE Herbstferien,EN Autumn Holidays;SH
+a435990f-82ee-4b10-959e-4523765e291f;DE;2022-12-23;2023-01-06;School;DE Weihnachtsferien,EN Christmas Holidays;SH
+6cb736d4-98b9-4e50-bd26-8cf298a0f12a;DE;2023-04-06;2023-04-22;School;DE Osterferien,EN Easter Holidays;SH
+d818b0fe-13fb-481e-8708-fa6c5bd83269;DE;2023-05-19;2023-05-20;School;DE Himmelfahrt,EN Ascension;SH
+438a0dfe-6dfb-45f4-aafd-9dd9fa0929bc;DE;2023-07-17;2023-08-26;School;DE Sommerferien,EN Summer Holidays;SH
+0e212497-aa5b-4110-b030-950026637571;DE;2023-10-16;2023-10-27;School;DE Herbstferien,EN Autumn Holidays;SH
+8ca0788a-2ce9-463d-b66e-2feb1c2e8cec;DE;2023-12-27;2024-01-06;School;DE Weihnachtsferien,EN Christmas Holidays;SH
+e5d33965-124e-4dfb-b2d7-f4e7f6d0eb6d;DE;2024-04-02;2024-04-19;School;DE Osterferien,EN Easter Holidays;SH
+c6c51588-b427-4454-aa64-384c0a555a6a;DE;2024-05-10;2024-05-11;School;DE Himmelfahrt,EN Ascension;SH
+fd5307fe-76d6-42f2-8774-5fef700d8031;DE;2024-07-22;2024-08-31;School;DE Sommerferien,EN Summer Holidays;SH
+72c77b67-0063-45b3-97f4-bb0fa5ac21dd;DE;2025-07-28;2025-09-06;School;DE Sommerferien,EN Summer Holidays;SH
+7a23234d-b214-4ba4-89d9-a64a56c39a51;DE;2026-07-06;2026-08-15;School;DE Sommerferien,EN Summer Holidays;SH
+fd73ac00-7072-4068-bee1-a090ca258e13;DE;2027-07-05;2027-08-14;School;DE Sommerferien,EN Summer Holidays;SH
+dea1dad2-107b-4d92-8349-15c342474c67;DE;2028-06-24;2028-08-05;School;DE Sommerferien,EN Summer Holidays;SH
+1439fa25-aba6-4eab-b48a-966e96b20072;DE;2029-06-23;2029-08-08;School;DE Sommerferien,EN Summer Holidays;SH
+884d98a1-df12-4c10-aa1b-756dd503cec9;DE;2030-07-08;2030-08-17;School;DE Sommerferien,EN Summer Holidays;SH

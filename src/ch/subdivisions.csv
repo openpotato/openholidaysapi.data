@@ -1,0 +1,27 @@
+﻿Country;IsoCode;ShortName;Names;OfficialLanguages
+CH;CH-ZH;ZH;DE Zürich,FR Zurich,IT Zurigo;DE
+CH;CH-BE;BE;DE Bern,FR Berne,IT Berna;DE,FR
+CH;CH-LU;LU;DE Luzern,FR Lucerne,IT Lucerna;DE
+CH;CH-UR;UR;DE Uri,FR Uri,IT Uri;DE
+CH;CH-SZ;SZ;DE Schwyz,FR Schwytz,IT Svitto;DE
+CH;CH-OW;OW;DE Obwalden,FR Obwald,IT Obvaldo;DE
+CH;CH-NW;NW;DE Nidwalden,FR Nidwald,IT Nidvaldo;DE
+CH;CH-GL;GL;DE Glarus,FR Glaris,IT Glarona;DE
+CH;CH-ZG;ZG;DE Zug,FR Zoug,IT Zugo;DE
+CH;CH-FR;FR;FR Fribourg,DE Freiburg,IT Friburgo;FR,DE
+CH;CH-SO;SO;DE Solothurn,FR Soleure,IT Soletta;DE
+CH;CH-BS;BS;DE Basel-Stadt,FR Bâle-Ville,IT Basilea Città;DE
+CH;CH-BL;BL;DE Basel-Landschaft,FR Bâle-Campagne,IT Basilea Campagna;DE
+CH;CH-SH;SH;DE Schaffhausen,FR Schaffhouse,IT Sciaffusa;DE
+CH;CH-AR;AR;DE Appenzell Ausserrhoden,FR Appenzell Rhodes-Extérieures,IT Appenzello Esterno;DE
+CH;CH-AI;AI;DE Appenzell Innerrhoden,FR Appenzell Rhodes-Intérieures,IT Appenzello Interno;DE
+CH;CH-SG;SG;DE St. Gallen,FR Saint-Gall,IT San Gallo;DE
+CH;CH-GR;GR;DE Graubünden,IT Grigioni,RM Grischun,FR Grisons;DE,RM,IT
+CH;CH-AG;AG;DE Aargau,FR Argovie,IT Argovia;DE
+CH;CH-TG;TG;DE Thurgau,FR Thurgovie,IT Turgovia;DE
+CH;CH-TI;TI;IT Ticino,DE Tessin,FR Tessin;IT
+CH;CH-VD;VD;FR Vaud,DE Waadt,IT Vallese;FR
+CH;CH-VS;VS;FR Valais,DE Wallis,IT Vallese;FR,DE
+CH;CH-NE;NE;FR Neuchâtel,DE Neuenburg,IT Neuchâtel;FR
+CH;CH-GE;GE;FR Genève,DE Genf,IT Ginevra;FR
+CH;CH-JU;JU;FR Jura,DE Jura,IT Giura;FR

@@ -1,0 +1,78 @@
+﻿Id;Country;StartDate;EndDate;Type;Names
+fca7949f-136a-4855-9e92-2b4a92040aa6;NL;2020-01-01;;Public;NL Nieuwjaarsdag,DE Neujahr,EN New Year’s Day
+cc3c3250-c8b5-461a-9bf6-6e7e07741590;NL;2020-04-10;;Public;NL Goede vrijdag,DE Karfreitag,EN Good Friday
+d96adae2-3d67-436d-bf91-8c4f699ce2ee;NL;2020-04-12;;Public;NL Eerste paasdag,DE Ostersonntag,EN Easter Sunday
+73f22b88-6e1b-4f58-9701-df457d2b34c6;NL;2020-04-13;;Public;NL Tweede paasdag,DE Ostermontag,EN Easter Monday
+b89dadb3-f69f-4a82-a534-cbf71cd211c3;NL;2020-04-27;;Public;NL Koningsdag,DE Königstag,EN King’s Day
+fe65633f-413c-4d97-831a-0d7080d18ee1;NL;2020-05-05;;Public;NL Bevrijdingsdag,DE Tag der Befreiung,EN Liberation Day
+8c0daeee-1d44-4cd3-bf36-70bcfbaab3bc;NL;2020-05-21;;Public;NL Hemelvaartsdag,DE Himmelfahrt,EN Ascension Day
+70c0a832-db09-4b87-a012-cad04c4f41a1;NL;2020-05-31;;Public;NL Eerste pinksterdag,DE Pfingstsonntag,EN Whit Sunday
+4d4a4a24-d60a-4cc6-8e31-52179c867c24;NL;2020-06-01;;Public;NL Tweede pinksterdag,DE Pfingstmontag,EN Whit Monday
+ebe34a22-ca4e-4a9b-b8a5-86bce8c33e4c;NL;2020-12-25;;Public;NL Eerste kerstdag,DE 1. Weihnachtsfeiertag,EN Christmas Day
+b0e04780-c983-4a3f-a663-79af55caa69e;NL;2020-12-26;;Public;NL Tweede kerstdag,DE 2. Weihnachtsfeiertag,EN Boxing Day
+b3749fc6-4c41-4c86-836f-d1073d32dc3d;NL;2021-01-01;;Public;NL Nieuwjaarsdag,DE Neujahr,EN New Year’s Day
+927b7493-a0b3-4357-9342-bc85c4b73ca6;NL;2021-04-02;;Public;NL Goede vrijdag,DE Karfreitag,EN Good Friday
+29e0ea88-2ea0-4d48-8bf5-f98e6511c2da;NL;2021-04-04;;Public;NL Eerste paasdag,DE Ostersonntag,EN Easter Sunday
+26e23179-9736-43b9-9847-f7ae8af8bf39;NL;2021-04-05;;Public;NL Tweede paasdag,DE Ostermontag,EN Easter Monday
+ce1f9cdc-5d05-4f0e-988d-58bf33dd6210;NL;2021-04-27;;Public;NL Koningsdag,DE Königstag,EN King’s Day
+1e027d2d-9bfb-493b-a4ff-7cb017ec70c9;NL;2021-05-05;;Public;NL Bevrijdingsdag,DE Tag der Befreiung,EN Liberation Day
+995d1267-bc62-4293-88a8-7880019d67f0;NL;2021-05-13;;Public;NL Hemelvaartsdag,DE Himmelfahrt,EN Ascension Day
+e345999e-c7ad-4923-bbe3-e9ea8eca50ea;NL;2021-05-23;;Public;NL Eerste pinksterdag,DE Pfingstsonntag,EN Whit Sunday
+33e9f468-4811-453c-9f66-b9961b32f14f;NL;2021-05-24;;Public;NL Tweede pinksterdag,DE Pfingstmontag,EN Whit Monday
+bcada69e-0bf9-432e-94d9-e49e99d65fda;NL;2021-12-25;;Public;NL Eerste kerstdag,DE 1. Weihnachtsfeiertag,EN Christmas Day
+a35bae55-ee6e-4371-a964-704bfb59c721;NL;2021-12-26;;Public;NL Tweede kerstdag,DE 2. Weihnachtsfeiertag,EN Boxing Day
+dce6dcd3-4c82-406c-b0d4-9d7ad552fab2;NL;2022-01-01;;Public;NL Nieuwjaarsdag,DE Neujahr,EN New Year’s Day
+c9a7ac65-136a-4ff9-9aeb-a5ca0a3688c0;NL;2022-04-15;;Public;NL Goede vrijdag,DE Karfreitag,EN Good Friday
+945fe627-c039-4063-9991-e468f3ce0e24;NL;2022-04-17;;Public;NL Eerste paasdag,DE Ostersonntag,EN Easter Sunday
+70a5cd3a-9840-42a5-bce2-ddae3dffc3cc;NL;2022-04-18;;Public;NL Tweede paasdag,DE Ostermontag,EN Easter Monday
+1ee8a1cf-4e6b-4217-bcab-752f08236b52;NL;2022-04-27;;Public;NL Koningsdag,DE Königstag,EN King’s Day
+4a222fc1-2b49-426a-adbc-565df2df5bfa;NL;2022-05-05;;Public;NL Bevrijdingsdag,DE Tag der Befreiung,EN Liberation Day
+6e177208-3f44-47ae-8943-d3e1a0ca6764;NL;2022-05-26;;Public;NL Hemelvaartsdag,DE Himmelfahrt,EN Ascension Day
+9a3084ab-f666-4484-967e-e5477ee45455;NL;2022-06-05;;Public;NL Eerste pinksterdag,DE Pfingstsonntag,EN Whit Sunday
+a83d3195-6481-4813-8407-adf40463e294;NL;2022-06-06;;Public;NL Tweede pinksterdag,DE Pfingstmontag,EN Whit Monday
+8651b5c6-8b2b-43b6-a61e-c722423db3be;NL;2022-12-25;;Public;NL Eerste kerstdag,DE 1. Weihnachtsfeiertag,EN Christmas Day
+53eab435-426b-48f8-97e4-a7963c6a10ef;NL;2022-12-26;;Public;NL Tweede kerstdag,DE 2. Weihnachtsfeiertag,EN Boxing Day
+0f688ea0-4c9f-40d5-b178-d042f2082ad1;NL;2023-01-01;;Public;NL Nieuwjaarsdag,DE Neujahr,EN New Year’s Day
+e5c04ebe-53c7-40da-9989-2edbb5167576;NL;2023-04-07;;Public;NL Goede vrijdag,DE Karfreitag,EN Good Friday
+83810d8f-c872-4bda-adf2-bbe73b7312c0;NL;2023-04-09;;Public;NL Eerste paasdag,DE Ostersonntag,EN Easter Sunday
+de3efefe-c395-4ac9-a1c8-8490b708a48b;NL;2023-04-10;;Public;NL Tweede paasdag,DE Ostermontag,EN Easter Monday
+f6223c5c-31ad-44b5-8f93-28d12f11c216;NL;2023-04-27;;Public;NL Koningsdag,DE Königstag,EN King’s Day
+dbed210a-3951-4979-9b0f-53d63649017b;NL;2023-05-05;;Public;NL Bevrijdingsdag,DE Tag der Befreiung,EN Liberation Day
+7e61f006-6e14-4cf7-94cf-eefbe815c508;NL;2023-05-18;;Public;NL Hemelvaartsdag,DE Himmelfahrt,EN Ascension Day
+f9b3ad3e-7324-41cf-b3d1-30e7466e3fb2;NL;2023-05-28;;Public;NL Eerste pinksterdag,DE Pfingstsonntag,EN Whit Sunday
+22ff9404-db54-4446-88da-b2b7f82d9387;NL;2023-05-29;;Public;NL Tweede pinksterdag,DE Pfingstmontag,EN Whit Monday
+0f0a7e03-7998-445e-8134-e2f3ee684893;NL;2023-12-25;;Public;NL Eerste kerstdag,DE 1. Weihnachtsfeiertag,EN Christmas Day
+ebbd522f-b627-4ca1-9e1b-223f23aaf676;NL;2023-12-26;;Public;NL Tweede kerstdag,DE 2. Weihnachtsfeiertag,EN Boxing Day
+7dade415-a18e-4fab-aa1e-a2046bcedc92;NL;2024-01-01;;Public;NL Nieuwjaarsdag,DE Neujahr,EN New Year’s Day
+7cd324ea-df8c-471f-aeea-0572c400aa40;NL;2024-03-29;;Public;NL Goede vrijdag,DE Karfreitag,EN Good Friday
+2471f367-5a2f-4b01-ac59-d611108da31b;NL;2024-03-31;;Public;NL Eerste paasdag,DE Ostersonntag,EN Easter Sunday
+445eb90a-b5c8-4dcc-bba5-7b7512647d9e;NL;2024-04-01;;Public;NL Tweede paasdag,DE Ostermontag,EN Easter Monday
+229b4863-d7fc-47ad-85a9-62bc30456737;NL;2024-04-27;;Public;NL Koningsdag,DE Königstag,EN King’s Day
+1fd5d09e-1296-4192-8487-045fb74f094e;NL;2024-05-05;;Public;NL Bevrijdingsdag,DE Tag der Befreiung,EN Liberation Day
+e2edb2f3-361e-4cc0-b1d7-f9510c5ab132;NL;2024-05-09;;Public;NL Hemelvaartsdag,DE Himmelfahrt,EN Ascension Day
+eaf27e0b-af2e-4fb2-b87b-8c89d5772e83;NL;2024-05-19;;Public;NL Eerste pinksterdag,DE Pfingstsonntag,EN Whit Sunday
+e398ad77-97cb-4698-bd4a-0e7dfa375014;NL;2024-05-20;;Public;NL Tweede pinksterdag,DE Pfingstmontag,EN Whit Monday
+c1ceeb49-fc2a-4858-bb3e-bc30f174356b;NL;2024-12-25;;Public;NL Eerste kerstdag,DE 1. Weihnachtsfeiertag,EN Christmas Day
+b9f3a5d1-c2b6-47d7-9f4f-0d62a25d5f61;NL;2024-12-26;;Public;NL Tweede kerstdag,DE 2. Weihnachtsfeiertag,EN Boxing Day
+c4ccb1c0-efc5-481a-b0ef-56d623d18f11;NL;2025-01-01;;Public;NL Nieuwjaarsdag,DE Neujahr,EN New Year’s Day
+16cb1b50-c254-41a1-a6ff-11661531e25f;NL;2025-04-18;;Public;NL Goede vrijdag,DE Karfreitag,EN Good Friday
+4d7d7345-528f-48d2-a51a-46e51470bd48;NL;2025-04-20;;Public;NL Eerste paasdag,DE Ostersonntag,EN Easter Sunday
+cf994daa-4503-45e0-ab52-bfc35d86405e;NL;2025-04-21;;Public;NL Tweede paasdag,DE Ostermontag,EN Easter Monday
+31349587-ddaa-4fd0-9752-7fc786c25208;NL;2025-04-27;;Public;NL Koningsdag,DE Königstag,EN King’s Day
+8be74455-5c9c-4143-9d6b-928ae2871183;NL;2025-05-05;;Public;NL Bevrijdingsdag,DE Tag der Befreiung,EN Liberation Day
+3468ba32-0cf2-44f8-a061-8d37bde921bd;NL;2025-05-29;;Public;NL Hemelvaartsdag,DE Himmelfahrt,EN Ascension Day
+2875d34f-1db6-4e65-8cbb-23120550d9f9;NL;2025-06-08;;Public;NL Eerste pinksterdag,DE Pfingstsonntag,EN Whit Sunday
+95d8d257-f623-481c-b2ba-28687627fd77;NL;2025-06-09;;Public;NL Tweede pinksterdag,DE Pfingstmontag,EN Whit Monday
+b69c396f-4ace-4126-bd64-f67fd9119c29;NL;2025-12-25;;Public;NL Eerste kerstdag,DE 1. Weihnachtsfeiertag,EN Christmas Day
+3d6aa3ba-23dd-4493-8a8a-70e9c984e26d;NL;2025-12-26;;Public;NL Tweede kerstdag,DE 2. Weihnachtsfeiertag,EN Boxing Day
+2589bbf4-6229-4bd1-b176-0db59687ec5b;NL;2026-01-01;;Public;NL Nieuwjaarsdag,DE Neujahr,EN New Year’s Day
+7202ffee-b1a6-4d89-8f62-033fdfba9be9;NL;2026-04-03;;Public;NL Goede vrijdag,DE Karfreitag,EN Good Friday
+dcb87ceb-ce81-4ea6-81ab-d0545281bd1e;NL;2026-04-05;;Public;NL Eerste paasdag,DE Ostersonntag,EN Easter Sunday
+26d020f7-d02c-470c-9f8b-c71c791df54e;NL;2026-04-06;;Public;NL Tweede paasdag,DE Ostermontag,EN Easter Monday
+d53575fc-9aab-4487-8e26-f4ed1d709835;NL;2026-04-27;;Public;NL Koningsdag,DE Königstag,EN King’s Day
+abeb6b62-fec1-4fb6-bc0a-9d9984fa49bf;NL;2026-05-05;;Public;NL Bevrijdingsdag,DE Tag der Befreiung,EN Liberation Day
+8fd30ad8-b350-4b95-9a10-330895b3fd9e;NL;2026-05-14;;Public;NL Hemelvaartsdag,DE Himmelfahrt,EN Ascension Day
+1eba1ba6-e261-4c4e-9845-6c5e3992a257;NL;2026-05-24;;Public;NL Eerste pinksterdag,DE Pfingstsonntag,EN Whit Sunday
+4ff852e9-0049-4854-91e9-0f92a9afd2a7;NL;2026-05-25;;Public;NL Tweede pinksterdag,DE Pfingstmontag,EN Whit Monday
+c913ea3b-34db-422e-855b-f27103db33b9;NL;2026-12-25;;Public;NL Eerste kerstdag,DE 1. Weihnachtsfeiertag,EN Christmas Day
+d441c52b-2bcf-45c5-8dd2-8cae41a3f1e3;NL;2026-12-26;;Public;NL Tweede kerstdag,DE 2. Weihnachtsfeiertag,EN Boxing Day

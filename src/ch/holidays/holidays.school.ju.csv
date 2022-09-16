@@ -1,0 +1,19 @@
+﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
+ba7f9194-2cca-4ddd-b619-894ba25cf65d;CH;2020-02-15;2020-02-23;School;DE Sport,FR Sport,EN Sport;JU;FR Écoles publiques,DE Öffentliche Schulen
+95dcd2f3-0165-4bb5-95a3-3a515c9b68b7;CH;2020-04-10;2020-04-26;School;DE Frühling,FR Printemps,EN Spring;JU;FR Écoles publiques,DE Öffentliche Schulen
+c5cd0c40-cf0f-4745-80fc-d21f1d750c56;CH;2020-07-04;2020-08-16;School;DE Sommer,FR Été,EN Summer;JU;FR Écoles publiques,DE Öffentliche Schulen
+4b032237-5f3c-4766-b032-fa2ba67872cf;CH;2020-10-10;2020-10-25;School;DE Herbst,FR Automne,EN Autumn;JU;FR Écoles publiques,DE Öffentliche Schulen
+f3bf45d7-54e5-4059-b8b4-240bcca0691f;CH;2020-12-24;2021-01-10;School;DE Winter,FR Noël,EN Christmas;JU;FR Écoles publiques,DE Öffentliche Schulen
+f88610f6-79c3-4189-a1f9-f26c4ed93f93;CH;2021-02-20;2021-02-28;School;DE Sport,FR Sport,EN Sport;JU;FR Écoles publiques,DE Öffentliche Schulen
+1e54a593-f755-4e0d-a627-b654aaaef20b;CH;2021-04-02;2021-04-18;School;DE Frühling,FR Printemps,EN Spring;JU;FR Écoles publiques,DE Öffentliche Schulen
+028948a7-33f2-4d9e-9d8e-c3abe966cbea;CH;2021-07-03;2021-08-15;School;DE Sommer,FR Été,EN Summer;JU;FR Écoles publiques,DE Öffentliche Schulen
+d2d150cd-68d3-483b-b0d7-452d77173341;CH;2021-10-09;2021-10-24;School;DE Herbst,FR Automne,EN Autumn;JU;FR Écoles publiques,DE Öffentliche Schulen
+12b7452a-2f4f-49cf-9ed2-659bca77bdf7;CH;2021-12-24;2022-01-09;School;DE Winter,FR Noël,EN Christmas;JU;FR Écoles publiques,DE Öffentliche Schulen
+13d3f28b-e68c-4b78-a77d-7510ac056ba9;CH;2022-02-19;2022-02-27;School;DE Sport,FR Sport,EN Sport;JU;FR Écoles publiques,DE Öffentliche Schulen
+30966290-dc4c-4181-8f67-307299a2324b;CH;2022-04-09;2022-04-24;School;DE Frühling,FR Printemps,EN Spring;JU;FR Écoles publiques,DE Öffentliche Schulen
+cce69ee3-0614-4d6b-8531-3ee2ccfa9bab;CH;2022-07-02;2022-08-14;School;DE Sommer,FR Été,EN Summer;JU;vFR Écoles publiques,DE Öffentliche Schulen
+15c928db-a044-4490-8566-738399493682;CH;2022-10-08;2022-10-23;School;DE Herbst,FR Automne,EN Autumn;JU;FR Écoles publiques,DE Öffentliche Schulen
+28a077cf-2fd4-4346-94f8-f2d7626b9812;CH;2022-12-24;2023-01-08;School;DE Winter,FR Noël,EN Christmas;JU;FR Écoles publiques,DE Öffentliche Schulen
+d5553274-be3c-479a-a119-8672ba2e96f9;CH;2023-02-18;2023-02-26;School;DE Sport,FR Sport,EN Sport;JU;FR Écoles publiques,DE Öffentliche Schulen
+6dc7c074-8231-41b7-abc4-f9df62d0dcb8;CH;2023-04-07;2023-04-23;School;DE Frühling,FR Printemps,EN Spring;JU;FR Écoles publiques,DE Öffentliche Schulen
+77cb9e8a-1142-45cb-b95a-c7e17a6b82d1;CH;2023-07-01;2023-08-20;School;DE Sommer,FR Été,EN Summer;JU;FR Écoles publiques,DE Öffentliche Schulen

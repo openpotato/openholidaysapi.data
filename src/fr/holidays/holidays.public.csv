@@ -1,0 +1,78 @@
+﻿Id;Country;StartDate;EndDate;Type;Names
+a767e23c-166c-479b-b6ce-15e8a1b9dff0;FR;2020-01-01;;Public;FR Jour de l'an,DE Neujahrstag,EN New Year's Day
+c7e96514-ceb6-4dd9-860e-0120e138a445;FR;2020-04-13;;Public;FR Lundi de Pâques,DE Ostermontag,EN Easter Monday
+952210c4-8fd2-4fdd-b7b9-5d672974a2f5;FR;2020-05-01;;Public;FR Fête du Travail,DE Tag der Arbeit,EN Labour Day
+1ccbd134-ef38-42f5-9e46-56c8c28546c3;FR;2020-05-08;;Public;FR Victoire 1945,DE Tag des Sieges 1945,EN Victory Day
+db2f7545-33da-47fe-aa32-756f37e99765;FR;2020-05-21;;Public;FR Ascension,DE Himmelfahrt,EN Ascension Day
+a34d20d1-86fb-4c0c-bc34-29beb26783ac;FR;2020-06-01;;Public;FR Lundi de Pentecôte,DE Pfingstmontag,EN Pentecost Monday
+351175a0-ee3d-4810-b04f-7444696414b5;FR;2020-07-14;;Public;FR Fête nationale,DE Nationalfeiertag,EN National Day
+8219e74a-0f26-4bbb-bbce-4448c5a8ba5f;FR;2020-08-15;;Public;FR Assomption,DE Mariä Himmelfahrt, EN Assumption Day
+e7e5e3c2-54a6-4193-8473-e41b86b52258;FR;2020-11-01;;Public;FR Toussaint,DE Allerheiligen,EN All Saints Day
+7a30b4ea-3b1c-4fb8-ba80-215d99ecc72c;FR;2020-11-11;;Public;FR Armistice 1918,DE Waffenstillstand 1918,EN Armistice Day
+4e79e7fc-9692-4fb6-98f0-7672a1484f23;FR;2020-12-25;;Public;FR Noël,DE Weihnachtstag,EN Christmas Day
+f5239f84-70f0-478d-a1b6-359a1d528ccb;FR;2021-01-01;;Public;FR Jour de l'an,DE Neujahrstag,EN New Year's Day
+e2393493-78dd-4882-bc02-c271734e9451;FR;2021-04-05;;Public;FR Lundi de Pâques,DE Ostermontag,EN Easter Monday
+c4c635bb-1d8a-4c3d-9214-6bed9597c408;FR;2021-05-01;;Public;FR Fête du Travail,DE Tag der Arbeit,EN Labour Day
+ee6c6e8f-cc7a-49c9-8923-73cb551db2c3;FR;2021-05-08;;Public;FR Victoire 1945,DE Tag des Sieges 1945,EN Victory Day
+572cbe12-cc3f-4eb6-be9a-a0d6410d9772;FR;2021-05-13;;Public;FR Ascension,DE Himmelfahrt,EN Ascension Day
+111e5fd9-ab26-495d-94e0-fcecc42c0337;FR;2021-05-24;;Public;FR Lundi de Pentecôte,DE Pfingstmontag,EN Pentecost Monday
+a8851a48-2e49-4221-993d-7b00338f29d9;FR;2021-07-14;;Public;FR Fête nationale,DE Nationalfeiertag,EN National Day
+c2bae7e2-9c97-4eb3-90d8-fe8d03d10bdc;FR;2021-08-15;;Public;FR Assomption,DE Mariä Himmelfahrt, EN Assumption Day
+6e2bfafe-b8c7-4a0d-a030-789fc01a2e15;FR;2021-11-01;;Public;FR Toussaint,DE Allerheiligen,EN All Saints Day
+fe5f4745-5b2e-434d-8742-2955852414eb;FR;2021-11-11;;Public;FR Armistice 1918,DE Waffenstillstand 1918,EN Armistice Day
+7a12620d-551f-4b6a-8704-1b4769cd419a;FR;2021-12-25;;Public;FR Noël,DE Weihnachtstag,EN Christmas Day
+4cf663c8-8522-4cbb-9f05-21529c9a90ad;FR;2022-01-01;;Public;FR Jour de l'an,DE Neujahrstag,EN New Year's Day
+9b799e11-94dd-439b-aaa8-290c00fe340f;FR;2022-04-18;;Public;FR Lundi de Pâques,DE Ostermontag,EN Easter Monday
+18a76d0e-b96c-432a-a2b3-464547bdd7b8;FR;2022-05-01;;Public;FR Fête du Travail,DE Tag der Arbeit,EN Labour Day
+37e5f639-9707-42c2-8b87-c29e224d0c61;FR;2022-05-08;;Public;FR Victoire 1945,DE Tag des Sieges 1945,EN Victory Day
+312d7693-e6b3-413d-843a-b949fa591ea6;FR;2022-05-26;;Public;FR Ascension,DE Himmelfahrt,EN Ascension Day
+f3db3d07-d67e-46d4-8ee1-4d182e3ddea7;FR;2022-06-06;;Public;FR Lundi de Pentecôte,DE Pfingstmontag,EN Pentecost Monday
+4be6ab5f-aa14-49e9-99f1-48af07068030;FR;2022-07-14;;Public;FR Fête nationale,DE Nationalfeiertag,EN National Day
+a647ce2c-7eba-4bcd-bda9-7140d13e24b0;FR;2022-08-15;;Public;FR Assomption,DE Mariä Himmelfahrt, EN Assumption Day
+2658713b-669d-4763-b12d-16af4a0992c9;FR;2022-11-01;;Public;FR Toussaint,DE Allerheiligen,EN All Saints Day
+2f928126-1506-489c-b53d-2133dd7cf9e1;FR;2022-11-11;;Public;FR Armistice 1918,DE Waffenstillstand 1918,EN Armistice Day
+425a2f54-c0c5-47df-9c90-5505a678ad40;FR;2022-12-25;;Public;FR Noël,DE Weihnachtstag,EN Christmas Day
+6f50e9f0-0723-4f97-a70a-74cdc9322d31;FR;2023-01-01;;Public;FR Jour de l'an,DE Neujahrstag,EN New Year's Day
+ddd9056a-df6e-4dad-931f-4a3bfabf3ff3;FR;2023-04-10;;Public;FR Lundi de Pâques,DE Ostermontag,EN Easter Monday
+e2734f3c-aa0f-43a8-ab58-ebe2735e045b;FR;2023-05-01;;Public;FR Fête du Travail,DE Tag der Arbeit,EN Labour Day
+7459097c-8637-4204-bbe4-b254c015fcd8;FR;2023-05-08;;Public;FR Victoire 1945,DE Tag des Sieges 1945,EN Victory Day
+1f096324-7577-44ad-a5b0-f7bbe7f3730b;FR;2023-05-18;;Public;FR Ascension,DE Himmelfahrt,EN Ascension Day
+5f17a187-16f4-452d-adcd-61bc1800e667;FR;2023-05-29;;Public;FR Lundi de Pentecôte,DE Pfingstmontag,EN Pentecost Monday
+9a54d9f4-befe-4d59-9b36-c1fc5ec9566c;FR;2023-07-14;;Public;FR Fête nationale,DE Nationalfeiertag,EN National Day
+28c54870-3091-48ec-84a1-7fe37730e966;FR;2023-08-15;;Public;FR Assomption,DE Mariä Himmelfahrt, EN Assumption Day
+564f5348-916b-43e6-ba82-2ab653662216;FR;2023-11-01;;Public;FR Toussaint,DE Allerheiligen,EN All Saints Day
+7419b82c-61f1-4ee1-9bb0-1f7bdb08e5e3;FR;2023-11-11;;Public;FR Armistice 1918,DE Waffenstillstand 1918,EN Armistice Day
+25753733-87e2-40fe-adf7-beb4d11969ac;FR;2023-12-25;;Public;FR Noël,DE Weihnachtstag,EN Christmas Day
+bd7b0891-0e49-4a38-9479-6b0a800ad912;FR;2024-01-01;;Public;FR Jour de l'an,DE Neujahrstag,EN New Year's Day
+8cf2ddc6-07af-4635-89df-830af2464d84;FR;2024-04-01;;Public;FR Lundi de Pâques,DE Ostermontag,EN Easter Monday
+0cc3f861-dde3-43ed-b734-516868c6458d;FR;2024-05-01;;Public;FR Fête du Travail,DE Tag der Arbeit,EN Labour Day
+4f5861d1-32e8-4d91-96e3-17cf7397718a;FR;2024-05-08;;Public;FR Victoire 1945,DE Tag des Sieges 1945,EN Victory Day
+96a2634d-6ebc-4f49-9a5a-9491a34771c6;FR;2024-05-09;;Public;FR Ascension,DE Himmelfahrt,EN Ascension Day
+3d661d96-1563-41e6-b923-ca062e4d8d59;FR;2024-05-20;;Public;FR Lundi de Pentecôte,DE Pfingstmontag,EN Pentecost Monday
+5ec6bb1a-ff0e-4d20-88f0-f49161bdd80f;FR;2024-07-14;;Public;FR Fête nationale,DE Nationalfeiertag,EN National Day
+d405ef27-7ac3-4549-91c9-edc7ce325482;FR;2024-08-15;;Public;FR Assomption,DE Mariä Himmelfahrt, EN Assumption Day
+1680bb68-6c6d-4239-b4da-e5f18657e020;FR;2024-11-01;;Public;FR Toussaint,DE Allerheiligen,EN All Saints Day
+278733c2-e776-49b5-8a3a-33e8668a2a6f;FR;2024-11-11;;Public;FR Armistice 1918,DE Waffenstillstand 1918,EN Armistice Day
+52a102c3-d3fd-469d-91b9-71c680b178d4;FR;2024-12-25;;Public;FR Noël,DE Weihnachtstag,EN Christmas Day
+3d6af0ec-7c20-42ab-a0cd-4404c069a1c6;FR;2025-01-01;;Public;FR Jour de l'an,DE Neujahrstag,EN New Year's Day
+f5575292-d03a-48d6-95a4-e17ef9e31950;FR;2025-04-21;;Public;FR Lundi de Pâques,DE Ostermontag,EN Easter Monday
+48043275-4043-4bf3-9510-6f313e96118c;FR;2025-05-01;;Public;FR Fête du Travail,DE Tag der Arbeit,EN Labour Day
+c8ad9b73-ba89-4025-b4c7-55ff644a1dd5;FR;2025-05-08;;Public;FR Victoire 1945,DE Tag des Sieges 1945,EN Victory Day
+65c2ea36-ed05-4743-a35d-1c9598b5b6fd;FR;2025-05-29;;Public;FR Ascension,DE Himmelfahrt,EN Ascension Day
+40ffc560-e02e-498f-946b-45a0af904619;FR;2025-06-09;;Public;FR Lundi de Pentecôte,DE Pfingstmontag,EN Pentecost Monday
+bad3a91b-d075-4ed0-9e53-aa6e8b5439de;FR;2025-07-14;;Public;FR Fête nationale,DE Nationalfeiertag,EN National Day
+cd5f2e29-8a47-476b-ad32-53260ff79698;FR;2025-08-15;;Public;FR Assomption,DE Mariä Himmelfahrt, EN Assumption Day
+9f0f48b1-79cd-4ac9-a66f-99121bdf9e35;FR;2025-11-01;;Public;FR Toussaint,DE Allerheiligen,EN All Saints Day
+c899f9d3-45f4-4463-8dce-247081f02fe3;FR;2025-11-11;;Public;FR Armistice 1918,DE Waffenstillstand 1918,EN Armistice Day
+6333278b-6a85-45c4-9e63-c7442cd273c1;FR;2025-12-25;;Public;FR Noël,DE Weihnachtstag,EN Christmas Day
+404bff19-7158-41ae-bbab-bcebe58394fe;FR;2026-01-01;;Public;FR Jour de l'an,DE Neujahrstag,EN New Year's Day
+ebe2aaf5-cdb4-4d96-ba43-9f100da69eda;FR;2026-04-06;;Public;FR Lundi de Pâques,DE Ostermontag,EN Easter Monday
+fc010d41-f92e-46c8-a1ff-dd15c7d41c51;FR;2026-05-25;;Public;FR Fête du Travail,DE Tag der Arbeit,EN Labour Day
+10584455-8720-452a-ad5f-76b1a1d15d71;FR;2026-05-08;;Public;FR Victoire 1945,DE Tag des Sieges 1945,EN Victory Day
+bbe1977e-5f60-41f7-9c99-9527a9283cb6;FR;2026-05-14;;Public;FR Ascension,DE Himmelfahrt,EN Ascension Day
+3e9b1361-ebd9-4e4a-8542-862f533415cd;FR;2026-05-25;;Public;FR Lundi de Pentecôte,DE Pfingstmontag,EN Pentecost Monday
+3f4b1afa-67be-4c07-8203-21e03013584d;FR;2026-07-14;;Public;FR Fête nationale,DE Nationalfeiertag,EN National Day
+108706fb-87fc-47db-b187-44f324c30106;FR;2026-08-15;;Public;FR Assomption,DE Mariä Himmelfahrt, EN Assumption Day
+4671b54a-31a7-4f37-a77c-6ce7eae1aa5c;FR;2026-11-01;;Public;FR Toussaint,DE Allerheiligen,EN All Saints Day
+93a82153-d7ba-4be1-818f-a97996aa27ef;FR;2026-11-11;;Public;FR Armistice 1918,DE Waffenstillstand 1918,EN Armistice Day
+8fa33274-271d-4f62-a3bc-bcf991245bb3;FR;2026-12-25;;Public;FR Noël,DE Weihnachtstag,EN Christmas Day

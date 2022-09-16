@@ -1,0 +1,35 @@
+﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+7b09e453-ec84-4787-a388-03caa148003b;DE;2020-02-10;2020-02-14;School;DE Winterferien,EN Winter Holidays;TH
+2493a2f7-7ad6-488c-bada-eda17231b311;DE;2020-04-06;2020-04-18;School;DE Osterferien,EN Easter Holidays;TH
+202492d2-139e-45b4-9e2b-98a507a84bf6;DE;2020-05-22;;School;DE Schulfreier Tag,EN Day off from school;TH
+428afa4e-f302-4eff-ba72-e882a7288ae0;DE;2020-07-20;2020-08-29;School;DE Sommerferien,EN Summer Holidays;TH
+52360344-575d-4d38-a574-4209e8b8ae30;DE;2020-10-17;2020-10-30;School;DE Herbstferien,EN Autumn Holidays;TH
+c30463ce-bf13-4adb-a435-fbb782b4bb02;DE;2020-12-23;2021-01-02;School;DE Weihnachtsferien,EN Christmas Holidays;TH
+27fa0208-e732-4bae-b4de-eab872448981;DE;2021-01-25;2021-01-30;School;DE Winterferien,EN Winter Holidays;TH
+39591d00-c323-472c-8968-10178e77171e;DE;2021-03-29;2021-04-10;School;DE Osterferien,EN Easter Holidays;TH
+818ccf41-54ff-4d0f-baae-ce1831fb6b63;DE;2021-05-14;;School;DE Schulfreier Tag,EN Day off from school;TH
+fdbb59ae-25a6-4ed2-8c85-feff4efa2e0f;DE;2021-07-26;2021-09-04;School;DE Sommerferien,EN Summer Holidays;TH
+aae9f13e-3616-467f-a67b-c4b7f2cd404f;DE;2021-10-25;2021-11-06;School;DE Herbstferien,EN Autumn Holidays;TH
+3c04775b-761f-4e09-b0dc-4ec935f8313e;DE;2021-12-23;2022-12-31;School;DE Weihnachtsferien,EN Christmas Holidays;TH
+65b500f5-a8b5-4817-8d68-75bd33044a3c;DE;2022-02-12;2022-02-19;School;DE Winterferien,EN Winter Holidays;TH
+08b5a3f2-6d29-4856-ad25-4fe8b4022970;DE;2022-04-11;2022-04-23;School;DE Osterferien,EN Easter Holidays;TH
+73b7c1e9-7ca9-40fc-9df5-48fc9fecac9a;DE;2022-05-27;;School;DE Schulfreier Tag,EN Day off from school;TH
+8ae86e02-5cf2-489d-bfef-9c627464f296;DE;2022-07-18;2022-08-27;School;DE Sommerferien,EN Summer Holidays;TH
+37898ddd-63df-48d9-995e-85c55c324b66;DE;2022-10-17;2022-10-29;School;DE Herbstferien,EN Autumn Holidays;TH
+01007b2a-7800-4e62-965c-f7de21401c19;DE;2022-12-22;2023-01-03;School;DE Weihnachtsferien,EN Christmas Holidays;TH
+d3bfa2ac-e02b-4e02-90bb-ac78a677d2f1;DE;2023-02-13;2023-02-17;School;DE Winterferien,EN Winter Holidays;TH
+02a2d315-5ab6-450f-87bd-6f19ebe6e14d;DE;2023-04-03;2023-04-15;School;DE Osterferien,EN Easter Holidays;TH
+515e14e9-0063-43a7-9243-583ab60fceeb;DE;2023-05-19;;School;DE Schulfreier Tag,EN Day off from school;TH
+b1264660-b41f-4bd3-ae19-c1b72357fdeb;DE;2023-07-10;2023-08-19;School;DE Sommerferien,EN Summer Holidays;TH
+5bf5a0d0-6adf-42eb-9ba4-e348319ed332;DE;2023-10-02;2023-10-14;School;DE Herbstferien,EN Autumn Holidays;TH
+85aeb260-9f1c-4e7c-b3bf-e01a7b0cdd1d;DE;2023-12-22;2024-01-05;School;DE Weihnachtsferien,EN Christmas Holidays;TH
+e13dffe2-6ad5-4eab-8452-3749f1d7eb31;DE;2024-02-12;2024-02-16;School;DE Winterferien,EN Winter Holidays;TH
+f03f9de5-d608-4492-82d0-256bed5b7c11;DE;2024-03-25;2024-04-06;School;DE Osterferien,EN Easter Holidays;TH
+839dc642-0efd-4ad5-94ef-cc00b3a0eaca;DE;2024-05-10;;School;DE Schulfreier Tag,EN Day off from school;TH
+aa9f4dcb-d980-46b9-b407-9efc4e310a21;DE;2024-06-20;2024-07-31;School;DE Sommerferien,EN Summer Holidays;TH
+d8d43024-79c5-4d2f-aa0f-fffd4bace674;DE;2025-06-28;2025-08-08;School;DE Sommerferien,EN Summer Holidays;TH
+e7af8bb3-f4c3-4622-9959-2dd12485e9af;DE;2026-07-04;2026-08-14;School;DE Sommerferien,EN Summer Holidays;TH
+61821830-291b-457c-85b3-d723f57ed48f;DE;2027-07-10;2027-08-20;School;DE Sommerferien,EN Summer Holidays;TH
+703232ec-1628-46ed-a11a-6065052e967a;DE;2028-07-22;2028-09-01;School;DE Sommerferien,EN Summer Holidays;TH
+54c0c7fe-edb0-46a0-862d-a0b094989b7c;DE;2029-07-21;2029-08-31;School;DE Sommerferien,EN Summer Holidays;TH
+8cb5e3fc-a27c-4383-8fdd-9ae4a89b4c77;DE;2030-07-13;2030-08-23;School;DE Sommerferien,EN Summer Holidays;TH

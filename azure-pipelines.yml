@@ -1,0 +1,34 @@
+pool:
+  vmImage: 'windows-2022'
+    
+variables:
+- group: 'github-config'
+
+steps:
+- task: ArchiveFiles@2
+  displayName: 'Create Zip archive'
+  inputs:
+    rootFolderOrFile: 'src'
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/OpenHolidaysApi.Data.zip'
+    replaceExistingArchive: true
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish build artifacts'
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
+- task: PowerShell@2
+  displayName: 'Push to GitHub'
+  condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/main'))
+  inputs:
+    targetType: 'inline'
+    script: |
+      git remote add github https://$(PAT)@github.com/openpotato/openholidaysapi.data.git
+      git fetch github
+      git checkout .
+      git push github HEAD:main
+      git push --tags github HEAD:main
+    pwsh: true
+    
