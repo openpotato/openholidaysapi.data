@@ -9,7 +9,7 @@ c156ae07-bb1f-444f-a4ea-694bc571e1ef;DE;2020-05-01;;Public;DE Tag der Arbeit,EN 
 ce9331bc-bb3d-415f-9e15-f2d364ec00f0;DE;2020-05-08;;Public;DE Tag der Befreiung,EN Liberation Day;BE
 50d3e2e7-20d9-4852-b072-dd733d4cb18c;DE;2020-05-21;;Public;DE Christi Himmelfahrt,EN Ascension Day;
 fed605b2-39ac-46bc-87be-c42410ee2446;DE;2020-05-31;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
-30bc6858-7e7d-4a0f-9bc0-de506b7a4397;DE;2020-06-01;;Public;DE Pfingstsonntag,EN Pentecost Monday;
+30bc6858-7e7d-4a0f-9bc0-de506b7a4397;DE;2020-06-01;;Public;DE Pfingstmontag,EN Pentecost Monday;
 4916a671-f043-4d59-a7a7-dee06b3ba356;DE;2020-06-11;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
 1ed054a5-9e02-4a5a-8941-43788ceccb63;DE;2020-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 852e6da0-7b71-415b-a36f-a12ec5551f57;DE;2020-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
@@ -28,7 +28,7 @@ c3c4e15f-e9f4-4834-b0e5-769f9e663669;DE;2021-04-05;;Public;DE Ostermontag,EN Eas
 0316ac75-d320-4110-985f-ef883416b378;DE;2021-05-01;;Public;DE Tag der Arbeit,EN Labour Day;
 f769b001-8d0b-4e41-9a16-fb446a6bcc64;DE;2021-05-13;;Public;DE Christi Himmelfahrt,EN Ascension Day;
 319c34c9-5227-48c0-aa55-baff26a602fc;DE;2021-05-23;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
-c5495db1-32f7-47f6-8bc6-b2eee461af58;DE;2021-05-24;;Public;DE Pfingstsonntag,EN Pentecost Monday;
+c5495db1-32f7-47f6-8bc6-b2eee461af58;DE;2021-05-24;;Public;DE Pfingstmontag,EN Pentecost Monday;
 0bec62b8-79d8-4fb8-b7d6-e495d8bdecd0;DE;2021-06-03;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
 e4ab47f2-6630-4728-a65e-2ac590d42491;DE;2021-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 112ce485-d9e7-45f8-a866-dfe172e2e3ba;DE;2021-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
@@ -46,7 +46,7 @@ ff3b77a3-8c31-47af-b1c7-f26dd51f3c19;DE;2022-01-01;;Public;DE Neujahr,EN New Yea
 04857023-b572-4ff7-b412-a2a068f3a387;DE;2022-04-18;;Public;DE Ostermontag,EN Easter Monday;
 c4f18911-57b7-4854-9ce3-bab66b024c04;DE;2022-05-01;;Public;DE Tag der Arbeit,EN Labour Day;
 03364f5d-c1bc-4727-8786-0257f7df8f73;DE;2022-05-05;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
-ce336268-1932-498a-b56b-04191abe18fb;DE;2022-05-06;;Public;DE Pfingstsonntag,EN Pentecost Monday;
+ce336268-1932-498a-b56b-04191abe18fb;DE;2022-05-06;;Public;DE Pfingstmontag,EN Pentecost Monday;
 40ace374-45e8-4b9f-aa22-3891eeb5451c;DE;2022-05-26;;Public;DE Christi Himmelfahrt,EN Ascension Day;
 fba46f24-170b-4c9a-8d0d-8b0f1c16d510;DE;2022-06-16;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
 54dd812d-4b01-4e38-a6de-9fccdb77130e;DE;2022-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
@@ -66,7 +66,7 @@ b921a500-5e7e-42b6-9348-885f3157ed4c;DE;2023-04-07;;Public;DE Karfreitag,EN Good
 1e25e6a2-85fe-46dd-9fab-9388df4a445c;DE;2023-05-01;;Public;DE Tag der Arbeit,EN Labour Day;
 c18498e4-d3a7-4e27-8ea3-18e396c2d785;DE;2023-05-18;;Public;DE Christi Himmelfahrt,EN Ascension Day;
 31c384f2-709c-4c55-8af4-f550b8e1006b;DE;2023-05-28;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
-9730d923-2686-4d44-8fa5-b4c46a1937f8;DE;2023-05-29;;Public;DE Pfingstsonntag,EN Pentecost Monday;
+9730d923-2686-4d44-8fa5-b4c46a1937f8;DE;2023-05-29;;Public;DE Pfingstmontag,EN Pentecost Monday;
 86ee67fc-a51f-4f7b-a0c6-f6e9e11eb0ed;DE;2023-06-08;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
 07617cd9-9dcf-459b-b30d-ac612ae42cd9;DE;2023-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 dc8830b1-0d82-45ad-911f-5781056ed994;DE;2023-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
@@ -85,7 +85,7 @@ bd4e0c06-a2c5-4d2a-aa92-1fb7c59025e2;DE;2024-04-01;;Public;DE Ostermontag,EN Eas
 d849751c-921e-4be1-8b30-117a610c126c;DE;2024-05-01;;Public;DE Tag der Arbeit,EN Labour Day;
 440aae4c-0d2b-45a4-9480-ae91b106c002;DE;2024-05-09;;Public;DE Christi Himmelfahrt,EN Ascension Day;
 989514bb-91bf-40e6-80bc-b14c18f25654;DE;2024-05-19;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
-2407e8d2-b6bc-4d5f-b19a-52d4eba5e498;DE;2024-05-20;;Public;DE Pfingstsonntag,EN Pentecost Monday;
+2407e8d2-b6bc-4d5f-b19a-52d4eba5e498;DE;2024-05-20;;Public;DE Pfingstmontag,EN Pentecost Monday;
 3931407a-d2f7-4a89-966c-a94781f4a649;DE;2024-05-30;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
 a0ce548d-6447-4802-948a-1c4897938626;DE;2024-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 14e793ec-208d-4646-8513-8493c0c70668;DE;2024-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
@@ -104,7 +104,7 @@ c7aef0d5-f292-4d08-b878-a25a6c05fc12;DE;2025-04-18;;Public;DE Karfreitag,EN Good
 5db64014-1aaf-46f0-be83-d8baa826cfef;DE;2025-05-01;;Public;DE Tag der Arbeit,EN Labour Day;
 9fbbb949-8b22-4916-a16c-0a799a2dd79f;DE;2025-05-29;;Public;DE Christi Himmelfahrt,EN Ascension Day;
 edfb560a-d5c6-493f-b1c1-06f2936347e7;DE;2025-06-08;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
-b52574c0-0e5d-44ff-ac6b-4e3c6d71f1d7;DE;2025-06-09;;Public;DE Pfingstsonntag,EN Pentecost Monday;
+b52574c0-0e5d-44ff-ac6b-4e3c6d71f1d7;DE;2025-06-09;;Public;DE Pfingstmontag,EN Pentecost Monday;
 2590b1ad-4268-4cac-a11a-5192791d0c0d;DE;2025-06-19;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
 e09a9106-86e9-4eeb-9c84-5d257b4f9488;DE;2025-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 7d63faa9-5577-4527-a192-edf54e28cd1a;DE;2025-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
@@ -123,7 +123,7 @@ ba2b9c3a-e65d-4570-a66e-16452dd0eaaa;DE;2026-04-05;;Public;DE Ostersonntag,EN Ea
 6f661249-94cb-4a54-a063-20dde86ebde6;DE;2026-05-01;;Public;DE Tag der Arbeit,EN Labour Day;
 0905ed2a-46a7-4731-87e2-a8c53c42b0e2;DE;2026-05-14;;Public;DE Christi Himmelfahrt,EN Ascension Day;
 928ff571-f39a-47a4-b646-41caabd12852;DE;2026-05-24;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
-ce6dcd62-b512-4075-be98-73ffc3dee4db;DE;2026-05-25;;Public;DE Pfingstsonntag,EN Pentecost Monday;
+ce6dcd62-b512-4075-be98-73ffc3dee4db;DE;2026-05-25;;Public;DE Pfingstmontag,EN Pentecost Monday;
 4030dfd3-7e29-4334-b637-42a9097be309;DE;2026-06-04;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
 31eed1b5-9a4f-4e22-8e6d-2687d42dfed7;DE;2026-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 ef36e90a-c391-4a8f-a927-8f6517506484;DE;2026-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
