@@ -1,26 +1,26 @@
 ﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
-28c349bf-630a-4352-892a-d0b08871d291;CH;2020-01-25;2020-02-02;School;DE Sport,FR Sport,EN Sport;TG;
-76a3d082-44b9-4bcc-ab96-1e71dfa5705d;CH;2020-03-28;2020-04-13;School;DE Frühling,FR Printemps,EN Spring;TG;
-a9ec9622-5168-4e63-becd-00118737dfd6;CH;2020-07-04;2020-08-09;School;DE Sommer,FR Été,EN Summer;TG;
-d1642149-8d3e-4fe3-befc-07602045918e;CH;2020-10-03;2020-10-18;School;DE Herbst,FR Automne,EN Autumn;TG;
-d2c109b3-8694-4d74-8542-24be8087c34a;CH;2020-12-19;2021-01-03;School;DE Winter,FR Noël,EN Christmas;TG;
-29da597a-a3ee-499b-85f1-6b26d9060164;CH;2021-01-30;2021-02-07;School;DE Sport,FR Sport,EN Sport;TG;
-48d69cd3-4ad0-46d3-a433-520b35ae266c;CH;2021-04-02;2021-04-18;School;DE Frühling,FR Printemps,EN Spring;TG;
-e304bbed-c862-40c9-a332-eedb72ea8285;CH;2021-07-10;2021-08-15;School;DE Sommer,FR Été,EN Summer;TG;
-af2f8dc3-7c04-4102-b7e4-b124620d6baf;CH;2021-10-09;2021-10-24;School;DE Herbst,FR Automne,EN Autumn;TG;
-a1dc86b3-ce24-48df-92bb-5ce47321e172;CH;2021-12-18;2022-01-02;School;DE Winter,FR Noël,EN Christmas;TG;
-deefb887-b9c2-46f6-9745-5b1ff07b8c85;CH;2022-01-29;2022-02-06;School;DE Sport,FR Sport,EN Sport;TG;DE Volksschulen
-b1716497-0b06-4d42-a13a-5a364e0c9baa;CH;2022-04-02;2022-04-18;School;DE Frühling,FR Printemps,EN Spring;TG;DE Volksschulen
-23a9f87a-7d7a-441e-9963-3a836aeeb2ea;CH;2022-07-09;2022-08-14;School;DE Sommer,FR Été,EN Summer;TG;DE Volksschulen
-a3d113f3-ccf8-4db8-b446-0dc9bda2416e;CH;2022-10-08;2022-10-23;School;DE Herbst,FR Automne,EN Autumn;TG;DE Volksschulen
-b5fb3b82-1d6c-441b-853e-fbe8ba3e8ea7;CH;2022-12-24;2023-01-08;School;DE Winter,FR Noël,EN Christmas;TG;DE Volksschulen
-89b85066-220f-41e9-b1c8-a480e9569492;CH;2023-01-28;2023-02-05;School;DE Sport,FR Sport,EN Sport;TG;DE Volksschulen
-49fc683f-a352-42f8-9186-b597b7c30f94;CH;2023-03-25;2023-04-10;School;DE Frühling,FR Printemps,EN Spring;TG;DE Volksschulen
-4c31fedc-5601-430b-81e5-2689ef17df8e;CH;2023-07-08;2023-08-13;School;DE Sommer,FR Été,EN Summer;TG;DE Volksschulen
-0ebd8baa-958d-4c76-b5c7-2cf4bb410b81;CH;2023-10-07;2023-10-22;School;DE Herbst,FR Automne,EN Autumn;TG;DE Volksschulen
-77540805-d399-4715-8f2d-22c425772d41;CH;2023-12-23;2024-01-07;School;DE Winter,FR Noël,EN Christmas;TG;DE Volksschulen
-2f38236f-3188-4ef9-bd01-947631412282;CH;2024-01-27;2024-02-04;School;DE Sport,FR Sport,EN Sport;TG;DE Volksschulen
-6deecab4-8bd1-485f-947b-0642c7a0a1ab;CH;2024-03-29;2024-04-14;School;DE Frühling,FR Printemps,EN Spring;TG;DE Volksschulen
-6fec3c00-6314-4b7a-b50b-dc9c0d599255;CH;2024-07-06;2024-08-11;School;DE Sommer,FR Été,EN Summer;TG;DE Volksschulen
-402202d8-136f-45c8-a1a0-310365dfae2d;CH;2024-10-05;2024-10-20;School;DE Herbst,FR Automne,EN Autumn;TG;DE Volksschulen	
-ffcdc7ae-45fa-4f8d-ac0d-bd3290bcd151;CH;2024-12-21;2025-01-05;School;DE Winter,FR Noël,EN Christmas;TG;DE Volksschulen
+28c349bf-630a-4352-892a-d0b08871d291;CH;2020-01-25;2020-02-02;School;DE Sport,FR Sport,IT Sport,EN Sport;TG;
+76a3d082-44b9-4bcc-ab96-1e71dfa5705d;CH;2020-03-28;2020-04-13;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;TG;
+a9ec9622-5168-4e63-becd-00118737dfd6;CH;2020-07-04;2020-08-09;School;DE Sommer,FR Été,IT Estate,EN Summer;TG;
+d1642149-8d3e-4fe3-befc-07602045918e;CH;2020-10-03;2020-10-18;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;TG;
+d2c109b3-8694-4d74-8542-24be8087c34a;CH;2020-12-19;2021-01-03;School;DE Winter,FR Noël,IT Inverno,EN Christmas;TG;
+29da597a-a3ee-499b-85f1-6b26d9060164;CH;2021-01-30;2021-02-07;School;DE Sport,FR Sport,IT Sport,EN Sport;TG;
+48d69cd3-4ad0-46d3-a433-520b35ae266c;CH;2021-04-02;2021-04-18;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;TG;
+e304bbed-c862-40c9-a332-eedb72ea8285;CH;2021-07-10;2021-08-15;School;DE Sommer,FR Été,IT Estate,EN Summer;TG;
+af2f8dc3-7c04-4102-b7e4-b124620d6baf;CH;2021-10-09;2021-10-24;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;TG;
+a1dc86b3-ce24-48df-92bb-5ce47321e172;CH;2021-12-18;2022-01-02;School;DE Winter,FR Noël,IT Inverno,EN Christmas;TG;
+deefb887-b9c2-46f6-9745-5b1ff07b8c85;CH;2022-01-29;2022-02-06;School;DE Sport,FR Sport,IT Sport,EN Sport;TG;DE Volksschulen
+b1716497-0b06-4d42-a13a-5a364e0c9baa;CH;2022-04-02;2022-04-18;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;TG;DE Volksschulen
+23a9f87a-7d7a-441e-9963-3a836aeeb2ea;CH;2022-07-09;2022-08-14;School;DE Sommer,FR Été,IT Estate,EN Summer;TG;DE Volksschulen
+a3d113f3-ccf8-4db8-b446-0dc9bda2416e;CH;2022-10-08;2022-10-23;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;TG;DE Volksschulen
+b5fb3b82-1d6c-441b-853e-fbe8ba3e8ea7;CH;2022-12-24;2023-01-08;School;DE Winter,FR Noël,IT Inverno,EN Christmas;TG;DE Volksschulen
+89b85066-220f-41e9-b1c8-a480e9569492;CH;2023-01-28;2023-02-05;School;DE Sport,FR Sport,IT Sport,EN Sport;TG;DE Volksschulen
+49fc683f-a352-42f8-9186-b597b7c30f94;CH;2023-03-25;2023-04-10;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;TG;DE Volksschulen
+4c31fedc-5601-430b-81e5-2689ef17df8e;CH;2023-07-08;2023-08-13;School;DE Sommer,FR Été,IT Estate,EN Summer;TG;DE Volksschulen
+0ebd8baa-958d-4c76-b5c7-2cf4bb410b81;CH;2023-10-07;2023-10-22;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;TG;DE Volksschulen
+77540805-d399-4715-8f2d-22c425772d41;CH;2023-12-23;2024-01-07;School;DE Winter,FR Noël,IT Inverno,EN Christmas;TG;DE Volksschulen
+2f38236f-3188-4ef9-bd01-947631412282;CH;2024-01-27;2024-02-04;School;DE Sport,FR Sport,IT Sport,EN Sport;TG;DE Volksschulen
+6deecab4-8bd1-485f-947b-0642c7a0a1ab;CH;2024-03-29;2024-04-14;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;TG;DE Volksschulen
+6fec3c00-6314-4b7a-b50b-dc9c0d599255;CH;2024-07-06;2024-08-11;School;DE Sommer,FR Été,IT Estate,EN Summer;TG;DE Volksschulen
+402202d8-136f-45c8-a1a0-310365dfae2d;CH;2024-10-05;2024-10-20;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;TG;DE Volksschulen	
+ffcdc7ae-45fa-4f8d-ac0d-bd3290bcd151;CH;2024-12-21;2025-01-05;School;DE Winter,FR Noël,IT Inverno,EN Christmas;TG;DE Volksschulen
