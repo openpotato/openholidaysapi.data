@@ -6,6 +6,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Austria (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)
++ Netherlands (public holidays and school holidays from 2020)
 + Luxembourg (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2020)
 
@@ -140,6 +141,9 @@ School holidays:
 + [Calendrier scolaire 2020-2021](https://www.education.gouv.fr/media/51786/download)
 + [Calendrier scolaire 2021-2022](https://www.education.gouv.fr/media/74054/download)
 + [Calendrier scolaire 2022-2023](https://www.education.gouv.fr/media/91418/download)
++ [Calendrier scolaire 2023-2024](https://www.education.gouv.fr/media/119692/download)
++ [Calendrier scolaire 2024-2025](https://www.education.gouv.fr/media/119767/download)
++ [Calendrier scolaire 2025-2026](https://www.education.gouv.fr/media/119770/download)
 
 ### Europe
 
