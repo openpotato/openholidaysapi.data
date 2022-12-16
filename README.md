@@ -38,6 +38,12 @@ School holidays:
 + [Flemish Community | Schoolvakanties](https://onderwijs.vlaanderen.be/nl/schoolvakanties)
 + [German-speaking Community | Schulkalender und Ferienregelung](https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2212/)
 
+### Estonia
+
+Public and school holidays:
+
++ [eesti.ee | National, public and school holidays](https://www.eesti.ee/en/republic-of-estonia/republic-of-estonia/national-public-and-school-holidays)
+
 ### France
 
 Public holidays:

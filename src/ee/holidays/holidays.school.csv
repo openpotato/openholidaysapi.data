@@ -1,0 +1,24 @@
+﻿Id;Country;StartDate;EndDate;Type;Names;Comments
+ea5c2f81-6cc2-456a-a4ba-f376d9d959b2;EE;2020-02-24;2020-03-01;School;EE talvepuhkus,DE Winterferien,EN Winter Holidays;
+c611e6fc-d113-4e9d-99a4-671390fa9139;EE;2020-04-20;2020-04-26;School;EE kevadpühad,DE Frühjahrsferien,EN Spring Holidays;
+88e8b542-5958-414f-b0be-493f3f3f344b;EE;2020-06-10;2020-08-31;School;EE suvepuhkus,DE Sommerferien,EN Summer Holidays;
+35107f16-03e2-4e59-9998-eca9e5773386;EE;2020-10-19;2020-10-25;School;EE sügispuhkus,DE Herbstferien,EN Autumn Holidays;
+537f4a64-7379-4fd7-bd1a-f5b7b935652c;EE;2020-12-23;2021-01-10;School;EE jõulupühad,DE Weihnachtsferien,EN Christmas Holidays;
+11344d4a-8ce5-4caa-b5da-1985722e582e;EE;2021-02-22;2021-02-28;School;EE talvepuhkus,DE Winterferien,EN Winter Holidays;
+0d1b7e69-e62f-4366-9847-a35ab8e7d6e6;EE;2021-04-19;2021-04-25;School;EE kevadpühad,DE Frühjahrsferien,EN Spring Holidays;
+145a95e6-473a-45fa-b350-74863fedc0da;EE;2021-06-14;2021-08-31;School;EE suvepuhkus,DE Sommerferien,EN Summer Holidays;
+f165c797-7221-4e7c-b6a9-aa41680d1978;EE;2021-10-25;2021-10-31;School;EE sügispuhkus,DE Herbstferien,EN Autumn Holidays;
+7b1a387c-9b2d-4c23-a9b3-67ee39375c74;EE;2021-12-23;2022-01-09;School;EE jõulupühad,DE Weihnachtsferien,EN Christmas Holidays;
+fc828e8c-a7ee-4066-8262-6ecc942ae9f0;EE;2022-02-28;2022-03-06;School;EE talvepuhkus,DE Winterferien,EN Winter Holidays;
+43b2ceb6-47fc-4720-ba22-515159922359;EE;2022-04-25;2022-05-01;School;EE kevadpühad,DE Frühjahrsferien,EN Spring Holidays;
+52aa29d8-f858-4de7-a10c-7fd1f038edc6;EE;2022-06-14;2022-08-31;School;EE suvepuhkus,DE Sommerferien,EN Summer Holidays;
+3c23135c-fed0-44c5-af69-e809fb888e4a;EE;2022-10-24;2022-10-30;School;EE sügispuhkus,DE Herbstferien,EN Autumn Holidays;
+6d3af6b6-af4d-4a8f-9224-67aa21a3187b;EE;2022-12-22;2023-01-08;School;EE jõulupühad,DE Weihnachtsferien,EN Christmas Holidays;
+f6eae29d-ac9d-41ba-bc55-147f27368b3f;EE;2023-02-27;2023-03-05;School;EE talvepuhkus,DE Winterferien,EN Winter Holidays;
+ff99c749-c1d3-452e-9b69-f04070048408;EE;2023-04-24;2023-04-30;School;EE kevadpühad,DE Frühjahrsferien,EN Spring Holidays;
+aeb88b82-ad85-4bdb-8eda-cf94371aeebf;EE;2023-06-14;2023-08-31;School;EE suvepuhkus,DE Sommerferien,EN Summer Holidays;
+df837942-c865-41bf-bd9c-3a2d6b225342;EE;2023-10-23;2023-10-29;School;EE sügispuhkus,DE Herbstferien,EN Autumn Holidays;
+77cb467c-6169-4854-bdab-895db02606c9;EE;2023-12-21;2024-01-07;School;EE jõulupühad,DE Weihnachtsferien,EN Christmas Holidays;
+179f947a-a845-4ebb-9de6-8a6893caf158;EE;2024-02-26;2024-03-03;School;EE talvepuhkus,DE Winterferien,EN Winter Holidays;
+676bacc5-414e-49a0-8631-77175e419941;EE;2024-04-22;2024-04-28;School;EE kevadpühad,DE Frühjahrsferien,EN Spring Holidays;
+22cc2a40-a032-42a1-b46c-1d22fe72fbad;EE;2024-06-13;2024-08-31;School;EE suvepuhkus,DE Sommerferien,EN Summer Holidays;
