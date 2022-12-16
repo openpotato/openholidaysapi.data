@@ -1,0 +1,24 @@
+﻿Id;Country;StartDate;EndDate;Type;Names;OUnits;Comments
+e632c1e4-87b8-40c1-b3ae-1f57ae86e9a6;BE;2020-02-24;2020-02-28;School;FR Congé de détente (Carnaval),NL Krokusvakantie,DE Karnevalsferien,EN Carnival Holidays;FR;
+76c72ab2-f45f-4f09-824b-a8b4f6731c87;BE;2020-04-06;2020-04-17;School;FR Vacances de printemps (Pâques),NL Paasvakantie,DE Frühjahrsferien,EN Spring Holidays;FR;
+03c13e8f-118e-493f-9771-225abd19a463;BE;2020-07-01;2020-08-31;School;FR Vacances d'été,NL Zomervakantie,DE Sommerferien,EN Summer Holidays;FR;
+e6c1331d-6aee-4a50-8a96-9fe58f599353;BE;2020-11-02;2020-11-06;School;FR Congé d'automne (Toussaint),NL Herfstvakantie,DE Allerheiligenferien,EN All Saints Holidays;FR;
+b6d31dd6-c038-49bb-a97d-70944c4ec88e;BE;2020-12-21;2021-01-01;School;FR Vacances d'hiver (Noël),NL Kerstvakantie,DE Winterferien,EN Winter Holidays;FR;
+86e5be4e-5a9b-448e-bec0-ef6040bd6801;BE;2021-02-15;2021-02-19;School;FR Congé de détente (Carnaval),NL Krokusvakantie,DE Karnevalsferien,EN Carnival Holidays;FR;
+80fd72bf-9a5f-4a4c-9e87-196e3c66c6bc;BE;2021-04-05;2021-04-16;School;FR Vacances de printemps (Pâques),NL Paasvakantie,DE Frühjahrsferien,EN Spring Holidays;FR;
+a213651f-8aee-4f0f-a505-bc5d6f07be7a;BE;2021-07-01;2021-08-31;School;FR Vacances d'été,NL Zomervakantie,DE Sommerferien,EN Summer Holidays;FR;
+1ac8936c-d74b-42bb-ab59-47bd2f3ae401;BE;2021-11-01;2021-11-05;School;FR Congé d'automne (Toussaint),NL Herfstvakantie,DE Allerheiligenferien,EN All Saints Holidays;FR;
+b7e11df5-579b-471b-bcf8-cd0dce7d26a1;BE;2021-12-27;2022-01-09;School;FR Vacances d'hiver (Noël),NL Kerstvakantie,DE Winterferien,EN Winter Holidays;FR;
+8c039672-d15f-49a4-81f4-ff180f9ffd34;BE;2022-02-28;2022-03-04;School;FR Congé de détente (Carnaval),NL Krokusvakantie,DE Karnevalsferien,EN Carnival Holidays;FR;
+43e3942c-d459-4b1f-ad2f-a41b3efe2041;BE;2022-04-04;2022-04-15;School;FR Vacances de printemps (Pâques),NL Paasvakantie,DE Frühjahrsferien,EN Spring Holidays;FR;
+f9a31448-a3f8-49d3-b46b-db200dc98f7a;BE;2022-07-01;2022-08-28;School;FR Vacances d'été,NL Zomervakantie,DE Sommerferien,EN Summer Holidays;FR;
+7a6be322-2c1c-4827-b69f-2ffb3098aeba;BE;2022-10-24;2022-11-04;School;FR Congé d'automne (Toussaint),NL Herfstvakantie,DE Allerheiligenferien,EN All Saints Holidays;FR;
+e6b7d59c-7d0e-455f-953b-9fdb4036385c;BE;2022-12-26;2023-01-06;School;FR Vacances d'hiver (Noël),NL Kerstvakantie,DE Winterferien,EN Winter Holidays;FR;
+0dae1086-6f1a-46e3-aa0b-cf1f9ab3e96b;BE;2023-02-20;2023-03-03;School;FR Congé de détente (Carnaval),NL Krokusvakantie,DE Karnevalsferien,EN Carnival Holidays;FR;
+d7a1cdb0-7717-4fc9-8199-ca1368cd51b9;BE;2023-05-01;2023-05-12;School;FR Vacances de printemps (Pâques),NL Paasvakantie,DE Frühjahrsferien,EN Spring Holidays;FR;
+e774eaa8-3de2-4d84-9690-4154e75a0e41;BE;2023-07-08;2023-08-27;School;FR Vacances d'été,NL Zomervakantie,DE Sommerferien,EN Summer Holidays;FR;
+2b4473eb-381d-418d-8bcb-cb14c2edf653;BE;2023-10-23;2023-11-03;School;FR Congé d'automne (Toussaint),NL Herfstvakantie,DE Allerheiligenferien,EN All Saints Holidays;FR;
+c2082a1a-0430-4728-8b1d-3b36cb23ee93;BE;2023-12-25;2024-01-05;School;FR Vacances d'hiver (Noël),NL Kerstvakantie,DE Winterferien,EN Winter Holidays;FR;
+4a04ab04-0eff-4578-a76d-be518a6b217a;BE;2024-02-26;2024-03-08;School;FR Congé de détente (Carnaval),NL Krokusvakantie,DE Karnevalsferien,EN Carnival Holidays;FR;
+3ae2036f-292a-4884-b2f5-90d010784f7b;BE;2024-04-29;2024-05-10;School;FR Vacances de printemps (Pâques),NL Paasvakantie,DE Frühjahrsferien,EN Spring Holidays;FR;
+4ed897cd-dd3c-4b7d-bed0-ccf75dc66715;BE;2024-07-06;;School;FR Début des vacances d'été,NL Begin van de zomervakantie,DE Beginn der Sommerferien,EN Start of Summer Holidays;FR;

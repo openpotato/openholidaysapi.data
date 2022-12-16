@@ -2,15 +2,58 @@
 
 This repo aggregates and stores freely accessible calendar data on the following countries:
 
-+ Germany (public holidays and school holidays from 2020)
 + Austria (public holidays and school holidays from 2020)
-+ Switzerland (public holidays and school holidays from 2020)
-+ Liechtenstein (public holidays and school holidays from 2020)
-+ Netherlands (public holidays and school holidays from 2020)
-+ Luxembourg (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2020)
++ Germany (public holidays and school holidays from 2020)
++ Liechtenstein (public holidays and school holidays from 2020)
++ Luxembourg (public holidays and school holidays from 2020)
++ Netherlands (public holidays and school holidays from 2020)
++ Switzerland (public holidays and school holidays from 2020)
 
 ## Sources
+
+### Austria
+
+Public holidays:
+
++ [Bundesministerium für Digitalisierung und Wirtschaftsstandort: Feiertagsruhegesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008168)
++ [Stadt Wien: Gesetzliche Feiertage in Österreich](https://www.wien.gv.at/amtshelfer/feiertage/)
+
+School holidays: 
+
++ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2019/2020](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_19_20.html)
++ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2020/2021](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_20_21.html)
++ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html)
++ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html)
+
+### Belgium
+
+Public holidays:
+
++ [Jours fériés nationaux en Belgique](https://www.belgium.be/fr/la_belgique/connaitre_le_pays/la_belgique_en_bref/jours_feries)
+
+School holidays:
+
++ [French Community | Calendrier Scolaire](http://www.enseignement.be/calendrierscolaire)
++ [Flemish Community | Schoolvakanties](https://onderwijs.vlaanderen.be/nl/schoolvakanties)
++ [German-speaking Community | Schulkalender und Ferienregelung](https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2212/)
+
+### France
+
+Public holidays:
+
++ [Service-Public.fr: Jours fériés dans la fonction publique](https://www.service-public.fr/particuliers/vosdroits/F24496)
+
+School holidays:
+
++ [Ministère de l'Education Nationale et de la Jeunesse: Calendrier scolaire](https://www.education.gouv.fr/calendrier-scolaire)
++ [Calendrier scolaire 2019-2020](https://www.education.gouv.fr/media/44402/download)
++ [Calendrier scolaire 2020-2021](https://www.education.gouv.fr/media/51786/download)
++ [Calendrier scolaire 2021-2022](https://www.education.gouv.fr/media/74054/download)
++ [Calendrier scolaire 2022-2023](https://www.education.gouv.fr/media/91418/download)
++ [Calendrier scolaire 2023-2024](https://www.education.gouv.fr/media/119692/download)
++ [Calendrier scolaire 2024-2025](https://www.education.gouv.fr/media/119767/download)
++ [Calendrier scolaire 2025-2026](https://www.education.gouv.fr/media/119770/download)
 
 ### Germany
 
@@ -34,7 +77,6 @@ Public holidays:
 + [Sachsen-Anhalt | Gesetz über die Sonn- und Feiertage (FeiertG LSA)](https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-FeiertGSTpP2)
 + [Thüringen | Thüringer Feier- und Gedenktagsgesetz (ThürFGtG)](https://landesrecht.thueringen.de/bsth/document/jlr-FeiertGTHV5P2)
 
-
 School holidays:
 
 + [Ständige Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland: Ferienregelung](https://www.kmk.org/service/ferien.html)
@@ -55,19 +97,43 @@ School holidays:
 + [Sachsen-Anhalt | Ministerium für Bildung: Ferienordnung (PDF)](https://mb.sachsen-anhalt.de/fileadmin/Bibliothek/Landesjournal/Bildung_und_Wissenschaft/Erlasse/Ferienordnung_bis_2024.pdf)
 + [Thüringen | Ministerium für Bildung, Jugend und Sport: Ferienregelung](https://bildung.thueringen.de/schule/schulwesen/ferien)
 
-### Austria
+
+### Netherlands
 
 Public holidays:
 
-+ [Bundesministerium für Digitalisierung und Wirtschaftsstandort: Feiertagsruhegesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008168)
-+ [Stadt Wien: Gesetzliche Feiertage in Österreich](https://www.wien.gv.at/amtshelfer/feiertage/)
++ [Rijksoverheid.nl: Wanneer zijn de officiële feestdagen in Nederland?](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/officiele-feestdagen)
 
-School holidays: 
+School holidays:
 
-+ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2019/2020](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_19_20.html)
-+ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2020/2021](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_20_21.html)
-+ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html)
-+ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2021-2022](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2021-2022)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2022-2023](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2022-2023)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
++ [Rijksoverheid.nl: Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
+
+
+### Liechtenstein
+
+Public holidays:
+
++ [Rechtsdienst der Regierung: Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
+
+School holidays:
+
++ [Schulamt Fürstentum Liechtenstein: Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
+
+### Luxembourg
+
+Public holidays:
+
++ [Luxembourg.lu: Gesetzliche Feiertage](https://luxembourg.public.lu/en/living/quality-of-life/jours-feries-legaux.html)
+
+School holidays:
+
++ [Guichet.lu: Schulferienkalender](https://guichet.public.lu/de/outils/calendrier-scolaire.html)
++ [Legilux: Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
++ [Legilux: Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
 
 ### Switzerland
 
@@ -92,60 +158,7 @@ School holidays:
 + [Wallis | Schul- und Ferienplan](https://www.vs.ch/de/web/se/plans-de-scolarite)
 + [Zug | Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
 
-### Liechtenstein
-
-Public holidays:
-
-+ [Rechtsdienst der Regierung: Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
-
-School holidays:
-
-+ [Schulamt Fürstentum Liechtenstein: Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
-
-### Netherlands
-
-Public holidays:
-
-+ [Rijksoverheid.nl: Wanneer zijn de officiële feestdagen in Nederland?](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/officiele-feestdagen)
-
-School holidays:
-
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2021-2022](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2021-2022)
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2022-2023](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2022-2023)
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
-+ [Rijksoverheid.nl: Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
-
-### Luxembourg
-
-Public holidays:
-
-+ [Luxembourg.lu: Gesetzliche Feiertage](https://luxembourg.public.lu/en/living/quality-of-life/jours-feries-legaux.html)
-
-School holidays:
-
-+ [Guichet.lu: Schulferienkalender](https://guichet.public.lu/de/outils/calendrier-scolaire.html)
-+ [Legilux: Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
-+ [Legilux: Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
-
-### France
-
-Public holidays:
-
-+ [Service-Public.fr: Jours fériés dans la fonction publique](https://www.service-public.fr/particuliers/vosdroits/F24496)
-
-School holidays:
-
-+ [Ministère de l'Education Nationale et de la Jeunesse: Calendrier scolaire](https://www.education.gouv.fr/calendrier-scolaire-100148)
-+ [Calendrier scolaire 2019-2020](https://www.education.gouv.fr/media/44402/download)
-+ [Calendrier scolaire 2020-2021](https://www.education.gouv.fr/media/51786/download)
-+ [Calendrier scolaire 2021-2022](https://www.education.gouv.fr/media/74054/download)
-+ [Calendrier scolaire 2022-2023](https://www.education.gouv.fr/media/91418/download)
-+ [Calendrier scolaire 2023-2024](https://www.education.gouv.fr/media/119692/download)
-+ [Calendrier scolaire 2024-2025](https://www.education.gouv.fr/media/119767/download)
-+ [Calendrier scolaire 2025-2026](https://www.education.gouv.fr/media/119770/download)
-
-### Europe
+## European Union
 
 Publications Office of the European Union:
 
@@ -157,3 +170,6 @@ Publications Office of the European Union:
 ## Can I help?
 
 Yes, that would be much appreciated. The best way to help is to post a response via the Issue Tracker and/or submit a Pull Request.
+
+
+

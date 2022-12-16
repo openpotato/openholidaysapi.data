@@ -1,0 +1,85 @@
+﻿Id;Country;StartDate;EndDate;Type;Names
+78465c35-9dbd-458b-bd38-ea8105d9d9d0;BE;2020-01-01;;Public;FR Jour de l'an,NL Nieuwjaarsdag,DE Neujahrstag,EN New Year's Day
+a5f2914b-a5d2-4883-a576-893a1f4e194d;BE;2020-04-12;;Public;FR Pâques,NL Pasen,DE Ostern,EN Easter
+b171e19e-24b4-4a06-9072-a8d2867a46f9;BE;2020-04-13;;Public;FR Lundi de Pâques,NL Paasmaandag,DE Ostermontag,EN Easter Monday
+53c077ec-4b89-4c7e-9122-4d0d386dda84;BE;2020-05-01;;Public;FR Fête du Travail,NL Dag van de Arbeid,DE Tag der Arbeit,EN Labour Day
+7b7802d7-7176-4145-929e-b83496da5a6b;BE;2020-05-21;;Public;FR Ascension,NL O.L.H. Hemelvaart,DE Christi Himmelfahrt,EN Ascension Day
+a5fe22f6-fa91-464b-845d-c4431a3eef24;BE;2020-05-31;;Public;FR Pentecôte,NL Pinksteren,DE Pfingsten,EN Pentecost
+f4039a1b-540b-42fb-8951-05d918f0c865;BE;2020-06-01;;Public;FR Lundi de Pentecôte,NL Pinkstermaandag,DE Pfingstmontag,EN Pentecost Monday
+98c46766-79a3-413b-8366-e64e32b697e6;BE;2020-07-21;;Public;FR Fête nationale,NL Nationale feestdag, DE Nationalfeiertag,EN National Day
+4ce82711-6790-4f7d-a3c9-fdef48fe2757;BE;2020-08-15;;Public;FR Assomption,NL O.L.V. Hemelvaart,DE Mariä Himmelfahrt, EN Assumption Day
+10887848-eafb-4106-8d1f-68d20eb477a6;BE;2020-11-01;;Public;FR Toussaint,NL Allerheiligen,DE Allerheiligen,EN All Saints Day
+64b8f5e0-76a8-4283-9a4d-02a8b58deb8d;BE;2020-11-11;;Public;FR Armistice de 1918,NL Wapenstilstand van 1918,DE Waffenstillstand,EN Armistice Day
+085f1c2c-1a6a-438c-afb7-23205dafb49d;BE;2020-12-25;;Public;FR Noël,NL Kerstmis,DE Weihnachten,EN Christmas Day
+dd0eca69-299b-40a8-b934-139a68a35330;BE;2021-01-01;;Public;FR Jour de l'an,NL Nieuwjaarsdag,DE Neujahrstag,EN New Year's Day
+05689c65-734d-400d-bfb8-08713109cfe3;BE;2021-04-04;;Public;FR Pâques,NL Pasen,DE Ostern,EN Easter
+06cf2264-4976-467c-b29c-3369a63b7b03;BE;2021-04-05;;Public;FR Lundi de Pâques,NL Paasmaandag,DE Ostermontag,EN Easter Monday
+ac9977af-a22e-43b2-a64a-ac05860ef29e;BE;2021-05-01;;Public;FR Fête du Travail,NL Dag van de Arbeid,DE Tag der Arbeit,EN Labour Day
+55183618-a396-4afa-88ba-6a1c52514cb2;BE;2021-05-13;;Public;FR Ascension,NL O.L.H. Hemelvaart,DE Christi Himmelfahrt,EN Ascension Day
+f7765a92-a05b-477c-9a7f-8cca7cd7aeb0;BE;2021-05-23;;Public;FR Pentecôte,NL Pinksteren,DE Pfingsten,EN Pentecost
+d33b72f3-3a7a-46cc-84d5-7c8769a81cc1;BE;2021-05-24;;Public;FR Lundi de Pentecôte,NL Pinkstermaandag,DE Pfingstmontag,EN Pentecost Monday
+8914b784-9206-4651-9f83-c1e6f18e761a;BE;2021-07-21;;Public;FR Fête nationale,NL Nationale feestdag, DE Nationalfeiertag,EN National Day
+3edbeb56-7527-4891-9ac7-84dda9884fac;BE;2021-08-15;;Public;FR Assomption,NL O.L.V. Hemelvaart,DE Mariä Himmelfahrt, EN Assumption Day
+2a00c7b6-9f52-4650-915f-82e4289001ff;BE;2021-11-01;;Public;FR Toussaint,NL Allerheiligen,DE Allerheiligen,EN All Saints Day
+82da511f-7b72-47dc-82ee-9754e506a490;BE;2021-11-11;;Public;FR Armistice de 1918,NL Wapenstilstand van 1918,DE Waffenstillstand,EN Armistice Day
+833b3227-64a3-470f-9512-7ec3506675e4;BE;2021-12-25;;Public;FR Noël,NL Kerstmis,DE Weihnachten,EN Christmas Day
+d92c2b46-e752-455d-9f7b-d6332b39bce6;BE;2022-01-01;;Public;FR Jour de l'an,NL Nieuwjaarsdag,DE Neujahrstag,EN New Year's Day
+908d2be5-e592-4479-9f92-19e2c1d22854;BE;2022-04-17;;Public;FR Pâques,NL Pasen,DE Ostern,EN Easter
+34b47e4e-b51f-4399-b92f-0fa12b9260e7;BE;2022-04-18;;Public;FR Lundi de Pâques,NL Paasmaandag,DE Ostermontag,EN Easter Monday
+98aa516f-47d5-4e9d-a370-7ce34b07076f;BE;2022-05-01;;Public;FR Fête du Travail,NL Dag van de Arbeid,DE Tag der Arbeit,EN Labour Day
+526c2211-6a71-414d-9a63-a2b5859bf943;BE;2022-05-26;;Public;FR Ascension,NL O.L.H. Hemelvaart,DE Christi Himmelfahrt,EN Ascension Day
+2a09f6bd-2fc6-46f4-aec8-c010d881ec5c;BE;2022-06-05;;Public;FR Pentecôte,NL Pinksteren,DE Pfingsten,EN Pentecost
+76c8aa9c-778f-4096-9f52-47c7ccbee128;BE;2022-06-06;;Public;FR Lundi de Pentecôte,NL Pinkstermaandag,DE Pfingstmontag,EN Pentecost Monday
+ebde0b4c-6df2-4344-88fc-0841948f161a;BE;2022-07-21;;Public;FR Fête nationale,NL Nationale feestdag, DE Nationalfeiertag,EN National Day
+3bb25711-a3e6-44f3-b12a-adc6460b2ea8;BE;2022-08-15;;Public;FR Assomption,NL O.L.V. Hemelvaart,DE Mariä Himmelfahrt, EN Assumption Day
+5dc5ec78-1767-4935-b996-4c114f8be4c8;BE;2022-11-01;;Public;FR Toussaint,NL Allerheiligen,DE Allerheiligen,EN All Saints Day
+7b7467c2-6f2d-43ea-9175-095ae60a1a2d;BE;2022-11-11;;Public;FR Armistice de 1918,NL Wapenstilstand van 1918,DE Waffenstillstand,EN Armistice Day
+e1d34f1d-bb63-4b6d-be64-f91ff705d0bd;BE;2022-12-25;;Public;FR Noël,NL Kerstmis,DE Weihnachten,EN Christmas Day
+3d3fdf44-4e12-4a22-8c2a-943293871031;BE;2023-01-01;;Public;FR Jour de l'an,NL Nieuwjaarsdag,DE Neujahrstag,EN New Year's Day
+cc4bbf3a-e9fb-4a07-a3a5-32ed1a992f4e;BE;2023-04-09;;Public;FR Pâques,NL Pasen,DE Ostern,EN Easter
+9d1a20b9-5ae8-4f45-9473-d59622e9327e;BE;2023-04-10;;Public;FR Lundi de Pâques,NL Paasmaandag,DE Ostermontag,EN Easter Monday
+f9bc61d2-2f79-4aab-a4a0-44d984e03a6b;BE;2023-05-01;;Public;FR Fête du Travail,NL Dag van de Arbeid,DE Tag der Arbeit,EN Labour Day
+34fe79fb-d513-42d0-8141-7bdf4e23a1ea;BE;2023-05-18;;Public;FR Ascension,NL O.L.H. Hemelvaart,DE Christi Himmelfahrt,EN Ascension Day
+427ebbbd-67f1-4b22-a7b6-2feb1f0d3935;BE;2023-05-28;;Public;FR Pentecôte,NL Pinksteren,DE Pfingsten,EN Pentecost
+b839037a-2587-4271-895f-56b356f0f73b;BE;2023-05-29;;Public;FR Lundi de Pentecôte,NL Pinkstermaandag,DE Pfingstmontag,EN Pentecost Monday
+0fd14f87-fe8f-45c8-a3b5-fa01145bfb2b;BE;2023-07-21;;Public;FR Fête nationale,NL Nationale feestdag, DE Nationalfeiertag,EN National Day
+4760c29d-01e1-4e04-9063-fe8d47ba4761;BE;2023-08-15;;Public;FR Assomption,NL O.L.V. Hemelvaart,DE Mariä Himmelfahrt, EN Assumption Day
+f0733c4b-b4a2-4d1b-bfca-60778732875f;BE;2023-11-01;;Public;FR Toussaint,NL Allerheiligen,DE Allerheiligen,EN All Saints Day
+5c4cd8de-08fa-4ec0-9461-9309e50d8c6d;BE;2023-11-11;;Public;FR Armistice de 1918,NL Wapenstilstand van 1918,DE Waffenstillstand,EN Armistice Day
+bc1f0bcb-4956-459b-920a-2eae2b2ae5d8;BE;2023-12-25;;Public;FR Noël,NL Kerstmis,DE Weihnachten,EN Christmas Day
+d3571b8a-8d12-42b7-9fd8-34ab6ba29af4;BE;2024-01-01;;Public;FR Jour de l'an,NL Nieuwjaarsdag,DE Neujahrstag,EN New Year's Day
+fc163490-cfaa-4dff-aada-a2dfffd80d40;BE;2024-03-31;;Public;FR Pâques,NL Pasen,DE Ostern,EN Easter
+a353d8d7-5927-4992-8553-d16589803c54;BE;2024-04-01;;Public;FR Lundi de Pâques,NL Paasmaandag,DE Ostermontag,EN Easter Monday
+f7f764d2-8291-4f8a-82c3-887891e58cf9;BE;2024-05-01;;Public;FR Fête du Travail,NL Dag van de Arbeid,DE Tag der Arbeit,EN Labour Day
+ff3b1823-3b95-4f3b-a5e3-80f4bbd270d0;BE;2024-05-09;;Public;FR Ascension,NL O.L.H. Hemelvaart,DE Christi Himmelfahrt,EN Ascension Day
+f7caeb89-3411-4c73-90fb-4e94948ab004;BE;2024-05-19;;Public;FR Pentecôte,NL Pinksteren,DE Pfingsten,EN Pentecost
+cdbcac62-e2b7-41f3-83e0-b0db65cb982e;BE;2024-05-20;;Public;FR Lundi de Pentecôte,NL Pinkstermaandag,DE Pfingstmontag,EN Pentecost Monday
+3e119382-f32d-40db-b432-8ed9bfa0f914;BE;2024-07-21;;Public;FR Fête nationale,NL Nationale feestdag, DE Nationalfeiertag,EN National Day
+84be67b7-5928-45bd-a9bb-617301ff6977;BE;2024-08-15;;Public;FR Assomption,NL O.L.V. Hemelvaart,DE Mariä Himmelfahrt, EN Assumption Day
+988e1912-aac4-4448-ba39-449626fc3efc;BE;2024-11-01;;Public;FR Toussaint,NL Allerheiligen,DE Allerheiligen,EN All Saints Day
+59e5de5f-ddb8-4c7d-bc48-b5c19f6d8c61;BE;2024-11-11;;Public;FR Armistice de 1918,NL Wapenstilstand van 1918,DE Waffenstillstand,EN Armistice Day
+0e4856e0-9bc8-4e2a-b1d5-9df666569fdf;BE;2024-12-25;;Public;FR Noël,NL Kerstmis,DE Weihnachten,EN Christmas Day
+ce86dab3-99dd-404b-b874-c572914bf7f8;BE;2025-01-01;;Public;FR Jour de l'an,NL Nieuwjaarsdag,DE Neujahrstag,EN New Year's Day
+a75afd22-8aed-49bd-9b55-04666d454fe0;BE;2025-04-20;;Public;FR Pâques,NL Pasen,DE Ostern,EN Easter
+bf2b1518-6be2-4b61-b387-bc5d72e3c2fe;BE;2025-04-21;;Public;FR Lundi de Pâques,NL Paasmaandag,DE Ostermontag,EN Easter Monday
+2dae2e0c-bf77-4b6d-9956-a88e400ac504;BE;2025-05-01;;Public;FR Fête du Travail,NL Dag van de Arbeid,DE Tag der Arbeit,EN Labour Day
+e2c5baff-1c75-4604-8413-b694a53459d8;BE;2025-05-29;;Public;FR Ascension,NL O.L.H. Hemelvaart,DE Christi Himmelfahrt,EN Ascension Day
+ae6f662f-ed24-461b-9617-fea2ff906d45;BE;2025-06-08;;Public;FR Pentecôte,NL Pinksteren,DE Pfingsten,EN Pentecost
+eab43344-466e-4e19-8886-3013bb77821a;BE;2025-06-09;;Public;FR Lundi de Pentecôte,NL Pinkstermaandag,DE Pfingstmontag,EN Pentecost Monday
+22bc516a-0b83-454a-9fb8-71f6799d1f8e;BE;2025-07-21;;Public;FR Fête nationale,NL Nationale feestdag, DE Nationalfeiertag,EN National Day
+6c1155ac-5e3b-4d82-9f91-93eb7fa2977f;BE;2025-08-15;;Public;FR Assomption,NL O.L.V. Hemelvaart,DE Mariä Himmelfahrt, EN Assumption Day
+78116c36-63ae-4320-a4cd-605cea760a59;BE;2025-11-01;;Public;FR Toussaint,NL Allerheiligen,DE Allerheiligen,EN All Saints Day
+adebe2b2-2a40-42b1-861f-f112e46f42b3;BE;2025-11-11;;Public;FR Armistice de 1918,NL Wapenstilstand van 1918,DE Waffenstillstand,EN Armistice Day
+cbb3e717-90bc-4df1-8b72-e86f370f1284;BE;2025-12-25;;Public;FR Noël,NL Kerstmis,DE Weihnachten,EN Christmas Day
+ed5688ab-e8f6-48e5-ba56-505962770355;BE;2026-01-01;;Public;FR Jour de l'an,NL Nieuwjaarsdag,DE Neujahrstag,EN New Year's Day
+54ce9b56-55bf-4a92-9134-c111bcbd1abf;BE;2026-04-05;;Public;FR Pâques,NL Pasen,DE Ostern,EN Easter
+63ef9e69-f2d3-4165-9bc4-6bcf5e32a6a0;BE;2026-04-06;;Public;FR Lundi de Pâques,NL Paasmaandag,DE Ostermontag,EN Easter Monday
+baa20ef3-b64a-417f-b42d-2cef313b2ef1;BE;2026-05-01;;Public;FR Fête du Travail,NL Dag van de Arbeid,DE Tag der Arbeit,EN Labour Day
+ce16ed86-4327-42ea-b165-9f787258934b;BE;2026-05-14;;Public;FR Ascension,NL O.L.H. Hemelvaart,DE Christi Himmelfahrt,EN Ascension Day
+48a27bde-b58d-4d42-bca5-7175db5dfe30;BE;2026-05-24;;Public;FR Pentecôte,NL Pinksteren,DE Pfingsten,EN Pentecost
+fbaf2bb4-46fb-4320-8cf4-30b63744382a;BE;2026-05-25;;Public;FR Lundi de Pentecôte,NL Pinkstermaandag,DE Pfingstmontag,EN Pentecost Monday
+f28f2051-d438-4a0f-952e-656bce7d984f;BE;2026-07-21;;Public;FR Fête nationale,NL Nationale feestdag, DE Nationalfeiertag,EN National Day
+a13dcc3e-2f9a-4752-af93-f2ba4715e8a5;BE;2026-08-15;;Public;FR Assomption,NL O.L.V. Hemelvaart,DE Mariä Himmelfahrt, EN Assumption Day
+0fad0035-6b77-404a-953d-c66dac014483;BE;2026-11-01;;Public;FR Toussaint,NL Allerheiligen,DE Allerheiligen,EN All Saints Day
+b1c5d2c0-edfb-4ec7-b81c-68b485497792;BE;2026-11-11;;Public;FR Armistice de 1918,NL Wapenstilstand van 1918,DE Waffenstillstand,EN Armistice Day
+d90e5f53-bc92-4860-bdae-f7e75935848d;BE;2026-12-25;;Public;FR Noël,NL Kerstmis,DE Weihnachten,EN Christmas Day
