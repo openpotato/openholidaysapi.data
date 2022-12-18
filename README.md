@@ -3,6 +3,8 @@
 This repo aggregates and stores freely accessible calendar data on the following countries:
 
 + Austria (public holidays and school holidays from 2020)
++ Belgium (public holidays and school holidays from 2020)
++ Estonia (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2020)
 + Germany (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)
@@ -103,7 +105,6 @@ School holidays:
 + [Sachsen-Anhalt | Ministerium für Bildung: Ferienordnung (PDF)](https://mb.sachsen-anhalt.de/fileadmin/Bibliothek/Landesjournal/Bildung_und_Wissenschaft/Erlasse/Ferienordnung_bis_2024.pdf)
 + [Thüringen | Ministerium für Bildung, Jugend und Sport: Ferienregelung](https://bildung.thueringen.de/schule/schulwesen/ferien)
 
-
 ### Netherlands
 
 Public holidays:
@@ -164,7 +165,7 @@ School holidays:
 + [Wallis | Schul- und Ferienplan](https://www.vs.ch/de/web/se/plans-de-scolarite)
 + [Zug | Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
 
-## European Union
+## Additional information
 
 Publications Office of the European Union:
 
