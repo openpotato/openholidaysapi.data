@@ -1,13 +1,13 @@
-﻿IsoCode;Names;OfficialName;OfficialLanguages
-AT;EN Austria,DE Österreich,FR Autriche (l');The Republic of Austria;DE
-BE;EN Belgium,DE Belgien,FR Belgique (la);The Kingdom of Belgium;NL,FR,DE
-CH;EN Switzerland,DE Schweiz,FR Suisse (la);The Swiss Confederation;DE,FR,IT,RM
-DE;EN Germany,DE Deutschland,FR Allemagne (l');The Federal Republic of Germany;DE
-EE;EN Estonia,DE Estland,FR Estonie (l');The Republic of Estonia;ET
-FR;EN France,DE Frankreich,FR France (la);The French Republic;FR
-LI;EN Liechtenstein,DE Liechtenstein,FR Liechtenstein (le);The Principality of Liechtenstein;DE
-LT;EN Lithuania,DE Litauen,FR Lituanie (la);The Republic of Lithuania;LT
-LU;EN Luxembourg,DE Luxemburg,FR Luxembourg (le);The Grand Duchy of Luxembourg;LB,FR,DE
-LV;EN Latvia,DE Lettland,FR Lettonie (la);The Republic of Latvia;LV
-NL;EN Netherlands (the),DE Niederlande,FR Pays-Bas (les);The Kingdom of the Netherlands;NL
-PL;EN Poland,DE Polen,FR Pologne (la);The Republic of Poland;PL
+﻿IsoCode;Names;OfficialNames;OfficialLanguages
+AT;EN Austria,DE Österreich,FR Autriche (l');EN The Republic of Austria;DE
+BE;EN Belgium,DE Belgien,FR Belgique (la);EN The Kingdom of Belgium;NL,FR,DE
+CH;EN Switzerland,DE Schweiz,FR Suisse (la);EN The Swiss Confederation;DE,FR,IT,RM
+DE;EN Germany,DE Deutschland,FR Allemagne (l');EN The Federal Republic of Germany;DE
+EE;EN Estonia,DE Estland,FR Estonie (l');EN The Republic of Estonia;ET
+FR;EN France,DE Frankreich,FR France (la);EN The French Republic;FR
+LI;EN Liechtenstein,DE Liechtenstein,FR Liechtenstein (le);EN The Principality of Liechtenstein;DE
+LT;EN Lithuania,DE Litauen,FR Lituanie (la);EN The Republic of Lithuania;LT
+LU;EN Luxembourg,DE Luxemburg,FR Luxembourg (le);EN The Grand Duchy of Luxembourg;LB,FR,DE
+LV;EN Latvia,DE Lettland,FR Lettonie (la);EN The Republic of Latvia;LV
+NL;EN Netherlands (the),DE Niederlande,FR Pays-Bas (les);EN The Kingdom of the Netherlands;NL
+PL;EN Poland,DE Polen,FR Pologne (la);EN The Republic of Poland;PL
