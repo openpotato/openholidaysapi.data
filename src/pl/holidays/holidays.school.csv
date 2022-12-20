@@ -1,0 +1,25 @@
+﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
+5fac06df-73a1-40a0-9393-dcd73e99562e;PL;2020-01-13;2020-01-26;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;LB,LU,PD,PM,SK;
+81c7f11b-747a-4fd9-84c5-dc92f9a2d823;PL;2020-01-20;2020-02-02;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;PK,WN;
+3e4a79b3-65ee-464c-98cd-1ce5c3c8f785;PL;2020-01-27;2020-02-09;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;KP,LD,MA,SL,WP;
+8e096bee-5ddc-4877-b05b-b9dcf06c45f9;PL;2020-01-10;2020-01-23;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;DS,MZ,OP,ZP;
+67cf342c-e397-4bf1-bd22-dc842ece4071;PL;2020-04-09;2020-04-14;School;PL Wiosenna przerwa świąteczna,DE Frühjahrsferien,EN Spring Break;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+27155f54-0aac-4090-a468-f5056edd993a;PL;2020-06-27;2020-08-31;School;PL Ferie letnie,DE Sommerferien,EN Summer Holidays;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+d298b77e-04b6-4a1e-87dc-d7b483257ae9;PL;2020-12-23;2020-12-31;School;PL Zimowa przerwa świąteczna,DE Weihnachtsferien,EN Christmas Break;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+27cfdf95-db8c-4a65-a814-ea893660e53a;PL;2021-01-04;2021-01-17;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+a31a4d42-3dbd-457f-b2ab-dfdf50abd226;PL;2021-04-01;2021-04-06;School;PL Wiosenna przerwa świąteczna,DE Frühjahrsferien,EN Spring Break;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+378c5411-1923-4ef8-b0d0-2dee0f6abba4;PL;2021-06-26;2021-08-31;School;PL Ferie letnie,DE Sommerferien,EN Summer Holidays;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+b0f7dad5-49c1-4b0b-b2a7-a63754b3184b;PL;2021-12-23;2021-12-31;School;PL Zimowa przerwa świąteczna,DE Weihnachtsferien,EN Christmas Break;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+91c15353-afa4-495c-a79f-b8a69e5924cc;PL;2022-01-17;2022-01-30;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;LB,LU,PD,PM,SK;
+987004d1-94c0-43ca-8c93-d07d53b5719e;PL;2022-01-24;2022-02-06;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;PK,WN;
+cce54787-8653-4abc-8036-1ae6e993a06a;PL;2022-01-31;2022-02-13;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;KP,LD,MA,SL,WP;
+a67f7a49-f588-46f0-a18e-adfa06e06b75;PL;2022-01-14;2022-01-27;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;DS,MZ,OP,ZP;
+399285f1-b19f-4cf4-a6be-26aee5164e38;PL;2022-04-14;2022-04-19;School;PL Wiosenna przerwa świąteczna,DE Frühjahrsferien,EN Spring Break;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+13dd5b13-ee91-46e2-b14b-0324e6e90974;PL;2022-06-25;2022-08-31;School;PL Ferie letnie,DE Sommerferien,EN Summer Holidays;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+cd5ee5fd-ff61-490b-9272-2f40f29b10eb;PL;2022-12-23;2022-12-31;School;PL Zimowa przerwa świąteczna,DE Weihnachtsferien,EN Christmas Break;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+872bb66e-032a-4c6a-9ad2-44ca046b76ca;PL;2023-01-16;2023-01-29;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;LB,LU,PD,PM,SK;
+1057a301-ff6c-4908-87d7-03b3cf3ef083;PL;2023-01-23;2023-02-05;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;PK,WN;
+c2f74af1-5e4e-4ab0-acf0-1a2df8acba91;PL;2023-01-30;2023-02-12;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;KP,LD,MA,SL,WP;
+ec9c4eef-709a-447a-ba25-aaa9b04f61c3;PL;2023-01-13;2023-01-26;School;PL Ferie zimowe,DE Winterferien,EN Winter Holidays;DS,MZ,OP,ZP;
+126f6892-71d9-43c1-aae6-d4bcacabace8;PL;2023-04-06;2023-04-11;School;PL Wiosenna przerwa świąteczna,DE Frühjahrsferien,EN Spring Break;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;
+b087da8a-78dd-48a2-82d5-19e0c737b164;PL;2023-06-24;2023-08-31;School;PL Ferie letnie,DE Sommerferien,EN Summer Holidays;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP;

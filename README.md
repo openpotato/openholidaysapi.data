@@ -7,9 +7,12 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Estonia (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2020)
 + Germany (public holidays and school holidays from 2020)
++ Latvia (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)
++ Lithuania (public holidays and school holidays from 2020)
 + Luxembourg (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
++ Poland (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
 
 ## Sources
@@ -105,6 +108,50 @@ School holidays:
 + [Sachsen-Anhalt | Ministerium für Bildung: Ferienordnung (PDF)](https://mb.sachsen-anhalt.de/fileadmin/Bibliothek/Landesjournal/Bildung_und_Wissenschaft/Erlasse/Ferienordnung_bis_2024.pdf)
 + [Thüringen | Ministerium für Bildung, Jugend und Sport: Ferienregelung](https://bildung.thueringen.de/schule/schulwesen/ferien)
 
+### Latvia
+
+Public holidays:
+
++ [Likumi.lv: Par svētku, atceres un atzīmējamām dienām](https://likumi.lv/ta/en/en/id/72608)
+
+School holidays:
+
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2020./2021. mācību gada garumu, mācību semestriem un brīvlaikiem](https://www.mk.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20202021-macibu-gada-garumu-macibu-semestriem-un-brivlaikiem)
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2021./2022. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20212022-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2022./2023. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20222023-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
+
+### Liechtenstein
+
+Public holidays:
+
++ [Rechtsdienst der Regierung: Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
+
+School holidays:
+
++ [Schulamt Fürstentum Liechtenstein: Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
+
+### Lithuania
+
+Public holidays:
+
++ [Lietuvos Respublikos Seimas: Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo](https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/asr)
+
+School holidays:
+
++ [Lietuvos Respublikos švietimo, mokslo ir sporto ministerija: Dėl 2021–2022 ir 2022–2023 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://www.e-tar.lt/portal/lt/legalAct/f0828f70abe911eb8bc8b1cdd5d7f785/asr)
+
+### Luxembourg
+
+Public holidays:
+
++ [Luxembourg.lu: Gesetzliche Feiertage](https://luxembourg.public.lu/en/living/quality-of-life/jours-feries-legaux.html)
+
+School holidays:
+
++ [Guichet.lu: Schulferienkalender](https://guichet.public.lu/de/outils/calendrier-scolaire.html)
++ [Legilux: Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
++ [Legilux: Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
+
 ### Netherlands
 
 Public holidays:
@@ -119,28 +166,15 @@ School holidays:
 + [Rijksoverheid.nl: Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
 + [Rijksoverheid.nl: Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
 
-
-### Liechtenstein
-
-Public holidays:
-
-+ [Rechtsdienst der Regierung: Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
-
-School holidays:
-
-+ [Schulamt Fürstentum Liechtenstein: Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
-
-### Luxembourg
+### Poland
 
 Public holidays:
 
-+ [Luxembourg.lu: Gesetzliche Feiertage](https://luxembourg.public.lu/en/living/quality-of-life/jours-feries-legaux.html)
++ [Ustawa z dnia 18 stycznia 1951 r. o dniach wolnych od pracy](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510040028)
 
 School holidays:
 
-+ [Guichet.lu: Schulferienkalender](https://guichet.public.lu/de/outils/calendrier-scolaire.html)
-+ [Legilux: Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
-+ [Legilux: Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
++ [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
 
 ### Switzerland
 
@@ -177,6 +211,3 @@ Publications Office of the European Union:
 ## Can I help?
 
 Yes, that would be much appreciated. The best way to help is to post a response via the Issue Tracker and/or submit a Pull Request.
-
-
-

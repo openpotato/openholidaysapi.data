@@ -1,0 +1,15 @@
+﻿Id;Country;StartDate;EndDate;Type;Names;Comments
+e20e5640-2a3d-4c28-9547-b9adf2693d4d;LV;2020-03-16;2020-03-20;School;LV Pavasara brīvdienas,DE Frühjahrsferien,EN Spring Holidays;
+9623f232-9402-44fe-97f4-0dd1fa0aa827;LV;2020-06-01;2020-08-31;School;LV Vasaras brīvdienas,DE Sommerferien,EN Summer Holidays;
+fb034992-5d57-49e4-91b1-6257197d8e2f;LV;2020-10-19;2020-10-23;School;LV Rudens brīvdienas,DE Herbstferien,EN Autumn Holidays;
+3c50b3ef-73a1-4166-949f-43009a8e6ba1;LV;2020-12-21;2021-01-01;School;LV Ziemas brīvdienas,DE Winterferien,EN Winter Holidays;
+00858255-0981-4e77-88aa-d3ac23811573;LV;2021-03-15;2021-03-19;School;LV Pavasara brīvdienas,DE Frühjahrsferien,EN Spring Holidays;
+aca8389f-677d-4c4f-bc8b-583724ccd96e;LV;2021-06-01;2021-08-31;School;LV Vasaras brīvdienas,DE Sommerferien,EN Summer Holidays;
+b694510b-f273-47c4-adef-5252e74611ae;LV;2021-10-18;2021-10-22;School;LV Rudens brīvdienas,DE Herbstferien,EN Autumn Holidays;
+fc9c9f22-877d-4485-b812-91624e295d73;LV;2021-12-22;2022-01-04;School;LV Ziemas brīvdienas,DE Winterferien,EN Winter Holidays;
+db0aade3-ba21-40fb-9013-a12839c55b71;LV;2022-03-14;2022-03-18;School;LV Pavasara brīvdienas,DE Frühjahrsferien,EN Spring Holidays;
+df5b23cc-7716-4a0d-b345-70540c471e69;LV;2022-06-01;2022-08-31;School;LV Vasaras brīvdienas,DE Sommerferien,EN Summer Holidays;
+548ddd61-b88a-4ca7-82fa-9e2cf3a15b3f;LV;2022-10-24;2022-10-28;School;LV Rudens brīvdienas,DE Herbstferien,EN Autumn Holidays;
+63d7daf2-5b52-4bc2-895d-1892bb2bfc52;LV;2022-12-26;2023-01-06;School;LV Ziemas brīvdienas,DE Winterferien,EN Winter Holidays;
+bf5905f2-0496-4d66-acdd-ec270f9e29b9;LV;2023-03-13;2023-03-17;School;LV Pavasara brīvdienas,DE Frühjahrsferien,EN Spring Holidays;
+6d873701-b6b4-43a0-830b-84bc1acd1b40;LV;2023-06-01;2023-08-31;School;LV Vasaras brīvdienas,DE Sommerferien,EN Summer Holidays;
