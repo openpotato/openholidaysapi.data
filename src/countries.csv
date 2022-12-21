@@ -1,13 +1,13 @@
 ﻿IsoCode;Names;OfficialNames;OfficialLanguages
-AT;EN Austria,DE Österreich,FR Autriche (l');EN The Republic of Austria;DE
-BE;EN Belgium,DE Belgien,FR Belgique (la);EN The Kingdom of Belgium;NL,FR,DE
-CH;EN Switzerland,DE Schweiz,FR Suisse (la);EN The Swiss Confederation;DE,FR,IT,RM
-DE;EN Germany,DE Deutschland,FR Allemagne (l');EN The Federal Republic of Germany;DE
-EE;EN Estonia,DE Estland,FR Estonie (l');EN The Republic of Estonia;ET
-FR;EN France,DE Frankreich,FR France (la);EN The French Republic;FR
-LI;EN Liechtenstein,DE Liechtenstein,FR Liechtenstein (le);EN The Principality of Liechtenstein;DE
-LT;EN Lithuania,DE Litauen,FR Lituanie (la);EN The Republic of Lithuania;LT
-LU;EN Luxembourg,DE Luxemburg,FR Luxembourg (le);EN The Grand Duchy of Luxembourg;LB,FR,DE
-LV;EN Latvia,DE Lettland,FR Lettonie (la);EN The Republic of Latvia;LV
-NL;EN Netherlands (the),DE Niederlande,FR Pays-Bas (les);EN The Kingdom of the Netherlands;NL
-PL;EN Poland,DE Polen,FR Pologne (la);EN The Republic of Poland;PL
+AT;EN Austria,DE Österreich,FR Autriche (l');EN Republic of Austria,DE Republik Österreich,FR la République d'Autriche;DE
+BE;EN Belgium,DE Belgien,FR Belgique (la);EN Kingdom of Belgium,DE Königreich Belgien,FR le Royaume de Belgique;NL,FR,DE
+CH;EN Switzerland,DE Schweiz,FR Suisse (la);EN Swiss Confederation,DE Schweizerische Eidgenossenschaft,FR la Confédération suisse;DE,FR,IT,RM
+DE;EN Germany,DE Deutschland,FR Allemagne (l');EN Federal Republic of Germany,DE Bundesrepublik Deutschland,FR la République fédérale d'Allemagne;DE
+EE;EN Estonia,DE Estland,FR Estonie (l');EN Republic of Estonia,DE Republik Estland,FR la République d'Estonie;ET
+FR;EN France,DE Frankreich,FR France (la);EN French Republic,DE Französische Republik,FR la République française;FR
+LI;EN Liechtenstein,DE Liechtenstein,FR Liechtenstein (le);EN Principality of Liechtenstein,DE Fürstentum Liechtenstein,FR la Principauté du Liechtenstein;DE
+LT;EN Lithuania,DE Litauen,FR Lituanie (la);EN Republic of Lithuania,DE Republik Litauen,FR la République de Lituanie;LT
+LU;EN Luxembourg,DE Luxemburg,FR Luxembourg (le);EN Grand Duchy of Luxembourg,DE Großherzogtum Luxemburg,FR le Grand-Duché de Luxembourg;LB,FR,DE
+LV;EN Latvia,DE Lettland,FR Lettonie (la);EN Republic of Latvia,DE Republik Lettland,FR la République de Lettonie;LV
+NL;EN Netherlands (the),DE Niederlande,FR Pays-Bas (les);EN Kingdom of the Netherlands,DE Königreich der Niederlande,FR le Royaume des Pays-Bas;NL
+PL;EN Poland,DE Polen,FR Pologne (la);EN Republic of Poland,DE Republik Polen,FR la République de Pologne;PL
