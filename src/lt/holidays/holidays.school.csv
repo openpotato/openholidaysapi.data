@@ -1,18 +1,18 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Comments
-dc1e1b7d-fb4b-4628-a8db-bdfb08fcc5ba;LT;2020-02-17;2020-02-21;School;LT Žiemos atostogos,DE Winterferien,EN Winter Holidays;
-8761f625-dd77-4324-ac65-c3ee124ab843;LT;2020-04-14;2020-04-17;School;LT Pavasario atostogos,DE Frühjahrsferien,EN Spring Holidays;
-926889a9-985b-4433-84f1-1f1c35451bda;LT;2020-09-01;;School;LT Atgal į mokyklą,DE Schulanfang,EN First Day of School;
-f31a600d-ecd1-4a7a-952b-90815b3e6b71;LT;2020-10-26;2020-10-30;School;LT Rudens atostogos,DE Herbstferien,EN Autumn Holidays;
-6675b996-39c0-4f3f-8232-7c54f0c6df09;LT;2020-12-23;2021-01-05;School;LT Žiemos atostogos,DE Weihnachtsferien,EN Christmas Holidays;
-f1e2cb2d-4a83-49b3-8106-664c55c1991e;LT;2021-02-15;2021-02-19;School;LT Žiemos atostogos,DE Winterferien,EN Winter Holidays;
-098a3833-fa88-4440-83a8-42e256af66b4;LT;2021-04-06;2021-04-09;School;LT Pavasario atostogos,DE Frühjahrsferien,EN Spring Holidays;
-b442de06-c8f0-4f9e-b30b-0e9e9fff3c9a;LT;2021-09-01;;School;LT Atgal į mokyklą,DE Schulanfang,EN First Day of School;
-c5d6ad6b-cd52-4a08-9aad-4f9f671d4325;LT;2021-11-03;2021-11-05;School;LT Rudens atostogos,DE Herbstferien,EN Autumn Holidays;
-1cc9d4d9-4c0f-4d70-9c6a-6a67612ffcf7;LT;2021-12-27;2022-01-07;School;LT Žiemos atostogos,DE Weihnachtsferien,EN Christmas Holidays;
-d89ec2db-c242-4636-8a84-c447494af303;LT;2022-02-14;2022-02-18;School;LT Žiemos atostogos,DE Winterferien,EN Winter Holidays;
-e54dac83-60f6-4adf-a9e7-33dba256163f;LT;2022-04-19;2022-04-22;School;LT Pavasario atostogos,DE Frühjahrsferien,EN Spring Holidays;
-87671618-f298-405b-b181-be574c977cf1;LT;2022-09-01;;School;LT Atgal į mokyklą,DE Schulanfang,EN First Day of School;
-06e7bf69-8eb9-44f7-8ce4-719dbd201c75;LT;2022-10-31;2022-11-04;School;LT Rudens atostogos,DE Herbstferien,EN Autumn Holidays;
-93caf35c-b193-4231-87a1-0c8d6fbcc868;LT;2022-12-27;2023-01-06;School;LT Žiemos atostogos,DE Weihnachtsferien,EN Christmas Holidays;
-8cb8fdb2-f00e-4bd2-b2c9-8a285ac83510;LT;2023-02-13;2023-02-17;School;LT Žiemos atostogos,DE Winterferien,EN Winter Holidays;
-31bd1d12-385b-456a-aa86-93a93545aa8a;LT;2023-04-11;2023-04-14;School;LT Pavasario atostogos,DE Frühjahrsferien,EN Spring Holidays;
+﻿Id;Country;StartDate;EndDate;Type;Details;Names;Comments
+dc1e1b7d-fb4b-4628-a8db-bdfb08fcc5ba;LT;2020-02-17;2020-02-21;School;;LT Žiemos atostogos,DE Winterferien,EN Winter Holidays;
+8761f625-dd77-4324-ac65-c3ee124ab843;LT;2020-04-14;2020-04-17;School;;LT Pavasario atostogos,DE Frühjahrsferien,EN Spring Holidays;
+926889a9-985b-4433-84f1-1f1c35451bda;LT;2020-09-01;;None;BackToSchool;LT Atgal į mokyklą,DE Schulanfang,EN First Day of School;
+f31a600d-ecd1-4a7a-952b-90815b3e6b71;LT;2020-10-26;2020-10-30;School;;LT Rudens atostogos,DE Herbstferien,EN Autumn Holidays;
+6675b996-39c0-4f3f-8232-7c54f0c6df09;LT;2020-12-23;2021-01-05;School;;LT Žiemos atostogos,DE Weihnachtsferien,EN Christmas Holidays;
+f1e2cb2d-4a83-49b3-8106-664c55c1991e;LT;2021-02-15;2021-02-19;School;;LT Žiemos atostogos,DE Winterferien,EN Winter Holidays;
+098a3833-fa88-4440-83a8-42e256af66b4;LT;2021-04-06;2021-04-09;School;;LT Pavasario atostogos,DE Frühjahrsferien,EN Spring Holidays;
+b442de06-c8f0-4f9e-b30b-0e9e9fff3c9a;LT;2021-09-01;;None;BackToSchool;LT Atgal į mokyklą,DE Schulanfang,EN First Day of School;
+c5d6ad6b-cd52-4a08-9aad-4f9f671d4325;LT;2021-11-03;2021-11-05;School;;LT Rudens atostogos,DE Herbstferien,EN Autumn Holidays;
+1cc9d4d9-4c0f-4d70-9c6a-6a67612ffcf7;LT;2021-12-27;2022-01-07;School;;LT Žiemos atostogos,DE Weihnachtsferien,EN Christmas Holidays;
+d89ec2db-c242-4636-8a84-c447494af303;LT;2022-02-14;2022-02-18;School;;LT Žiemos atostogos,DE Winterferien,EN Winter Holidays;
+e54dac83-60f6-4adf-a9e7-33dba256163f;LT;2022-04-19;2022-04-22;School;;LT Pavasario atostogos,DE Frühjahrsferien,EN Spring Holidays;
+87671618-f298-405b-b181-be574c977cf1;LT;2022-09-01;;None;BackToSchool;LT Atgal į mokyklą,DE Schulanfang,EN First Day of School;
+06e7bf69-8eb9-44f7-8ce4-719dbd201c75;LT;2022-10-31;2022-11-04;School;;LT Rudens atostogos,DE Herbstferien,EN Autumn Holidays;
+93caf35c-b193-4231-87a1-0c8d6fbcc868;LT;2022-12-27;2023-01-06;School;;LT Žiemos atostogos,DE Weihnachtsferien,EN Christmas Holidays;
+8cb8fdb2-f00e-4bd2-b2c9-8a285ac83510;LT;2023-02-13;2023-02-17;School;;LT Žiemos atostogos,DE Winterferien,EN Winter Holidays;
+31bd1d12-385b-456a-aa86-93a93545aa8a;LT;2023-04-11;2023-04-14;School;;LT Pavasario atostogos,DE Frühjahrsferien,EN Spring Holidays;
