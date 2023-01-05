@@ -4,6 +4,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 
 + Austria (public holidays and school holidays from 2020)
 + Belgium (public holidays and school holidays from 2020)
++ Czechia (public holidays and school holidays from 2020)
 + Estonia (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2020)
 + Germany (public holidays and school holidays from 2020)
@@ -13,6 +14,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Luxembourg (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
++ Slovakia (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
 
 ## Sources
@@ -42,6 +44,16 @@ School holidays:
 + [French Community | Calendrier Scolaire](http://www.enseignement.be/calendrierscolaire)
 + [Flemish Community | Schoolvakanties](https://onderwijs.vlaanderen.be/nl/schoolvakanties)
 + [German-speaking Community | Schulkalender und Ferienregelung](https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2212/)
+
+### Czechia
+
+Public holidays:
+
++ [Svátky v České republice](https://www.mpsv.cz/web/cz/svatky-v-ceske-republice)
+
+School holidays:
+
++ [Ministerstvo školství, mládeže a tělovýchovy | Organizace školního roku](https://www.msmt.cz/vzdelavani/organizace-skolniho-roku-prazdniny)
 
 ### Estonia
 
@@ -175,6 +187,16 @@ Public holidays:
 School holidays:
 
 + [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
+
+### Slovakia
+
+Public holidays:
+
++ [Úrad vlády Slovenskej republiky: Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
+
+School holidays:
+
++ [Ministerstvo školstva, vedy, výskumu a športu: Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
 
 ### Switzerland
 

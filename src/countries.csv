@@ -2,6 +2,7 @@
 AT;EN Austria,DE Österreich,FR Autriche (l');DE
 BE;EN Belgium,NL België,FR Belgique (la),DE Belgien;NL,FR,DE
 CH;EN Switzerland,DE Schweiz (die),FR Suisse (la),IT Svizzera (la),RM Svizra (la);DE,FR,IT,RM
+CZ;EN Czechia,CS Česko,DE Tschechien,FR Tchéquie (la);CS
 DE;EN Germany,DE Deutschland,FR Allemagne (l');DE
 EE;EN Estonia,ET Eesti,DE Estland,FR Estonie (l');ET
 FR;EN France,FR France (la),DE Frankreich;FR
@@ -11,3 +12,4 @@ LU;EN Luxembourg,LB Lëtzebuerg,FR Luxembourg (le),DE Luxemburg;LB,FR,DE
 LV;EN Latvia,LV Latvija,DE Lettland,FR Lettonie (la);LV
 NL;EN Netherlands (the),NL Nederland,DE Niederlande,FR Pays-Bas (les);NL
 PL;EN Poland,PL Polska,DE Polen,FR Pologne (la);PL
+SK;EN Slovakia,SK Slovensko,DE Slowakei,FR Slovaquie (la);SK
