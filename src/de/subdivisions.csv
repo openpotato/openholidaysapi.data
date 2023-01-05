@@ -1,17 +1,17 @@
-﻿Country;IsoCode;ShortName;Names;OfficialLanguages
-DE;DE-SH;SH;DE Schleswig-Holstein,EN Schleswig-Holstein;DE
-DE;DE-HH;HH;DE Hamburg,EN Hamburg;DE
-DE;DE-NI;NI;DE Niedersachsen,EN Lower Saxony;DE
-DE;DE-HB;HB;DE Bremen,EN Brem;DE
-DE;DE-NW;NW;DE Nordrhein-Westfalen,EN North Rhine-Westphalia;DE
-DE;DE-HE;HE;DE Hessen,EN Hesse;DE
-DE;DE-RP;RP;DE Rheinland-Pfalz,EN Rhineland-Palatinate;DE
-DE;DE-BW;BW;DE Baden-Württemberg,EN Baden-Württemberg;DE
-DE;DE-BY;BY;DE Bayern,EN Bavaria;DE
-DE;DE-SL;SL;DE Saarland,EN Saarland;DE
-DE;DE-BE;BE;DE Berlin,EN Berlin;DE
-DE;DE-BB;BB;DE Brandenburg,EN Brandenburg;DE
-DE;DE-MV;MV;DE Mecklenburg-Vorpommern,EN Mecklenburg-Western Pomerania;DE
-DE;DE-SN;SN;DE Sachsen,EN Saxony;DE
-DE;DE-ST;ST;DE Sachsen-Anhalt,EN Saxony-Anhalt;DE
-DE;DE-TH;TH;DE Thüringen,EN Thuringia;DE
+﻿Country;IsoCode;ShortName;Categories;Names;OfficialLanguages
+DE;DE-BB;BB;DE Bundesland,EN federal state,FR land;DE Brandenburg,EN Brandenburg,FR Brandebourg;DE
+DE;DE-BE;BE;DE Bundesland,EN federal state,FR land;DE Berlin,EN Berlin,FR Berlin;DE
+DE;DE-BW;BW;DE Bundesland,EN federal state,FR land;DE Baden-Württemberg,EN Baden-Württemberg,FR Bade-Wurtemberg;DE
+DE;DE-BY;BY;DE Bundesland,EN federal state,FR land;DE Bayern,EN Bavaria,FR Bavière;DE
+DE;DE-HB;HB;DE Bundesland,EN federal state,FR land;DE Bremen,EN Bremen,FR Brême;DE
+DE;DE-HE;HE;DE Bundesland,EN federal state,FR land;DE Hessen,EN Hesse,FR Hesse;DE
+DE;DE-HH;HH;DE Bundesland,EN federal state,FR land;DE Hamburg,EN Hamburg,FR Hambourg;DE
+DE;DE-MV;MV;DE Bundesland,EN federal state,FR land;DE Mecklenburg-Vorpommern,EN Mecklenburg-Western Pomerania,FR Mecklembourg-Poméranie-Occidentale;DE
+DE;DE-NI;NI;DE Bundesland,EN federal state,FR land;DE Niedersachsen,EN Lower Saxony,FR Basse-Saxe;DE
+DE;DE-NW;NW;DE Bundesland,EN federal state,FR land;DE Nordrhein-Westfalen,EN North Rhine-Westphalia,FR Rhénanie-du-Nord-Westphalie;DE
+DE;DE-RP;RP;DE Bundesland,EN federal state,FR land;DE Rheinland-Pfalz,EN Rhineland-Palatinate,FR Rhénanie-Palatinat;DE
+DE;DE-SH;SH;DE Bundesland,EN federal state,FR land;DE Schleswig-Holstein,EN Schleswig-Holstein,FR Schleswig-Holstein;DE
+DE;DE-SL;SL;DE Bundesland,EN federal state,FR land;DE Saarland,EN Saarland,FR Sarre;DE
+DE;DE-SN;SN;DE Bundesland,EN federal state,FR land;DE Sachsen,EN Saxony,FR Saxe;DE
+DE;DE-ST;ST;DE Bundesland,EN federal state,FR land;DE Sachsen-Anhalt,EN Saxony-Anhalt,FR Saxe-Anhalt;DE
+DE;DE-TH;TH;DE Bundesland,EN federal state,FR land;DE Thüringen,EN Thuringia,FR Thuringe;DE

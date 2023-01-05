@@ -1,12 +1,12 @@
 ﻿IsoCode;Names
 DE;EN German,DE Deutsch,FR allemand
 EN;EN English,DE Englisch,FR anglais
-ET;EN Estonian,DE Estnisch,FR estonien
-FR;EN French,DE Französisch,FR français
-IT;EN Italian,DE Italienisch,FR italien
-LB;EN Luxembourgish,DE Luxemburgisch,FR luxembourgeois
-LT;EN Lithuanian,DE Litauisch,FR lituanien
-LV;EN Latvian,DE Lettisch,FR letton
-NL;EN Dutch,DE Niederländisch,FR néerlandais
-PL;EN Polish,DE Polnisch,FR polonais
-RM;EN Romansh,DE Rätoromanisch,FR romanche
+ET;EN Estonian,ET Eesti,DE Estnisch,FR estonien
+FR;EN French,FR français,DE Französisch
+IT;EN Italian,IT Italiano,DE Italienisch,FR italien
+LB;EN Luxembourgish,LB Lëtzebuergesch,DE Luxemburgisch,FR luxembourgeois
+LT;EN Lithuanian,LT Lietuvių,DE Litauisch,FR lituanien
+LV;EN Latvian,LV Latviešu,DE Lettisch,FR letton
+NL;EN Dutch,NL Nederlands,DE Niederländisch,FR néerlandais
+PL;EN Polish,PL Polska,DE Polnisch,FR polonais
+RM;EN Romansh,RM Rumantsch,DE Rätoromanisch,FR romanche
