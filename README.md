@@ -8,6 +8,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Estonia (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2020)
 + Germany (public holidays and school holidays from 2020)
++ Hungary (public holidays and school holidays from 2020)
 + Latvia (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)
 + Lithuania (public holidays and school holidays from 2020)
@@ -119,6 +120,19 @@ School holidays:
 + [Sachsen | Staatsministerium für Kultus: Schuljahrestermine](https://www.schule.sachsen.de/schuljahrestermine-4793.html)
 + [Sachsen-Anhalt | Ministerium für Bildung: Ferienordnung (PDF)](https://mb.sachsen-anhalt.de/fileadmin/Bibliothek/Landesjournal/Bildung_und_Wissenschaft/Erlasse/Ferienordnung_bis_2024.pdf)
 + [Thüringen | Ministerium für Bildung, Jugend und Sport: Ferienregelung](https://bildung.thueringen.de/schule/schulwesen/ferien)
+
+### Hungary
+
+Public holidays:
+
++ [2012. évi I. törvény a munka törvénykönyvéről | 102. § (1) Munkaszüneti nap](https://net.jogtar.hu/jogszabaly?docid=A1200001.TV#lbj60id951d)
+
+School holidays:
+
++ [eduline.hu | Megvan a 2022/23-as tanév rendje: itt vannak a legfontosabb dátumok](https://eduline.hu/kozoktatas/20220729_20222023as_tanev_rendje)
++ [368/2022. (IX. 29.) Korm. rendelet a 2022/2023. tanév rendjére alkalmazandó veszélyhelyzeti szabályokról](https://net.jogtar.hu/jogszabaly?docid=A2200368.KOR#)
++ [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2200022.bm)
++ [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2100020.emm)
 
 ### Latvia
 

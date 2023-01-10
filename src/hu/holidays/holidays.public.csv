@@ -1,0 +1,100 @@
+﻿Id;Country;StartDate;EndDate;Type;Names
+909910f3-0352-46af-882e-84541ffe832a;HU;2020-01-01;;Public;HU Újév,DE Neujahrstag,EN New Year's Day
+37414118-0da1-4ca2-b89b-81e316a57b18;HU;2020-03-15;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+0702be23-d187-4921-813f-0d2520eadf0c;HU;2020-04-10;;Public;HU Nagypéntek,DE Karfreitag,EN Good Friday
+c6093f40-e184-4e25-846d-ba16495563c5;HU;2020-04-13;;Public;HU Húsvéthétfő,DE Ostermontag,EN Easter Monday
+6cb22a42-9a17-464a-8629-02dd057157f1;HU;2020-05-01;;Public;HU A munka ünnepe,DE Tag der Arbeit,EN Labour Day
+c6ee9f6b-31b8-46e4-b728-a1cf53f70b19;HU;2020-06-01;;Public;HU Pünkösdhétfő,DE Pfingstmontag,EN Pentecost Monday
+21bedc0e-66aa-4add-a718-5e2587fcfac7;HU;2020-08-20;;Public;HU Az államalapítás ünnepe,DE Staatsfeiertag,EN State Foundation Day
+63226701-5f0c-4fd9-8b41-d88b462abe70;HU;2020-10-23;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+a409ef80-b724-4382-833c-4fa5437fd09a;HU;2020-11-01;;Public;HU Mindenszentek,DE Allerheiligen,EN All Saints' Day
+19449a30-2b62-4925-baa0-a8a95ebdd33d;HU;2020-12-25;;Public;HU Karácsony,DE Weihnachten,EN Christmas Day
+d922e46d-b3bb-416f-92b3-a3e341f1fe1e;HU;2020-12-26;;Public;HU Karácsony másnapja,DE 2. Weihnachtstag,EN Second Day of Christmas
+f081c15f-ba8d-49d0-b714-7a5a096b74bd;HU;2021-01-01;;Public;HU Újév,DE Neujahrstag,EN New Year's Day
+1ed0d15e-6e72-4d20-ae0d-331a5ad3c87a;HU;2021-03-15;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+d1a11b45-79ee-421a-9379-5ecb6981e19a;HU;2021-04-02;;Public;HU Nagypéntek,DE Karfreitag,EN Good Friday
+821d1be2-9879-48aa-88d4-8a11824e0715;HU;2021-04-05;;Public;HU Húsvéthétfő,DE Ostermontag,EN Easter Monday
+5a7fd95e-99a0-4efe-9236-b40c309b1bd1;HU;2021-05-01;;Public;HU A munka ünnepe,DE Tag der Arbeit,EN Labour Day
+fbcd1894-512a-48ff-8f67-3287839659f1;HU;2021-05-24;;Public;HU Pünkösdhétfő,DE Pfingstmontag,EN Pentecost Monday
+21f484c9-6bfe-4ee7-b79d-86cfb8e5f772;HU;2021-08-20;;Public;HU Az államalapítás ünnepe,DE Staatsfeiertag,EN State Foundation Day
+bd364a3d-af56-4d5f-b1ca-6e84bf7b29aa;HU;2021-10-23;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+9346a600-02c8-48ca-a4d8-76d55fc45e3c;HU;2021-11-01;;Public;HU Mindenszentek,DE Allerheiligen,EN All Saints' Day
+5cf204bc-5578-4bec-bfca-3044695a2b75;HU;2021-12-25;;Public;HU Karácsony,DE Weihnachten,EN Christmas Day
+99071f6e-ef20-4884-9811-679961ef6e28;HU;2021-12-26;;Public;HU Karácsony másnapja,DE 2. Weihnachtstag,EN Second Day of Christmas1
+3f4837f3-2653-4f8f-820a-0e46781c31cd;HU;2022-01-01;;Public;HU Újév,DE Neujahrstag,EN New Year's Day
+89c7d2ea-eef8-4c59-8f6e-bc4741e3d298;HU;2022-03-15;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+939fc74d-f878-4e16-9e07-4eaa799e7a94;HU;2022-04-15;;Public;HU Nagypéntek,DE Karfreitag,EN Good Friday
+ccc16d2a-bef1-4002-a05d-65b8ea5ae4d3;HU;2022-04-18;;Public;HU Húsvéthétfő,DE Ostermontag,EN Easter Monday
+36721d97-2af1-446b-a02f-e6f276d0f179;HU;2022-05-01;;Public;HU A munka ünnepe,DE Tag der Arbeit,EN Labour Day
+7f773ab1-e87c-42b9-8c58-78be465fbfef;HU;2022-06-06;;Public;HU Pünkösdhétfő,DE Pfingstmontag,EN Pentecost Monday
+01f884b1-59d7-496d-9ba7-81c8fb5a8978;HU;2022-08-20;;Public;HU Az államalapítás ünnepe,DE Staatsfeiertag,EN State Foundation Day
+02f63032-4724-4938-a907-6281db57babd;HU;2022-10-23;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+1bc0fdef-9d16-4840-81e2-7b7e96a573ed;HU;2022-11-01;;Public;HU Mindenszentek,DE Allerheiligen,EN All Saints' Day
+794c6031-388e-46d0-8bcb-984a49915b3b;HU;2022-12-25;;Public;HU Karácsony,DE Weihnachten,EN Christmas Day
+c3657b25-c564-437e-be1e-a7641282e5ed;HU;2022-12-26;;Public;HU Karácsony másnapja,DE 2. Weihnachtstag,EN Second Day of Christmas
+cf215f1e-c19e-4a24-8c8f-7f7f31c56661;HU;2023-01-01;;Public;HU Újév,DE Neujahrstag,EN New Year's Day
+73338677-b5e2-449e-a569-a92942d1cb16;HU;2023-03-15;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+4f9b2462-02b3-46f7-ba36-e88045d1506f;HU;2023-04-07;;Public;HU Nagypéntek,DE Karfreitag,EN Good Friday
+827f166a-1be4-4332-bbac-6b3578236b51;HU;2023-04-10;;Public;HU Húsvéthétfő,DE Ostermontag,EN Easter Monday
+d0235a6b-dc85-488b-a1af-7c1b44d0b94b;HU;2023-05-01;;Public;HU A munka ünnepe,DE Tag der Arbeit,EN Labour Day
+b3b6bb62-48a8-44c5-9a09-aa65cb0fa6fc;HU;2023-05-29;;Public;HU Pünkösdhétfő,DE Pfingstmontag,EN Pentecost Monday
+d404c430-a59c-4c24-a908-a5e143ab14de;HU;2023-08-20;;Public;HU Az államalapítás ünnepe,DE Staatsfeiertag,EN State Foundation Day
+ab31683d-34e0-417f-a69e-ef217652f114;HU;2023-10-23;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+ef556922-381b-4e71-972f-fde394fe199e;HU;2023-11-01;;Public;HU Mindenszentek,DE Allerheiligen,EN All Saints' Day
+d84cc8a2-24ff-47e4-af53-692c024f0e6c;HU;2023-12-25;;Public;HU Karácsony,DE Weihnachten,EN Christmas Day
+c8eab005-0c92-485c-ae89-7a58b6ae998b;HU;2023-12-26;;Public;HU Karácsony másnapja,DE 2. Weihnachtstag,EN Second Day of Christmas
+ece73dc7-9539-4f98-87f3-090a2e53271a;HU;2024-01-01;;Public;HU Újév,DE Neujahrstag,EN New Year's Day
+b6c82c65-f46b-4e32-8739-dcfec1c6d8a7;HU;2024-03-15;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+0aa39543-c0cd-4e06-897c-c5f93332a36b;HU;2024-03-29;;Public;HU Nagypéntek,DE Karfreitag,EN Good Friday
+ca85680a-8fb7-4519-9f60-f3546f04030e;HU;2024-04-01;;Public;HU Húsvéthétfő,DE Ostermontag,EN Easter Monday
+5750ff25-01fb-49f3-920a-bd92b15748ee;HU;2024-05-01;;Public;HU A munka ünnepe,DE Tag der Arbeit,EN Labour Day
+366ecad1-4eb3-4b95-baeb-09dffe71239c;HU;2024-05-20;;Public;HU Pünkösdhétfő,DE Pfingstmontag,EN Pentecost Monday
+3ce43022-314a-4067-9164-fe2365fcbc12;HU;2024-08-20;;Public;HU Az államalapítás ünnepe,DE Staatsfeiertag,EN State Foundation Day
+54a2f135-e48b-4874-a1f7-930c7dc65221;HU;2024-10-23;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+1a3bb421-e841-4be6-8d84-606eb42f1aa8;HU;2024-11-01;;Public;HU Mindenszentek,DE Allerheiligen,EN All Saints' Day
+6a1a3aef-cb75-43d2-8c37-d6185013ddd2;HU;2024-12-25;;Public;HU Karácsony,DE Weihnachten,EN Christmas Day
+bd8777bc-4ed8-443c-a09d-4ad2c809bd8b;HU;2024-12-26;;Public;HU Karácsony másnapja,DE 2. Weihnachtstag,EN Second Day of Christmas
+808c01d4-2dd3-498a-bfe5-22a923f6d83c;HU;2025-01-01;;Public;HU Újév,DE Neujahrstag,EN New Year's Day
+a3924803-ee80-4135-9a5d-13f929bbbe17;HU;2025-03-15;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+7ececfdb-6877-4876-9aad-80f31e0d4ec7;HU;2025-04-18;;Public;HU Nagypéntek,DE Karfreitag,EN Good Friday
+7375977a-5fc0-472c-b7b3-c65c418bb40f;HU;2025-04-21;;Public;HU Húsvéthétfő,DE Ostermontag,EN Easter Monday
+b31104df-95d0-49d1-834a-e69a8c0afc30;HU;2025-05-01;;Public;HU A munka ünnepe,DE Tag der Arbeit,EN Labour Day
+3280566d-b60d-4036-bd04-acd3558a07da;HU;2025-06-09;;Public;HU Pünkösdhétfő,DE Pfingstmontag,EN Pentecost Monday
+3859e748-fee4-4b17-a44b-a2c1e17626a9;HU;2025-08-20;;Public;HU Az államalapítás ünnepe,DE Staatsfeiertag,EN State Foundation Day
+076329c0-224f-48f9-a252-6611e665be8c;HU;2025-10-23;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+ca2f3de8-95a7-4e78-9624-e6ae95f0a2e3;HU;2025-11-01;;Public;HU Mindenszentek,DE Allerheiligen,EN All Saints' Day
+cf4c2e90-bc31-4662-a9e5-00af3f6b574c;HU;2025-12-25;;Public;HU Karácsony,DE Weihnachten,EN Christmas Day
+5c7350b4-a22a-4b77-992e-1755cd6ee1a1;HU;2025-12-26;;Public;HU Karácsony másnapja,DE 2. Weihnachtstag,EN Second Day of Christmas
+534115e7-c91b-48b3-9e27-f28c3333da88;HU;2026-01-01;;Public;HU Újév,DE Neujahrstag,EN New Year's Day
+cb471908-cbec-459b-9d72-03cfe89a15aa;HU;2026-03-15;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+eb5c1046-9050-432c-ab93-ee66e7c800ed;HU;2026-04-03;;Public;HU Nagypéntek,DE Karfreitag,EN Good Friday
+1a82d9b3-34ef-4a5f-871c-9cbfca15914c;HU;2026-04-06;;Public;HU Húsvéthétfő,DE Ostermontag,EN Easter Monday
+27f33fbe-948a-4f83-b137-780b15275bbc;HU;2026-05-01;;Public;HU A munka ünnepe,DE Tag der Arbeit,EN Labour Day
+2c401239-d722-4dd0-b54f-e22e6640eb6b;HU;2026-05-25;;Public;HU Pünkösdhétfő,DE Pfingstmontag,EN Pentecost Monday
+e12ef7f0-90cc-483b-a229-27a98ede0d1d;HU;2026-08-20;;Public;HU Az államalapítás ünnepe,DE Staatsfeiertag,EN State Foundation Day
+fb064528-2870-4934-ad6f-c5ee5464d9bd;HU;2026-10-23;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+a14c99df-7d7d-42d3-9e3a-9dbf27c8ad7b;HU;2026-11-01;;Public;HU Mindenszentek,DE Allerheiligen,EN All Saints' Day
+366252b4-573a-42ab-9b2d-c279c1916bc6;HU;2026-12-25;;Public;HU Karácsony,DE Weihnachten,EN Christmas Day
+4f686a21-0053-434a-8421-0f70a576b62a;HU;2026-12-26;;Public;HU Karácsony másnapja,DE 2. Weihnachtstag,EN Second Day of Christmas
+5b10a2fb-3e48-43fd-95ea-160f0c30c7e9;HU;2027-01-01;;Public;HU Újév,DE Neujahrstag,EN New Year's Day
+7abf925b-67c8-4bde-8356-b0bdd3074f79;HU;2027-03-15;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+23d27951-e46e-47df-9284-d127180b130c;HU;2027-03-26;;Public;HU Nagypéntek,DE Karfreitag,EN Good Friday
+3e138ce5-53a7-4e06-81dc-13d248e2ab5b;HU;2027-03-29;;Public;HU Húsvéthétfő,DE Ostermontag,EN Easter Monday
+be8831fe-8af1-4ffe-90f2-4d252a2ef589;HU;2027-05-01;;Public;HU A munka ünnepe,DE Tag der Arbeit,EN Labour Day
+13b69ab4-f56d-4a16-a6ea-f885c2927e49;HU;2027-05-17;;Public;HU Pünkösdhétfő,DE Pfingstmontag,EN Pentecost Monday
+599664ec-76f7-4a90-838e-c6c36662a299;HU;2027-08-20;;Public;HU Az államalapítás ünnepe,DE Staatsfeiertag,EN State Foundation Day
+a3e11bd5-0013-476e-9584-0094397d088c;HU;2027-10-23;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+fb618d3b-e9c2-4ba2-be92-20253745a62a;HU;2027-11-01;;Public;HU Mindenszentek,DE Allerheiligen,EN All Saints' Day
+8937a395-a8f1-47e9-ab39-b1e5df9efc40;HU;2027-12-25;;Public;HU Karácsony,DE Weihnachten,EN Christmas Day
+8cdc1b3d-35d2-4e1d-90ae-3dc890a120ca;HU;2027-12-26;;Public;HU Karácsony másnapja,DE 2. Weihnachtstag,EN Second Day of Christmas
+e25e4ff9-de36-476e-ad2c-c50f20a5772f;HU;2028-01-01;;Public;HU Újév,DE Neujahrstag,EN New Year's Day
+e18b1602-5797-45fd-9d1b-46b2b3658224;HU;2028-03-15;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+554f154c-9459-40e1-b5fa-eca7ec618361;HU;2028-04-14;;Public;HU Nagypéntek,DE Karfreitag,EN Good Friday
+36ac9de2-53d1-4f46-af84-b3047e850b2b;HU;2028-04-17;;Public;HU Húsvéthétfő,DE Ostermontag,EN Easter Monday
+f11f6036-49e1-4623-ab8b-bbafd65ade65;HU;2028-05-01;;Public;HU A munka ünnepe,DE Tag der Arbeit,EN Labour Day
+4ed61bf3-fba6-4709-a2f2-ae0cde48cad3;HU;2028-06-05;;Public;HU Pünkösdhétfő,DE Pfingstmontag,EN Pentecost Monday
+b9af8e8d-1bd6-4afa-a0fc-a93ca280c272;HU;2028-08-20;;Public;HU Az államalapítás ünnepe,DE Staatsfeiertag,EN State Foundation Day
+b7b7750a-51c4-4cc7-9553-95daebfa5287;HU;2028-10-23;;Public;HU Nemzeti ünnep,DE Nationalfeiertag,EN National Day
+79304405-f546-4b12-b894-dde6520c0eb7;HU;2028-11-01;;Public;HU Mindenszentek,DE Allerheiligen,EN All Saints' Day
+cb9e4c8a-b0a9-418e-b88e-9d5d921a646f;HU;2028-12-25;;Public;HU Karácsony,DE Weihnachten,EN Christmas Day
+2d898d50-0f21-4ac1-9d74-82b3a0b9b41e;HU;2028-12-26;;Public;HU Karácsony másnapja,DE 2. Weihnachtstag,EN Second Day of Christmas
