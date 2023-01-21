@@ -4,11 +4,14 @@ This repo aggregates and stores freely accessible calendar data on the following
 
 + Austria (public holidays and school holidays from 2020)
 + Belgium (public holidays and school holidays from 2020)
++ Bulgaria (public holidays and school holidays from 2020)
++ Croatia (public holidays and school holidays from 2020)
 + Czechia (public holidays and school holidays from 2020)
 + Estonia (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2020)
 + Germany (public holidays and school holidays from 2020)
 + Hungary (public holidays and school holidays from 2020)
++ Ireland (public holidays and school holidays from 2020)
 + Latvia (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)
 + Lithuania (public holidays and school holidays from 2020)
@@ -24,15 +27,15 @@ This repo aggregates and stores freely accessible calendar data on the following
 
 Public holidays:
 
-+ [Bundesministerium für Digitalisierung und Wirtschaftsstandort: Feiertagsruhegesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008168)
-+ [Stadt Wien: Gesetzliche Feiertage in Österreich](https://www.wien.gv.at/amtshelfer/feiertage/)
++ [Feiertagsruhegesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008168)
++ [Stadt Wien | Gesetzliche Feiertage in Österreich](https://www.wien.gv.at/amtshelfer/feiertage/)
 
 School holidays: 
 
-+ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2019/2020](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_19_20.html)
-+ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2020/2021](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_20_21.html)
-+ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html)
-+ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html)
++ [Bundesministerium für Bildung, Wissenschaft und Forschung | Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html)
++ [Bundesministerium für Bildung, Wissenschaft und Forschung | Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html)
++ [Bundesministerium für Bildung, Wissenschaft und Forschung | Ferientermine 2020/2021](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_20_21.html)
++ [Bundesministerium für Bildung, Wissenschaft und Forschung | Ferientermine 2019/2020](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_19_20.html)
 
 ### Belgium
 
@@ -46,11 +49,36 @@ School holidays:
 + [Flemish Community | Schoolvakanties](https://onderwijs.vlaanderen.be/nl/schoolvakanties)
 + [German-speaking Community | Schulkalender und Ferienregelung](https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2212/)
 
+### Bulgaria
+
+Public holidays:
+
++ [Народно събрание на Република България: Български официални празници](https://www.parliament.bg/bg/24)
+
+School holidays: 
+
++ [Министерство на образованието и науката | Ваканции 2022/2023](https://www.mon.bg/bg/56)
++ [Министерство на образованието и науката | Ваканции 2021/2022 (PDF)](https://web.mon.bg/upload/27600/zap1804_grafik-uchebno-vreme_310821.pdf)
++ [Министерство на образованието и науката | Ваканции 2020/2021 (PDF)](https://web.mon.bg/upload/24572/zap3472_izmZap-grafik_30112020.pdf)
+
+### Croatia
+
+Public holidays:
+
++ [Zakon o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj](https://narodne-novine.nn.hr/eli/sluzbeni/2019/110/2212)
+
+School holidays: 
+
++ [Ministarstvo znanosti i obrazovanja | 2022/2023](https://narodne-novine.nn.hr/eli/sluzbeni/2022/54/715)
++ [Ministarstvo znanosti i obrazovanja | 2021/2022](https://narodne-novine.nn.hr/eli/sluzbeni/2021/45/924)
++ [Ministarstvo znanosti i obrazovanja | 2020/2021](https://narodne-novine.nn.hr/eli/sluzbeni/2020/57/1156)
++ [Ministarstvo znanosti i obrazovanja | 2019/2020](https://narodne-novine.nn.hr/eli/sluzbeni/2019/48/938)
+
 ### Czechia
 
 Public holidays:
 
-+ [Svátky v České republice](https://www.mpsv.cz/web/cz/svatky-v-ceske-republice)
++ [Zákon č. 245/2000 Sb. ze dne 29. června 2000](https://www.mpsv.cz/web/cz/svatky-v-ceske-republice)
 
 School holidays:
 
@@ -70,14 +98,14 @@ Public holidays:
 
 School holidays:
 
-+ [Ministère de l'Education Nationale et de la Jeunesse: Calendrier scolaire](https://www.education.gouv.fr/calendrier-scolaire)
-+ [Calendrier scolaire 2019-2020](https://www.education.gouv.fr/media/44402/download)
-+ [Calendrier scolaire 2020-2021](https://www.education.gouv.fr/media/51786/download)
-+ [Calendrier scolaire 2021-2022](https://www.education.gouv.fr/media/74054/download)
-+ [Calendrier scolaire 2022-2023](https://www.education.gouv.fr/media/91418/download)
-+ [Calendrier scolaire 2023-2024](https://www.education.gouv.fr/media/119692/download)
-+ [Calendrier scolaire 2024-2025](https://www.education.gouv.fr/media/119767/download)
++ [Ministère de l'Education Nationale et de la Jeunesse | Calendrier scolaire](https://www.education.gouv.fr/calendrier-scolaire)
 + [Calendrier scolaire 2025-2026](https://www.education.gouv.fr/media/119770/download)
++ [Calendrier scolaire 2024-2025](https://www.education.gouv.fr/media/119767/download)
++ [Calendrier scolaire 2023-2024](https://www.education.gouv.fr/media/119692/download)
++ [Calendrier scolaire 2022-2023](https://www.education.gouv.fr/media/91418/download)
++ [Calendrier scolaire 2021-2022](https://www.education.gouv.fr/media/74054/download)
++ [Calendrier scolaire 2020-2021](https://www.education.gouv.fr/media/51786/download)
++ [Calendrier scolaire 2019-2020](https://www.education.gouv.fr/media/44402/download)
 
 ### Germany
 
@@ -134,6 +162,19 @@ School holidays:
 + [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2200022.bm)
 + [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2100020.emm)
 
+### Ireland
+
+Public holidays:
+
++ [Workplace Relations Commission | Public Holidays](https://www.workplacerelations.ie/en/what_you_should_know/public-holidays/)
++ [Organisation of Working Time Act, 1997](https://www.irishstatutebook.ie/eli/1997/act/20/schedule/2/enacted/en/html#sched2)
++ [Government agrees Covid Recognition Payment and New Public Holiday](https://www.gov.ie/en/press-release/b926b-government-agrees-covid-recognition-payment-and-new-public-holiday/)
+
+School holidays: 
+
++ [Department of Education | School holiday dates](https://www.gov.ie/en/service/388196-school-holiday-dates/)
++ [An Roinn Oideachais | Laethanta saoire scoile dátaí](https://www.gov.ie/ga/seirbhis/dae1c6-none/)
+
 ### Latvia
 
 Public holidays:
@@ -142,19 +183,19 @@ Public holidays:
 
 School holidays:
 
-+ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2020./2021. mācību gada garumu, mācību semestriem un brīvlaikiem](https://www.mk.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20202021-macibu-gada-garumu-macibu-semestriem-un-brivlaikiem)
-+ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2021./2022. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20212022-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
 + [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2022./2023. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20222023-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2021./2022. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20212022-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2020./2021. mācību gada garumu, mācību semestriem un brīvlaikiem](https://www.mk.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20202021-macibu-gada-garumu-macibu-semestriem-un-brivlaikiem)
 
 ### Liechtenstein
 
 Public holidays:
 
-+ [Rechtsdienst der Regierung: Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
++ [Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
 
 School holidays:
 
-+ [Schulamt Fürstentum Liechtenstein: Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
++ [Schulamt Fürstentum Liechtenstein | Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
 
 ### Lithuania
 
@@ -186,11 +227,11 @@ Public holidays:
 
 School holidays:
 
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2021-2022](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2021-2022)
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2022-2023](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2022-2023)
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
 + [Rijksoverheid.nl: Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2022-2023](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2022-2023)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2021-2022](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2021-2022)
 
 ### Poland
 
@@ -206,11 +247,11 @@ School holidays:
 
 Public holidays:
 
-+ [Úrad vlády Slovenskej republiky: Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
++ [Úrad vlády Slovenskej republiky | Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
 
 School holidays:
 
-+ [Ministerstvo školstva, vedy, výskumu a športu: Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
++ [Ministerstvo školstva, vedy, výskumu a športu | Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
 
 ### Switzerland
 
@@ -220,11 +261,11 @@ Public holidays:
 
 School holidays:
 
-+ [Schweizerische Dokumentenserver Bildung: Schulferien 2020 (PDF)](https://edudoc.ch/record/131016/files/Schulferien_2020_def.pdf)
-+ [Schweizerische Dokumentenserver Bildung: Schulferien 2021 (PDF)](https://edudoc.ch/record/204064/files/Schulferien_2021.pdf)
-+ [Schweizerische Dokumentenserver Bildung: Schulferien 2022 (PDF)](https://edudoc.ch/record/209813/files/Schulferien_2022.pdf)
-+ [Schweizerische Dokumentenserver Bildung: Schulferien 2023 (PDF)](https://edudoc.ch/record/218325/files/Schulferien_2023.pdf)
 + [Schweizerische Dokumentenserver Bildung: Schulferien 2024 (PDF)](https://edudoc.ch/record/224765/files/Schulferien_2024.pdf)
++ [Schweizerische Dokumentenserver Bildung: Schulferien 2023 (PDF)](https://edudoc.ch/record/218325/files/Schulferien_2023.pdf)
++ [Schweizerische Dokumentenserver Bildung: Schulferien 2022 (PDF)](https://edudoc.ch/record/209813/files/Schulferien_2022.pdf)
++ [Schweizerische Dokumentenserver Bildung: Schulferien 2021 (PDF)](https://edudoc.ch/record/204064/files/Schulferien_2021.pdf)
++ [Schweizerische Dokumentenserver Bildung: Schulferien 2020 (PDF)](https://edudoc.ch/record/131016/files/Schulferien_2020_def.pdf)
 + [Appenzell Innerrhode | Ferienplan und schulfreie Tage](https://www.ai.ch/themen/bildung/eltern-und-schule/ferienplan)
 + [Basel Landschaft | Schulferien](https://www.baselland.ch/politik-und-behorden/direktionen/bildungs-kultur-und-sportdirektion/bildung/Schulferien)
 + [Bern | Schulferienordnung](https://www.bern.ch/themen/bildung/schule/schulferien/ftw-simplelayout-filelistingblock/schulferienordnung-2021-bis-2023.pdf/view)
@@ -239,10 +280,10 @@ School holidays:
 
 Publications Office of the European Union:
 
-+ [The organisation of school time in Europe : primary and general secondary education : 2019/20](https://op.europa.eu/en/publication-detail/-/publication/5f888c4e-e0d9-11e9-9c4e-01aa75ed71a1)
-+ [The organisation of school time in Europe : primary and general secondary education : 2020/21](https://op.europa.eu/en/publication-detail/-/publication/7260fb98-0dcc-11eb-bc07-01aa75ed71a1)
-+ [The organisation of school time in Europe : primary and general secondary education : 2021/22](https://op.europa.eu/en/publication-detail/-/publication/f4e1c244-19ba-11ec-b4fe-01aa75ed71a1)
-+ [The Organisation of school time in Europe. Primary and general secondary education – 2022/2023](https://eurydice.eacea.ec.europa.eu/publications/organisation-school-time-europe-primary-and-general-secondary-education-20222023)
++ [The Organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://eurydice.eacea.ec.europa.eu/publications/organisation-school-time-europe-primary-and-general-secondary-education-20222023)
++ [The organisation of school time in Europe. Primary and general secondary education | 2021/2022](https://op.europa.eu/en/publication-detail/-/publication/f4e1c244-19ba-11ec-b4fe-01aa75ed71a1)
++ [The organisation of school time in Europe. Primary and general secondary education | 2020/2021](https://op.europa.eu/en/publication-detail/-/publication/7260fb98-0dcc-11eb-bc07-01aa75ed71a1)
++ [The organisation of school time in Europe. Primary and general secondary education | 2019/2020](https://op.europa.eu/en/publication-detail/-/publication/5f888c4e-e0d9-11e9-9c4e-01aa75ed71a1)
 
 ## Can I help?
 

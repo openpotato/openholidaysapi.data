@@ -1,12 +1,15 @@
 ﻿IsoCode;Name;OfficialLanguages
 AT;EN Austria,DE Österreich,FR Autriche (l');DE
 BE;EN Belgium,NL België,FR Belgique (la),DE Belgien;NL,FR,DE
+BG;EN Bulgaria,BG България,DE Bulgarien,FR Bulgarie (la);BG
 CH;EN Switzerland,DE Schweiz,FR Suisse (la),IT Svizzera (la),RM Svizra (la);DE,FR,IT,RM
 CZ;EN Czechia,CS Česko,DE Tschechien,FR Tchéquie (la);CS
 DE;EN Germany,DE Deutschland,FR Allemagne (l');DE
 EE;EN Estonia,ET Eesti,DE Estland,FR Estonie (l');ET
 FR;EN France,FR France (la),DE Frankreich;FR
+HR;EN Croatia,HR Hrvatska,DE Kroatien,FR Croatie (la);HR
 HU;EN Hungary,HU Magyarország,DE Ungarn,FR Hongrie (la);HU
+IE;EN Ireland,GA Éire,DE Irland,FR Irlande (l');EN,GA
 LI;EN Liechtenstein,DE Liechtenstein,FR Liechtenstein (le);DE
 LT;EN Lithuania,LT Lietuva,DE Litauen,FR Lituanie (la);LT
 LU;EN Luxembourg,LB Lëtzebuerg,FR Luxembourg (le),DE Luxemburg;LB,FR,DE

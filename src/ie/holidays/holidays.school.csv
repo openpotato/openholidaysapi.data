@@ -1,0 +1,36 @@
+﻿Id;Country;StartDate;EndDate;Type;Name;Comment
+7ee9804d-b8d8-431d-9d34-962f8b08f4c8;IE;2019-10-28;2019-11-01;School;EN October mid-term break,GA Sos lár-téarma Dheireadh Fómhair,DE Semesterferien im Oktober;
+b1ca9ead-2051-481d-84e0-e708c4bb320f;IE;2019-12-20;2020-01-05;School;EN Christmas,GA Nollaig,DE Weihnachten;
+3d54b6c3-3731-4136-844c-92e2d59043eb;IE;2020-02-17;2020-02-21;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Post-primary schools,GA Iar-bhunscoileanna,DE Weiterführende Schulen
+e1a30d32-7456-4714-b23d-238cdcd18661;IE;2020-02-20;2020-02-21;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Primary schools,GA Bunscoileanna,DE Grundschulen
+da3aa668-0e6b-4395-9b5e-dfda7e5277f3;IE;2020-04-03;2020-04-19;School;EN Easter,GA Cáisc,DE Ostern;
+d18db1e3-e4b9-43eb-b3f0-6a7573fb4a7e;IE;2020-10-26;2020-10-30;School;EN October mid-term break,GA Sos lár-téarma Dheireadh Fómhair,DE Semesterferien im Oktober;
+20908035-401c-4918-b3f6-01a1369deb89;IE;2020-12-22;2021-01-05;School;EN Christmas,GA Nollaig,DE Weihnachten;
+354ec3fb-fb56-49e8-8659-970e9cc41585;IE;2021-02-15;2021-02-19;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Post-primary schools,GA Iar-bhunscoileanna,DE Weiterführende Schulen
+802e2f4a-cf5c-4da6-bf28-eb01e640a535;IE;2021-02-18;2021-02-19;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Primary schools,GA Bunscoileanna,DE Grundschulen
+509038b9-9cf2-4be4-aa78-2b28aa67075d;IE;2021-03-26;2021-04-11;School;EN Easter,GA Cáisc,DE Ostern;
+3dfe85b4-5cb7-40a9-8644-6cdcee83cce3;IE;2021-10-25;2021-10-29;School;EN October mid-term break,GA Sos lár-téarma Dheireadh Fómhair,DE Semesterferien im Oktober;
+796ab718-294a-4c72-a398-42c0f8a8697c;IE;2021-12-22;2022-01-05;School;EN Christmas,GA Nollaig,DE Weihnachten;
+76112df0-6b3f-471e-9261-035daaeb55f1;IE;2022-02-21;2022-02-25;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Post-primary schools,GA Iar-bhunscoileanna,DE Weiterführende Schulen
+f76022f3-6b60-49a8-9143-411b8a9fde4d;IE;2022-02-24;2022-02-25;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Primary schools,GA Bunscoileanna,DE Grundschulen
+771750e7-b446-4248-98f6-108c5a1f0e18;IE;2022-04-08;2022-04-24;School;EN Easter,GA Cáisc,DE Ostern;
+7d2b32a3-fe46-4712-9c64-7f33f0750658;IE;2022-10-31;2022-11-04;School;EN October mid-term break,GA Sos lár-téarma Dheireadh Fómhair,DE Semesterferien im Oktober;
+39f65739-987f-4232-a44a-9d8b6e0a61e8;IE;2022-12-21;2023-01-04;School;EN Christmas,GA Nollaig,DE Weihnachten;
+c3239096-87d4-42f8-ab94-113a8349df11;IE;2023-02-13;2023-02-17;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Post-primary schools,GA Iar-bhunscoileanna,DE Weiterführende Schulen
+8deff61b-4a28-4a88-90e1-bce5d680b38e;IE;2023-02-16;2023-02-17;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Primary schools,GA Bunscoileanna,DE Grundschulen
+3eb22525-0182-4ecb-b6ef-113b61b0441a;IE;2023-03-31;2023-04-16;School;EN Easter,GA Cáisc,DE Ostern;
+5d2afaf3-f8ba-4502-bfb6-83af4a955a64;IE;2023-10-30;2023-11-03;School;EN October mid-term break,GA Sos lár-téarma Dheireadh Fómhair,DE Semesterferien im Oktober;
+72b5a454-a040-49ca-8c5a-1cdfae2feb20;IE;2023-12-22;2024-01-07;School;EN Christmas,GA Nollaig,DE Weihnachten;
+f215de65-b7d6-4b39-bf55-f572c38dba36;IE;2024-02-12;2024-02-16;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Post-primary schools,GA Iar-bhunscoileanna,DE Weiterführende Schulen
+0294c616-f287-4a8e-92c1-9fae229a2f6d;IE;2024-02-15;2024-02-16;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Primary schools,GA Bunscoileanna,DE Grundschulen
+94fe1740-9bac-485f-8f77-f2698e5cc6f9;IE;2024-03-22;2024-04-07;School;EN Easter,GA Cáisc,DE Ostern;
+6df99745-94e3-4f64-96db-4c445de70760;IE;2024-10-28;2024-11-01;School;EN October mid-term break,GA Sos lár-téarma Dheireadh Fómhair,DE Semesterferien im Oktober;
+01201dfb-58ac-43e7-bcb3-5a591590514b;IE;2024-12-20;2025-01-05;School;EN Christmas,GA Nollaig,DE Weihnachten;
+efde2939-36af-4576-a30f-3d32c533c1a8;IE;2025-02-17;2025-02-21;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Post-primary schools,GA Iar-bhunscoileanna,DE Weiterführende Schulen
+c41a5bdb-45bf-479b-b56f-86f11db5ff8d;IE;2025-02-20;2025-02-21;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Primary schools,GA Bunscoileanna,DE Grundschulen
+a7acb125-d301-4741-8056-5682fc8896a2;IE;2025-04-11;2025-04-27;School;EN Easter,GA Cáisc,DE Ostern;
+c50eeaae-6c43-4f58-a1b6-8a6b25c3291f;IE;2025-10-27;2025-10-31;School;EN October mid-term break,GA Sos lár-téarma Dheireadh Fómhair,DE Semesterferien im Oktober;
+b177c314-588b-4faa-9d52-e09565e2e230;IE;2025-12-19;2026-01-04;School;EN Christmas,GA Nollaig,DE Weihnachten;
+f0a366a4-7377-4837-b78c-b6290b611cb8;IE;2026-02-16;2026-02-20;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Post-primary schools,GA Iar-bhunscoileanna,DE Weiterführende Schulen
+c876b04f-74c4-4210-8283-c57f9c38228f;IE;2026-02-19;2026-02-20;School;EN February mid-term break,GA Sos lár-téarma na Feabhra,DE Semesterferien im Februar;EN Primary schools,GA Bunscoileanna,DE Grundschulen
+803e90b4-d8b9-434b-84b9-94ce779d41f9;IE;2026-03-27;2026-04-12;School;EN Easter,GA Cáisc,DE Ostern;
