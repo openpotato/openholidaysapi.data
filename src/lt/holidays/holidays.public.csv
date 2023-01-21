@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Comment
 8984d6cd-0a4c-4c4e-88da-9214efa9713f;LT;2020-01-01;;Public;LT Naujieji metai,DE Neujahr,EN New Year's Day;
 8d2a6c64-6e0c-485a-9b61-64713d7f923c;LT;2020-02-16;;Public;LT Lietuvos valstybės atkūrimo diena,DE Tag der Wiederherstellung des litauischen Staates,EN Day of restoration of the Lithuanian state;
 208c9915-cd28-4beb-bbed-daf598566e76;LT;2020-03-11;;Public;LT Lietuvos nepriklausomybės atkūrimo diena,DE Tag der Wiederherstellung der Unabhängigkeit Litauens,EN Day of Restoration of Independence of Lithuania;

@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;OUnits;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
 d8ceec7d-f6d3-47fd-90b1-e574115aceb6;BE;2020-02-24;2020-02-28;School;DE Karnevalsferien,FR Congé de détente (Carnaval),NL Krokusvakantie,EN Carnival Holidays;DE;
 baa0abfa-e5fe-494c-b384-1cd9d84e1973;BE;2020-04-06;2020-04-17;School;DE Osterferien,FR Vacances de printemps (Pâques),NL Paasvakantie,EN Spring Holidays;DE;
 3641e30b-9ad5-4025-9aec-ad66fc2783d4;BE;2020-07-01;2020-08-30;School;DE Sommerferien,FR Vacances d'été,NL Zomervakantie,EN Summer Holidays;DE;

@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
 65144fb0-5f4d-42f8-b656-018093434eb7;CH;2020-02-21;2020-03-01;School;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (25.01.2020-02.02.2020)
 94000dac-2c28-4fc5-a9af-762e259b0202;CH;2020-04-04;2020-04-19;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
 98789744-6b32-4108-b727-59bcb0c0e783;CH;2020-07-04;2020-08-16;School;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (04.07.2020-09.08.2020)

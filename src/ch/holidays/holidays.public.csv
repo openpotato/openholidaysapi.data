@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
 2e635824-9ae7-48dc-9fd4-df43d64fcdc8;CH;2020-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;;
 8649224c-12df-4984-aa7a-f84831bb8e77;CH;2020-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;ZH,BE,LU,OW,NW,GL,ZG,FR,SO,SH,SG,AG,TG,VD,VS,NE,JU;
 4f8a15b8-4f2b-4ebf-bfc9-337657473ad5;CH;2020-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;GR,SZ,TI,UR;

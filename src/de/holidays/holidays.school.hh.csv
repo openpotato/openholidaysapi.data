@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 b631bb39-d371-447e-bf26-0fcef3e7447a;DE;2020-01-31;;School;DE Halbjahrespause,EN Mid-Year Break;HH
 e2152d9f-3f53-40f4-bec4-9c9b1ff74519;DE;2020-03-02;2020-03-13;School;DE Frühjahrsferien,EN Spring Holidays;HH
 5f005e0d-06ae-4a9f-ab63-3a1b13099b21;DE;2020-05-18;2020-05-22;School;DE Pfingstferien,EN Pentecost Holidays;HH

@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Comment
 e20e5640-2a3d-4c28-9547-b9adf2693d4d;LV;2020-03-16;2020-03-20;School;LV Pavasara brīvdienas,DE Frühjahrsferien,EN Spring Holidays;
 9623f232-9402-44fe-97f4-0dd1fa0aa827;LV;2020-06-01;2020-08-31;School;LV Vasaras brīvdienas,DE Sommerferien,EN Summer Holidays;
 fb034992-5d57-49e4-91b1-6257197d8e2f;LV;2020-10-19;2020-10-23;School;LV Rudens brīvdienas,DE Herbstferien,EN Autumn Holidays;

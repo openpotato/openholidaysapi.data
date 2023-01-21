@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 20937e1a-f364-4a16-b1e6-900892e51ec3;PL;2020-01-01;;Public;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
 8ed37e36-f622-4231-b0bd-1cc18fe89bd8;PL;2020-01-06;;Public;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
 73e3c457-adc3-4c77-9498-c3e8b5688c9e;PL;2020-04-12;;Public;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP

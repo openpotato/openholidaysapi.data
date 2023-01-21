@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
 8f580c2d-2cb6-4708-82d8-3e1b4dfa633b;CH;2020-02-01;2020-02-16;School;DE Sport,FR Sport,IT Sport,EN Sport;SO;DE Mittel- und Berufsschulen
 9823a9d8-a9f0-4ef5-83a7-f52b322b563e;CH;2020-04-04;2020-04-19;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;SO;DE Mittel- und Berufsschulen
 d2475eba-08d8-41cd-adea-b0044d47925a;CH;2020-07-04;2020-08-09;School;DE Sommer,FR Été,IT Estate,EN Summer;SO;DE Mittel- und Berufsschulen

@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 9d871f66-91c4-48b7-8687-f131240b6485;DE;2020-07-16;2020-08-26;School;DE Sommerferien,EN Summer Holidays;HB
 202f12b7-d1f6-461e-afe4-89643ea4524b;DE;2020-10-12;2020-10-24;School;DE Herbstferien,EN Autumn Holidays;HB
 4c6e7498-fad8-4ecc-9192-c737790cf305;DE;2020-12-23;2021-01-08;School;DE Weihnachtsferien,EN Christmas Holidays;HB

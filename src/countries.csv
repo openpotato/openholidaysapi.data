@@ -1,7 +1,7 @@
-﻿IsoCode;Names;OfficialLanguages
+﻿IsoCode;Name;OfficialLanguages
 AT;EN Austria,DE Österreich,FR Autriche (l');DE
 BE;EN Belgium,NL België,FR Belgique (la),DE Belgien;NL,FR,DE
-CH;EN Switzerland,DE Schweiz (die),FR Suisse (la),IT Svizzera (la),RM Svizra (la);DE,FR,IT,RM
+CH;EN Switzerland,DE Schweiz,FR Suisse (la),IT Svizzera (la),RM Svizra (la);DE,FR,IT,RM
 CZ;EN Czechia,CS Česko,DE Tschechien,FR Tchéquie (la);CS
 DE;EN Germany,DE Deutschland,FR Allemagne (l');DE
 EE;EN Estonia,ET Eesti,DE Estland,FR Estonie (l');ET

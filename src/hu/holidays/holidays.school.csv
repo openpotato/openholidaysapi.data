@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names
+﻿Id;Country;StartDate;EndDate;Type;Name
 4e0e8be3-b16c-48c1-bd12-ff0893a3c72e;HU;2020-04-09;2020-04-14;School;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
 ff34faa6-1cf7-4291-a831-6118013abec0;HU;2020-06-16;2020-08-31;School;HU Nyári szünet,DE Sommerferien,EN Summer holidays
 a176280f-2b7c-4111-a022-407b659c1ed5;HU;2020-10-22;2020-11-01;School;HU Őszi szünet,DE Herbstferien,EN Autumn holidays

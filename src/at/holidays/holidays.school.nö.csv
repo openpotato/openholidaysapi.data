@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
 ad381839-5e50-4a61-a99b-0ee616b38609;AT;2020-02-03;2020-02-09;School;DE Semesterferien,EN Semester Holidays;NÖ;
 02038694-b281-4cf6-8beb-1f6cf2e10937;AT;2020-04-04;2020-04-14;School;DE Osterferien,EN Easter Holidays;NÖ;
 21e59413-0622-4027-b9c9-5417a2f8c680;AT;2020-05-30;2020-06-02;School;DE Pfingstferien,EN Pentecost Holidays;NÖ;

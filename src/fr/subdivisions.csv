@@ -1,0 +1,28 @@
+﻿Country;Code;ShortName;Category;Name;OfficialLanguages;Parent
+FR;FR-ZA;ZA;FR zone,DE Zone,EN zone;FR Zone A,DE Zone A,EN Zone A;FR;
+FR;FR-ZB;ZB;FR zone,DE Zone,EN zone;FR Zone B,DE Zone B,EN Zone B;FR;
+FR;FR-ZC;ZC;FR zone,DE Zone,EN zone;FR Zone C,DE Zone C,EN Zone C;FR;
+FR;FR-ZA-BE;BE;FR académie,DE Schulbezirk,EN school district;FR Besançon;FR;ZA
+FR;FR-ZA-BO;BO;FR académie,DE Schulbezirk,EN school district;FR Bordeaux;FR;ZA
+FR;FR-ZA-CF;CF;FR académie,DE Schulbezirk,EN school district;FR Clermont-Ferrand;FR;ZA
+FR;FR-ZA-DI;DI;FR académie,DE Schulbezirk,EN school district;FR Dijon;FR;ZA
+FR;FR-ZA-GR;GR;FR académie,DE Schulbezirk,EN school district;FR Grenoble;FR;ZA
+FR;FR-ZA-LI;LI;FR académie,DE Schulbezirk,EN school district;FR Limoges;FR;ZA
+FR;FR-ZA-LY;LY;FR académie,DE Schulbezirk,EN school district;FR Lyon;FR;ZA
+FR;FR-ZA-PO;PO;FR académie,DE Schulbezirk,EN school district;FR Poitiers;FR;ZA
+FR;FR-ZB-AM;AM;FR académie,DE Schulbezirk,EN school district;FR Amiens;FR;ZB
+FR;FR-ZB-AX;AX;FR académie,DE Schulbezirk,EN school district;FR Aix-Marseille;FR;ZB
+FR;FR-ZB-LL;LL;FR académie,DE Schulbezirk,EN school district;FR Lille;FR;ZB
+FR;FR-ZB-NA;NA;FR académie,DE Schulbezirk,EN school district;FR Nantes;FR;ZB
+FR;FR-ZB-NI;NI;FR académie,DE Schulbezirk,EN school district;FR Nice;FR;ZB
+FR;FR-ZB-NM;NM;FR académie,DE Schulbezirk,EN school district;FR Nancy-Metz;FR;ZB
+FR;FR-ZB-NO;NO;FR académie,DE Schulbezirk,EN school district;FR Normandie;FR;ZB
+FR;FR-ZB-OT;OT;FR académie,DE Schulbezirk,EN school district;FR Orléans-Tours;FR;ZB
+FR;FR-ZB-RE;RE;FR académie,DE Schulbezirk,EN school district;FR Reims;FR;ZB
+FR;FR-ZB-RN;RN;FR académie,DE Schulbezirk,EN school district;FR Rennes;FR;ZB
+FR;FR-ZB-ST;ST;FR académie,DE Schulbezirk,EN school district;FR Strasbourg;FR;ZB
+FR;FR-ZC-CR;CR;FR académie,DE Schulbezirk,EN school district;FR Créteil;FR;ZC
+FR;FR-ZC-MO;MO;FR académie,DE Schulbezirk,EN school district;FR Montpellier;FR;ZC
+FR;FR-ZC-PA;PA;FR académie,DE Schulbezirk,EN school district;FR Paris;FR;ZC
+FR;FR-ZC-TO;TO;FR académie,DE Schulbezirk,EN school district;FR Toulouse;FR;ZC
+FR;FR-ZC-VE;VE;FR académie,DE Schulbezirk,EN school district;FR Versailles;FR;ZC

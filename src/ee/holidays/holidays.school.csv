@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Comment
 ea5c2f81-6cc2-456a-a4ba-f376d9d959b2;EE;2020-02-24;2020-03-01;School;EE talvepuhkus,DE Winterferien,EN Winter Holidays;
 c611e6fc-d113-4e9d-99a4-671390fa9139;EE;2020-04-20;2020-04-26;School;EE kevadpühad,DE Frühjahrsferien,EN Spring Holidays;
 88e8b542-5958-414f-b0be-493f3f3f344b;EE;2020-06-10;2020-08-31;School;EE suvepuhkus,DE Sommerferien,EN Summer Holidays;

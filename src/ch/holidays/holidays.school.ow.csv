@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
 26d95037-c303-4135-99a8-3686518e8778;CH;2020-02-15;2020-03-01;School;DE Sport,FR Sport,IT Sport,EN Sport;OW;DE Ausnahmeregelung für Gemeinde Engelberg (20.02.2020-01.03.2020)
 eb20e3ba-106a-469f-bbbd-ced3240351f1;CH;2020-04-10;2020-04-26;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;
 7adcdbbf-0b47-49a2-a1c1-56cb85eb6a8f;CH;2020-07-04;2020-08-16;School;DE Sommer,FR Été,IT Estate,EN Summer;OW;DE Ausnahmeregelung für Gemeinde Engelberg (27.06.2020-09.08.2020)

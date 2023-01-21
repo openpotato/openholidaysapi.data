@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
 3c9a9134-f2c8-4189-bdbb-dc72988ad266;CH;2020-04-04;2020-04-19;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;AG;
 0c0d8563-57a7-4ba7-bc46-03435365380a;CH;2020-07-18;2020-08-09;School;DE Sommer,FR Été,IT Estate,EN Summer;AG;
 4fccb5a7-80bf-4966-8b53-7c060ab585d3;CH;2020-09-26;2020-10-11;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;AG;

@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Comment
 0239702d-e7b8-4c88-b743-323e557496dd;EE;2020-01-01;;Public;EE uusaasta,DE Neujahr,EN New Year's Day;
 4f6c74b5-7917-4010-b04d-ca1a515e81ad;EE;2020-02-24;;Public;EE iseseisvuspäev,DE Unabhängigkeitstag,EN Independence Day;
 ce30d02c-21bc-4a7f-8862-72fab927ef61;EE;2020-04-10;;Public;EE suur reede,DE Karfreitag,EN Good Friday;

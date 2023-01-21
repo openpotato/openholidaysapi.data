@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
 6cf5611f-759c-4519-89ae-309f3bd970d6;CH;2020-02-01;2020-02-16;School;DE Sport,FR Sport,IT Sport,EN Sport;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
 ea57d6d3-a29e-411b-8bcf-8ef6b3d0a94b;CH;2020-04-11;2020-04-26;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
 ef898be0-7b61-4e71-99ef-1ba0f9838efb;CH;2020-07-04;2020-08-16;School;DE Sommer,FR Été,IT Estate,EN Summer;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques

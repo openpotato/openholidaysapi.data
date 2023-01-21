@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Comment
 36224fd3-4638-4120-8915-7cfbf261f156;LV;2020-01-01;;Public;LV Jaungada dienu,DE Neujahr,EN New Year's Day;
 bfe4e5f5-056e-4455-910f-ea4cad3ce0c8;LV;2020-04-10;;Public;LV Lielo Piektdienu,DE Karfreitag,EN Good Friday;
 3183bd6c-da60-467e-85f4-b205a668ff4a;LV;2020-04-12;;Public;LV Pirmās Lieldienas,DE Ostersonntag,EN Easter Sunday;

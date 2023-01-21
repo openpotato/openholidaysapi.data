@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names
+﻿Id;Country;StartDate;EndDate;Type;Name
 78465c35-9dbd-458b-bd38-ea8105d9d9d0;BE;2020-01-01;;Public;FR Jour de l'an,NL Nieuwjaarsdag,DE Neujahrstag,EN New Year's Day
 a5f2914b-a5d2-4883-a576-893a1f4e194d;BE;2020-04-12;;Public;FR Pâques,NL Pasen,DE Ostern,EN Easter
 b171e19e-24b4-4a06-9072-a8d2867a46f9;BE;2020-04-13;;Public;FR Lundi de Pâques,NL Paasmaandag,DE Ostermontag,EN Easter Monday

@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Comment
 d025183d-b77b-462c-903f-a076f1dc1d56;LU;2020-01-01;;Public;DE Neujahr,FR Nouvel An,LB Neijoerschdag,EN New Year;
 093665a9-1a38-4285-9a39-3cb3bb1c599d;LU;2020-04-13;;Public;DE Ostermontag,FR Lundi de Pâques,LB Ouschterméindeg,EN Easter Monday;
 40c09ef3-43d8-41c1-8175-dd454e92e129;LU;2020-05-01;;Public;DE 1. Mai,FR Premier Mai,LB Dag vun der Aarbecht,EN Mayday;

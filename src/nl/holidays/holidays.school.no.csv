@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;OUnits
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 02e266c7-68e5-42bb-a547-d667facbdf13;NL;2020-02-15;2020-02-23;School;NL Voorjaarsvakantie,DE Frühjahrsferien,EN Spring Holidays;NO
 bd72e7b9-5eb2-481e-a000-65cc9283f984;NL;2020-04-25;2020-05-03;School;NL Meivakantie,DE Maiferien,EN May Holidays;NO
 f78b4f05-e7a6-4a36-ad5f-e4a83a69e34d;NL;2020-07-04;2020-08-16;School;NL Zomervakantie,DE Sommerferien,EN Summer Holidays;NO

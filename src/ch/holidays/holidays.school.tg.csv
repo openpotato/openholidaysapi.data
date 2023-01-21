@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
 28c349bf-630a-4352-892a-d0b08871d291;CH;2020-01-25;2020-02-02;School;DE Sport,FR Sport,IT Sport,EN Sport;TG;
 76a3d082-44b9-4bcc-ab96-1e71dfa5705d;CH;2020-03-28;2020-04-13;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;TG;
 a9ec9622-5168-4e63-becd-00118737dfd6;CH;2020-07-04;2020-08-09;School;DE Sommer,FR Été,IT Estate,EN Summer;TG;

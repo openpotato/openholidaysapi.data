@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 a076d102-7759-4581-b79a-b48337520f71;SK;2020-02-17;2020-02-21;School;SK Jarné prázdniny,DE Frühjahrsferien,EN Spring holidays;BL,NI,TA 
 08e80b1c-6e39-4d6a-a86a-ea84ba746ab3;SK;2020-02-24;2020-02-28;School;SK Jarné prázdniny,DE Frühjahrsferien,EN Spring holidays;BC,ZI,TC 
 fb8f0850-1297-49f0-9e04-c9b97de64b36;SK;2020-03-02;2020-03-06;School;SK Jarné prázdniny,DE Frühjahrsferien,EN Spring holidays;KI,PV

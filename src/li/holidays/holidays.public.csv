@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Comments
+﻿Id;Country;StartDate;EndDate;Type;Name;Comment
 8583d2e2-5bb5-4f24-aaa8-529b04b58589;LI;2020-01-01;;Public;DE Neujahr,EN New Year's Day;
 7dda8a23-9aec-4720-a44d-6fcadbc79110;LI;2020-01-02;;Public;DE Lichtmess,EN Candlemas;
 39c8035d-75a5-4ecf-8a93-8233acb95fcc;LI;2020-01-06;;Public;DE Heilige Drei Könige,EN Epiphany;

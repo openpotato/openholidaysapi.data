@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 113d6e8d-70c5-4371-8ed1-6014080065b2;DE;2020-03-30;2020-04-17;School;DE Osterferien,EN Easter Holidays;SH
 a4a3e9ac-578e-435e-8b6a-6d3bdcf39608;DE;2020-05-22;;School;DE Himmelfahrt,EN Ascension;SH
 809edd99-2e24-4eb2-a6a8-26483ac731ec;DE;2020-06-29;2020-08-08;School;DE Sommerferien,EN Summer Holidays;SH

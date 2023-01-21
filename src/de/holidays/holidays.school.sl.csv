@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 c33da2b4-ae5a-4c00-a87a-3603e372ad6c;DE;2020-02-17;2020-02-25;School;DE Fastnachtsferien,EN Carnival Holidays;SL
 b91c485d-38d1-42f0-95cf-31d58b3c4be8;DE;2020-04-14;2020-04-24;School;DE Osterferien,EN Easter Holidays;SL
 d8600341-46a2-46c8-87a1-beaccd952ecf;DE;2020-07-06;2020-08-14;School;DE Sommerferien,EN Summer Holidays;SL

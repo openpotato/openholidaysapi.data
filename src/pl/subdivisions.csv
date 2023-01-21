@@ -1,17 +1,17 @@
-﻿Country;IsoCode;ShortName;Categories;Names;OfficialLanguages
-PL;PL-02;DS;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Dolnośląskie,DE Niederschlesien,EN Lower Silesia;PL
-PL;PL-04;KP;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Kujawsko-pomorskie,DE Kujawien-Pommern,EN Kuyavia-Pomerania;PL
-PL;PL-06;LB;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Lubelskie,DE Lublin,EN Lublin;PL
-PL;PL-08;LD;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Lubuskie,DE Lebus,EN Lubusz;PL
-PL;PL-10;LU;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Łódzkie,DE Lodsch,EN Łódź;PL
-PL;PL-12;MA;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Małopolskie,DE Kleinpolen,EN Lesser Poland;PL
-PL;PL-14;MZ;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Mazowieckie,DE Masowien,EN Mazovia;PL
-PL;PL-16;OP;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Opolskie,DE Oppeln,EN Opole (Upper Silesia);PL
-PL;PL-18;PD;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Podkarpackie,DE Karpatenvorland,EN Subcarpathia;PL
-PL;PL-20;PK;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Podlaskie,DE Podlachien,EN Podlaskie;PL
-PL;PL-22;PM;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Pomorskie,DE Pommern,EN Pomerania;PL
-PL;PL-24;SK;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Śląskie,DE Schlesien,EN Silesia;PL
-PL;PL-26;SL;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Świętokrzyskie,DE Heiligkreuz,EN Holy Cross;PL
-PL;PL-28;WN;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Warmińsko-mazurskie,DE Ermland-Masuren,EN Warmia-Masuria;PL
-PL;PL-30;WP;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Wielkopolskie,DE Großpolen,EN Greater Poland;PL
-PL;PL-32;ZP;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Zachodniopomorskie,DE Westpommern,EN West Pomerania;PL
+﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages
+PL;PL-DS;PL-02;DS;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Dolnośląskie,DE Niederschlesien,EN Lower Silesia;PL
+PL;PL-KP;PL-04;KP;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Kujawsko-pomorskie,DE Kujawien-Pommern,EN Kuyavia-Pomerania;PL
+PL;PL-LB;PL-06;LB;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Lubelskie,DE Lublin,EN Lublin;PL
+PL;PL-LD;PL-08;LD;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Lubuskie,DE Lebus,EN Lubusz;PL
+PL;PL-LU;PL-10;LU;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Łódzkie,DE Lodsch,EN Łódź;PL
+PL;PL-MA;PL-12;MA;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Małopolskie,DE Kleinpolen,EN Lesser Poland;PL
+PL;PL-MZ;PL-14;MZ;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Mazowieckie,DE Masowien,EN Mazovia;PL
+PL;PL-OP;PL-16;OP;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Opolskie,DE Oppeln,EN Opole (Upper Silesia);PL
+PL;PL-PD;PL-18;PD;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Podkarpackie,DE Karpatenvorland,EN Subcarpathia;PL
+PL;PL-PK;PL-20;PK;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Podlaskie,DE Podlachien,EN Podlaskie;PL
+PL;PL-PM;PL-22;PM;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Pomorskie,DE Pommern,EN Pomerania;PL
+PL;PL-SK;PL-24;SK;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Śląskie,DE Schlesien,EN Silesia;PL
+PL;PL-SL;PL-26;SL;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Świętokrzyskie,DE Heiligkreuz,EN Holy Cross;PL
+PL;PL-WN;PL-28;WN;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Warmińsko-mazurskie,DE Ermland-Masuren,EN Warmia-Masuria;PL
+PL;PL-WP;PL-30;WP;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Wielkopolskie,DE Großpolen,EN Greater Poland;PL
+PL;PL-ZP;PL-32;ZP;PL województwo,EN voivodship,DE Woiwodschaft,FR voïvodie;PL Zachodniopomorskie,DE Westpommern,EN West Pomerania;PL

@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 4c25e4a6-80c8-40a6-b1be-facd5748cdd9;DE;2020-02-10;2020-02-14;School;DE Winterferien,EN Winter Holidays;ST
 84bb4095-c1cd-40fc-9d06-21eb0d5f00eb;DE;2020-04-06;2020-04-11;School;DE Osterferien,EN Easter Holidays;ST
 32d9e873-79fb-4b10-96e1-5b96283773e1;DE;2020-05-18;2020-05-30;School;DE Pfingstferien,EN Pentecost Holidays;ST

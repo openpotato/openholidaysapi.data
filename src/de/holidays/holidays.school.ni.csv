@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 15b070d6-0068-4808-8901-a40937fc6903;DE;2020-02-03;2020-02-04;School;DE Halbjahresferien,EN Mid-Year Holidays;NI
 3a7032f2-e81e-457d-ab44-2e39683d9412;DE;2020-03-30;2020-04-14;School;DE Osterferien,EN Easter Holidays;NI
 17cf32a8-8ba4-4916-91a7-d1b2ffad177a;DE;2020-05-22;;School;DE Tag nach Himmelfahrt,EN Day after Ascension;NI

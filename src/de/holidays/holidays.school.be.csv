@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 c9a69cac-1185-4905-944a-9993d70816d1;DE;2020-02-03;2020-02-08;School;DE Winterferien,EN Winter Holidays;BE
 478f0f75-6c2a-48f3-baa9-49bba6298683;DE;2020-04-06;2020-04-17;School;DE Osterferien,EN Easter Holidays;BE
 59409264-fca8-46a4-97b6-9a05e7a09fa3;DE;2020-05-22;;School;DE Unterrichtsfreier Tag,EN Day off;BE

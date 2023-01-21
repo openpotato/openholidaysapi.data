@@ -1,10 +1,10 @@
-﻿Id;Country;StartDate;EndDate;Type;Names;Subdivisions;OUnits
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
 5a6cbd40-c329-4ac1-a835-ca7fd945a9eb;CZ;2020-02-03;2020-02-09;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-MB,ST-PB,JC-TA,JC-PT,JC-ST,US-UL,US-CV,US-MO,KR-JC,KR-RK,OL-OC,OL-SU,MO-OP,OL-JE;
 98203b40-4c6b-43cc-bf11-81d3725c765f;CZ;2020-02-10;2020-02-16;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-BN,ST-BE,PL-RO,JC-CB,JC-CK,PL-KT,KR-TU,PA-PU,PA-CR,PA-SY,PA-UO,MO-OV,OL-PV;
 fa5b9a49-ce72-4367-bdd3-38040a44396f;CZ;2020-01-31;2020-01-31;School;CS Pololetní prázdniny,DE Semesterferien,EN Half-term holidays;;
-d459cbfa-b87a-4eea-ae82-16773a53cc39;CZ;2020-02-17;2020-02-23;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-1-5
+d459cbfa-b87a-4eea-ae82-16773a53cc39;CZ;2020-02-17;2020-02-23;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 1 až 5,EN Prague 1-5,DE Prag 1-5,FR Prague 1 à 5
 660b0eae-71d0-42a8-b356-57cddeed2e86;CZ;2020-02-17;2020-02-23;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;JM-BK,JM-BM,JM-BO,JM-BV,JM-HO,JM-VY,JM-ZN,PL-DO,PL-TC,US-LN,MO-KI;
-d83f37a8-7157-4b51-92e3-ab015a2891f2;CZ;2020-02-24;2020-03-01;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-6-10
+d83f37a8-7157-4b51-92e3-ab015a2891f2;CZ;2020-02-24;2020-03-01;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 6 až 10,EN Prague 6-10,DE Prag 6-10,FR Prague 6 à 10
 2bb769ba-4c3a-472d-9046-67cd687fe6d3;CZ;2020-02-24;2020-03-01;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;KA-CH,KA-KV,KA-SO,ST-NB,JC-JH,US-LT,US-DC,OL-PR,MO-FM;
 4ea20c81-6078-4694-8828-cf39ee2e7177;CZ;2020-03-02;2020-03-08;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ZL-KM,ZL-UH,ZL-VS,ZL-ZL,ST-PH,ST-PZ,ST-ME,ST-RA,PL-PJ,PL-PM,PL-PS,KR-HK,US-TP,MO-NJ;
 2a96ef0d-cd7f-4490-8fec-b193f3ca07d3;CZ;2020-03-09;2020-03-15;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;LI-CL,LI-JN,LI-LB,LI-SM,VY-HB,VY-JI,VY-PE,VY-TR,VY-ZR,ST-KL,ST-KO,ST-KH,JC-PI,KR-NA,MO-BR;
@@ -16,9 +16,9 @@ ddbffcfb-51c6-4c77-ab0b-b3c74f5e1067;CZ;2021-01-29;2021-01-29;School;CS Pololetn
 b87b1467-4077-4c8c-a245-383043897675;CZ;2021-02-01;2021-02-07;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;LI-CL,LI-JN,LI-LB,LI-SM,VY-HB,VY-JI,VY-PE,VY-TR,VY-ZR,ST-KL,ST-KO,ST-KH,JC-PI,KR-NA,MO-BR;
 31695f95-e482-48b2-8642-ca27e71b756f;CZ;2021-02-08;2021-02-14;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-MB,ST-PB,JC-TA,JC-PT,JC-ST,US-UL,US-CV,US-MO,KR-JC,KR-RK,OL-OC,OL-SU,MO-OP,OL-JE;
 bbedfc52-928f-402b-bf6d-f5ad4ab3832f;CZ;2021-02-15;2021-02-21;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-BN,ST-BE,PL-RO,JC-CB,JC-CK,PL-KT,KR-TU,PA-PU,PA-CR,PA-SY,PA-UO,MO-OV,OL-PV;
-b720bb3a-976a-4fdd-9995-12c086900729;CZ;2021-02-22;2021-02-28;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-1-5
+b720bb3a-976a-4fdd-9995-12c086900729;CZ;2021-02-22;2021-02-28;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 1 až 5,EN Prague 1-5,DE Prag 1-5,FR Prague 1 à 5
 1722ddbd-e9ef-4bf5-b306-109684d5bba6;CZ;2021-02-22;2021-02-28;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;JM-BK,JM-BM,JM-BO,JM-BV,JM-HO,JM-VY,JM-ZN,PL-DO,PL-TC,US-LN,MO-KI;
-2bcf0084-813f-4ec2-8176-e8ed270434be;CZ;2021-03-01;2021-02-07;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-6-10
+2bcf0084-813f-4ec2-8176-e8ed270434be;CZ;2021-03-01;2021-02-07;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 6 až 10,EN Prague 6-10,DE Prag 6-10,FR Prague 6 à 10
 b2ea5096-c5f7-41c8-af35-3fb1309142ec;CZ;2021-03-01;2021-02-07;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;KA-CH,KA-KV,KA-SO,ST-NB,JC-JH,US-LT,US-DC,OL-PR,MO-FM;
 7bbdc012-9903-4534-b00f-ad1413a0613e;CZ;2021-03-08;2021-03-14;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ZL-KM,ZL-UH,ZL-VS,ZL-ZL,ST-PH,ST-PZ,ST-ME,ST-RA,PL-PJ,PL-PM,PL-PS,KR-HK,US-TP,MO-NJ;
 e8c5a07a-bba3-497a-b173-64cba04476a8;CZ;2021-04-01;2021-04-01;School;CS Velikonoční prázdniny,DE Osterferien,EN Easter holidays;;
@@ -30,31 +30,31 @@ f7ec42f8-a5d5-472d-b4f2-fc16fda2a9bf;CZ;2022-02-04;2022-02-04;School;CS Pololetn
 9f6d2efc-6631-47cc-adf6-ff97f6deeddf;CZ;2022-02-14;2022-02-20;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;LI-CL,LI-JN,LI-LB,LI-SM,VY-HB,VY-JI,VY-PE,VY-TR,VY-ZR,ST-KL,ST-KO,ST-KH,JC-PI,KR-NA,MO-BR;
 b10f5c47-2819-4d76-8217-d5d29e8abe78;CZ;2022-02-21;2022-02-27;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-MB,ST-PB,JC-TA,JC-PT,JC-ST,US-UL,US-CV,US-MO,KR-JC,KR-RK,OL-OC,OL-SU,MO-OP,OL-JE;
 2e694e9b-11b0-427f-8c2d-3991b2b15c15;CZ;2022-02-28;2022-03-06;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-BN,ST-BE,PL-RO,JC-CB,JC-CK,PL-KT,KR-TU,PA-PU,PA-CR,PA-SY,PA-UO,MO-OV,OL-PV;
-a6b6b0c4-f29d-4c0a-af68-ad5a2afef60f;CZ;2022-03-07;2022-03-13;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-1-5
+a6b6b0c4-f29d-4c0a-af68-ad5a2afef60f;CZ;2022-03-07;2022-03-13;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 1 až 5,EN Prague 1-5,DE Prag 1-5,FR Prague 1 à 5
 f979efc8-6010-49c9-8f04-50c8809e26c6;CZ;2022-03-07;2022-03-13;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;JM-BK,JM-BM,JM-BO,JM-BV,JM-HO,JM-VY,JM-ZN,PL-DO,PL-TC,US-LN,MO-KI;
-fd933077-00e6-4bed-9c5a-711f3b175e34;CZ;2022-03-14;2022-03-20;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-6-10
+fd933077-00e6-4bed-9c5a-711f3b175e34;CZ;2022-03-14;2022-03-20;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 6 až 10,EN Prague 6-10,DE Prag 6-10,FR Prague 6 à 10
 85b77a01-45b2-4c9c-bb50-baf39f8a3052;CZ;2022-03-14;2022-03-20;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;KA-CH,KA-KV,KA-SO,ST-NB,JC-JH,US-LT,US-DC,OL-PR,MO-FM;
 c63b4bc7-343e-4f37-b255-02a77b6174f4;CZ;2022-04-14;2022-04-14;School;CS Velikonoční prázdniny,DE Osterferien,EN Easter holidays;;
 f6ac9955-4462-42ce-8a06-248e668a035f;CZ;2022-07-01;2022-08-31;School;CS Hlavní prázdniny,DE Sommerferien,EN Summer holidays;;
 3a9bca10-a5ec-4e40-aace-5f9261f911da;CZ;2022-10-26;2022-10-27;School;CS Podzimní prázdniny,DE Herbstferien,EN Autumn holidays;;
 d2357469-74b5-457a-b108-636e7e1bd503;CZ;2022-12-23;2023-01-02;School;CS Vánoční prázdniny,DE Weihnachtsferien,EN Christmas holidays;;
 3ca903c7-7437-4f46-96bb-cc52990478dc;CZ;2023-02-03;2023-02-03;School;CS Pololetní prázdniny,DE Semesterferien,EN Half-term holidays;;
-7374ce40-56bc-4c7c-88b4-ea9bfaca9033;CZ;2023-02-06;2023-02-12;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-6-10
+7374ce40-56bc-4c7c-88b4-ea9bfaca9033;CZ;2023-02-06;2023-02-12;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 6 až 10,EN Prague 6-10,DE Prag 6-10,FR Prague 6 à 10
 1f8432c7-d274-4c8a-b854-32d9f8291388;CZ;2023-02-06;2023-02-12;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;KA-CH,KA-KV,KA-SO,ST-NB,JC-JH,US-LT,US-DC,OL-PR,MO-FM;
 86a84e9c-1ef5-4cf9-aab5-d6bfb0f81b3a;CZ;2023-02-13;2023-02-19;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ZL-KM,ZL-UH,ZL-VS,ZL-ZL,ST-PH,ST-PZ,ST-ME,ST-RA,PL-PJ,PL-PM,PL-PS,KR-HK,US-TP,MO-NJ;
 8269d7c9-7960-4632-9a39-56913eb758bc;CZ;2023-02-20;2023-02-26;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;LI-CL,LI-JN,LI-LB,LI-SM,VY-HB,VY-JI,VY-PE,VY-TR,VY-ZR,ST-KL,ST-KO,ST-KH,JC-PI,KR-NA,MO-BR;
 e2b9d616-6fcf-4f49-826e-20dac598357a;CZ;2023-02-27;2023-03-05;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-MB,ST-PB,JC-TA,JC-PT,JC-ST,US-UL,US-CV,US-MO,KR-JC,KR-RK,OL-OC,OL-SU,MO-OP,OL-JE;
 465d3863-fb48-4f89-978c-bc21b9ba774f;CZ;2023-03-06;2023-03-12;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-BN,ST-BE,PL-RO,JC-CB,JC-CK,PL-KT,KR-TU,PA-PU,PA-CR,PA-SY,PA-UO,MO-OV,OL-PV;
-7636e0d8-4840-4189-80d4-eb3e4b566617;CZ;2023-03-13;2023-03-19;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-1-5
+7636e0d8-4840-4189-80d4-eb3e4b566617;CZ;2023-03-13;2023-03-19;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 1 až 5,EN Prague 1-5,DE Prag 1-5,FR Prague 1 à 5
 8ce54704-3b90-462d-8426-24ac2ea37147;CZ;2023-03-13;2023-03-19;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;JM-BK,JM-BM,JM-BO,JM-BV,JM-HO,JM-VY,JM-ZN,PL-DO,PL-TC,US-LN,MO-KI;
 efae566c-dc69-4350-86be-bbc854152456;CZ;2023-04-06;2023-04-06;School;CS Velikonoční prázdniny,DE Osterferien,EN Easter holidays;;
 a37f9029-ef4f-442a-b58c-19de5e26d219;CZ;2023-07-01;2023-09-03;School;CS Hlavní prázdniny,DE Sommerferien,EN Summer holidays;;
 f40276d4-8a8e-4e64-8fdb-e5ffd231c738;CZ;2023-10-26;2023-10-27;School;CS Podzimní prázdniny,DE Herbstferien,EN Autumn holidays;;
 ce5bf511-d478-479d-8119-908bfbf99328;CZ;2023-12-23;2024-01-02;School;CS Vánoční prázdniny,DE Weihnachtsferien,EN Christmas holidays;;
 c5d760b7-820c-4911-8acb-7eba23c89185;CZ;2024-02-02;2024-02-02;School;CS Pololetní prázdniny,DE Semesterferien,EN Half-term holidays;;
-77b907e9-82ea-414d-81cc-daacb3d354a9;CZ;2024-02-05;2024-02-11;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-1-5
+77b907e9-82ea-414d-81cc-daacb3d354a9;CZ;2024-02-05;2024-02-11;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 1 až 5,EN Prague 1-5,DE Prag 1-5,FR Prague 1 à 5
 0e238277-1bb6-42cc-a873-464e8445e534;CZ;2024-02-05;2024-02-11;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;JM-BK,JM-BM,JM-BO,JM-BV,JM-HO,JM-VY,JM-ZN,PL-DO,PL-TC,US-LN,MO-KI;
-6f35e2d3-c31f-472f-8d04-5a085b2f8972;CZ;2024-02-12;2024-02-18;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-6-10
+6f35e2d3-c31f-472f-8d04-5a085b2f8972;CZ;2024-02-12;2024-02-18;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 6 až 10,EN Prague 6-10,DE Prag 6-10,FR Prague 6 à 10
 a231b424-e8e0-40f7-84a6-25d6d494287b;CZ;2024-02-12;2024-02-18;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;KA-CH,KA-KV,KA-SO,ST-NB,JC-JH,US-LT,US-DC,OL-PR,MO-FM;
 b899ee28-9f29-4ba7-8baa-cf87c4345b2d;CZ;2024-02-19;2024-02-25;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ZL-KM,ZL-UH,ZL-VS,ZL-ZL,ST-PH,ST-PZ,ST-ME,ST-RA,PL-PJ,PL-PM,PL-PS,KR-HK,US-TP,MO-NJ;
 211b9c78-a796-4983-a97f-3cd928eff99f;CZ;2024-02-26;2024-03-03;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;LI-CL,LI-JN,LI-LB,LI-SM,VY-HB,VY-JI,VY-PE,VY-TR,VY-ZR,ST-KL,ST-KO,ST-KH,JC-PI,KR-NA,MO-BR;
@@ -66,9 +66,9 @@ d685bec3-3903-4a46-9178-8c907aca8193;CZ;2024-06-29;2024-09-01;School;CS Hlavní 
 aa3355b1-bf46-4f85-ae1d-02b6dd2ada06;CZ;2024-12-23;2025-01-03;School;CS Vánoční prázdniny,DE Weihnachtsferien,EN Christmas holidays;;
 0b3cb202-c7e8-4dd0-ac87-58196e84c8c5;CZ;2025-01-31;2025-01-31;School;CS Pololetní prázdniny,DE Semesterferien,EN Half-term holidays;;
 d1187a76-8819-4db6-bc83-140a19590f79;CZ;2025-02-03;2025-02-09;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-BN,ST-BE,PL-RO,JC-CB,JC-CK,PL-KT,KR-TU,PA-PU,PA-CR,PA-SY,PA-UO,MO-OV,OL-PV;
-96274c98-29ce-45f2-b643-978c226600d7;CZ;2025-02-10;2025-02-16;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-1-5
+96274c98-29ce-45f2-b643-978c226600d7;CZ;2025-02-10;2025-02-16;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 1 až 5,EN Prague 1-5,DE Prag 1-5,FR Prague 1 à 5
 efbcee49-b8ac-4a30-b3ce-695a3efab49f;CZ;2025-02-10;2025-02-16;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;JM-BK,JM-BM,JM-BO,JM-BV,JM-HO,JM-VY,JM-ZN,PL-DO,PL-TC,US-LN,MO-KI;
-4f2e8e34-2721-45e4-af5c-6f2a447e4f4d;CZ;2025-02-17;2025-02-23;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-6-10
+4f2e8e34-2721-45e4-af5c-6f2a447e4f4d;CZ;2025-02-17;2025-02-23;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 6 až 10,EN Prague 6-10,DE Prag 6-10,FR Prague 6 à 10
 ba2b35c9-15ac-47eb-87c4-d707cb78dfc6;CZ;2025-02-17;2025-02-23;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;KA-CH,KA-KV,KA-SO,ST-NB,JC-JH,US-LT,US-DC,OL-PR,MO-FM;
 6a7464d1-b701-49d8-9435-307696146f33;CZ;2025-02-24;2025-03-02;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ZL-KM,ZL-UH,ZL-VS,ZL-ZL,ST-PH,ST-PZ,ST-ME,ST-RA,PL-PJ,PL-PM,PL-PS,KR-HK,US-TP,MO-NJ;
 00eca8d8-cd76-4574-8a20-6697b8198373;CZ;2025-03-03;2025-03-09;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;LI-CL,LI-JN,LI-LB,LI-SM,VY-HB,VY-JI,VY-PE,VY-TR,VY-ZR,ST-KL,ST-KO,ST-KH,JC-PI,KR-NA,MO-BR;
@@ -80,9 +80,9 @@ a8954288-4796-405c-ac90-69b07123d5b8;CZ;2025-12-22;2026-01-02;School;CS Vánočn
 3ad0fd12-63c2-41e0-ab70-6e28688fe28a;CZ;2026-01-30;2026-01-30;School;CS Pololetní prázdniny,DE Semesterferien,EN Half-term holidays;;
 a4635566-1365-4d49-b7ba-596dcfe96c9e;CZ;2026-02-02;2026-02-08;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-MB,ST-PB,JC-TA,JC-PT,JC-ST,US-UL,US-CV,US-MO,KR-JC,KR-RK,OL-OC,OL-SU,MO-OP,OL-JE;
 df4f6e66-f2e8-494d-9e66-e8191e2ed308;CZ;2026-02-09;2026-02-15;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-BN,ST-BE,PL-RO,JC-CB,JC-CK,PL-KT,KR-TU,PA-PU,PA-CR,PA-SY,PA-UO,MO-OV,OL-PV;
-824ef139-9e86-4c65-8029-f49bb8198a31;CZ;2026-02-16;2026-02-22;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-1-5
+824ef139-9e86-4c65-8029-f49bb8198a31;CZ;2026-02-16;2026-02-22;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 1 až 5,EN Prague 1-5,DE Prag 1-5,FR Prague 1 à 5
 9d50b999-203c-4d10-91c9-5f84b91a7a79;CZ;2026-02-16;2026-02-22;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;JM-BK,JM-BM,JM-BO,JM-BV,JM-HO,JM-VY,JM-ZN,PL-DO,PL-TC,US-LN,MO-KI;
-598eb4d8-e6c4-41a1-b9c6-b6fbc7caade2;CZ;2026-02-23;2026-03-01;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-6-10
+598eb4d8-e6c4-41a1-b9c6-b6fbc7caade2;CZ;2026-02-23;2026-03-01;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 6 až 10,EN Prague 6-10,DE Prag 6-10,FR Prague 6 à 10
 d8653da6-d223-48fe-af8e-dd8e3dd2d270;CZ;2026-02-23;2026-03-01;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;KA-CH,KA-KV,KA-SO,ST-NB,JC-JH,US-LT,US-DC,OL-PR,MO-FM;
 86eb5eac-fa7d-4f37-a23d-1a7e8a08004c;CZ;2026-03-02;2026-03-08;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ZL-KM,ZL-UH,ZL-VS,ZL-ZL,ST-PH,ST-PZ,ST-ME,ST-RA,PL-PJ,PL-PM,PL-PS,KR-HK,US-TP,MO-NJ;
 a400f154-557f-4196-a735-849f3750ba95;CZ;2026-03-09;2026-03-15;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;LI-CL,LI-JN,LI-LB,LI-SM,VY-HB,VY-JI,VY-PE,VY-TR,VY-ZR,ST-KL,ST-KO,ST-KH,JC-PI,KR-NA,MO-BR;
@@ -94,9 +94,9 @@ c5fdea9b-36b4-4474-a592-106bf508f6f3;CZ;2026-10-29;2026-10-30;School;CS Podzimn�
 168912fa-ceb2-4424-ac26-c03a9a383ffa;CZ;2027-02-01;2027-02-07;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;LI-CL,LI-JN,LI-LB,LI-SM,VY-HB,VY-JI,VY-PE,VY-TR,VY-ZR,ST-KL,ST-KO,ST-KH,JC-PI,KR-NA,MO-BR;
 097d3501-13de-441a-9386-da9941c10a32;CZ;2027-02-08;2027-02-14;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-MB,ST-PB,JC-TA,JC-PT,JC-ST,US-UL,US-CV,US-MO,KR-JC,KR-RK,OL-OC,OL-SU,MO-OP,OL-JE;
 59ff3bc2-44ae-4ac2-b535-1a3aaba2698b;CZ;2027-02-15;2027-02-21;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-BN,ST-BE,PL-RO,JC-CB,JC-CK,PL-KT,KR-TU,PA-PU,PA-CR,PA-SY,PA-UO,MO-OV,OL-PV;
-fd6a1240-b86f-463d-b566-5b6b4b1597ca;CZ;2027-02-22;2027-02-28;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-1-5
+fd6a1240-b86f-463d-b566-5b6b4b1597ca;CZ;2027-02-22;2027-02-28;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 1 až 5,EN Prague 1-5,DE Prag 1-5,FR Prague 1 à 5
 f0a99c59-dc02-4671-92e8-ff6a018b1bd3;CZ;2027-02-22;2027-02-28;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;JM-BK,JM-BM,JM-BO,JM-BV,JM-HO,JM-VY,JM-ZN,PL-DO,PL-TC,US-LN,MO-KI;
-2ca2c8f2-a06c-4563-a0a9-75cd77ad5b25;CZ;2027-03-01;2027-03-07;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-6-10
+2ca2c8f2-a06c-4563-a0a9-75cd77ad5b25;CZ;2027-03-01;2027-03-07;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 6 až 10,EN Prague 6-10,DE Prag 6-10,FR Prague 6 à 10
 f88734a3-3175-452e-92b4-96a6084b735e;CZ;2027-03-01;2027-03-07;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;KA-CH,KA-KV,KA-SO,ST-NB,JC-JH,US-LT,US-DC,OL-PR,MO-FM;
 19a18bfa-0306-4c47-a999-28d924fc1687;CZ;2027-03-08;2027-03-14;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ZL-KM,ZL-UH,ZL-VS,ZL-ZL,ST-PH,ST-PZ,ST-ME,ST-RA,PL-PJ,PL-PM,PL-PS,KR-HK,US-TP,MO-NJ;
 ab7924a1-eea8-4cbb-bc12-d0f8d5261a93;CZ;2027-03-25;2027-03-25;School;CS Velikonoční prázdniny,DE Osterferien,EN Easter holidays;;
@@ -108,9 +108,9 @@ e21a15f6-c0e4-4f03-9202-669369bfd76b;CZ;2028-02-07;2028-02-13;School;CS Jarní p
 9a1752be-7737-443b-bef7-44b1643df5f6;CZ;2028-02-14;2028-02-20;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;LI-CL,LI-JN,LI-LB,LI-SM,VY-HB,VY-JI,VY-PE,VY-TR,VY-ZR,ST-KL,ST-KO,ST-KH,JC-PI,KR-NA,MO-BR;
 55c95567-b94a-4f54-88fc-9611ec8ead90;CZ;2028-02-21;2028-02-27;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-MB,ST-PB,JC-TA,JC-PT,JC-ST,US-UL,US-CV,US-MO,KR-JC,KR-RK,OL-OC,OL-SU,MO-OP,OL-JE;
 a020071b-31b2-430e-9931-7dc945bc32c0;CZ;2028-02-28;2028-03-05;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-BN,ST-BE,PL-RO,JC-CB,JC-CK,PL-KT,KR-TU,PA-PU,PA-CR,PA-SY,PA-UO,MO-OV,OL-PV;
-83781f5f-e114-4960-9508-1aa385b96124;CZ;2028-03-06;2028-03-12;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-1-5
+83781f5f-e114-4960-9508-1aa385b96124;CZ;2028-03-06;2028-03-12;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 1 až 5,EN Prague 1-5,DE Prag 1-5,FR Prague 1 à 5
 df61e74e-7457-4695-bae4-4e5027937c1c;CZ;2028-03-06;2028-03-12;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;JM-BK,JM-BM,JM-BO,JM-BV,JM-HO,JM-VY,JM-ZN,PL-DO,PL-TC,US-LN,MO-KI;
-8d19d628-6315-4e84-8603-d8956de58c4f;CZ;2028-03-13;2028-03-19;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;PR-6-10
+8d19d628-6315-4e84-8603-d8956de58c4f;CZ;2028-03-13;2028-03-19;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;PR;CS Praha 6 až 10,EN Prague 6-10,DE Prag 6-10,FR Prague 6 à 10
 0cbeb789-26a2-4df3-91f9-73741ce1eda8;CZ;2028-03-13;2028-03-19;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;KA-CH,KA-KV,KA-SO,ST-NB,JC-JH,US-LT,US-DC,OL-PR,MO-FM;
 3dbd508a-3f16-47d1-bddf-f4d6891918bd;CZ;2028-04-13;2028-04-13;School;CS Velikonoční prázdniny,DE Osterferien,EN Easter holidays;;
 e7b77bf2-850f-4a47-b9e0-3532d25081d0;CZ;2028-07-01;2028-09-03;School;CS Hlavní prázdniny,DE Sommerferien,EN Summer holidays;;
