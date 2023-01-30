@@ -1,4 +1,5 @@
 ﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
+e449c403-42f5-41bf-962e-a0729c222434;DE;2019-12-23;2020-01-04;School;DE Weihnachtsferien,EN Christmas Holidays;MV;
 8de1904a-fa9f-4b7b-b297-745f38707347;DE;2020-02-10;2020-02-15;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
 57d8e5c2-d1ef-4812-af4c-3572e31e2342;DE;2020-02-10;2020-02-21;School;DE Winterferien,EN Winter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 8e028878-afb8-4686-a883-4c0d6035615e;DE;2020-04-06;2020-04-15;School;DE Osterferien,EN Easter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
@@ -6,10 +7,8 @@ c00093e7-610a-49fc-a46c-795bd73ca2d1;DE;2020-04-06;2020-04-17;School;DE Osterfer
 093f9008-9e74-4c46-bfba-71753598b6cc;DE;2020-05-29;2020-06-02;School;DE Pfingstferien,EN Pentecost Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 caa3d2c7-afe4-431b-9705-f10e3d3d9fe1;DE;2020-06-22;2020-08-01;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 f6b889fe-c07b-46ea-83d5-17107fef1c20;DE;2020-07-13;2020-08-29;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
-bfadf414-ad2d-40de-9809-216697e54442;DE;2020-10-05;2020-10-10;School;DE Herbstferien,EN Autumn Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
-0939f92c-0e14-4b82-b820-b691c07ddc41;DE;2020-10-05;2020-10-10;School;DE Herbstferien,EN Autumn Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
-ec8cc022-cb64-419f-86bf-76a07238d63e;DE;2020-12-21;2021-01-02;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
-898d93d8-6170-4381-8453-0e2afe57dbe4;DE;2020-12-21;2021-01-02;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+0939f92c-0e14-4b82-b820-b691c07ddc41;DE;2020-10-05;2020-10-10;School;DE Herbstferien,EN Autumn Holidays;MV;
+ec8cc022-cb64-419f-86bf-76a07238d63e;DE;2020-12-21;2021-01-02;School;DE Weihnachtsferien,EN Christmas Holidays;MV;
 bc345b53-5db2-48b0-b9b3-846ce99e2024;DE;2021-02-05;2021-02-13;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
 d5ba2d63-e1a6-4a8d-a230-55dbc2c28eb1;DE;2021-02-06;2021-02-18;School;DE Winterferien,EN Winter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 b6210c92-9066-4914-b7e5-d79af4ef5707;DE;2021-02-19;;School;DE Schulfrei,EN School free;MV;DE Allgemein bildende Schulen,EN General Schools
@@ -18,8 +17,7 @@ fe78b8b2-2a62-48d6-a1f7-fdff455d366c;DE;2021-03-29;2021-04-09;School;DE Osterfer
 782d964e-fd7b-4f3e-b6ac-a3fb22defca4;DE;2021-05-21;2021-05-25;School;DE Pfingstferien,EN Pentecost Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 078c2a5c-417d-4607-a300-25ed86f623eb;DE;2021-06-21;2021-07-31;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 aabf4eae-2151-48e3-9f97-a1a6a2e7ab56;DE;2021-07-12;2021-08-28;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
-1b439afd-f51f-40b6-9589-5e777221c334;DE;2021-10-02;2021-10-09;School;DE Herbstferien,EN Autumn Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
-2d0d30e3-405e-4443-94a2-50665a9418f9;DE;2021-10-02;2021-10-09;School;DE Herbstferien,EN Autumn Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+1b439afd-f51f-40b6-9589-5e777221c334;DE;2021-10-02;2021-10-09;School;DE Herbstferien,EN Autumn Holidays;MV;
 73d63c6a-8694-4a12-8721-c63055fd88dc;DE;2021-12-22;2021-12-31;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 2cd46113-46e5-4aff-accf-2798cd8bcc2d;DE;2021-12-22;2022-01-03;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
 77566ca3-6776-4bd8-9f4e-65a78692a922;DE;2022-02-05;2022-02-12;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
@@ -32,8 +30,7 @@ ceeb5a8d-6832-4644-851e-faa228bf529c;DE;2022-07-04;2022-08-13;School;DE Sommerfe
 ce19c1ea-51bc-4b8e-864e-347da3236b2e;DE;2022-07-11;2022-08-27;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
 6a9493b9-898f-4bc7-9676-6b7d8e5ba2b4;DE;2022-10-10;2022-10-14;School;DE Herbstferien,EN Autumn Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 9d341fcc-b07d-4386-b25b-fe94d167381c;DE;2022-10-10;2022-10-15;School;DE Herbstferien,EN Autumn Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
-70c78ccd-f712-45ad-b8d5-15277ac35d04;DE;2022-12-22;2023-01-02;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
-0c15da75-cf72-4197-ac72-a110e11745c8;DE;2022-12-22;2023-01-02;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+70c78ccd-f712-45ad-b8d5-15277ac35d04;DE;2022-12-22;2023-01-02;School;DE Weihnachtsferien,EN Christmas Holidays;MV;
 e36f1df0-64ff-4c29-b28f-08490757ff5a;DE;2023-02-06;2023-02-11;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
 7020c5a0-5a4e-4814-a5b0-fb5f13212186;DE;2023-02-06;2023-02-18;School;DE Winterferien,EN Winter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 1b88fa23-8158-4e96-b6d5-9f7aef4f2cd3;DE;2023-04-03;2023-04-12;School;DE Osterferien,EN Easter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
@@ -41,20 +38,66 @@ e36f1df0-64ff-4c29-b28f-08490757ff5a;DE;2023-02-06;2023-02-11;School;DE Winterfe
 0259afb4-396c-41f0-ba8c-2174c337f811;DE;2023-05-26;2023-05-30;School;DE Pfingstferien,EN Pentecost Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 fd124a6e-f672-4511-b357-f6226a99b696;DE;2023-07-17;2023-08-26;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 046ff6bf-0233-460a-b2a3-95d561f8b26f;DE;2023-07-17;2023-09-01;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
-06998771-44e6-4188-b7e2-e9e99ca58b52;DE;2023-10-09;2023-10-14;School;DE Herbstferien,EN Autumn Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
-90686555-18a0-487e-8af1-0c015d545768;DE;2023-10-09;2023-10-14;School;DE Herbstferien,EN Autumn Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
-0fa4ded4-0fe3-451b-8554-2514794e0ad4;DE;2023-12-21;2024-01-03;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
-ae1b1c34-4bc2-4876-8f4e-d5e7407de832;DE;2023-12-21;2024-01-03;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+06998771-44e6-4188-b7e2-e9e99ca58b52;DE;2023-10-09;2023-10-14;School;DE Herbstferien,EN Autumn Holidays;MV;
+0fa4ded4-0fe3-451b-8554-2514794e0ad4;DE;2023-12-21;2024-01-03;School;DE Weihnachtsferien,EN Christmas Holidays;MV;
 e54d1211-ca3c-4f15-ad19-8f2c3bc9ba89;DE;2024-02-05;2024-02-10;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
 68fb113c-665a-40e5-9bb4-b3651d8f4c82;DE;2024-02-05;2024-02-16;School;DE Winterferien,EN Winter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 bc0c8a42-aa70-4ea8-a338-e11cf37c09c1;DE;2024-03-25;2024-04-03;School;DE Osterferien,EN Easter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
 8a7b4fdc-fa22-4d17-8a55-f2ccceacd2db;DE;2024-03-25;2024-04-05;School;DE Osterferien,EN Easter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
 6740e325-a1d0-4249-8684-2b8b2cd50002;DE;2024-05-17;2024-05-21;School;DE Pfingstferien,EN Pentecost Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
-d4a053cc-1698-4d05-917a-0de3d18274a0;DE;2024-07-15;2024-08-31;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
-8eb49919-a57c-4987-b2c5-b253e601854f;DE;2024-07-22;2024-08-31;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
-ac92cf0d-c42a-405f-bd18-8dc6b9405c4a;DE;2025-07-28;2025-09-06;School;DE Sommerferien,EN Summer Holidays;MV;DE 
-f9af7458-3880-4b88-baa3-26fa32e4a1c0;DE;2026-07-13;2026-08-22;School;DE Sommerferien,EN Summer Holidays;MV;DE 
-4f6eab9d-419a-43b4-83f1-9eeb765013d0;DE;2027-07-05;2027-08-14;School;DE Sommerferien,EN Summer Holidays;MV;DE 
-fbac07f2-5b6f-4b31-83a8-680de3e04dd8;DE;2028-06-26;2028-08-05;School;DE Sommerferien,EN Summer Holidays;MV;DE 
-53358bfa-e616-44e7-bead-f50b1c879489;DE;2029-06-18;2029-07-28;School;DE Sommerferien,EN Summer Holidays;MV;DE 
-002daa6c-d6a8-4271-a6f8-775a61b2e413;DE;2030-07-01;2030-08-10;School;DE Sommerferien,EN Summer Holidays;MV;DE 
+0cd9bd3c-19aa-4085-9997-fc8c3f293ab8;DE;2024-07-15;2024-08-31;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+963a3506-eeb8-4190-81bb-ec00829f6521;DE;2024-07-22;2024-08-31;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+c90a8655-ad1e-4709-b601-840550f44f66;DE;2024-10-21;2024-10-26;School;DE Herbstferien,EN Autumn Holidays;MV;
+3fa153b7-696a-479d-a2d7-ce582733b5b5;DE;2024-12-23;2025-01-04;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+738023d8-9af3-445a-853f-94fa279b128d;DE;2024-12-23;2025-01-06;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+ed52220e-f6ae-4455-9710-70eb34583eea;DE;2025-02-03;2025-02-08;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+271d692c-2d55-4e79-a071-55bcee3687b1;DE;2025-02-03;2025-02-14;School;DE Winterferien,EN Winter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+530691fb-6fa2-48cb-9030-cba93b1cafd8;DE;2025-04-14;2025-04-23;School;DE Osterferien,EN Easter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+7309a1e0-c65b-4f86-9ed8-60a5ff38d649;DE;2025-04-14;2025-04-25;School;DE Osterferien,EN Easter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+0a4d39fe-d65c-4073-be16-ef0b39299d59;DE;2025-06-06;2025-06-10;School;DE Pfingstferien,EN Pentecost Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+65079463-f48b-48a3-aaec-0135f35e12ef;DE;2025-07-14;2025-08-30;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+ae70b01b-3137-4456-924a-efb69b4378a3;DE;2025-07-28;2025-09-06;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+559ea68e-e562-4b71-b177-fd2884f06441;DE;2025-10-20;2025-10-25;School;DE Herbstferien,EN Autumn Holidays;MV;
+572f118a-d564-41bc-bec6-384f1f9a33b7;DE;2025-12-22;2026-01-05;School;DE Weihnachtsferien,EN Christmas Holidays;MV;
+369ed87b-71e3-4c4a-8fa7-3289e24f87a9;DE;2026-02-09;2026-02-14;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+60a7807f-9463-4c71-bcac-1eec6918918e;DE;2026-02-09;2026-02-20;School;DE Winterferien,EN Winter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+a7f8913a-5455-4683-a61b-73a59bda0af9;DE;2026-03-30;2026-04-08;School;DE Osterferien,EN Easter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+b9e54171-09c0-498a-b47f-bdcaf2ed57fb;DE;2026-03-30;2026-04-10;School;DE Osterferien,EN Easter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+b45aa5f5-22ee-4507-a0f2-79eb2dc85859;DE;2026-05-22;2026-05-26;School;DE Pfingstferien,EN Pentecost Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+d21b921b-089f-4b70-ad91-4b874f937db4;DE;2026-07-13;2026-08-22;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools 
+285fa244-c5f3-4051-884f-521250b757be;DE;2026-07-13;2026-08-29;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+2bfb99ac-3ca2-4d7f-8402-75e1f449ba0a;DE;2026-10-19;2026-10-24;School;DE Herbstferien,EN Autumn Holidays;MV;
+070bae4d-8671-4c87-8dbb-6f790aa12e4e;DE;2026-12-19;2027-01-02;School;DE Weihnachtsferien,EN Christmas Holidays;MV;
+80d1a9e2-9c3e-41b7-925f-3cdf7a3b3cc0;DE;2027-02-08;2027-02-13;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+97de5c95-2c41-4709-a8bf-bf5910ee758d;DE;2027-02-08;2027-02-19;School;DE Winterferien,EN Winter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+72a82721-5402-44fb-a689-3e69c35afb8f;DE;2027-03-22;2027-03-31;School;DE Osterferien,EN Easter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+1ac0ffdc-5f96-4bee-9253-713659fd6229;DE;2027-03-22;2027-04-02;School;DE Osterferien,EN Easter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+7290bcd1-e9cb-4c73-8fe2-58e6069872d4;DE;2027-05-14;2027-05-18;School;DE Pfingstferien,EN Pentecost Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+e6959de8-eb3f-4b03-a040-1fe9fde9505e;DE;2027-07-05;2027-08-14;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+627b53fd-8a65-4a5a-b918-ae19d28ecdac;DE;2027-07-12;2027-08-28;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+c0603985-81a2-43c8-a714-25b65f40c21b;DE;2027-10-16;2027-10-23;School;DE Herbstferien,EN Autumn Holidays;MV;
+8cbf47d4-941a-4c82-9092-5c336d34bc10;DE;2027-12-23;2028-01-03;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+42a05609-93b0-4398-90e1-b36f3cc4cb0a;DE;2027-12-23;2028-01-04;School;DE Weihnachtsferien,EN Christmas Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+da80c851-b104-4096-925b-abcf83638b07;DE;2028-02-05;2028-02-12;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+95eefce2-a004-49d0-a13e-5448b8611813;DE;2028-02-05;2028-02-17;School;DE Winterferien,EN Winter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+9dc0f76f-3de6-459c-9fde-122b211c556d;DE;2028-02-18;;School;DE Schulfrei,EN School free;MV;DE Allgemein bildende Schulen,EN General Schools
+aa17fa73-99a7-4123-a674-99a5153f575c;DE;2028-04-10;2028-04-19;School;DE Osterferien,EN Easter Holidays;MV;
+a2024625-80c4-4e1f-b54b-d2f3823786d2;DE;2028-06-02;2028-06-06;School;DE Pfingstferien,EN Pentecost Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+a3edc618-ff88-432e-b83b-3950ca02cdd7;DE;2028-06-26;2028-08-05;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+8545601b-80f1-422b-a66c-48b61ea4f105;DE;2028-07-17;2028-09-02;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+247c004c-89f8-4238-9022-e6c2a880ffca;DE;2028-10-23;2028-10-28;School;DE Herbstferien,EN Autumn Holidays;MV;
+979f871c-5356-47b1-8388-df788af98652;DE;2028-12-21;2029-01-03;School;DE Weihnachtsferien,EN Christmas Holidays;MV;
+5aabb084-0988-4c7f-b509-407c4de1396e;DE;2029-02-05;2029-02-10;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+0b087ca3-2eaa-4e36-b612-5649782a8d60;DE;2029-02-05;2029-02-16;School;DE Winterferien,EN Winter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+5e33da2b-532c-4a1b-9d9e-a8fb43fadfdd;DE;2029-03-26;2029-04-04;School;DE Osterferien,EN Easter Holidays;MV;
+9aee0dc3-6158-4ae3-af52-625ecc2f9165;DE;2029-05-18;2029-05-22;School;DE Pfingstferien,EN Pentecost Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+a8bdbe63-6773-43b6-977f-b4b25d1137e3;DE;2029-06-18;2029-07-28;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+ccb55502-977e-4833-a01e-54754103ff75;DE;2029-07-16;2029-09-01;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+8e4d435f-a6be-49d5-bb1c-a143c65c923b;DE;2029-10-22;2029-10-27;School;DE Herbstferien,EN Autumn Holidays;MV;
+13a853a2-5d28-489a-b350-b589956a5555;DE;2029-12-21;2030-01-04;School;DE Weihnachtsferien,EN Christmas Holidays;MV;
+bd131547-4d01-4b80-89d5-41ca9cd21901;DE;2030-02-04;2030-02-09;School;DE Winterferien,EN Winter Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
+9c60af5b-4258-469e-9c63-d0469cbb4e9c;DE;2030-02-04;2030-02-15;School;DE Winterferien,EN Winter Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+f5eb38d6-7575-48cf-8d72-78d25553f03c;DE;2030-04-15;2030-04-24;School;DE Osterferien,EN Easter Holidays;MV;
+2f5e9613-a551-400e-8ca5-32b6e28810b9;DE;2030-06-07;2030-06-11;School;DE Pfingstferien,EN Pentecost Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+303b00cb-0af7-4950-af13-3fbc91efff8a;DE;2030-07-01;2030-08-10;School;DE Sommerferien,EN Summer Holidays;MV;DE Allgemein bildende Schulen,EN General Schools
+21b8d1df-66ad-4feb-b309-95bbb2bf811c;DE;2030-07-15;2030-08-31;School;DE Sommerferien,EN Summer Holidays;MV;DE Berufliche Schulen,EN Vocational Schools
