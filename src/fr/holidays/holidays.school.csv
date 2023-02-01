@@ -1,4 +1,5 @@
 ﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
+5d6383d7-06e5-4117-93b4-9ab8031406dc;FR;2019-12-22;2020-01-05;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZA,ZB,ZC;
 428fa6f9-f4cf-48f1-8c1a-8d615e49ba78;FR;2020-02-23;2020-03-08;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZA;
 d64618fa-43bc-4a99-ad6b-d67bf18df25e;FR;2020-02-16;2020-03-01;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZB;
 a113cd51-afb7-43bb-96bd-bf0931c195b1;FR;2020-02-09;2020-02-23;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZC;

@@ -1,4 +1,5 @@
 ﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
+d94d9438-8e52-4e83-8ad4-ab37cd7d4c71;CZ;2019-12-23;2020-01-03;School;CS Vánoční prázdniny,DE Weihnachtsferien,EN Christmas holidays;;
 5a6cbd40-c329-4ac1-a835-ca7fd945a9eb;CZ;2020-02-03;2020-02-09;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-MB,ST-PB,JC-TA,JC-PT,JC-ST,US-UL,US-CV,US-MO,KR-JC,KR-RK,OL-OC,OL-SU,MO-OP,OL-JE;
 98203b40-4c6b-43cc-bf11-81d3725c765f;CZ;2020-02-10;2020-02-16;School;CS Jarní prázdniny,DE Frühjahrsferien,EN Spring holidays;ST-BN,ST-BE,PL-RO,JC-CB,JC-CK,PL-KT,KR-TU,PA-PU,PA-CR,PA-SY,PA-UO,MO-OV,OL-PV;
 fa5b9a49-ce72-4367-bdd3-38040a44396f;CZ;2020-01-31;2020-01-31;School;CS Pololetní prázdniny,DE Semesterferien,EN Half-term holidays;;
