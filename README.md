@@ -183,6 +183,7 @@ Public holidays:
 
 School holidays:
 
++ Izglītības un zinātnes ministrija: [Apstiprināti 2023./2024. mācību gada sākuma, beigu un brīvdienu laiki](https://www.izm.gov.lv/lv/jaunums/apstiprinati-20232024-macibu-gada-sakuma-beigu-un-brivdienu-laiki)
 + Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2022./2023. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20222023-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
 + Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2021./2022. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20212022-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
 + Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2020./2021. mācību gada garumu, mācību semestriem un brīvlaikiem](https://www.mk.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20202021-macibu-gada-garumu-macibu-semestriem-un-brivlaikiem)
