@@ -31,6 +31,7 @@ Public holidays:
 
 School holidays: 
 
++ Bundesministerium für Bildung, Wissenschaft und Forschung: [Gesetzliche Feiertage, Allerseelentag, Festtage der Landespatrone](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/feiertage.html)
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2023/2024](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_23_24.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html) 
