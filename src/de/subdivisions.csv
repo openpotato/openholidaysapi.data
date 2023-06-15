@@ -15,3 +15,5 @@ DE;DE-SL;DE-SL;SL;DE Bundesland,EN federal state,FR land;DE Saarland,EN Saarland
 DE;DE-SN;DE-SN;SN;DE Bundesland,EN federal state,FR land;DE Sachsen,EN Saxony,FR Saxe;DE
 DE;DE-ST;DE-ST;ST;DE Bundesland,EN federal state,FR land;DE Sachsen-Anhalt,EN Saxony-Anhalt,FR Saxe-Anhalt;DE
 DE;DE-TH;DE-TH;TH;DE Bundesland,EN federal state,FR land;DE Thüringen,EN Thuringia,FR Thuringe;DE
+DE;DE-MV-ABS;;MV-ABS;DE Schulart,EN school type;DE Allgemein bildende Schulen,EN General Schools;DE
+DE;DE-MV-BBS;;MV-BBS;DE Schulart,EN school type;DE Berufliche Schulen,EN Vocational Schools;DE
