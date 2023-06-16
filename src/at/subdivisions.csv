@@ -1,10 +1,10 @@
 ﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages
-AT;AT-BL;AT-1;BL;DE Bundesland,EN state,FR état;DE Burgenland,EN Burgenland,FR Burgenland;DE
-AT;AT-KÄ;AT-2;KÄ;DE Bundesland,EN state,FR état;DE Kärnten,EN Carinthia,FR Carinthie;DE
-AT;AT-NÖ;AT-3;NÖ;DE Bundesland,EN state,FR état;DE Niederösterreich,EN Lower Austria,FR Basse-Autriche;DE
-AT;AT-OÖ;AT-4;OÖ;DE Bundesland,EN state,FR état;DE Oberösterreich,EN Upper Austria,FR Haute-Autriche;DE
-AT;AT-SB;AT-5;SB;DE Bundesland,EN state,FR état;DE Salzburg,EN Salzburg,FR Salzbourg;DE
-AT;AT-SM;AT-6;SM;DE Bundesland,EN state,FR état;DE Steiermark,EN Styria,FR Styrie;DE
-AT;AT-TI;AT-7;TI;DE Bundesland,EN state,FR état;DE Tirol,EN Tyrol,FR Tyrol;DE
-AT;AT-VA;AT-8;VA;DE Bundesland,EN state,FR état;DE Vorarlberg,EN Vorarlberg,FR Vorarlberg;DE
-AT;AT-WI;AT-9;WI;DE Bundesland,EN state,FR état;DE Wien,EN Vienna,FR Vienne;DE
+AT;AT-BL;AT-1;BL;DE Bundesland,EN state;DE Burgenland,EN Burgenland;DE
+AT;AT-KÄ;AT-2;KÄ;DE Bundesland,EN state;DE Kärnten,EN Carinthia;DE
+AT;AT-NÖ;AT-3;NÖ;DE Bundesland,EN state;DE Niederösterreich,EN Lower Austria;DE
+AT;AT-OÖ;AT-4;OÖ;DE Bundesland,EN state;DE Oberösterreich,EN Upper Austria;DE
+AT;AT-SB;AT-5;SB;DE Bundesland,EN state;DE Salzburg,EN Salzburg;DE
+AT;AT-SM;AT-6;SM;DE Bundesland,EN state;DE Steiermark,EN Styria;DE
+AT;AT-TI;AT-7;TI;DE Bundesland,EN state;DE Tirol,EN Tyrol;DE
+AT;AT-VA;AT-8;VA;DE Bundesland,EN state;DE Vorarlberg,EN Vorarlberg;DE
+AT;AT-WI;AT-9;WI;DE Bundesland,EN state;DE Wien,EN Vienna;DE

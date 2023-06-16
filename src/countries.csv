@@ -1,19 +1,19 @@
 ﻿IsoCode;Name;OfficialLanguages
-AT;EN Austria,DE Österreich,FR Autriche (l');DE
+AT;EN Austria,DE Österreich;DE
 BE;EN Belgium,NL België,FR Belgique (la),DE Belgien;NL,FR,DE
-BG;EN Bulgaria,BG България,DE Bulgarien,FR Bulgarie (la);BG
+BG;EN Bulgaria,BG България,DE Bulgarien;BG
 CH;EN Switzerland,DE Schweiz,FR Suisse (la),IT Svizzera (la),RM Svizra (la);DE,FR,IT,RM
-CZ;EN Czechia,CS Česko,DE Tschechien,FR Tchéquie (la);CS
-DE;EN Germany,DE Deutschland,FR Allemagne (l');DE
-EE;EN Estonia,ET Eesti,DE Estland,FR Estonie (l');ET
+CZ;EN Czechia,CS Česko,DE Tschechien;CS
+DE;EN Germany,DE Deutschland;DE
+EE;EN Estonia,ET Eesti,DE Estland;ET
 FR;EN France,FR France (la),DE Frankreich;FR
-HR;EN Croatia,HR Hrvatska,DE Kroatien,FR Croatie (la);HR
-HU;EN Hungary,HU Magyarország,DE Ungarn,FR Hongrie (la);HU
-IE;EN Ireland,GA Éire,DE Irland,FR Irlande (l');EN,GA
-LI;EN Liechtenstein,DE Liechtenstein,FR Liechtenstein (le);DE
-LT;EN Lithuania,LT Lietuva,DE Litauen,FR Lituanie (la);LT
+HR;EN Croatia,HR Hrvatska,DE Kroatien;HR
+HU;EN Hungary,HU Magyarország,DE Ungarn;HU
+IE;EN Ireland,GA Éire,DE Irland;EN,GA
+LI;EN Liechtenstein,DE Liechtenstein;DE
+LT;EN Lithuania,LT Lietuva,DE Litauen;LT
 LU;EN Luxembourg,LB Lëtzebuerg,FR Luxembourg (le),DE Luxemburg;LB,FR,DE
-LV;EN Latvia,LV Latvija,DE Lettland,FR Lettonie (la);LV
-NL;EN Netherlands (the),NL Nederland,DE Niederlande,FR Pays-Bas (les);NL
-PL;EN Poland,PL Polska,DE Polen,FR Pologne (la);PL
-SK;EN Slovakia,SK Slovensko,DE Slowakei,FR Slovaquie (la);SK
+LV;EN Latvia,LV Latvija,DE Lettland;LV
+NL;EN Netherlands (the),NL Nederland,DE Niederlande;NL
+PL;EN Poland,PL Polska,DE Polen;PL
+SK;EN Slovakia,SK Slovensko,DE Slowakei;SK

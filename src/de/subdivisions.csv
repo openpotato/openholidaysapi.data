@@ -1,19 +1,19 @@
 ﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages
-DE;DE-BB;DE-BB;BB;DE Bundesland,EN federal state,FR land;DE Brandenburg,EN Brandenburg,FR Brandebourg;DE
-DE;DE-BE;DE-BE;BE;DE Bundesland,EN federal state,FR land;DE Berlin,EN Berlin,FR Berlin;DE
-DE;DE-BW;DE-BW;BW;DE Bundesland,EN federal state,FR land;DE Baden-Württemberg,EN Baden-Württemberg,FR Bade-Wurtemberg;DE
-DE;DE-BY;DE-BY;BY;DE Bundesland,EN federal state,FR land;DE Bayern,EN Bavaria,FR Bavière;DE
-DE;DE-HB;DE-HB;HB;DE Bundesland,EN federal state,FR land;DE Bremen,EN Bremen,FR Brême;DE
-DE;DE-HE;DE-HE;HE;DE Bundesland,EN federal state,FR land;DE Hessen,EN Hesse,FR Hesse;DE
-DE;DE-HH;DE-HH;HH;DE Bundesland,EN federal state,FR land;DE Hamburg,EN Hamburg,FR Hambourg;DE
-DE;DE-MV;DE-MV;MV;DE Bundesland,EN federal state,FR land;DE Mecklenburg-Vorpommern,EN Mecklenburg-Western Pomerania,FR Mecklembourg-Poméranie-Occidentale;DE
-DE;DE-NI;DE-NI;NI;DE Bundesland,EN federal state,FR land;DE Niedersachsen,EN Lower Saxony,FR Basse-Saxe;DE
-DE;DE-NW;DE-NW;NW;DE Bundesland,EN federal state,FR land;DE Nordrhein-Westfalen,EN North Rhine-Westphalia,FR Rhénanie-du-Nord-Westphalie;DE
-DE;DE-RP;DE-RP;RP;DE Bundesland,EN federal state,FR land;DE Rheinland-Pfalz,EN Rhineland-Palatinate,FR Rhénanie-Palatinat;DE
-DE;DE-SH;DE-SH;SH;DE Bundesland,EN federal state,FR land;DE Schleswig-Holstein,EN Schleswig-Holstein,FR Schleswig-Holstein;DE
-DE;DE-SL;DE-SL;SL;DE Bundesland,EN federal state,FR land;DE Saarland,EN Saarland,FR Sarre;DE
-DE;DE-SN;DE-SN;SN;DE Bundesland,EN federal state,FR land;DE Sachsen,EN Saxony,FR Saxe;DE
-DE;DE-ST;DE-ST;ST;DE Bundesland,EN federal state,FR land;DE Sachsen-Anhalt,EN Saxony-Anhalt,FR Saxe-Anhalt;DE
-DE;DE-TH;DE-TH;TH;DE Bundesland,EN federal state,FR land;DE Thüringen,EN Thuringia,FR Thuringe;DE
+DE;DE-BB;DE-BB;BB;DE Bundesland,EN federal state;DE Brandenburg,EN Brandenburg;DE
+DE;DE-BE;DE-BE;BE;DE Bundesland,EN federal state;DE Berlin,EN Berlin;DE
+DE;DE-BW;DE-BW;BW;DE Bundesland,EN federal state;DE Baden-Württemberg,EN Baden-Württemberg;DE
+DE;DE-BY;DE-BY;BY;DE Bundesland,EN federal state;DE Bayern,EN Bavaria;DE
+DE;DE-HB;DE-HB;HB;DE Bundesland,EN federal state;DE Bremen,EN Bremen;DE
+DE;DE-HE;DE-HE;HE;DE Bundesland,EN federal state;DE Hessen,EN Hesse;DE
+DE;DE-HH;DE-HH;HH;DE Bundesland,EN federal state;DE Hamburg,EN Hamburg;DE
+DE;DE-MV;DE-MV;MV;DE Bundesland,EN federal state;DE Mecklenburg-Vorpommern,EN Mecklenburg-Western Pomerania;DE
+DE;DE-NI;DE-NI;NI;DE Bundesland,EN federal state;DE Niedersachsen,EN Lower Saxony;DE
+DE;DE-NW;DE-NW;NW;DE Bundesland,EN federal state;DE Nordrhein-Westfalen,EN North Rhine-Westphalia;DE
+DE;DE-RP;DE-RP;RP;DE Bundesland,EN federal state;DE Rheinland-Pfalz,EN Rhineland-Palatinate;DE
+DE;DE-SH;DE-SH;SH;DE Bundesland,EN federal state;DE Schleswig-Holstein,EN Schleswig-Holstein;DE
+DE;DE-SL;DE-SL;SL;DE Bundesland,EN federal state;DE Saarland,EN Saarland;DE
+DE;DE-SN;DE-SN;SN;DE Bundesland,EN federal state;DE Sachsen,EN Saxony;DE
+DE;DE-ST;DE-ST;ST;DE Bundesland,EN federal state;DE Sachsen-Anhalt,EN Saxony-Anhalt;DE
+DE;DE-TH;DE-TH;TH;DE Bundesland,EN federal state;DE Thüringen,EN Thuringia;DE
 DE;DE-MV-ABS;;MV-ABS;DE Schulart,EN school type;DE Allgemein bildende Schulen,EN General Schools;DE
 DE;DE-MV-BBS;;MV-BBS;DE Schulart,EN school type;DE Berufliche Schulen,EN Vocational Schools;DE
