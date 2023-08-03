@@ -71,6 +71,7 @@ Public holidays:
 
 School holidays: 
 
++ Ministarstvo znanosti i obrazovanja: [školsku godinu 2023/2024](https://narodne-novine.nn.hr/eli/sluzbeni/2023/50/833)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2022/2023](https://narodne-novine.nn.hr/eli/sluzbeni/2022/54/715)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2021/2022](https://narodne-novine.nn.hr/eli/sluzbeni/2021/45/924)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2020/2021](https://narodne-novine.nn.hr/eli/sluzbeni/2020/57/1156)
