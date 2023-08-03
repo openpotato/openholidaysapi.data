@@ -1,0 +1,39 @@
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
+09826fe9-9f1c-4b45-8be4-b037c3d1fff9;SI;2019-12-25;2020-01-02;School;SL Novoletne počitnice,DE Neujahrsferien,EN New Year holidays;;
+a924ab98-4f57-4d02-9535-0d281613da79;SI;2020-02-17;2020-02-21;School;SL Zimske počitnice,DE Winterferien,EN Winter holidays;ZR;
+64b356b0-858b-4906-83c3-c809631bce3f;SI;2020-02-24;2020-02-28;School;SL Zimske počitnice,DE Winterferien,EN Winter holidays;VR;
+a30b9fe8-1d60-4c6c-b3b6-9eb989bf8497;SI;2020-04-27;2020-05-01;School;SL Prvomajske počitnice,DE Maifeiertage,EN Maydays;;
+595db4df-9f26-4b2d-b318-63f1a89bbfc4;SI;2020-06-26;2020-08-31;School;SL Poletne počitnice,DE Sommerferien,EN Summer holidays;;
+acb0eb9c-3eec-46d7-9f7c-327ca1e9a0f9;SI;2020-10-26;2020-10-30;School;SL Jesenske počitnice,DE Herbstferien,EN Autumn holidays;;
+844c987d-38ee-407c-8ba8-39d472639ec2;SI;2020-12-25;2021-01-02;School;SL Novoletne počitnice,DE Neujahrsferien,EN New Year holidays;;SL osnovne šole,DE Grundschulen,EN Primary schools
+8e16026b-4fa6-4906-9f49-4468bcdd04ad;SI;2020-12-28;2020-12-31;School;SL Novoletne počitnice,DE Neujahrsferien,EN New Year holidays;;SL srednje šole,DE Sekundarschulen,EN Secondary schools
+0ec2fdd1-e9d0-491e-91a8-569e9c9f489e;SI;2021-02-15;2021-02-19;School;SL Zimske počitnice,DE Winterferien,EN Winter holidays;VR;
+a84d2c23-11f3-4280-9cb7-35bdabaacc34;SI;2021-02-22;2021-02-26;School;SL Zimske počitnice,DE Winterferien,EN Winter holidays;ZR;
+260674e8-41ee-4489-aa49-1aea219476ca;SI;2021-04-27;2021-05-02;School;SL Prvomajske počitnice,DE Maifeiertage,EN Maydays;;SL osnovne šole,DE Grundschulen,EN Primary schools
+5cf69b35-3a90-4cce-880f-683be0b6493e;SI;2021-04-28;2021-04-30;School;SL Prvomajske počitnice,DE Maifeiertage,EN Maydays;;SL srednje šole,DE Sekundarschulen,EN Secondary schools
+81660d57-19bd-4ab6-8011-a56c631439fc;SI;2021-06-26;2021-08-31;School;SL Poletne počitnice,DE Sommerferien,EN Summer holidays;;
+bc16e380-4272-4e71-b6f3-2ae25e7a4eac;SI;2021-10-25;2021-11-01;School;SL Jesenske počitnice,DE Herbstferien,EN Autumn holidays;;
+eab38042-f85d-432b-a680-023848c3bd20;SI;2021-12-25;2022-01-02;School;SL Novoletne počitnice,DE Neujahrsferien,EN New Year holidays;;SL osnovne šole,DE Grundschulen,EN Primary schools
+2758ca19-f89f-491f-be0b-4e10507ce2c0;SI;2021-12-27;2021-12-31;School;SL Novoletne počitnice,DE Neujahrsferien,EN New Year holidays;;SL srednje šole,DE Sekundarschulen,EN Secondary schools
+301195c1-e202-4605-a16d-c050fdd9fbf8;SI;2022-02-21;2022-02-25;School;SL Zimske počitnice,DE Winterferien,EN Winter holidays;ZR;
+e6d0cd50-9ee5-4223-ba42-9ff8e3a5f120;SI;2022-02-28;2022-03-04;School;SL Zimske počitnice,DE Winterferien,EN Winter holidays;VR;
+3062f58f-283c-4f0f-9db8-34819a41f6e1;SI;2022-04-27;2022-05-02;School;SL Prvomajske počitnice,DE Maifeiertage,EN Maydays;;SL osnovne šole,DE Grundschulen,EN Primary schools
+4c27504f-05e6-43c3-9144-5caa85ca2572;SI;2022-04-28;2022-04-29;School;SL Prvomajske počitnice,DE Maifeiertage,EN Maydays;;SL srednje šole,DE Sekundarschulen,EN Secondary schools
+6077768d-8159-4b10-9b60-0f89932decff;SI;2022-06-26;2022-08-31;School;SL Poletne počitnice,DE Sommerferien,EN Summer holidays;;
+c8434247-7cf6-4e89-b8a3-795b8b2e4959;SI;2022-10-31;2022-11-04;School;SL Jesenske počitnice,DE Herbstferien,EN Autumn holidays;;
+ae5ef139-7eb7-4ce2-8e43-7cde1454eb25;SI;2022-12-26;2023-01-02;School;SL Novoletne počitnice,DE Neujahrsferien,EN New Year holidays;;SL osnovne šole,DE Grundschulen,EN Primary schools
+628a6ee5-4947-4b52-b0b7-efaa04da1686;SI;2022-12-27;2022-12-30;School;SL Novoletne počitnice,DE Neujahrsferien,EN New Year holidays;;SL srednje šole,DE Sekundarschulen,EN Secondary schools
+2e13e735-78d3-4383-b641-6c487e8bda6b;SI;2023-01-30;2023-02-03;School;SL Zimske počitnice,DE Winterferien,EN Winter holidays;VR;
+a75041ae-367d-4066-b834-702b1c49eea8;SI;2023-02-06;2023-02-10;School;SL Zimske počitnice,DE Winterferien,EN Winter holidays;ZR;
+3558fe6b-d8af-486f-8e46-d7b8480e974e;SI;2023-04-27;2023-05-02;School;SL Prvomajske počitnice,DE Maifeiertage,EN Maydays;;SL osnovne šole,DE Grundschulen,EN Primary schools
+6efe8847-5415-49ad-9d3c-62d0cc09d5fb;SI;2023-04-28;;School;SL Prvomajske počitnice,DE Maifeiertage,EN Maydays;;SL srednje šole,DE Sekundarschulen,EN Secondary schools
+59b04ff1-46f6-4936-bde4-8df12a6fecd6;SI;2023-06-26;2023-08-31;School;SL Poletne počitnice,DE Sommerferien,EN Summer holidays;;
+bc7f399c-214b-4626-bef0-2f0ec2aeccea;SI;2023-10-30;2023-11-01;School;SL Jesenske počitnice,DE Herbstferien,EN Autumn holidays;;
+41f675c6-119d-408e-a499-aa57e9ef6c42;SI;2023-12-25;2024-01-02;School;SL Novoletne počitnice,DE Neujahrsferien,EN New Year holidays;;SL osnovne šole,DE Grundschulen,EN Primary schools
+be8094f6-3305-4729-8cfe-1a8674f37594;SI;2023-12-27;2024-01-02;School;SL Novoletne počitnice,DE Neujahrsferien,EN New Year holidays;;SL srednje šole,DE Sekundarschulen,EN Secondary schools
+fe88eeeb-e3d8-4a05-bfe6-7b355ad288cd;SI;2024-02-19;2024-02-23;School;SL Zimske počitnice,DE Winterferien,EN Winter holidays;ZR;
+fef171df-4e64-4110-813b-dfe48978ccd8;SI;2024-02-26;2024-03-01;School;SL Zimske počitnice,DE Winterferien,EN Winter holidays;VR;
+f0f5b4fa-daa6-4126-9e82-91999af7686f;SI;2024-04-27;2024-05-02;School;SL Prvomajske počitnice,DE Maifeiertage,EN Maydays;;SL osnovne šole,DE Grundschulen,EN Primary schools
+98358536-da06-42bf-bf98-58c18eedea0b;SI;2024-04-28;2024-05-02;School;SL Prvomajske počitnice,DE Maifeiertage,EN Maydays;;SL srednje šole,DE Sekundarschulen,EN Secondary schools
+d146285b-e6f9-4b98-9ddb-fedeffff1898;SI;2024-05-03;;School;SL Pouka prost dan,DE Schulfreier Tag,EN Day off school;;
+ffbc2d0b-d2eb-4984-8b4d-39e00ddce039;SI;2024-06-26;2024-08-31;School;SL Poletne počitnice,DE Sommerferien,EN Summer holidays;;

@@ -18,6 +18,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Luxembourg (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
++ Slovenia (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
 
@@ -244,6 +245,17 @@ Public holidays:
 School holidays:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
+
+### Slovenia
+
+Public holidays:
+
++ [National holidays and other work-free days](https://www.gov.si/en/topics/national-holidays/)
+
+School holidays: 
+
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
 
 ### Slovakia
 
