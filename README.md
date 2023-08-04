@@ -18,8 +18,8 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Luxembourg (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
-+ Slovenia (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
++ Slovenia (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
 
 ## Sources
@@ -61,7 +61,7 @@ School holidays:
 
 + Министерство на образованието и науката: [Ваканции](https://www.mon.bg/bg/56)
 + Министерство на образованието и науката: [Ваканции 2023/2024 (PDF)](https://web.mon.bg/upload/37060/grafik-uchebno-vreme_2023-2024_18072023.pdf)
-+ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf
++ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf)
 + Министерство на образованието и науката: [Ваканции 2021/2022 (PDF)](https://web.mon.bg/upload/27600/zap1804_grafik-uchebno-vreme_310821.pdf)
 + Министерство на образованието и науката: [Ваканции 2020/2021 (PDF)](https://web.mon.bg/upload/24572/zap3472_izmZap-grafik_30112020.pdf)
 
@@ -250,6 +250,16 @@ School holidays:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
 
+### Slovakia
+
+Public holidays:
+
++ Úrad vlády Slovenskej republiky: [Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
+
+School holidays:
+
++ Ministerstvo školstva, vedy, výskumu a športu: [Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
+
 ### Slovenia
 
 Public holidays:
@@ -260,16 +270,6 @@ School holidays:
 
 + Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
 + Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
-
-### Slovakia
-
-Public holidays:
-
-+ Úrad vlády Slovenskej republiky: [Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
-
-School holidays:
-
-+ Ministerstvo školstva, vedy, výskumu a športu: [Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
 
 ### Switzerland
 
