@@ -18,6 +18,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Luxembourg (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
++ Slovenia (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
 
@@ -58,7 +59,9 @@ Public holidays:
 
 School holidays: 
 
-+ Министерство на образованието и науката: [Ваканции 2022/2023](https://www.mon.bg/bg/56)
++ Министерство на образованието и науката: [Ваканции](https://www.mon.bg/bg/56)
++ Министерство на образованието и науката: [Ваканции 2023/2024 (PDF)](https://web.mon.bg/upload/37060/grafik-uchebno-vreme_2023-2024_18072023.pdf)
++ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf
 + Министерство на образованието и науката: [Ваканции 2021/2022 (PDF)](https://web.mon.bg/upload/27600/zap1804_grafik-uchebno-vreme_310821.pdf)
 + Министерство на образованието и науката: [Ваканции 2020/2021 (PDF)](https://web.mon.bg/upload/24572/zap3472_izmZap-grafik_30112020.pdf)
 
@@ -70,6 +73,7 @@ Public holidays:
 
 School holidays: 
 
++ Ministarstvo znanosti i obrazovanja: [školsku godinu 2023/2024](https://narodne-novine.nn.hr/eli/sluzbeni/2023/50/833)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2022/2023](https://narodne-novine.nn.hr/eli/sluzbeni/2022/54/715)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2021/2022](https://narodne-novine.nn.hr/eli/sluzbeni/2021/45/924)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2020/2021](https://narodne-novine.nn.hr/eli/sluzbeni/2020/57/1156)
@@ -154,14 +158,15 @@ School holidays:
 
 Public holidays:
 
-+ [2012. évi I. törvény a munka törvénykönyvéről | 102. § (1) Munkaszüneti nap](https://net.jogtar.hu/jogszabaly?docid=A1200001.TV#lbj60id951d)
++ [2012. évi I. törvény a munka törvénykönyvéről | 102. § (1) Munkaszüneti nap](https://njt.hu/eli/TV/2012/1)
 
 School holidays:
 
-+ [eduline.hu | Megvan a 2022/23-as tanév rendje: itt vannak a legfontosabb dátumok](https://eduline.hu/kozoktatas/20220729_20222023as_tanev_rendje)
-+ [368/2022. (IX. 29.) Korm. rendelet a 2022/2023. tanév rendjére alkalmazandó veszélyhelyzeti szabályokról](https://net.jogtar.hu/jogszabaly?docid=A2200368.KOR#)
-+ [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2200022.bm)
-+ [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2100020.emm)
++ [2023/2024 tanév rendjéről szóló BM rendelet tervezet](https://kormany.hu/dokumentumtar/2023-2024-tanev-rendjerol-szolo-bm-rendelet-tervezet)
++ [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://njt.hu/eli/R/2022/BM/22)
++ [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://njt.hu/eli/R/2021/EMMI/20)
++ [27/2020. (VIII. 11.) EMMI rendelet a 2020/2021. tanév rendjéről](https://njt.hu/eli/R/2020/EMMI/27)
++ [11/2019. (VII. 3.) EMMI rendelet a 2019/2020. tanév rendjéről](https://njt.hu/eli/R/2019/EMMI/11)
 
 ### Ireland
 
@@ -244,6 +249,17 @@ Public holidays:
 School holidays:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
+
+### Slovenia
+
+Public holidays:
+
++ [National holidays and other work-free days](https://www.gov.si/en/topics/national-holidays/)
+
+School holidays: 
+
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
 
 ### Slovakia
 
