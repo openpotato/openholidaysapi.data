@@ -158,14 +158,15 @@ School holidays:
 
 Public holidays:
 
-+ [2012. évi I. törvény a munka törvénykönyvéről | 102. § (1) Munkaszüneti nap](https://net.jogtar.hu/jogszabaly?docid=A1200001.TV#lbj60id951d)
++ [2012. évi I. törvény a munka törvénykönyvéről | 102. § (1) Munkaszüneti nap](https://njt.hu/eli/TV/2012/1)
 
 School holidays:
 
-+ [eduline.hu | Megvan a 2022/23-as tanév rendje: itt vannak a legfontosabb dátumok](https://eduline.hu/kozoktatas/20220729_20222023as_tanev_rendje)
-+ [368/2022. (IX. 29.) Korm. rendelet a 2022/2023. tanév rendjére alkalmazandó veszélyhelyzeti szabályokról](https://net.jogtar.hu/jogszabaly?docid=A2200368.KOR#)
-+ [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2200022.bm)
-+ [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2100020.emm)
++ [2023/2024 tanév rendjéről szóló BM rendelet tervezet](https://kormany.hu/dokumentumtar/2023-2024-tanev-rendjerol-szolo-bm-rendelet-tervezet)
++ [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://njt.hu/eli/R/2022/BM/22)
++ [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://njt.hu/eli/R/2021/EMMI/20)
++ [27/2020. (VIII. 11.) EMMI rendelet a 2020/2021. tanév rendjéről](https://njt.hu/eli/R/2020/EMMI/27)
++ [11/2019. (VII. 3.) EMMI rendelet a 2019/2020. tanév rendjéről](https://njt.hu/eli/R/2019/EMMI/11)
 
 ### Ireland
 
