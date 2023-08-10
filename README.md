@@ -202,7 +202,7 @@ Public holidays:
 
 School holidays:
 
-+ Schulamt Fürstentum Liechtenstein: [Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
++ Schulamt Fürstentum Liechtenstein: [Schulferien/Ferienkalender](https://www.llv.li/de/landesverwaltung/schulamt/schulferien-ferienkalender)
 
 ### Lithuania
 
