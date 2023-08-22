@@ -16,6 +16,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Liechtenstein (public holidays and school holidays from 2020)
 + Lithuania (public holidays and school holidays from 2020)
 + Luxembourg (public holidays and school holidays from 2020)
++ Malta (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
@@ -226,6 +227,20 @@ School holidays:
 + Le gouvernement luxembourgeois: [Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
 + Le gouvernement luxembourgeois: [Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
 
+### Malta
+
+Public holidays:
+
++ [Att dwar il-Festi Nazzjonali u Btajjel Pubbliċi oħra](https://legislation.mt/eli/cap/252)
+
+School holidays: 
+
++ [Agreement between the Government of Malta and the Malta Union of Teachers](https://upe.mt/wp-content/uploads/2021/03/Sectoral-Agreement.pdf)
++ [Clarification regarding public holidays falling during a weekend](https://mut.org.mt/clarification-regarding-public-holidays-falling-during-a-weekend/)
++ [SCHOOL CALENDAR 2021/2022](https://upe.mt/school-calendar-2021-2022/)
++ [SCHOOL CALENDAR 2022/2023](https://upe.mt/school-calendar-2022-2023/)
++ [SCHOOL CALENDAR 2023/2024](https://upe.mt/school-calendar-2023-2024/)
+
 ### Netherlands
 
 Public holidays:
@@ -316,7 +331,7 @@ School holidays:
 
 Publications Office of the European Union:
 
-+ [The Organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://eurydice.eacea.ec.europa.eu/publications/organisation-school-time-europe-primary-and-general-secondary-education-20222023)
++ [The Organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://op.europa.eu/en/publication-detail/-/publication/080f40cc-63d3-11ed-92ed-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2021/2022](https://op.europa.eu/en/publication-detail/-/publication/f4e1c244-19ba-11ec-b4fe-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2020/2021](https://op.europa.eu/en/publication-detail/-/publication/7260fb98-0dcc-11eb-bc07-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2019/2020](https://op.europa.eu/en/publication-detail/-/publication/5f888c4e-e0d9-11e9-9c4e-01aa75ed71a1)
