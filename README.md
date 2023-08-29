@@ -16,10 +16,13 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Liechtenstein (public holidays and school holidays from 2020)
 + Lithuania (public holidays and school holidays from 2020)
 + Luxembourg (public holidays and school holidays from 2020)
++ Malta (public holidays and school holidays from 2020)
++ Monaco (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
-+ Slovenia (public holidays and school holidays from 2020)
++ San Marino (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
++ Slovenia (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
 
 ## Sources
@@ -61,7 +64,7 @@ School holidays:
 
 + Министерство на образованието и науката: [Ваканции](https://www.mon.bg/bg/56)
 + Министерство на образованието и науката: [Ваканции 2023/2024 (PDF)](https://web.mon.bg/upload/37060/grafik-uchebno-vreme_2023-2024_18072023.pdf)
-+ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf
++ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf)
 + Министерство на образованието и науката: [Ваканции 2021/2022 (PDF)](https://web.mon.bg/upload/27600/zap1804_grafik-uchebno-vreme_310821.pdf)
 + Министерство на образованието и науката: [Ваканции 2020/2021 (PDF)](https://web.mon.bg/upload/24572/zap3472_izmZap-grafik_30112020.pdf)
 
@@ -202,7 +205,7 @@ Public holidays:
 
 School holidays:
 
-+ Schulamt Fürstentum Liechtenstein: [Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
++ Schulamt Fürstentum Liechtenstein: [Schulferien/Ferienkalender](https://www.llv.li/de/landesverwaltung/schulamt/schulferien-ferienkalender)
 
 ### Lithuania
 
@@ -225,6 +228,41 @@ School holidays:
 + Guichet.lu: [Schulferienkalender](https://guichet.public.lu/de/outils/calendrier-scolaire.html)
 + Le gouvernement luxembourgeois: [Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
 + Le gouvernement luxembourgeois: [Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
+
+### Malta
+
+Public holidays:
+
++ [Att dwar il-Festi Nazzjonali u Btajjel Pubbliċi oħra](https://legislation.mt/eli/cap/252)
+
+School holidays: 
+
++ [Agreement between the Government of Malta and the Malta Union of Teachers](https://upe.mt/wp-content/uploads/2021/03/Sectoral-Agreement.pdf)
++ [Clarification regarding public holidays falling during a weekend](https://mut.org.mt/clarification-regarding-public-holidays-falling-during-a-weekend/)
++ [SCHOOL CALENDAR 2021/2022](https://upe.mt/school-calendar-2021-2022/)
++ [SCHOOL CALENDAR 2022/2023](https://upe.mt/school-calendar-2022-2023/)
++ [SCHOOL CALENDAR 2023/2024](https://upe.mt/school-calendar-2023-2024/)
+
+### Monaco
+
+Public holidays:
+
++ La Principauté de Monaco: [Fêtes légales](https://monservicepublic.gouv.mc/thematiques/emploi/activite-salariee/conges-et-maladie/jours-feries)
+
+School holidays: 
+
++ La Principauté de Monaco: [Vacances Scolaires](https://monservicepublic.gouv.mc/thematiques/education/enseignement/enseignement-primaire-et-secondaire/vacances-scolaires)
++ [Arrêté Ministériel n° 2023-222 du 18 avril 2023 portant fixation du calendrier des vacances scolaires pour l'année 2025/2026.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8640/Arrete-Ministeriel-n-2023-222-du-18-avril-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2025-2026)
++ [Arrêté Ministériel n° 2023-221 du 18 avril 2023 portant fixation du calendrier des vacances scolaires pour l'année scolaire 2024/2025.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8640/Arrete-Ministeriel-n-2023-221-du-18-avril-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-scolaire-2024-2025)
++ [Arrêté Ministériel n° 2023-50 du 23 janvier 2023 portant fixation du calendrier des vacances scolaires pour l'année 2023/2024.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8627/Arrete-Ministeriel-n-2023-50-du-23-janvier-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2023-2024)
++ [Arrêté Ministériel n° 2021-631 du 17 septembre 2021 portant fixation du calendrier des vacances scolaires pour l'année 2022/2023.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-8557/Arrete-Ministeriel-n-2021-631-du-17-septembre-2021-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2022-2023)
++ [Arrêté Ministériel n° 2021-346 du 30 avril 2021 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-85382/Arrete-Ministeriel-n-2021-346-du-30-avril-2021-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2021-267 du 7 avril 2021 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-8533/Arrete-Ministeriel-n-2021-267-du-7-avril-2021-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2021-106 du 28 janvier 2021 portant fixation du calendrier des vacances scolaires pour l'année 2021/2022.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-8524/Arrete-Ministeriel-n-2021-106-du-28-janvier-2021-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2021-2022)
++ [Arrêté Ministériel n° 2020-431 du 16 juin 2020 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2020/Journal-8492/Arrete-Ministeriel-n-2020-431-du-16-juin-2020-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2019-969 du 27 novembre 2019 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2019/Journal-8463/Arrete-Ministeriel-n-2019-969-du-27-novembre-2019-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2019-793 du 17 septembre 2019 portant fixation du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2019/Journal-8453/Arrete-Ministeriel-n-2019-793-du-17-septembre-2019-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2018-1188 du 18 décembre 2018 portant fixation du calendrier des vacances scolaires pour l'année 2019/2020.](https://journaldemonaco.gouv.mc/Journaux/2018/Journal-8413/Arrete-Ministeriel-n-2018-1188-du-18-decembre-2018-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2019-2020)
 
 ### Netherlands
 
@@ -250,16 +288,20 @@ School holidays:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
 
-### Slovenia
-
-Public holidays:
-
-+ [National holidays and other work-free days](https://www.gov.si/en/topics/national-holidays/)
+### San Marino
 
 School holidays: 
 
-+ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
-+ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
++ [Progetto di Legge "Modifica dell'art.2 della Legge 18 dicembre 1990 n.152 - Calendario delle Festività"](https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/scheda17131844.html)
++ [Legge 18 dicembre 1990 n.152 - Calendario delle Festività](https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/scheda17013703.html)
+
+School holidays: 
+
++ [Decreto Delegato 17 marzo 2023 n.47 - Calendario Scolastico 2023-2024](https://www.congressodistato.sm/pub1/CongressoSM/dettaglio_notizia.html?idItem=586ac2b7-8255-465c-a8af-c8747dde7924)
++ [Decreto Delegato 23 marzo 2022 n.48 - Calendario Scolastico 2022-2023](https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17176133.html)
++ [Decreto Delegato 8 giugno 2021 n.104 - Calendario Scolastico 2021-2022](https://www.consigliograndeegenerale.sm/on-line/home/lavori-consiliari/dettagli-delle-convocazioni/scheda17172809.html)
++ [Decreto Delegato 9 luglio 2020 n.115 - Calendario Scolastico 2020-2021](https://www.consigliograndeegenerale.sm/on-line/home/scheda17169006.html)
++ [Decreto Delegato 22 maggio 2019 n.83 - Calendario Scolastico 2019-2020](https://www.consigliograndeegenerale.sm/on-line/home/scheda17163140.html)
 
 ### Slovakia
 
@@ -270,6 +312,17 @@ Public holidays:
 School holidays:
 
 + Ministerstvo školstva, vedy, výskumu a športu: [Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
+
+### Slovenia
+
+Public holidays:
+
++ [National holidays and other work-free days](https://www.gov.si/en/topics/national-holidays/)
+
+School holidays: 
+
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
 
 ### Switzerland
 
@@ -316,7 +369,7 @@ School holidays:
 
 Publications Office of the European Union:
 
-+ [The Organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://eurydice.eacea.ec.europa.eu/publications/organisation-school-time-europe-primary-and-general-secondary-education-20222023)
++ [The Organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://op.europa.eu/en/publication-detail/-/publication/080f40cc-63d3-11ed-92ed-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2021/2022](https://op.europa.eu/en/publication-detail/-/publication/f4e1c244-19ba-11ec-b4fe-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2020/2021](https://op.europa.eu/en/publication-detail/-/publication/7260fb98-0dcc-11eb-bc07-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2019/2020](https://op.europa.eu/en/publication-detail/-/publication/5f888c4e-e0d9-11e9-9c4e-01aa75ed71a1)
