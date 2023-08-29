@@ -17,6 +17,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Lithuania (public holidays and school holidays from 2020)
 + Luxembourg (public holidays and school holidays from 2020)
 + Malta (public holidays and school holidays from 2020)
++ Monaco (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
@@ -240,6 +241,27 @@ School holidays:
 + [SCHOOL CALENDAR 2021/2022](https://upe.mt/school-calendar-2021-2022/)
 + [SCHOOL CALENDAR 2022/2023](https://upe.mt/school-calendar-2022-2023/)
 + [SCHOOL CALENDAR 2023/2024](https://upe.mt/school-calendar-2023-2024/)
+
+### Monaco
+
+Public holidays:
+
++ La Principauté de Monaco: [Fêtes légales](https://monservicepublic.gouv.mc/thematiques/emploi/activite-salariee/conges-et-maladie/jours-feries)
+
+School holidays: 
+
++ La Principauté de Monaco: [Vacances Scolaires](https://monservicepublic.gouv.mc/thematiques/education/enseignement/enseignement-primaire-et-secondaire/vacances-scolaires)
++ [Arrêté Ministériel n° 2023-222 du 18 avril 2023 portant fixation du calendrier des vacances scolaires pour l'année 2025/2026.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8640/Arrete-Ministeriel-n-2023-222-du-18-avril-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2025-2026)
++ [Arrêté Ministériel n° 2023-221 du 18 avril 2023 portant fixation du calendrier des vacances scolaires pour l'année scolaire 2024/2025.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8640/Arrete-Ministeriel-n-2023-221-du-18-avril-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-scolaire-2024-2025)
++ [Arrêté Ministériel n° 2023-50 du 23 janvier 2023 portant fixation du calendrier des vacances scolaires pour l'année 2023/2024.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8627/Arrete-Ministeriel-n-2023-50-du-23-janvier-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2023-2024)
++ [Arrêté Ministériel n° 2021-631 du 17 septembre 2021 portant fixation du calendrier des vacances scolaires pour l'année 2022/2023.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-8557/Arrete-Ministeriel-n-2021-631-du-17-septembre-2021-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2022-2023)
++ [Arrêté Ministériel n° 2021-346 du 30 avril 2021 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-85382/Arrete-Ministeriel-n-2021-346-du-30-avril-2021-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2021-267 du 7 avril 2021 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-8533/Arrete-Ministeriel-n-2021-267-du-7-avril-2021-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2021-106 du 28 janvier 2021 portant fixation du calendrier des vacances scolaires pour l'année 2021/2022.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-8524/Arrete-Ministeriel-n-2021-106-du-28-janvier-2021-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2021-2022)
++ [Arrêté Ministériel n° 2020-431 du 16 juin 2020 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2020/Journal-8492/Arrete-Ministeriel-n-2020-431-du-16-juin-2020-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2019-969 du 27 novembre 2019 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2019/Journal-8463/Arrete-Ministeriel-n-2019-969-du-27-novembre-2019-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2019-793 du 17 septembre 2019 portant fixation du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2019/Journal-8453/Arrete-Ministeriel-n-2019-793-du-17-septembre-2019-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2018-1188 du 18 décembre 2018 portant fixation du calendrier des vacances scolaires pour l'année 2019/2020.](https://journaldemonaco.gouv.mc/Journaux/2018/Journal-8413/Arrete-Ministeriel-n-2018-1188-du-18-decembre-2018-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2019-2020)
 
 ### Netherlands
 
