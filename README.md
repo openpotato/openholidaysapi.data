@@ -20,6 +20,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Monaco (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
++ San Marino (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
@@ -286,6 +287,21 @@ Public holidays:
 School holidays:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
+
+### San Marino
+
+School holidays: 
+
++ [Progetto di Legge "Modifica dell'art.2 della Legge 18 dicembre 1990 n.152 - Calendario delle Festività"](https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/scheda17131844.html)
++ [Legge 18 dicembre 1990 n.152 - Calendario delle Festività](https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/scheda17013703.html)
+
+School holidays: 
+
++ [Decreto Delegato 17 marzo 2023 n.47 - Calendario Scolastico 2023-2024](https://www.congressodistato.sm/pub1/CongressoSM/dettaglio_notizia.html?idItem=586ac2b7-8255-465c-a8af-c8747dde7924)
++ [Decreto Delegato 23 marzo 2022 n.48 - Calendario Scolastico 2022-2023](https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17176133.html)
++ [Decreto Delegato 8 giugno 2021 n.104 - Calendario Scolastico 2021-2022](https://www.consigliograndeegenerale.sm/on-line/home/lavori-consiliari/dettagli-delle-convocazioni/scheda17172809.html)
++ [Decreto Delegato 9 luglio 2020 n.115 - Calendario Scolastico 2020-2021](https://www.consigliograndeegenerale.sm/on-line/home/scheda17169006.html)
++ [Decreto Delegato 22 maggio 2019 n.83 - Calendario Scolastico 2019-2020](https://www.consigliograndeegenerale.sm/on-line/home/scheda17163140.html)
 
 ### Slovakia
 

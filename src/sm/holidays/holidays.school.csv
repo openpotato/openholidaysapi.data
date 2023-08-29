@@ -1,0 +1,16 @@
+﻿Id;Country;StartDate;EndDate;Type;Name
+cb161889-c923-4ba4-9c83-13d6518d8cbf;SM;2019-12-24;2020-01-04;School;IT Vacanze Natalizie,DE Weihnachtsfeiertag,EN Christmas Holidays
+27d80b11-5b81-47bd-9313-5dfc8af1fb59;SM;2020-04-09;2020-04-14;School;IT Vacanze Pasquali,DE Osterferien,EN Eastern Holidays
+fc849c89-96c5-425e-bdab-001370c79455;SM;2020-06-11;2020-09-06;School;IT Vacanze Estive,DE Sommerferien,EN Summer Holidays
+63f0f3bf-25ec-4a58-a3f7-510c686ffc60;SM;2020-12-24;2021-01-05;School;IT Vacanze Natalizie,DE Weihnachtsfeiertag,EN Christmas Holidays
+2baf8084-3633-4227-8401-3b932bfe3bef;SM;2021-04-02;2021-04-06;School;IT Vacanze Pasquali,DE Osterferien,EN Eastern Holidays
+1d11ba80-8386-4e20-9cb9-706be4149bed;SM;2021-06-12;2021-09-12;School;IT Vacanze Estive,DE Sommerferien,EN Summer Holidays
+62520e7e-bc32-4fd1-bc5f-73761684622f;SM;2021-12-24;2022-01-05;School;IT Vacanze Natalizie,DE Weihnachtsfeiertag,EN Christmas Holidays
+1657adcc-e7bb-44b0-8561-5b0dcfa8cb24;SM;2022-04-14;2022-04-19;School;IT Vacanze Pasquali,DE Osterferien,EN Eastern Holidays
+c0f2fcd2-215c-4602-a0f9-523c5a9f65c9;SM;2022-06-12;2022-09-14;School;IT Vacanze Estive,DE Sommerferien,EN Summer Holidays
+850f789a-e25a-4f7c-b68e-e8aad77abe4b;SM;2022-12-24;2023-01-07;School;IT Vacanze Natalizie,DE Weihnachtsfeiertag,EN Christmas Holidays
+df1002c8-f47d-45f1-8309-c317ad2a9cae;SM;2023-04-03;2023-04-10;School;IT Vacanze Pasquali,DE Osterferien,EN Eastern Holidays
+a5038b2f-a052-4fa7-81dd-dfc24b41dd8d;SM;2023-06-08;2023-09-17;School;IT Vacanze Estive,DE Sommerferien,EN Summer Holidays
+46cb6477-0a37-4cf2-a30c-1cd28d676627;SM;2023-12-24;2024-01-05;School;IT Vacanze Natalizie,DE Weihnachtsfeiertag,EN Christmas Holidays
+66c60050-6fb1-495d-8580-5449e910bcfa;SM;2024-03-26;2024-04-01;School;IT Vacanze Pasquali,DE Osterferien,EN Eastern Holidays
+603a9eee-122e-485c-b648-63f47ab1c40b;FR;2024-06-07;;EndOfLessons;IT Termine lezioni,DE Unterrichtsende,EN End of lessons
