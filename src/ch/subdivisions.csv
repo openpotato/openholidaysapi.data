@@ -1,27 +1,27 @@
 ﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages
-CH;CH-AG;CH-AG;AG;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Aargau,FR Argovie,IT Argovia,RM Argovia,EN Aargau;DE
-CH;CH-AI;CH-AI;AI;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Appenzell Innerrhoden,FR Appenzell Rhodes-Intérieures,IT Appenzello Interno,RM Appenzell Dadens,EN Appenzell Innerrhoden;DE
-CH;CH-AR;CH-AR;AR;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Appenzell Ausserrhoden,FR Appenzell Rhodes-Extérieures,IT Appenzello Esterno,RM Appenzell Dadora,EN Appenzell Ausserrhoden;DE
-CH;CH-BE;CH-BE;BE;FR canton,DE Kanton,IT canonte,RM chantun,EN canton;DE Bern,FR Berne,IT Berna,RM Berna,EN Bern;DE,FR
-CH;CH-BL;CH-BL;BL;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Basel-Landschaft,FR Bâle-Campagne,IT Basilea Campagna,RM Basilea-Champagna,EN Basel-Landschaft;DE
-CH;CH-BS;CH-BS;BS;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Basel-Stadt,FR Bâle-Ville,IT Basilea Città,RM Basilea-Citad,EN Basel-Stadt;DE
-CH;CH-FR;CH-FR;FR;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;FR Fribourg,DE Freiburg,IT Friburgo,RM Friburg,EN Fribourg;FR,DE
-CH;CH-GE;CH-GE;GE;FR canton,DE Kanton,IT canonte,RM chantun,EN canton;FR Genève,DE Genf,IT Ginevra,RM Genevra,EN Geneva;FR
-CH;CH-GL;CH-GL;GL;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Glarus,FR Glaris,IT Glarona,RM Glaruna,EN Glarus;DE
-CH;CH-GR;CH-GR;GR;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Graubünden,IT Grigioni,RM Grischun,FR Grisons,EN Grisons;DE,RM,IT
-CH;CH-JU;CH-JU;JU;FR canton,DE Kanton,IT canonte,RM chantun,EN canton;FR Jura,DE Jura,IT Giura,RM Giura,EN Jura;FR
-CH;CH-LU;CH-LU;LU;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Luzern,FR Lucerne,IT Lucerna,RM Lucerna,EN Lucerne;DE
-CH;CH-NE;CH-NE;NE;FR canton,DE Kanton,IT canonte,RM chantun,EN canton;FR Neuchâtel,DE Neuenburg,IT Neuchâtel,RM Neuschatel,EN Neuchâtel;FR
-CH;CH-NW;CH-NW;NW;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Nidwalden,FR Nidwald,IT Nidvaldo,RM Sutsilvania,EN Nidwalden;DE
-CH;CH-OW;CH-OW;OW;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Obwalden,FR Obwald,IT Obvaldo,RM Sursilvania,EN Obwalden;DE
-CH;CH-SG;CH-SG;SG;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE St. Gallen,FR Saint-Gall,IT San Gallo,RM Son Gagl,EN St. Gallen;DE
-CH;CH-SH;CH-SH;SH;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Schaffhausen,FR Schaffhouse,IT Sciaffusa,RM Schaffusa,EN Schaffhausen;DE
-CH;CH-SO;CH-SO;SO;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Solothurn,FR Soleure,IT Soletta,RM Soloturn,EN Solothurn;DE
-CH;CH-SZ;CH-SZ;SZ;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Schwyz,FR Schwytz,IT Svitto,RM Sviz,EN Schwyz;DE
-CH;CH-TG;CH-TG;TG;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Thurgau,FR Thurgovie,IT Turgovia,RM Turgovia,EN Thurgau;DE
-CH;CH-TI;CH-TI;TI;IT canonte,DE Kanton,FR canton,RM chantun,EN canton;IT Ticino,DE Tessin,FR Tessin,RM Tessin,EN Ticino;IT
-CH;CH-UR;CH-UR;UR;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Uri,FR Uri,IT Uri,RM Uri,EN Uri;DE
-CH;CH-VD;CH-VD;VD;FR canton,DE Kanton,IT canonte,RM chantun,EN canton;FR Vaud,DE Waadt,IT Vaud,RM Vad,EN Vaud;FR
-CH;CH-VS;CH-VS;VS;FR canton,DE Kanton,IT canonte,RM chantun,EN canton;FR Valais,DE Wallis,IT Vallese,RM Vallais,EN Valais;FR,DE
-CH;CH-ZG;CH-ZG;ZG;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Zug,FR Zoug,IT Zugo,RM Zug,EN Zug;DE
-CH;CH-ZH;CH-ZH;ZH;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Zürich,FR Zurich,IT Zurigo,RM Turitg,EN Zürich;DE
+CH;CH-AG;CH-AG;AG;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Aargau,FR Argovie,IT Argovia,RM Argovia,EN Aargau;DE
+CH;CH-AI;CH-AI;AI;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Appenzell Innerrhoden,FR Appenzell Rhodes-Intérieures,IT Appenzello Interno,RM Appenzell Dadens,EN Appenzell Innerrhoden;DE
+CH;CH-AR;CH-AR;AR;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Appenzell Ausserrhoden,FR Appenzell Rhodes-Extérieures,IT Appenzello Esterno,RM Appenzell Dadora,EN Appenzell Ausserrhoden;DE
+CH;CH-BE;CH-BE;BE;FR canton,DE Kanton,IT cantone,RM chantun,EN canton;DE Bern,FR Berne,IT Berna,RM Berna,EN Bern;DE,FR
+CH;CH-BL;CH-BL;BL;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Basel-Landschaft,FR Bâle-Campagne,IT Basilea Campagna,RM Basilea-Champagna,EN Basel-Landschaft;DE
+CH;CH-BS;CH-BS;BS;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Basel-Stadt,FR Bâle-Ville,IT Basilea Città,RM Basilea-Citad,EN Basel-Stadt;DE
+CH;CH-FR;CH-FR;FR;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;FR Fribourg,DE Freiburg,IT Friburgo,RM Friburg,EN Fribourg;FR,DE
+CH;CH-GE;CH-GE;GE;FR canton,DE Kanton,IT cantone,RM chantun,EN canton;FR Genève,DE Genf,IT Ginevra,RM Genevra,EN Geneva;FR
+CH;CH-GL;CH-GL;GL;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Glarus,FR Glaris,IT Glarona,RM Glaruna,EN Glarus;DE
+CH;CH-GR;CH-GR;GR;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Graubünden,IT Grigioni,RM Grischun,FR Grisons,EN Grisons;DE,RM,IT
+CH;CH-JU;CH-JU;JU;FR canton,DE Kanton,IT cantone,RM chantun,EN canton;FR Jura,DE Jura,IT Giura,RM Giura,EN Jura;FR
+CH;CH-LU;CH-LU;LU;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Luzern,FR Lucerne,IT Lucerna,RM Lucerna,EN Lucerne;DE
+CH;CH-NE;CH-NE;NE;FR canton,DE Kanton,IT cantone,RM chantun,EN canton;FR Neuchâtel,DE Neuenburg,IT Neuchâtel,RM Neuschatel,EN Neuchâtel;FR
+CH;CH-NW;CH-NW;NW;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Nidwalden,FR Nidwald,IT Nidvaldo,RM Sutsilvania,EN Nidwalden;DE
+CH;CH-OW;CH-OW;OW;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Obwalden,FR Obwald,IT Obvaldo,RM Sursilvania,EN Obwalden;DE
+CH;CH-SG;CH-SG;SG;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE St. Gallen,FR Saint-Gall,IT San Gallo,RM Son Gagl,EN St. Gallen;DE
+CH;CH-SH;CH-SH;SH;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Schaffhausen,FR Schaffhouse,IT Sciaffusa,RM Schaffusa,EN Schaffhausen;DE
+CH;CH-SO;CH-SO;SO;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Solothurn,FR Soleure,IT Soletta,RM Soloturn,EN Solothurn;DE
+CH;CH-SZ;CH-SZ;SZ;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Schwyz,FR Schwytz,IT Svitto,RM Sviz,EN Schwyz;DE
+CH;CH-TG;CH-TG;TG;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Thurgau,FR Thurgovie,IT Turgovia,RM Turgovia,EN Thurgau;DE
+CH;CH-TI;CH-TI;TI;IT cantone,DE Kanton,FR canton,RM chantun,EN canton;IT Ticino,DE Tessin,FR Tessin,RM Tessin,EN Ticino;IT
+CH;CH-UR;CH-UR;UR;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Uri,FR Uri,IT Uri,RM Uri,EN Uri;DE
+CH;CH-VD;CH-VD;VD;FR canton,DE Kanton,IT cantone,RM chantun,EN canton;FR Vaud,DE Waadt,IT Vaud,RM Vad,EN Vaud;FR
+CH;CH-VS;CH-VS;VS;FR canton,DE Kanton,IT cantone,RM chantun,EN canton;FR Valais,DE Wallis,IT Vallese,RM Vallais,EN Valais;FR,DE
+CH;CH-ZG;CH-ZG;ZG;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Zug,FR Zoug,IT Zugo,RM Zug,EN Zug;DE
+CH;CH-ZH;CH-ZH;ZH;DE Kanton,FR canton,IT cantone,RM chantun,EN canton;DE Zürich,FR Zurich,IT Zurigo,RM Turitg,EN Zürich;DE
