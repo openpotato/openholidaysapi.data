@@ -12,6 +12,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Germany (public holidays and school holidays from 2020)
 + Hungary (public holidays and school holidays from 2020)
 + Ireland (public holidays and school holidays from 2020)
++ Italy (public holidays and school holidays from 2020)
 + Latvia (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)
 + Lithuania (public holidays and school holidays from 2020)
@@ -183,6 +184,14 @@ School holidays:
 
 + Department of Education: [School holiday dates](https://www.gov.ie/en/service/388196-school-holiday-dates/)
 + An Roinn Oideachais: [Laethanta saoire scoile dátaí](https://www.gov.ie/ga/seirbhis/dae1c6-none/)
+
+### Italy
+
+Public holidays:
++ [Ufficio del Cerimoniale di Stato: Festività e giornate nazionali](https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/giornate.html)
+
+School holidays:
++ [Il calendario scolastico](https://www.miur.gov.it/calendario-scolastico)
 
 ### Latvia
 

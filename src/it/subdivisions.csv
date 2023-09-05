@@ -1,0 +1,129 @@
+﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
+IT;IT-65;IT-65;R-AB;IT regioni,EN regions,DE Regionen;IT Abruzzo,EN Abruzzo,DE Abruzzen;IT;
+IT;IT-77;IT-77;R-BA;IT regioni,EN regions,DE Regionen;IT Basilicata,EN Basilicata,DE Basilikata;IT;
+IT;IT-78;IT-78;R-CL;IT regioni,EN regions,DE Regionen;IT Calabria,EN Calabria,DE Kalabrien;IT;
+IT;IT-72;IT-72;R-CM;IT regioni,EN regions,DE Regionen;IT Campania,EN Campania,DE Kampanien ;IT;
+IT;IT-45;IT-45;R-ER;IT regioni,EN regions,DE Regionen;IT Emilia Romagna,EN Emilia-Romagna,DE Emilia-Romagna;IT;
+IT;IT-36;IT-36;R-FV;IT regioni,EN regions,DE Regionen;IT Friuli-Venezia Giulia,EN Friuli Venezia Giulia,DE Friaul-Julisch Venetien;IT;
+IT;IT-62;IT-62;R-LA;IT regioni,EN regions,DE Regionen;IT Lazio,EN Lazio,DE Latium;IT;
+IT;IT-42;IT-42;R-LI;IT regioni,EN regions,DE Regionen;IT Liguria,EN Liguria,DE Ligurien;IT;
+IT;IT-25;IT-25;R-LO;IT regioni,EN regions,DE Regionen;IT Lombardia,EN Lombardy,DE Lombardei;IT;
+IT;IT-57;IT-57;R-MA;IT regioni,EN regions,DE Regionen;IT Marche,EN Marche,DE Marken;IT;
+IT;IT-67;IT-67;R-MO;IT regioni,EN regions,DE Regionen;IT Molise,EN Molise,DE Molise;IT;
+IT;IT-21;IT-21;R-PI;IT regioni,EN regions,DE Regionen;IT Piemonte,EN Piedmont,DE Piemont;IT;
+IT;IT-75;IT-75;R-PU;IT regioni,EN regions,DE Regionen;IT Puglia,EN Apulia,DE Apulien;IT;
+IT;IT-88;IT-88;R-SA;IT regioni,EN regions,DE Regionen;IT Sardegna,EN Sardinia,DE Sardinien;IT;
+IT;IT-82;IT-82;R-SI;IT regioni,EN regions,DE Regionen;IT Sicilia,EN Sicily,DE Sizilien;IT;
+IT;IT-52;IT-52;R-TO;IT regioni,EN regions,DE Regionen;IT Toscana,EN Tuscany,DE Toskana;IT;
+IT;IT-32;IT-32;R-TR;IT regioni,EN regions,DE Regionen;IT Trentino-Alto Adige,EN Trentino-Alto Adige,DE Trentino-Südtirol;IT,DE
+IT;IT-55;IT-55;R-UM;IT regioni,EN regions,DE Regionen;IT Umbria,EN Umbria,DE Umbrien;IT;
+IT;IT-23;IT-23;R-VA;IT regioni,EN regions,DE Regionen;IT Valle d'Aosta,FR Vallée d'Aoste,EN Aosta Valley,DE Aostatal;IT,FR;
+IT;IT-34;IT-34;R-VE;IT regioni,EN regions,DE Regionen;IT Veneto,EN Veneto,DE Venetien;IT;
+IT;IT-AG;IT-AG;AG;IT province,EN provinces,DE Provinzen;IT Agrigento,EN Agrigento,DE Agrigent;IT;R-SI
+IT;IT-AL;IT-AL;AL;IT province,EN provinces,DE Provinzen;IT Alessandria,EN Alessandria,DE Alessandria;IT;R-PI
+IT;IT-AN;IT-AN;AN;IT province,EN provinces,DE Provinzen;IT Ancona,EN Ancona,DE Ancona;IT;R-MA
+IT;IT-AR;IT-AR;AR;IT province,EN provinces,DE Provinzen;IT Arezzo,EN Arezzo,DE Arezzo;IT;R-TO
+IT;IT-AP;IT-AP;AP;IT province,EN provinces,DE Provinzen;IT Ascoli Piceno,EN Ascoli Piceno,DE Ascoli Piceno;IT;R-MA
+IT;IT-AT;IT-AT;AT;IT province,EN provinces,DE Provinzen;IT Asti,EN Asti,DE Asti;IT;R-PI
+IT;IT-AV;IT-AV;AV;IT province,EN provinces,DE Provinzen;IT Avellino,EN Avellino,DE Avellino;IT;R-CM
+IT;IT-BT;IT-BT;BT;IT province,EN provinces,DE Provinzen;IT Barletta-Andria-Trani,EN Barletta-Andria-Trani,DE Barletta-Andria-Trani;IT;R-PU
+IT;IT-BL;IT-BL;BL;IT province,EN provinces,DE Provinzen;IT Belluno,EN Belluno,DE Belluno;IT;R-VE
+IT;IT-BN;IT-BN;BN;IT province,EN provinces,DE Provinzen;IT Benevento,EN Benevento,DE Benevento;IT;R-CM
+IT;IT-BG;IT-BG;BG;IT province,EN provinces,DE Provinzen;IT Bergamo,EN Bergamo,DE Bergamo;IT;R-LO
+IT;IT-BI;IT-BI;BI;IT province,EN provinces,DE Provinzen;IT Biella,EN Biella,DE Biella;IT;R-PI
+IT;IT-BZ;IT-BZ;BZ;IT province,EN provinces,DE Provinzen;IT Bolzano,EN South Tyrol,DE Bozen / Südtirol;IT,DE;R-TR
+IT;IT-BS;IT-BS;BS;IT province,EN provinces,DE Provinzen;IT Brescia,EN Brescia,DE Brescia;IT;R-LO
+IT;IT-BR;IT-BR;BR;IT province,EN provinces,DE Provinzen;IT Brindisi,EN Brindisi,DE Brindisi;IT;R-PU
+IT;IT-CL;IT-CL;CL;IT province,EN provinces,DE Provinzen;IT Caltanissetta,EN Caltanissetta,DE Caltanissetta;IT;R-SI
+IT;IT-CB;IT-CB;CB;IT province,EN provinces,DE Provinzen;IT Campobasso,EN Campobasso,DE Campobasso;IT;R-MO
+IT;IT-CE;IT-CE;CE;IT province,EN provinces,DE Provinzen;IT Caserta,EN Caserta,DE Caserta;IT;R-CM
+IT;IT-CZ;IT-CZ;CZ;IT province,EN provinces,DE Provinzen;IT Catanzaro,EN Catanzaro,DE Catanzaro;IT;R-CL
+IT;IT-CH;IT-CH;CH;IT province,EN provinces,DE Provinzen;IT Chieti,EN Chieti,DE Chieti;IT;R-AB
+IT;IT-CO;IT-CO;CO;IT province,EN provinces,DE Provinzen;IT Como,EN Como,DE Como;IT;R-LO
+IT;IT-CS;IT-CS;CS;IT province,EN provinces,DE Provinzen;IT Cosenza,EN Cosenza,DE Cosenza;IT;R-CL
+IT;IT-CR;IT-CR;CR;IT province,EN provinces,DE Provinzen;IT Cremona,EN Cremona,DE Cremona;IT;R-LO
+IT;IT-KR;IT-KR;KR;IT province,EN provinces,DE Provinzen;IT Crotone,EN Crotone,DE Crotone;IT;R-CL
+IT;IT-CN;IT-CN;CN;IT province,EN provinces,DE Provinzen;IT Cuneo,EN Cuneo,DE Cuneo;IT;R-PI
+IT;IT-EN;IT-EN;EN;IT province,EN provinces,DE Provinzen;IT Enna,EN Enna,DE Enna;IT;R-SI
+IT;IT-FM;IT-FM;FM;IT province,EN provinces,DE Provinzen;IT Fermo,EN Fermo,DE Fermo;IT;R-MA
+IT;IT-FE;IT-FE;FE;IT province,EN provinces,DE Provinzen;IT Ferrara,EN Ferrara,DE Ferrara;IT;R-ER
+IT;IT-FG;IT-FG;FG;IT province,EN provinces,DE Provinzen;IT Foggia,EN Foggia,DE Foggia;IT;R-PU
+IT;IT-FC;IT-FC;FC;IT province,EN provinces,DE Provinzen;IT Forlì-Cesena,EN Forlì-Cesena,DE Forlì-Cesena;IT;R-ER
+IT;IT-FR;IT-FR;FR;IT province,EN provinces,DE Provinzen;IT Frosinone,EN Frosinone,DE Frosinone;IT;R-LA
+IT;IT-GO;IT-GO;GO;IT province,EN provinces,DE Provinzen;IT Gorizia,EN Gorizia,DE Gorizia;IT;R-FV
+IT;IT-GR;IT-GR;GR;IT province,EN provinces,DE Provinzen;IT Grosseto,EN Grosseto,DE Grosseto;IT;R-TO
+IT;IT-IM;IT-IM;IM;IT province,EN provinces,DE Provinzen;IT Imperia,EN Imperia,DE Imperia;IT;R-LI
+IT;IT-IS;IT-IS;IS;IT province,EN provinces,DE Provinzen;IT Isernia,EN Isernia,DE Isernia;IT;R-MO
+IT;IT-SP;IT-SP;SP;IT province,EN provinces,DE Provinzen;IT La Spezia,EN La Spezia,DE La Spezia;IT;R-LI
+IT;IT-AQ;IT-AQ;AQ;IT province,EN provinces,DE Provinzen;IT L'Aquila,EN L'Aquila,DE L'Aquila;IT;R-AB
+IT;IT-LT;IT-LT;LT;IT province,EN provinces,DE Provinzen;IT Latina,EN Latina,DE Latina;IT;R-LA
+IT;IT-LE;IT-LE;LE;IT province,EN provinces,DE Provinzen;IT Lecce,EN Lecce,DE Lecce;IT;R-PU
+IT;IT-LC;IT-LC;LC;IT province,EN provinces,DE Provinzen;IT Lecco,EN Lecco,DE Lecco;IT;R-LO
+IT;IT-LI;IT-LI;LI;IT province,EN provinces,DE Provinzen;IT Livorno,EN Livorno,DE Livorno;IT;R-TO
+IT;IT-LO;IT-LO;LO;IT province,EN provinces,DE Provinzen;IT Lodi,EN Lodi,DE Lodi;IT;R-LO
+IT;IT-LU;IT-LU;LU;IT province,EN provinces,DE Provinzen;IT Lucca,EN Lucca,DE Lucca;IT;R-TO
+IT;IT-MC;IT-MC;MC;IT province,EN provinces,DE Provinzen;IT Macerata,EN Macerata,DE Macerata;IT;R-MA
+IT;IT-MN;IT-MN;MN;IT province,EN provinces,DE Provinzen;IT Mantova,EN Mantua,DE Mantua;IT;R-LO
+IT;IT-MS;IT-MS;MS;IT province,EN provinces,DE Provinzen;IT Massa-Carrara,EN Massa-Carrara,DE Massa-Carrara;IT;R-TO
+IT;IT-MT;IT-MT;MT;IT province,EN provinces,DE Provinzen;IT Matera,EN Matera,DE Matera;IT;R-BA
+IT;IT-MB;IT-MB;MB;IT province,EN provinces,DE Provinzen;IT Monza e Brianza,EN Monza and Brianza,DE Monza und Brianza;IT;R-LO
+IT;IT-MO;IT-MO;MO;IT province,EN provinces,DE Provinzen;IT Modena,EN Modena,DE Modena;IT;R-ER
+IT;IT-NO;IT-NO;NO;IT province,EN provinces,DE Provinzen;IT Novara,EN Novara,DE Novara;IT;R-PI
+IT;IT-NU;IT-NU;NU;IT province,EN provinces,DE Provinzen;IT Nuoro,EN Nuoro,DE Nuoro;IT;R-SA
+IT;IT-OR;IT-OR;OR;IT province,EN provinces,DE Provinzen;IT Oristano,EN Oristano,DE Oristano;IT;R-SA
+IT;IT-PD;IT-PD;PD;IT province,EN provinces,DE Provinzen;IT Padova,EN Padua,DE Padua;IT;R-VE
+IT;IT-PR;IT-PR;PR;IT province,EN provinces,DE Provinzen;IT Parma,EN Parma,DE Parma;IT;R-ER
+IT;IT-PV;IT-PV;PV;IT province,EN provinces,DE Provinzen;IT Pavia,EN Pavia,DE Pavia;IT;R-LO
+IT;IT-PG;IT-PG;PG;IT province,EN provinces,DE Provinzen;IT Perugia,EN Perugia,DE Perugia;IT;R-UM
+IT;IT-PU;IT-PU;PU;IT province,EN provinces,DE Provinzen;IT Pesaro e Urbino,EN Pesaro and Urbino,DE Pesaro und Urbino;IT;R-MA
+IT;IT-PE;IT-PE;PE;IT province,EN provinces,DE Provinzen;IT Pescara,EN Pescara,DE Pescara;IT;R-AB
+IT;IT-PC;IT-PC;PC;IT province,EN provinces,DE Provinzen;IT Piacenza,EN Piacenza,DE Piacenza;IT;R-ER
+IT;IT-PI;IT-PI;PI;IT province,EN provinces,DE Provinzen;IT Pisa,EN Pisa,DE Pisa;IT;R-TO
+IT;IT-PT;IT-PT;PT;IT province,EN provinces,DE Provinzen;IT Pistoia,EN Pistoia,DE Pistoia;IT;R-TO
+IT;IT-PN;IT-PN;PN;IT province,EN provinces,DE Provinzen;IT Pordenone,EN Pordenone,DE Pordenone;IT;R-FV
+IT;IT-PZ;IT-PZ;PZ;IT province,EN provinces,DE Provinzen;IT Potenza,EN Potenza,DE Potenza;IT;R-BA
+IT;IT-PO;IT-PO;PO;IT province,EN provinces,DE Provinzen;IT Prato,EN Prato,DE Prato;IT;R-TO
+IT;IT-RG;IT-RG;RG;IT province,EN provinces,DE Provinzen;IT Ragusa,EN Ragusa,DE Ragusa;IT;R-SI
+IT;IT-RA;IT-RA;RA;IT province,EN provinces,DE Provinzen;IT Ravenna,EN Ravenna,DE Ravenna;IT;R-ER
+IT;IT-RE;IT-RE;RE;IT province,EN provinces,DE Provinzen;IT Reggio Emilia,EN Reggio Emilia,DE Reggio Emilia;IT;R-ER
+IT;IT-RI;IT-RI;RI;IT province,EN provinces,DE Provinzen;IT Rieti,EN Rieti,DE Rieti;IT;R-LA
+IT;IT-RN;IT-RN;RN;IT province,EN provinces,DE Provinzen;IT Rimini,EN Rimini,DE Rimini;IT;R-ER
+IT;IT-RO;IT-RO;RO;IT province,EN provinces,DE Provinzen;IT Rovigo,EN Rovigo,DE Rovigo;IT;R-VE
+IT;IT-SA;IT-SA;SA;IT province,EN provinces,DE Provinzen;IT Salerno,EN Salerno,DE Salerno;IT;R-CM
+IT;IT-SS;IT-SS;SS;IT province,EN provinces,DE Provinzen;IT Sassari,EN Sassari,DE Sassari;IT;R-SA
+IT;IT-SV;IT-SV;SV;IT province,EN provinces,DE Provinzen;IT Savona,EN Savona,DE Savona;IT;R-LI
+IT;IT-SI;IT-SI;SI;IT province,EN provinces,DE Provinzen;IT Siena,EN Siena,DE Siena;IT;R-TO
+IT;IT-SR;IT-SR;SR;IT province,EN provinces,DE Provinzen;IT Siracusa,EN Syracuse,DE Syrakus;IT;R-SI
+IT;IT-SO;IT-SO;SO;IT province,EN provinces,DE Provinzen;IT Sondrio,EN Sondrio,DE Sondrio;IT;R-LO
+IT;IT-SU;IT-SU;SU;IT province,EN provinces,DE Provinzen;IT Sud Sardegna,EN Sud Sardegna,DE Sud Sardegna;IT;R-SA
+IT;IT-TA;IT-TA;TA;IT province,EN provinces,DE Provinzen;IT Taranto,EN Taranto,DE Tarent;IT;R-PU
+IT;IT-TE;IT-TE;TE;IT province,EN provinces,DE Provinzen;IT Teramo,EN Teramo,DE Teramo;IT;R-AB
+IT;IT-TR;IT-TR;TR;IT province,EN provinces,DE Provinzen;IT Terni,EN Terni,DE Terni;IT;R-UM
+IT;IT-TP;IT-TP;TP;IT province,EN provinces,DE Provinzen;IT Trapani,EN Trapani,DE Trapani;IT;R-SI
+IT;IT-TN;IT-TN;TN;IT province,EN provinces,DE Provinzen;IT Trento,EN Trentino,DE Trient;IT;R-TR
+IT;IT-TV;IT-TV;TV;IT province,EN provinces,DE Provinzen;IT Treviso,EN Treviso,DE Treviso;IT;R-VE
+IT;IT-TS;IT-TS;TS;IT province,EN provinces,DE Provinzen;IT Trieste,EN Trieste,DE Trieste;IT;R-FV
+IT;IT-UD;IT-UD;UD;IT province,EN provinces,DE Provinzen;IT Udine,EN Udine,DE Udine;IT;R-FV
+IT;IT-VA;IT-VA;VA;IT province,EN provinces,DE Provinzen;IT Varese,EN Varese,DE Varese;IT;R-LO
+IT;IT-VB;IT-VB;VB;IT province,EN provinces,DE Provinzen;IT Verbano-Cusio-Ossola,EN Verbano-Cusio-Ossola,DE Verbano-Cusio-Ossola;IT;R-PI
+IT;IT-VC;IT-VC;VC;IT province,EN provinces,DE Provinzen;IT Vercelli,EN Vercelli,DE Vercelli;IT;R-PI
+IT;IT-VR;IT-VR;VR;IT province,EN provinces,DE Provinzen;IT Verona,EN Verona,DE Verona;IT;R-VE
+IT;IT-VV;IT-VV;VV;IT province,EN provinces,DE Provinzen;IT Vibo Valentia,EN Vibo Valentia,DE Vibo Valentia;IT;R-CL
+IT;IT-VI;IT-VI;VI;IT province,EN provinces,DE Provinzen;IT Vicenza,EN Vicenza,DE Vicenza;IT;R-VE
+IT;IT-VT;IT-VT;VT;IT province,EN provinces,DE Provinzen;IT Viterbo,EN Viterbo,DE Viterbo;IT;R-LA
+IT;IT-BA;IT-BA;BA;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Bari,EN Bari,DE Bari;IT;R-PU
+IT;IT-BO;IT-BO;BO;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Bologna,EN Bologna,DE Bologna;IT;R-ER
+IT;IT-CA;IT-CA;CA;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Cagliari,EN Cagliari,DE Cagliari;IT;R-SA
+IT;IT-CT;IT-CT;CT;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Catania,EN Catania,DE Catania;IT;R-SI
+IT;IT-FI;IT-FI;FI;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Firenze,EN Florence,DE Florenz;IT;R-TO
+IT;IT-GE;IT-GE;GE;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Genova,EN Genoa,DE Genua;IT;R-LI
+IT;IT-ME;IT-ME;ME;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Messina,EN Messina,DE Messina;IT;R-SI
+IT;IT-MI;IT-MI;MI;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Milano,EN Milan,DE Mailand;IT;R-LO
+IT;IT-NA;IT-NA;NA;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Napoli,EN Naples,DE Neapel;IT;R-CM
+IT;IT-PA;IT-PA;PA;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Palermo,EN Palermo,DE Palermo;IT;R-SI
+IT;IT-RC;IT-RC;RC;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Reggio Calabria,EN Reggio Calabria,DE Reggio Calabria;IT;R-CL
+IT;IT-RM;IT-RM;RM;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Roma,EN Rome,DE Rom;IT;R-LA
+IT;IT-TO;IT-TO;TO;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Torino,EN Turin,DE Turin;IT;R-PI
+IT;IT-VE;IT-VE;VE;IT Città metropolitane,EN Metropolitan cities,DE Metropolen;IT Venezia,EN Venice,DE Venedig;IT;R-VE
+IT;IT-LO-RA;;LO-RA;IT rito liturgico,EN liturgical rite,DE liturgischer Ritus;IT rito ambrosiano,EN Ambrosian rite,DE Ambrosianischer Ritus;IT;R-LO
+IT;IT-LO-RR;;LO-RR;IT rito liturgico,EN liturgical rite,DE liturgischer Ritus;IT rito romano,EN Roman rite,DE Römischer Ritus;IT;R-LO
