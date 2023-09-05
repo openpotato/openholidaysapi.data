@@ -20,6 +20,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Monaco (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
++ Portugal (national and district public holidays from 2020)
 + San Marino (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
@@ -287,6 +288,13 @@ Public holidays:
 School holidays:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
+
+### Portugal
+
+Public holidays:
+
++ [Código do Trabalho - CT - Artigo 234.º / Lei n.º 7/2009](https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34546475-73982045)
++ [Decreto Legislativo Regional 18/2002/M, de 8 de Novembro](https://dre.tretas.org/dre/157858/decreto-legislativo-regional-18-2002-M-de-8-de-novembro)
 
 ### San Marino
 

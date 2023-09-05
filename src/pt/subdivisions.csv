@@ -1,0 +1,329 @@
+﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
+PT;PT-AV;PT-01;AV;PT distrito,EN district,DE Bezirk;PT Aveiro,EN Aveiro,DE Aveiro;PT;
+PT;PT-BE;PT-02;BE;PT distrito,EN district,DE Bezirk;PT Beja,EN Beja,DE Beja;PT;
+PT;PT-BR;PT-03;BR;PT distrito,EN district,DE Bezirk;PT Braga,EN Braga,DE Braga;PT;
+PT;PT-BA;PT-04;BA;PT distrito,EN district,DE Bezirk;PT Bragança,EN Bragança,DE Bragança;PT;
+PT;PT-CB;PT-05;CB;PT distrito,EN district,DE Bezirk;PT Castelo Branco,EN Castelo Branco,DE Castelo Branco;PT;
+PT;PT-CO;PT-06;CO;PT distrito,EN district,DE Bezirk;PT Coimbra,EN Coimbra,DE Coimbra;PT;
+PT;PT-EV;PT-07;EV;PT distrito,EN district,DE Bezirk;PT Évora,EN Évora,DE Évora;PT;
+PT;PT-FA;PT-08;FA;PT distrito,EN district,DE Bezirk;PT Faro,EN Faro,DE Faro;PT;
+PT;PT-GU;PT-09;GU;PT distrito,EN district,DE Bezirk;PT Guarda,EN Guarda,DE Guarda;PT;
+PT;PT-LE;PT-10;LE;PT distrito,EN district,DE Bezirk;PT Leiria,EN Leiria,DE Leiria;PT;
+PT;PT-LI;PT-11;LI;PT distrito,EN district,DE Bezirk;PT Lisboa,EN Lisbon,DE Lissabon;PT;
+PT;PT-PA;PT-12;PA;PT distrito,EN district,DE Bezirk;PT Portalegre,EN Portalegre,DE Portalegre;PT;
+PT;PT-PO;PT-13;PO;PT distrito,EN district,DE Bezirk;PT Porto,EN Porto,DE Porto;PT;
+PT;PT-SA;PT-14;SA;PT distrito,EN district,DE Bezirk;PT Santarém,EN Santarém,DE Santarém;PT;
+PT;PT-SE;PT-15;SE;PT distrito,EN district,DE Bezirk;PT Setúbal,EN Setúbal,DE Setúbal;PT;
+PT;PT-VC;PT-16;VC;PT distrito,EN district,DE Bezirk;PT Viana do Castelo,EN Viana do Castelo,DE Viana do Castelo;PT;
+PT;PT-VR;PT-17;VR;PT distrito,EN district,DE Bezirk;PT Vila Real,EN Vila Real,DE Vila Real;PT;
+PT;PT-VI;PT-18;VI;PT distrito,EN district,DE Bezirk;PT Viseu,EN Viseu,DE Viseu;PT;
+PT;PT-AC;PT-20;AC;PT região autónoma,EN autonomous region,DE autonome Region;PT Região Autónoma dos Açores,EN Azores,DE Azoren;PT;
+PT;PT-MA;PT-30;MA;PT região autónoma,EN autonomous region,DE autonome Region;PT Região Autónoma da Madeira,EN Madeira,DE Madeira;PT;
+PT;PT-ABT;;ABT;PT municípios,EN municipalities,DE Gemeinden;PT Abrantes,EN Abrantes,DE Abrantes;PT;SA
+PT;PT-AGD;;AGD;PT municípios,EN municipalities,DE Gemeinden;PT Águeda,EN Águeda,DE Águeda;PT;AV
+PT;PT-AGB;;AGB;PT municípios,EN municipalities,DE Gemeinden;PT Aguiar da Beira,EN Aguiar da Beira,DE Aguiar da Beira;PT;GU
+PT;PT-ADL;;ADL;PT municípios,EN municipalities,DE Gemeinden;PT Alandroal,EN Alandroal,DE Alandroal;PT;EV
+PT;PT-ALB;;ALB;PT municípios,EN municipalities,DE Gemeinden;PT Albergaria-a-Velha,EN Albergaria-a-Velha,DE Albergaria-a-Velha;PT;AV
+PT;PT-ABF;;ABF;PT municípios,EN municipalities,DE Gemeinden;PT Albufeira,EN Albufeira,DE Albufeira;PT;FA
+PT;PT-ASL;;ASL;PT municípios,EN municipalities,DE Gemeinden;PT Alcácer do Sal,EN Alcácer do Sal,DE Alcácer do Sal;PT;SE
+PT;PT-ACN;;ACN;PT municípios,EN municipalities,DE Gemeinden;PT Alcanena,EN Alcanena,DE Alcanena;PT;SA
+PT;PT-ACB;;ACB;PT municípios,EN municipalities,DE Gemeinden;PT Alcobaça,EN Alcobaça,DE Alcobaça;PT;LE
+PT;PT-ACH;;ACH;PT municípios,EN municipalities,DE Gemeinden;PT Alcochete,EN Alcochete,DE Alcochete;PT;SE
+PT;PT-ACT;;ACT;PT municípios,EN municipalities,DE Gemeinden;PT Alcoutim,EN Alcoutim,DE Alcoutim;PT;FA
+PT;PT-ALQ;;ALQ;PT municípios,EN municipalities,DE Gemeinden;PT Alenquer,EN Alenquer,DE Alenquer;PT;LI
+PT;PT-AFE;;AFE;PT municípios,EN municipalities,DE Gemeinden;PT Alfândega da Fé,EN Alfândega da Fé,DE Alfândega da Fé;PT;BA
+PT;PT-ALJ;;ALJ;PT municípios,EN municipalities,DE Gemeinden;PT Alijó,EN Alijó,DE Alijó;PT;VR
+PT;PT-AJZ;;AJZ;PT municípios,EN municipalities,DE Gemeinden;PT Aljezur,EN Aljezur,DE Aljezur;PT;FA
+PT;PT-AJT;;AJT;PT municípios,EN municipalities,DE Gemeinden;PT Aljustrel,EN Aljustrel,DE Aljustrel;PT;BE
+PT;PT-ALM;;ALM;PT municípios,EN municipalities,DE Gemeinden;PT Almada,EN Almada,DE Almada;PT;SE
+PT;PT-ALD;;ALD;PT municípios,EN municipalities,DE Gemeinden;PT Almeida,EN Almeida,DE Almeida;PT;GU
+PT;PT-ALR;;ALR;PT municípios,EN municipalities,DE Gemeinden;PT Almeirim,EN Almeirim,DE Almeirim;PT;SA
+PT;PT-ADV;;ADV;PT municípios,EN municipalities,DE Gemeinden;PT Almodôvar,EN Almodôvar,DE Almodôvar;PT;BE
+PT;PT-APC;;APC;PT municípios,EN municipalities,DE Gemeinden;PT Alpiarça,EN Alpiarça,DE Alpiarça;PT;SA
+PT;PT-ALT;;ALT;PT municípios,EN municipalities,DE Gemeinden;PT Alter do Chão,EN Alter do Chão,DE Alter do Chão;PT;PA
+PT;PT-AVZ;;AVZ;PT municípios,EN municipalities,DE Gemeinden;PT Alvaiázere,EN Alvaiázere,DE Alvaiázere;PT;LE
+PT;PT-AVT;;AVT;PT municípios,EN municipalities,DE Gemeinden;PT Alvito,EN Alvito,DE Alvito;PT;BE
+PT;PT-AMD;;AMD;PT municípios,EN municipalities,DE Gemeinden;PT Amadora,EN Amadora,DE Amadora;PT;LI
+PT;PT-AMT;;AMT;PT municípios,EN municipalities,DE Gemeinden;PT Amarante,EN Amarante,DE Amarante;PT;PO
+PT;PT-AMR;;AMR;PT municípios,EN municipalities,DE Gemeinden;PT Amares,EN Amares,DE Amares;PT;BR
+PT;PT-AND;;AND;PT municípios,EN municipalities,DE Gemeinden;PT Anadia,EN Anadia,DE Anadia;PT;AV
+PT;PT-AGH;;AGH;PT municípios,EN municipalities,DE Gemeinden;PT Angra do Heroísmo,EN Angra do Heroísmo,DE Angra do Heroísmo;PT;AC
+PT;PT-ANS;;ANS;PT municípios,EN municipalities,DE Gemeinden;PT Ansião,EN Ansião,DE Ansião;PT;LE
+PT;PT-AVV;;AVV;PT municípios,EN municipalities,DE Gemeinden;PT Arcos de Valdevez,EN Arcos de Valdevez,DE Arcos de Valdevez;PT;VC
+PT;PT-AGN;;AGN;PT municípios,EN municipalities,DE Gemeinden;PT Arganil,EN Arganil,DE Arganil;PT;CO
+PT;PT-AMM;;AMM;PT municípios,EN municipalities,DE Gemeinden;PT Armamar,EN Armamar,DE Armamar;PT;VI
+PT;PT-ARC;;ARC;PT municípios,EN municipalities,DE Gemeinden;PT Arouca,EN Arouca,DE Arouca;PT;AV
+PT;PT-ARL;;ARL;PT municípios,EN municipalities,DE Gemeinden;PT Arraiolos,EN Arraiolos,DE Arraiolos;PT;EV
+PT;PT-ARR;;ARR;PT municípios,EN municipalities,DE Gemeinden;PT Arronches,EN Arronches,DE Arronches;PT;PA
+PT;PT-ARV;;ARV;PT municípios,EN municipalities,DE Gemeinden;PT Arruda dos Vinhos,EN Arruda dos Vinhos,DE Arruda dos Vinhos;PT;LI
+PT;PT-AVR;;AVR;PT municípios,EN municipalities,DE Gemeinden;PT Aveiro,EN Aveiro,DE Aveiro;PT;AV
+PT;PT-AVS;;AVS;PT municípios,EN municipalities,DE Gemeinden;PT Avis,EN Avis,DE Avis;PT;PA
+PT;PT-AZB;;AZB;PT municípios,EN municipalities,DE Gemeinden;PT Azambuja,EN Azambuja,DE Azambuja;PT;LI
+PT;PT-BAO;;BAO;PT municípios,EN municipalities,DE Gemeinden;PT Baião,EN Baião,DE Baião;PT;PO
+PT;PT-BCL;;BCL;PT municípios,EN municipalities,DE Gemeinden;PT Barcelos,EN Barcelos,DE Barcelos;PT;BR
+PT;PT-BRC;;BRC;PT municípios,EN municipalities,DE Gemeinden;PT Barrancos,EN Barrancos,DE Barrancos;PT;BE
+PT;PT-BRR;;BRR;PT municípios,EN municipalities,DE Gemeinden;PT Barreiro,EN Barreiro,DE Barreiro;PT;SE
+PT;PT-BTL;;BTL;PT municípios,EN municipalities,DE Gemeinden;PT Batalha,EN Batalha,DE Batalha;PT;LE
+PT;PT-BJA;;BJA;PT municípios,EN municipalities,DE Gemeinden;PT Beja,EN Beja,DE Beja;PT;BE
+PT;PT-BMT;;BMT;PT municípios,EN municipalities,DE Gemeinden;PT Belmonte,EN Belmonte,DE Belmonte;PT;CB
+PT;PT-BNV;;BNV;PT municípios,EN municipalities,DE Gemeinden;PT Benavente,EN Benavente,DE Benavente;PT;SA
+PT;PT-BBR;;BBR;PT municípios,EN municipalities,DE Gemeinden;PT Bombarral,EN Bombarral,DE Bombarral;PT;LE
+PT;PT-BRB;;BRB;PT municípios,EN municipalities,DE Gemeinden;PT Borba,EN Borba,DE Borba;PT;EV
+PT;PT-BTC;;BTC;PT municípios,EN municipalities,DE Gemeinden;PT Boticas,EN Boticas,DE Boticas;PT;VR
+PT;PT-BRG;;BRG;PT municípios,EN municipalities,DE Gemeinden;PT Braga,EN Braga,DE Braga;PT;BR
+PT;PT-BGC;;BGC;PT municípios,EN municipalities,DE Gemeinden;PT Bragança,EN Bragança,DE Bragança;PT;BA
+PT;PT-CBC;;CBC;PT municípios,EN municipalities,DE Gemeinden;PT Cabeceiras de Basto,EN Cabeceiras de Basto,DE Cabeceiras de Basto;PT;BR
+PT;PT-CDV;;CDV;PT municípios,EN municipalities,DE Gemeinden;PT Cadaval,EN Cadaval,DE Cadaval;PT;LI
+PT;PT-CLD;;CLD;PT municípios,EN municipalities,DE Gemeinden;PT Caldas da Rainha,EN Caldas da Rainha,DE Caldas da Rainha;PT;LE
+PT;PT-CHT;;CHT;PT municípios,EN municipalities,DE Gemeinden;PT Calheta (Açores),EN Calheta (Azores),DE Calheta (Azoren);PT;AC
+PT;PT-CLT;;CLT;PT municípios,EN municipalities,DE Gemeinden;PT Calheta (Madeira),EN Calheta (Madeira),DE Calheta (Madeira);PT;MA
+PT;PT-CML;;CML;PT municípios,EN municipalities,DE Gemeinden;PT Câmara de Lobos,EN Câmara de Lobos,DE Câmara de Lobos;PT;MA
+PT;PT-CMN;;CMN;PT municípios,EN municipalities,DE Gemeinden;PT Caminha,EN Caminha,DE Caminha;PT;VC
+PT;PT-CMR;;CMR;PT municípios,EN municipalities,DE Gemeinden;PT Campo Maior,EN Campo Maior,DE Campo Maior;PT;PA
+PT;PT-CNT;;CNT;PT municípios,EN municipalities,DE Gemeinden;PT Cantanhede,EN Cantanhede,DE Cantanhede;PT;CO
+PT;PT-CRZ;;CRZ;PT municípios,EN municipalities,DE Gemeinden;PT Carrazeda de Ansiães,EN Carrazeda de Ansiães,DE Carrazeda de Ansiães;PT;BA
+PT;PT-CRS;;CRS;PT municípios,EN municipalities,DE Gemeinden;PT Carregal do Sal,EN Carregal do Sal,DE Carregal do Sal;PT;VI
+PT;PT-CTX;;CTX;PT municípios,EN municipalities,DE Gemeinden;PT Cartaxo,EN Cartaxo,DE Cartaxo;PT;SA
+PT;PT-CSC;;CSC;PT municípios,EN municipalities,DE Gemeinden;PT Cascais,EN Cascais,DE Cascais;PT;LI
+PT;PT-CPR;;CPR;PT municípios,EN municipalities,DE Gemeinden;PT Castanheira de Pera,EN Castanheira de Pera,DE Castanheira de Pera;PT;LE
+PT;PT-CTB;;CTB;PT municípios,EN municipalities,DE Gemeinden;PT Castelo Branco,EN Castelo Branco,DE Castelo Branco;PT;CB
+PT;PT-CPV;;CPV;PT municípios,EN municipalities,DE Gemeinden;PT Castelo de Paiva,EN Castelo de Paiva,DE Castelo de Paiva;PT;AV
+PT;PT-CVD;;CVD;PT municípios,EN municipalities,DE Gemeinden;PT Castelo de Vide,EN Castelo de Vide,DE Castelo de Vide;PT;PA
+PT;PT-CDR;;CDR;PT municípios,EN municipalities,DE Gemeinden;PT Castro Daire,EN Castro Daire,DE Castro Daire;PT;VI
+PT;PT-CTM;;CTM;PT municípios,EN municipalities,DE Gemeinden;PT Castro Marim,EN Castro Marim,DE Castro Marim;PT;FA
+PT;PT-CVR;;CVR;PT municípios,EN municipalities,DE Gemeinden;PT Castro Verde,EN Castro Verde,DE Castro Verde;PT;BE
+PT;PT-CLB;;CLB;PT municípios,EN municipalities,DE Gemeinden;PT Celorico da Beira,EN Celorico da Beira,DE Celorico da Beira;PT;GU
+PT;PT-CBT;;CBT;PT municípios,EN municipalities,DE Gemeinden;PT Celorico de Basto,EN Celorico de Basto,DE Celorico de Basto;PT;BR
+PT;PT-CHM;;CHM;PT municípios,EN municipalities,DE Gemeinden;PT Chamusca,EN Chamusca,DE Chamusca;PT;SA
+PT;PT-CHV;;CHV;PT municípios,EN municipalities,DE Gemeinden;PT Chaves,EN Chaves,DE Chaves;PT;VR
+PT;PT-CNF;;CNF;PT municípios,EN municipalities,DE Gemeinden;PT Cinfães,EN Cinfães,DE Cinfães;PT;VI
+PT;PT-CBR;;CBR;PT municípios,EN municipalities,DE Gemeinden;PT Coimbra,EN Coimbra,DE Coimbra;PT;CO
+PT;PT-CDN;;CDN;PT municípios,EN municipalities,DE Gemeinden;PT Condeixa-a-Nova,EN Condeixa-a-Nova,DE Condeixa-a-Nova;PT;CO
+PT;PT-CNS;;CNS;PT municípios,EN municipalities,DE Gemeinden;PT Constância,EN Constância,DE Constância;PT;SA
+PT;PT-CCH;;CCH;PT municípios,EN municipalities,DE Gemeinden;PT Coruche,EN Coruche,DE Coruche;PT;SA
+PT;PT-CRV;;CRV;PT municípios,EN municipalities,DE Gemeinden;PT Corvo,EN Corvo,DE Corvo;PT;AC
+PT;PT-CVL;;CVL;PT municípios,EN municipalities,DE Gemeinden;PT Covilhã,EN Covilhã,DE Covilhã;PT;CB
+PT;PT-CRT;;CRT;PT municípios,EN municipalities,DE Gemeinden;PT Crato,EN Crato,DE Crato;PT;PA
+PT;PT-CBA;;CBA;PT municípios,EN municipalities,DE Gemeinden;PT Cuba,EN Cuba,DE Cuba;PT;BE
+PT;PT-ELV;;ELV;PT municípios,EN municipalities,DE Gemeinden;PT Elvas,EN Elvas,DE Elvas;PT;PA
+PT;PT-ENT;;ENT;PT municípios,EN municipalities,DE Gemeinden;PT Entroncamento,EN Entroncamento,DE Entroncamento;PT;SA
+PT;PT-ESP;;ESP;PT municípios,EN municipalities,DE Gemeinden;PT Espinho,EN Espinho,DE Espinho;PT;AV
+PT;PT-EPS;;EPS;PT municípios,EN municipalities,DE Gemeinden;PT Esposende,EN Esposende,DE Esposende;PT;BR
+PT;PT-ETR;;ETR;PT municípios,EN municipalities,DE Gemeinden;PT Estarreja,EN Estarreja,DE Estarreja;PT;AV
+PT;PT-ETZ;;ETZ;PT municípios,EN municipalities,DE Gemeinden;PT Estremoz,EN Estremoz,DE Estremoz;PT;EV
+PT;PT-EVR;;EVR;PT municípios,EN municipalities,DE Gemeinden;PT Évora,EN Évora,DE Évora;PT;EV
+PT;PT-FAF;;FAF;PT municípios,EN municipalities,DE Gemeinden;PT Fafe,EN Fafe,DE Fafe;PT;BR
+PT;PT-FAR;;FAR;PT municípios,EN municipalities,DE Gemeinden;PT Faro,EN Faro,DE Faro;PT;FA
+PT;PT-FLG;;FLG;PT municípios,EN municipalities,DE Gemeinden;PT Felgueiras,EN Felgueiras,DE Felgueiras;PT;PO
+PT;PT-FAL;;FAL;PT municípios,EN municipalities,DE Gemeinden;PT Ferreira do Alentejo,EN Ferreira do Alentejo,DE Ferreira do Alentejo;PT;BE
+PT;PT-FZZ;;FZZ;PT municípios,EN municipalities,DE Gemeinden;PT Ferreira do Zêzere,EN Ferreira do Zêzere,DE Ferreira do Zêzere;PT;SA
+PT;PT-FIG;;FIG;PT municípios,EN municipalities,DE Gemeinden;PT Figueira da Foz,EN Figueira da Foz,DE Figueira da Foz;PT;CO
+PT;PT-FCR;;FCR;PT municípios,EN municipalities,DE Gemeinden;PT Figueira de Castelo Rodrigo,EN Figueira de Castelo Rodrigo,DE Figueira de Castelo Rodrigo;PT;GU
+PT;PT-FVN;;FVN;PT municípios,EN municipalities,DE Gemeinden;PT Figueiró dos Vinhos,EN Figueiró dos Vinhos,DE Figueiró dos Vinhos;PT;LE
+PT;PT-FAG;;FAG;PT municípios,EN municipalities,DE Gemeinden;PT Fornos de Algodres,EN Fornos de Algodres,DE Fornos de Algodres;PT;GU
+PT;PT-FEC;;FEC;PT municípios,EN municipalities,DE Gemeinden;PT Freixo de Espada à Cinta,EN Freixo de Espada à Cinta,DE Freixo de Espada à Cinta;PT;BA
+PT;PT-FTR;;FTR;PT municípios,EN municipalities,DE Gemeinden;PT Fronteira,EN Fronteira,DE Fronteira;PT;PA
+PT;PT-FNC;;FNC;PT municípios,EN municipalities,DE Gemeinden;PT Funchal,EN Funchal,DE Funchal;PT;MA
+PT;PT-FND;;FND;PT municípios,EN municipalities,DE Gemeinden;PT Fundão,EN Fundão,DE Fundão;PT;CB
+PT;PT-GAV;;GAV;PT municípios,EN municipalities,DE Gemeinden;PT Gavião,EN Gavião,DE Gavião;PT;PA
+PT;PT-GOI;;GOI;PT municípios,EN municipalities,DE Gemeinden;PT Góis,EN Góis,DE Góis;PT;CO
+PT;PT-GLG;;GLG;PT municípios,EN municipalities,DE Gemeinden;PT Golegã,EN Golegã,DE Golegã;PT;SA
+PT;PT-GDM;;GDM;PT municípios,EN municipalities,DE Gemeinden;PT Gondomar,EN Gondomar,DE Gondomar;PT;PO
+PT;PT-GVA;;GVA;PT municípios,EN municipalities,DE Gemeinden;PT Gouveia,EN Gouveia,DE Gouveia;PT;GU
+PT;PT-GDL;;GDL;PT municípios,EN municipalities,DE Gemeinden;PT Grândola,EN Grândola,DE Grândola;PT;SE
+PT;PT-GRD;;GRD;PT municípios,EN municipalities,DE Gemeinden;PT Guarda,EN Guarda,DE Guarda;PT;GU
+PT;PT-GMR;;GMR;PT municípios,EN municipalities,DE Gemeinden;PT Guimarães,EN Guimarães,DE Guimarães;PT;BR
+PT;PT-HRT;;HRT;PT municípios,EN municipalities,DE Gemeinden;PT Horta,EN Horta,DE Horta;PT;AC
+PT;PT-IDN;;IDN;PT municípios,EN municipalities,DE Gemeinden;PT Idanha-a-Nova,EN Idanha-a-Nova,DE Idanha-a-Nova;PT;CB
+PT;PT-ILH;;ILH;PT municípios,EN municipalities,DE Gemeinden;PT Ílhavo,EN Ílhavo,DE Ílhavo;PT;AV
+PT;PT-LGA;;LGA;PT municípios,EN municipalities,DE Gemeinden;PT Lagoa (Algarve),EN Lagoa (Algarve),DE Lagoa (Algarve);PT;FA
+PT;PT-LAG;;LAG;PT municípios,EN municipalities,DE Gemeinden;PT Lagoa (Açores),EN Lagoa (Azores),DE Lagoa (Azoren);PT;AC
+PT;PT-LGS;;LGS;PT municípios,EN municipalities,DE Gemeinden;PT Lagos,EN Lagos,DE Lagos;PT;FA
+PT;PT-LGF;;LGF;PT municípios,EN municipalities,DE Gemeinden;PT Lajes das Flores,EN Lajes das Flores,DE Lajes das Flores;PT;AC
+PT;PT-LGP;;LGP;PT municípios,EN municipalities,DE Gemeinden;PT Lajes do Pico,EN Lajes do Pico,DE Lajes do Pico;PT;AC
+PT;PT-LMG;;LMG;PT municípios,EN municipalities,DE Gemeinden;PT Lamego,EN Lamego,DE Lamego;PT;VI
+PT;PT-LRA;;LRA;PT municípios,EN municipalities,DE Gemeinden;PT Leiria,EN Leiria,DE Leiria;PT;LE
+PT;PT-LSB;;LSB;PT municípios,EN municipalities,DE Gemeinden;PT Lisboa,EN Lisbon,DE Lissabon;PT;LI
+PT;PT-LLE;;LLE;PT municípios,EN municipalities,DE Gemeinden;PT Loulé,EN Loulé,DE Loulé;PT;FA
+PT;PT-LRS;;LRS;PT municípios,EN municipalities,DE Gemeinden;PT Loures,EN Loures,DE Loures;PT;LI
+PT;PT-LNH;;LNH;PT municípios,EN municipalities,DE Gemeinden;PT Lourinhã,EN Lourinhã,DE Lourinhã;PT;LI
+PT;PT-LSA;;LSA;PT municípios,EN municipalities,DE Gemeinden;PT Lousã,EN Lousã,DE Lousã;PT;CO
+PT;PT-LOU;;LOU;PT municípios,EN municipalities,DE Gemeinden;PT Lousada,EN Lousada,DE Lousada;PT;PO
+PT;PT-MAC;;MAC;PT municípios,EN municipalities,DE Gemeinden;PT Mação,EN Mação,DE Mação;PT;SA
+PT;PT-MCD;;MCD;PT municípios,EN municipalities,DE Gemeinden;PT Macedo de Cavaleiros,EN Macedo de Cavaleiros,DE Macedo de Cavaleiros;PT;BA
+PT;PT-MCH;;MCH;PT municípios,EN municipalities,DE Gemeinden;PT Machico,EN Machico,DE Machico;PT;MA
+PT;PT-MAD;;MAD;PT municípios,EN municipalities,DE Gemeinden;PT Madalena,EN Madalena,DE Madalena;PT;AC
+PT;PT-MFR;;MFR;PT municípios,EN municipalities,DE Gemeinden;PT Mafra,EN Mafra,DE Mafra;PT;LI
+PT;PT-MAI;;MAI;PT municípios,EN municipalities,DE Gemeinden;PT Maia,EN Maia,DE Maia;PT;PO
+PT;PT-MGL;;MGL;PT municípios,EN municipalities,DE Gemeinden;PT Mangualde,EN Mangualde,DE Mangualde;PT;VI
+PT;PT-MTG;;MTG;PT municípios,EN municipalities,DE Gemeinden;PT Manteigas,EN Manteigas,DE Manteigas;PT;GU
+PT;PT-MCN;;MCN;PT municípios,EN municipalities,DE Gemeinden;PT Marco de Canaveses,EN Marco de Canaveses,DE Marco de Canaveses;PT;PO
+PT;PT-MGR;;MGR;PT municípios,EN municipalities,DE Gemeinden;PT Marinha Grande,EN Marinha Grande,DE Marinha Grande;PT;LE
+PT;PT-MRV;;MRV;PT municípios,EN municipalities,DE Gemeinden;PT Marvão,EN Marvão,DE Marvão;PT;PA
+PT;PT-MTS;;MTS;PT municípios,EN municipalities,DE Gemeinden;PT Matosinhos,EN Matosinhos,DE Matosinhos;PT;PO
+PT;PT-MLD;;MLD;PT municípios,EN municipalities,DE Gemeinden;PT Mealhada,EN Mealhada,DE Mealhada;PT;AV
+PT;PT-MED;;MED;PT municípios,EN municipalities,DE Gemeinden;PT Mêda,EN Mêda,DE Mêda;PT;GU
+PT;PT-MLG;;MLG;PT municípios,EN municipalities,DE Gemeinden;PT Melgaço,EN Melgaço,DE Melgaço;PT;VC
+PT;PT-MTL;;MTL;PT municípios,EN municipalities,DE Gemeinden;PT Mértola,EN Mértola,DE Mértola;PT;BE
+PT;PT-MSF;;MSF;PT municípios,EN municipalities,DE Gemeinden;PT Mesão Frio,EN Mesão Frio,DE Mesão Frio;PT;VR
+PT;PT-MIR;;MIR;PT municípios,EN municipalities,DE Gemeinden;PT Mira,EN Mira,DE Mira;PT;CO
+PT;PT-MCV;;MCV;PT municípios,EN municipalities,DE Gemeinden;PT Miranda do Corvo,EN Miranda do Corvo,DE Miranda do Corvo;PT;CO
+PT;PT-MDR;;MDR;PT municípios,EN municipalities,DE Gemeinden;PT Miranda do Douro (Miranda de l Douro),EN Miranda do Douro (Miranda de l Douro),DE Miranda do Douro (Miranda de l Douro);PT;BA
+PT;PT-MDL;;MDL;PT municípios,EN municipalities,DE Gemeinden;PT Mirandela,EN Mirandela,DE Mirandela;PT;BA
+PT;PT-MGD;;MGD;PT municípios,EN municipalities,DE Gemeinden;PT Mogadouro,EN Mogadouro,DE Mogadouro;PT;BA
+PT;PT-MBR;;MBR;PT municípios,EN municipalities,DE Gemeinden;PT Moimenta da Beira,EN Moimenta da Beira,DE Moimenta da Beira;PT;VI
+PT;PT-MTA;;MTA;PT municípios,EN municipalities,DE Gemeinden;PT Moita,EN Moita,DE Moita;PT;SE
+PT;PT-MNC;;MNC;PT municípios,EN municipalities,DE Gemeinden;PT Monção,EN Monção,DE Monção;PT;VC
+PT;PT-MCQ;;MCQ;PT municípios,EN municipalities,DE Gemeinden;PT Monchique,EN Monchique,DE Monchique;PT;FA
+PT;PT-MDB;;MDB;PT municípios,EN municipalities,DE Gemeinden;PT Mondim de Basto,EN Mondim de Basto,DE Mondim de Basto;PT;VR
+PT;PT-MFT;;MFT;PT municípios,EN municipalities,DE Gemeinden;PT Monforte,EN Monforte,DE Monforte;PT;PA
+PT;PT-MTR;;MTR;PT municípios,EN municipalities,DE Gemeinden;PT Montalegre,EN Montalegre,DE Montalegre;PT;VR
+PT;PT-MMN;;MMN;PT municípios,EN municipalities,DE Gemeinden;PT Montemor-o-Novo,EN Montemor-o-Novo,DE Montemor-o-Novo;PT;EV
+PT;PT-MMV;;MMV;PT municípios,EN municipalities,DE Gemeinden;PT Montemor-o-Velho,EN Montemor-o-Velho,DE Montemor-o-Velho;PT;CO
+PT;PT-MTJ;;MTJ;PT municípios,EN municipalities,DE Gemeinden;PT Montijo,EN Montijo,DE Montijo;PT;SE
+PT;PT-MOR;;MOR;PT municípios,EN municipalities,DE Gemeinden;PT Mora,EN Mora,DE Mora;PT;EV
+PT;PT-MRT;;MRT;PT municípios,EN municipalities,DE Gemeinden;PT Mortágua,EN Mortágua,DE Mortágua;PT;VI
+PT;PT-MRA;;MRA;PT municípios,EN municipalities,DE Gemeinden;PT Moura,EN Moura,DE Moura;PT;BE
+PT;PT-MOU;;MOU;PT municípios,EN municipalities,DE Gemeinden;PT Mourão,EN Mourão,DE Mourão;PT;EV
+PT;PT-MUR;;MUR;PT municípios,EN municipalities,DE Gemeinden;PT Murça,EN Murça,DE Murça;PT;VR
+PT;PT-MRS;;MRS;PT municípios,EN municipalities,DE Gemeinden;PT Murtosa,EN Murtosa,DE Murtosa;PT;AV
+PT;PT-NZR;;NZR;PT municípios,EN municipalities,DE Gemeinden;PT Nazaré,EN Nazaré,DE Nazaré;PT;LE
+PT;PT-NLS;;NLS;PT municípios,EN municipalities,DE Gemeinden;PT Nelas,EN Nelas,DE Nelas;PT;VI
+PT;PT-NIS;;NIS;PT municípios,EN municipalities,DE Gemeinden;PT Nisa,EN Nisa,DE Nisa;PT;PA
+PT;PT-NRD;;NRD;PT municípios,EN municipalities,DE Gemeinden;PT Nordeste,EN Nordeste,DE Nordeste;PT;AC
+PT;PT-OBD;;OBD;PT municípios,EN municipalities,DE Gemeinden;PT Óbidos,EN Óbidos,DE Óbidos;PT;LE
+PT;PT-ODM;;ODM;PT municípios,EN municipalities,DE Gemeinden;PT Odemira,EN Odemira,DE Odemira;PT;BE
+PT;PT-ODV;;ODV;PT municípios,EN municipalities,DE Gemeinden;PT Odivelas,EN Odivelas,DE Odivelas;PT;LI
+PT;PT-OER;;OER;PT municípios,EN municipalities,DE Gemeinden;PT Oeiras,EN Oeiras,DE Oeiras;PT;LI
+PT;PT-OLR;;OLR;PT municípios,EN municipalities,DE Gemeinden;PT Oleiros,EN Oleiros,DE Oleiros;PT;CB
+PT;PT-OLH;;OLH;PT municípios,EN municipalities,DE Gemeinden;PT Olhão,EN Olhão,DE Olhão;PT;FA
+PT;PT-OAZ;;OAZ;PT municípios,EN municipalities,DE Gemeinden;PT Oliveira de Azeméis,EN Oliveira de Azeméis,DE Oliveira de Azeméis;PT;AV
+PT;PT-OFR;;OFR;PT municípios,EN municipalities,DE Gemeinden;PT Oliveira de Frades,EN Oliveira de Frades,DE Oliveira de Frades;PT;VI
+PT;PT-OBR;;OBR;PT municípios,EN municipalities,DE Gemeinden;PT Oliveira do Bairro,EN Oliveira do Bairro,DE Oliveira do Bairro;PT;AV
+PT;PT-OHP;;OHP;PT municípios,EN municipalities,DE Gemeinden;PT Oliveira do Hospital,EN Oliveira do Hospital,DE Oliveira do Hospital;PT;CO
+PT;PT-ORM;;ORM;PT municípios,EN municipalities,DE Gemeinden;PT Ourém,EN Ourém,DE Ourém;PT;SA
+PT;PT-ORQ;;ORQ;PT municípios,EN municipalities,DE Gemeinden;PT Ourique,EN Ourique,DE Ourique;PT;BE
+PT;PT-OVR;;OVR;PT municípios,EN municipalities,DE Gemeinden;PT Ovar,EN Ovar,DE Ovar;PT;AV
+PT;PT-PFR;;PFR;PT municípios,EN municipalities,DE Gemeinden;PT Paços de Ferreira,EN Paços de Ferreira,DE Paços de Ferreira;PT;PO
+PT;PT-PLM;;PLM;PT municípios,EN municipalities,DE Gemeinden;PT Palmela,EN Palmela,DE Palmela;PT;SE
+PT;PT-PPS;;PPS;PT municípios,EN municipalities,DE Gemeinden;PT Pampilhosa da Serra,EN Pampilhosa da Serra,DE Pampilhosa da Serra;PT;CO
+PT;PT-PRD;;PRD;PT municípios,EN municipalities,DE Gemeinden;PT Paredes,EN Paredes,DE Paredes;PT;PO
+PT;PT-PCR;;PCR;PT municípios,EN municipalities,DE Gemeinden;PT Paredes de Coura,EN Paredes de Coura,DE Paredes de Coura;PT;VC
+PT;PT-PGR;;PGR;PT municípios,EN municipalities,DE Gemeinden;PT Pedrógão Grande,EN Pedrógão Grande,DE Pedrógão Grande;PT;LE
+PT;PT-PCV;;PCV;PT municípios,EN municipalities,DE Gemeinden;PT Penacova,EN Penacova,DE Penacova;PT;CO
+PT;PT-PNF;;PNF;PT municípios,EN municipalities,DE Gemeinden;PT Penafiel,EN Penafiel,DE Penafiel;PT;PO
+PT;PT-PCT;;PCT;PT municípios,EN municipalities,DE Gemeinden;PT Penalva do Castelo,EN Penalva do Castelo,DE Penalva do Castelo;PT;VI
+PT;PT-PNC;;PNC;PT municípios,EN municipalities,DE Gemeinden;PT Penamacor,EN Penamacor,DE Penamacor;PT;CB
+PT;PT-PND;;PND;PT municípios,EN municipalities,DE Gemeinden;PT Penedono,EN Penedono,DE Penedono;PT;VI
+PT;PT-PNL;;PNL;PT municípios,EN municipalities,DE Gemeinden;PT Penela,EN Penela,DE Penela;PT;CO
+PT;PT-PNI;;PNI;PT municípios,EN municipalities,DE Gemeinden;PT Peniche,EN Peniche,DE Peniche;PT;LE
+PT;PT-PRG;;PRG;PT municípios,EN municipalities,DE Gemeinden;PT Peso da Régua,EN Peso da Régua,DE Peso da Régua;PT;VR
+PT;PT-PNH;;PNH;PT municípios,EN municipalities,DE Gemeinden;PT Pinhel,EN Pinhel,DE Pinhel;PT;GU
+PT;PT-PBL;;PBL;PT municípios,EN municipalities,DE Gemeinden;PT Pombal,EN Pombal,DE Pombal;PT;LE
+PT;PT-PDL;;PDL;PT municípios,EN municipalities,DE Gemeinden;PT Ponta Delgada,EN Ponta Delgada,DE Ponta Delgada;PT;AC
+PT;PT-PTS;;PTS;PT municípios,EN municipalities,DE Gemeinden;PT Ponta do Sol,EN Ponta do Sol,DE Ponta do Sol;PT;MA
+PT;PT-PTB;;PTB;PT municípios,EN municipalities,DE Gemeinden;PT Ponte da Barca,EN Ponte da Barca,DE Ponte da Barca;PT;VC
+PT;PT-PTL;;PTL;PT municípios,EN municipalities,DE Gemeinden;PT Ponte de Lima,EN Ponte de Lima,DE Ponte de Lima;PT;VC
+PT;PT-PSR;;PSR;PT municípios,EN municipalities,DE Gemeinden;PT Ponte de Sor,EN Ponte de Sor,DE Ponte de Sor;PT;PA
+PT;PT-PTG;;PTG;PT municípios,EN municipalities,DE Gemeinden;PT Portalegre,EN Portalegre,DE Portalegre;PT;PA
+PT;PT-PRL;;PRL;PT municípios,EN municipalities,DE Gemeinden;PT Portel,EN Portel,DE Portel;PT;EV
+PT;PT-PTM;;PTM;PT municípios,EN municipalities,DE Gemeinden;PT Portimão,EN Portimão,DE Portimão;PT;FA
+PT;PT-PRT;;PRT;PT municípios,EN municipalities,DE Gemeinden;PT Porto,EN Porto,DE Porto;PT;PO
+PT;PT-PMS;;PMS;PT municípios,EN municipalities,DE Gemeinden;PT Porto de Mós,EN Porto de Mós,DE Porto de Mós;PT;LE
+PT;PT-PMZ;;PMZ;PT municípios,EN municipalities,DE Gemeinden;PT Porto Moniz,EN Porto Moniz,DE Porto Moniz;PT;MA
+PT;PT-PST;;PST;PT municípios,EN municipalities,DE Gemeinden;PT Porto Santo,EN Porto Santo,DE Porto Santo;PT;MA
+PT;PT-PVL;;PVL;PT municípios,EN municipalities,DE Gemeinden;PT Póvoa de Lanhoso,EN Póvoa de Lanhoso,DE Póvoa de Lanhoso;PT;BR
+PT;PT-PVZ;;PVZ;PT municípios,EN municipalities,DE Gemeinden;PT Póvoa de Varzim,EN Póvoa de Varzim,DE Póvoa de Varzim;PT;PO
+PT;PT-PVC;;PVC;PT municípios,EN municipalities,DE Gemeinden;PT Povoação,EN Povoação,DE Povoação;PT;AC
+PT;PT-VPV;;VPV;PT municípios,EN municipalities,DE Gemeinden;PT Praia da Vitória,EN Praia da Vitória,DE Praia da Vitória;PT;AC
+PT;PT-PNV;;PNV;PT municípios,EN municipalities,DE Gemeinden;PT Proença-a-Nova,EN Proença-a-Nova,DE Proença-a-Nova;PT;CB
+PT;PT-RDD;;RDD;PT municípios,EN municipalities,DE Gemeinden;PT Redondo,EN Redondo,DE Redondo;PT;EV
+PT;PT-RMZ;;RMZ;PT municípios,EN municipalities,DE Gemeinden;PT Reguengos de Monsaraz,EN Reguengos de Monsaraz,DE Reguengos de Monsaraz;PT;EV
+PT;PT-RSD;;RSD;PT municípios,EN municipalities,DE Gemeinden;PT Resende,EN Resende,DE Resende;PT;VI
+PT;PT-RBR;;RBR;PT municípios,EN municipalities,DE Gemeinden;PT Ribeira Brava,EN Ribeira Brava,DE Ribeira Brava;PT;MA
+PT;PT-RPN;;RPN;PT municípios,EN municipalities,DE Gemeinden;PT Ribeira de Pena,EN Ribeira de Pena,DE Ribeira de Pena;PT;VR
+PT;PT-RGR;;RGR;PT municípios,EN municipalities,DE Gemeinden;PT Ribeira Grande,EN Ribeira Grande,DE Ribeira Grande;PT;AC
+PT;PT-RMR;;RMR;PT municípios,EN municipalities,DE Gemeinden;PT Rio Maior,EN Rio Maior,DE Rio Maior;PT;SA
+PT;PT-SBR;;SBR;PT municípios,EN municipalities,DE Gemeinden;PT Sabrosa,EN Sabrosa,DE Sabrosa;PT;VR
+PT;PT-SBG;;SBG;PT municípios,EN municipalities,DE Gemeinden;PT Sabugal,EN Sabugal,DE Sabugal;PT;GU
+PT;PT-SMG;;SMG;PT municípios,EN municipalities,DE Gemeinden;PT Salvaterra de Magos,EN Salvaterra de Magos,DE Salvaterra de Magos;PT;SA
+PT;PT-SCD;;SCD;PT municípios,EN municipalities,DE Gemeinden;PT Santa Comba Dão,EN Santa Comba Dão,DE Santa Comba Dão;PT;VI
+PT;PT-SCR;;SCR;PT municípios,EN municipalities,DE Gemeinden;PT Santa Cruz,EN Santa Cruz,DE Santa Cruz;PT;MA
+PT;PT-SCG;;SCG;PT municípios,EN municipalities,DE Gemeinden;PT Santa Cruz da Graciosa,EN Santa Cruz da Graciosa,DE Santa Cruz da Graciosa;PT;AC
+PT;PT-SCF;;SCF;PT municípios,EN municipalities,DE Gemeinden;PT Santa Cruz das Flores,EN Santa Cruz das Flores,DE Santa Cruz das Flores;PT;AC
+PT;PT-VFR;;VFR;PT municípios,EN municipalities,DE Gemeinden;PT Santa Maria da Feira,EN Santa Maria da Feira,DE Santa Maria da Feira;PT;AV
+PT;PT-SMP;;SMP;PT municípios,EN municipalities,DE Gemeinden;PT Santa Marta de Penaguião,EN Santa Marta de Penaguião,DE Santa Marta de Penaguião;PT;VR
+PT;PT-STN;;STN;PT municípios,EN municipalities,DE Gemeinden;PT Santana,EN Santana,DE Santana;PT;MA
+PT;PT-STR;;STR;PT municípios,EN municipalities,DE Gemeinden;PT Santarém,EN Santarém,DE Santarém;PT;SA
+PT;PT-STC;;STC;PT municípios,EN municipalities,DE Gemeinden;PT Santiago do Cacém,EN Santiago do Cacém,DE Santiago do Cacém;PT;SE
+PT;PT-STS;;STS;PT municípios,EN municipalities,DE Gemeinden;PT Santo Tirso,EN Santo Tirso,DE Santo Tirso;PT;PO
+PT;PT-SBA;;SBA;PT municípios,EN municipalities,DE Gemeinden;PT São Brás de Alportel,EN São Brás de Alportel,DE São Brás de Alportel;PT;FA
+PT;PT-SJM;;SJM;PT municípios,EN municipalities,DE Gemeinden;PT São João da Madeira,EN São João da Madeira,DE São João da Madeira;PT;AV
+PT;PT-SJP;;SJP;PT municípios,EN municipalities,DE Gemeinden;PT São João da Pesqueira,EN São João da Pesqueira,DE São João da Pesqueira;PT;VI
+PT;PT-SPS;;SPS;PT municípios,EN municipalities,DE Gemeinden;PT São Pedro do Sul,EN São Pedro do Sul,DE São Pedro do Sul;PT;VI
+PT;PT-SRQ;;SRQ;PT municípios,EN municipalities,DE Gemeinden;PT São Roque do Pico,EN São Roque do Pico,DE São Roque do Pico;PT;AC
+PT;PT-SVC;;SVC;PT municípios,EN municipalities,DE Gemeinden;PT São Vicente,EN São Vicente,DE São Vicente;PT;MA
+PT;PT-SRD;;SRD;PT municípios,EN municipalities,DE Gemeinden;PT Sardoal,EN Sardoal,DE Sardoal;PT;SA
+PT;PT-SAT;;SAT;PT municípios,EN municipalities,DE Gemeinden;PT Sátão,EN Sátão,DE Sátão;PT;VI
+PT;PT-SEI;;SEI;PT municípios,EN municipalities,DE Gemeinden;PT Seia,EN Seia,DE Seia;PT;GU
+PT;PT-SXL;;SXL;PT municípios,EN municipalities,DE Gemeinden;PT Seixal,EN Seixal,DE Seixal;PT;SE
+PT;PT-SRN;;SRN;PT municípios,EN municipalities,DE Gemeinden;PT Sernancelhe,EN Sernancelhe,DE Sernancelhe;PT;VI
+PT;PT-SRP;;SRP;PT municípios,EN municipalities,DE Gemeinden;PT Serpa,EN Serpa,DE Serpa;PT;BE
+PT;PT-SRT;;SRT;PT municípios,EN municipalities,DE Gemeinden;PT Sertã,EN Sertã,DE Sertã;PT;CB
+PT;PT-SSB;;SSB;PT municípios,EN municipalities,DE Gemeinden;PT Sesimbra,EN Sesimbra,DE Sesimbra;PT;SE
+PT;PT-STB;;STB;PT municípios,EN municipalities,DE Gemeinden;PT Setúbal,EN Setúbal,DE Setúbal;PT;SE
+PT;PT-SVV;;SVV;PT municípios,EN municipalities,DE Gemeinden;PT Sever do Vouga,EN Sever do Vouga,DE Sever do Vouga;PT;AV
+PT;PT-SLV;;SLV;PT municípios,EN municipalities,DE Gemeinden;PT Silves,EN Silves,DE Silves;PT;FA
+PT;PT-SNS;;SNS;PT municípios,EN municipalities,DE Gemeinden;PT Sines,EN Sines,DE Sines;PT;SE
+PT;PT-SNT;;SNT;PT municípios,EN municipalities,DE Gemeinden;PT Sintra,EN Sintra,DE Sintra;PT;LI
+PT;PT-SMA;;SMA;PT municípios,EN municipalities,DE Gemeinden;PT Sobral de Monte Agraço,EN Sobral de Monte Agraço,DE Sobral de Monte Agraço;PT;LI
+PT;PT-SRE;;SRE;PT municípios,EN municipalities,DE Gemeinden;PT Soure,EN Soure,DE Soure;PT;CO
+PT;PT-SSL;;SSL;PT municípios,EN municipalities,DE Gemeinden;PT Sousel,EN Sousel,DE Sousel;PT;PA
+PT;PT-TBU;;TBU;PT municípios,EN municipalities,DE Gemeinden;PT Tábua,EN Tábua,DE Tábua;PT;CO
+PT;PT-TBC;;TBC;PT municípios,EN municipalities,DE Gemeinden;PT Tabuaço,EN Tabuaço,DE Tabuaço;PT;VI
+PT;PT-TRC;;TRC;PT municípios,EN municipalities,DE Gemeinden;PT Tarouca,EN Tarouca,DE Tarouca;PT;VI
+PT;PT-TVR;;TVR;PT municípios,EN municipalities,DE Gemeinden;PT Tavira,EN Tavira,DE Tavira;PT;FA
+PT;PT-TBR;;TBR;PT municípios,EN municipalities,DE Gemeinden;PT Terras de Bouro,EN Terras de Bouro,DE Terras de Bouro;PT;BR
+PT;PT-TMR;;TMR;PT municípios,EN municipalities,DE Gemeinden;PT Tomar,EN Tomar,DE Tomar;PT;SA
+PT;PT-TND;;TND;PT municípios,EN municipalities,DE Gemeinden;PT Tondela,EN Tondela,DE Tondela;PT;VI
+PT;PT-TMC;;TMC;PT municípios,EN municipalities,DE Gemeinden;PT Torre de Moncorvo,EN Torre de Moncorvo,DE Torre de Moncorvo;PT;BA
+PT;PT-TNV;;TNV;PT municípios,EN municipalities,DE Gemeinden;PT Torres Novas,EN Torres Novas,DE Torres Novas;PT;SA
+PT;PT-TVD;;TVD;PT municípios,EN municipalities,DE Gemeinden;PT Torres Vedras,EN Torres Vedras,DE Torres Vedras;PT;LI
+PT;PT-TCS;;TCS;PT municípios,EN municipalities,DE Gemeinden;PT Trancoso,EN Trancoso,DE Trancoso;PT;GU
+PT;PT-TRF;;TRF;PT municípios,EN municipalities,DE Gemeinden;PT Trofa,EN Trofa,DE Trofa;PT;PO
+PT;PT-VGS;;VGS;PT municípios,EN municipalities,DE Gemeinden;PT Vagos,EN Vagos,DE Vagos;PT;AV
+PT;PT-VLC;;VLC;PT municípios,EN municipalities,DE Gemeinden;PT Vale de Cambra,EN Vale de Cambra,DE Vale de Cambra;PT;AV
+PT;PT-VLN;;VLN;PT municípios,EN municipalities,DE Gemeinden;PT Valença,EN Valença,DE Valença;PT;VC
+PT;PT-VLG;;VLG;PT municípios,EN municipalities,DE Gemeinden;PT Valongo,EN Valongo,DE Valongo;PT;PO
+PT;PT-VLP;;VLP;PT municípios,EN municipalities,DE Gemeinden;PT Valpaços,EN Valpaços,DE Valpaços;PT;VR
+PT;PT-VLS;;VLS;PT municípios,EN municipalities,DE Gemeinden;PT Velas,EN Velas,DE Velas;PT;AC
+PT;PT-VND;;VND;PT municípios,EN municipalities,DE Gemeinden;PT Vendas Novas,EN Vendas Novas,DE Vendas Novas;PT;EV
+PT;PT-VNT;;VNT;PT municípios,EN municipalities,DE Gemeinden;PT Viana do Alentejo,EN Viana do Alentejo,DE Viana do Alentejo;PT;EV
+PT;PT-VCT;;VCT;PT municípios,EN municipalities,DE Gemeinden;PT Viana do Castelo,EN Viana do Castelo,DE Viana do Castelo;PT;VC
+PT;PT-VDG;;VDG;PT municípios,EN municipalities,DE Gemeinden;PT Vidigueira,EN Vidigueira,DE Vidigueira;PT;BE
+PT;PT-VRM;;VRM;PT municípios,EN municipalities,DE Gemeinden;PT Vieira do Minho,EN Vieira do Minho,DE Vieira do Minho;PT;BR
+PT;PT-VLR;;VLR;PT municípios,EN municipalities,DE Gemeinden;PT Vila de Rei,EN Vila de Rei,DE Vila de Rei;PT;CB
+PT;PT-VBP;;VBP;PT municípios,EN municipalities,DE Gemeinden;PT Vila do Bispo,EN Vila do Bispo,DE Vila do Bispo;PT;FA
+PT;PT-VCD;;VCD;PT municípios,EN municipalities,DE Gemeinden;PT Vila do Conde,EN Vila do Conde,DE Vila do Conde;PT;PO
+PT;PT-VPT;;VPT;PT municípios,EN municipalities,DE Gemeinden;PT Vila do Porto,EN Vila do Porto,DE Vila do Porto;PT;AC
+PT;PT-VFL;;VFL;PT municípios,EN municipalities,DE Gemeinden;PT Vila Flor,EN Vila Flor,DE Vila Flor;PT;BA
+PT;PT-VFX;;VFX;PT municípios,EN municipalities,DE Gemeinden;PT Vila Franca de Xira,EN Vila Franca de Xira,DE Vila Franca de Xira;PT;LI
+PT;PT-VFC;;VFC;PT municípios,EN municipalities,DE Gemeinden;PT Vila Franca do Campo,EN Vila Franca do Campo,DE Vila Franca do Campo;PT;AC
+PT;PT-VNB;;VNB;PT municípios,EN municipalities,DE Gemeinden;PT Vila Nova da Barquinha,EN Vila Nova da Barquinha,DE Vila Nova da Barquinha;PT;SA
+PT;PT-VNC;;VNC;PT municípios,EN municipalities,DE Gemeinden;PT Vila Nova de Cerveira,EN Vila Nova de Cerveira,DE Vila Nova de Cerveira;PT;VC
+PT;PT-VNF;;VNF;PT municípios,EN municipalities,DE Gemeinden;PT Vila Nova de Famalicão,EN Vila Nova de Famalicão,DE Vila Nova de Famalicão;PT;BR
+PT;PT-VLF;;VLF;PT municípios,EN municipalities,DE Gemeinden;PT Vila Nova de Foz Côa,EN Vila Nova de Foz Côa,DE Vila Nova de Foz Côa;PT;GU
+PT;PT-VNG;;VNG;PT municípios,EN municipalities,DE Gemeinden;PT Vila Nova de Gaia,EN Vila Nova de Gaia,DE Vila Nova de Gaia;PT;PO
+PT;PT-VNP;;VNP;PT municípios,EN municipalities,DE Gemeinden;PT Vila Nova de Paiva,EN Vila Nova de Paiva,DE Vila Nova de Paiva;PT;VI
+PT;PT-PRS;;PRS;PT municípios,EN municipalities,DE Gemeinden;PT Vila Nova de Poiares,EN Vila Nova de Poiares,DE Vila Nova de Poiares;PT;CO
+PT;PT-VPA;;VPA;PT municípios,EN municipalities,DE Gemeinden;PT Vila Pouca de Aguiar,EN Vila Pouca de Aguiar,DE Vila Pouca de Aguiar;PT;VR
+PT;PT-VRL;;VRL;PT municípios,EN municipalities,DE Gemeinden;PT Vila Real,EN Vila Real,DE Vila Real;PT;VR
+PT;PT-VRS;;VRS;PT municípios,EN municipalities,DE Gemeinden;PT Vila Real de Santo António,EN Vila Real de Santo António,DE Vila Real de Santo António;PT;FA
+PT;PT-VVR;;VVR;PT municípios,EN municipalities,DE Gemeinden;PT Vila Velha de Ródão,EN Vila Velha de Ródão,DE Vila Velha de Ródão;PT;CB
+PT;PT-VVD;;VVD;PT municípios,EN municipalities,DE Gemeinden;PT Vila Verde,EN Vila Verde,DE Vila Verde;PT;BR
+PT;PT-VVC;;VVC;PT municípios,EN municipalities,DE Gemeinden;PT Vila Viçosa,EN Vila Viçosa,DE Vila Viçosa;PT;EV
+PT;PT-VMS;;VMS;PT municípios,EN municipalities,DE Gemeinden;PT Vimioso,EN Vimioso,DE Vimioso;PT;BA
+PT;PT-VNH;;VNH;PT municípios,EN municipalities,DE Gemeinden;PT Vinhais,EN Vinhais,DE Vinhais;PT;BA
+PT;PT-VIS;;VIS;PT municípios,EN municipalities,DE Gemeinden;PT Viseu,EN Viseu,DE Viseu;PT;VI
+PT;PT-VIZ;;VIZ;PT municípios,EN municipalities,DE Gemeinden;PT Vizela,EN Vizela,DE Vizela;PT;BR
+PT;PT-VZL;;VZL;PT municípios,EN municipalities,DE Gemeinden;PT Vouzela,EN Vouzela,DE Vouzela;PT;VI
