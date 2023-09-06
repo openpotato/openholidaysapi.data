@@ -188,10 +188,17 @@ School holidays:
 ### Italy
 
 Public holidays:
+
 + [Ufficio del Cerimoniale di Stato: Festività e giornate nazionali](https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/giornate.html)
 
 School holidays:
-+ [Il calendario scolastico](https://www.miur.gov.it/calendario-scolastico)
+
++ Ministero dell'Istruzione e del Merito: [Il calendario scolastico](https://www.miur.gov.it/calendario-scolastico)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2023-2024 (PDF)](https://www.miur.gov.it/documents/20182/0/Riepilogo+Calendari+scolastici+regionali+a.s.+2023_2024.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2022-2023 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Calendari+scolastici+regionali+a.s.+2022-2023.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2021-2022 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Riepilogo+Calendari+scolastici+regionali+a.s.+2021+-+2022.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2020-2021 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Riepilogo+Calendari+scolastici+regionali+a.s.+2020-2021.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2019-2020 (XLS)](https://www.miur.gov.it/documents/20182/2159038/Calendari+scolastici+regionali+a.s.+19-20_.xls)
 
 ### Latvia
 
