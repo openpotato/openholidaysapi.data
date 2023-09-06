@@ -3,20 +3,20 @@ beabab0b-74b6-4011-9763-5633a2815483;IT;2020-01-01;;Public;IT Capodanno,EN New Y
 7f9a4dab-15b1-4423-92a2-f718c6dbf870;IT;2020-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 b07fe71a-b4e1-41b9-a07a-b344c1505ff0;IT;2020-04-13;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 3139cf66-a27d-443d-b2e2-3a0cf800b13d;IT;2020-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-53878dd3-bd3d-4740-ad92-3ba37e7d8387;IT;2020-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-eb09c180-04b1-4a2a-89b0-71cc0c4bbbfe;IT;2020-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+53878dd3-bd3d-4740-ad92-3ba37e7d8387;IT;2020-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+eb09c180-04b1-4a2a-89b0-71cc0c4bbbfe;IT;2020-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 2b63cc03-9994-48d5-97f2-18c600f4d968;IT;2020-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 26ba78c0-5c64-4c6b-8934-e8624367337f;IT;2020-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-ebb44d4d-047f-4f71-8c35-6fcc71c9569a;IT;2020-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-c8e5cd16-9b0b-4bb5-80e5-dc8e9738befd;IT;2020-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-6200cf8c-c555-4254-b7dc-a1e04628e3d3;IT;2020-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+ebb44d4d-047f-4f71-8c35-6fcc71c9569a;IT;2020-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+c8e5cd16-9b0b-4bb5-80e5-dc8e9738befd;IT;2020-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+6200cf8c-c555-4254-b7dc-a1e04628e3d3;IT;2020-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 9e3f1d80-8644-4dac-a5b0-a8024fb505ee;IT;2020-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-84a71b21-be96-443c-a3de-fd5a2245cf7a;IT;2020-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-666d8412-44ee-48c1-a848-f3f91a14fc8c;IT;2020-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+84a71b21-be96-443c-a3de-fd5a2245cf7a;IT;2020-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+666d8412-44ee-48c1-a848-f3f91a14fc8c;IT;2020-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 064a50b5-efa5-41e7-b8b2-72a07a274f9b;IT;2020-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-970d1720-048b-4513-8e69-2982cc776936;IT;2020-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-bf99f03a-3313-4cda-b2c5-7526594132ed;IT;2020-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-0f66d079-6d91-4566-b3f5-6e675207e5ac;IT;2020-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+970d1720-048b-4513-8e69-2982cc776936;IT;2020-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+bf99f03a-3313-4cda-b2c5-7526594132ed;IT;2020-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+0f66d079-6d91-4566-b3f5-6e675207e5ac;IT;2020-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 3d3a8c26-ab35-4dcb-8691-2c8c39a87b59;IT;2020-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 b99f220a-1141-4154-9a86-fc64b3042554;IT;2020-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 83c0ba82-4608-4063-8691-666923b7cb75;IT;2020-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
@@ -24,20 +24,20 @@ b99f220a-1141-4154-9a86-fc64b3042554;IT;2020-12-25;;Public;IT Natale di Gesù,EN
 2fcbc1ee-08c5-42e1-87ee-b314c909b6c7;IT;2021-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 b4fc60ef-1f34-4615-b7d7-7cf95657c2d2;IT;2021-04-05;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 b52544e8-1304-4a11-a1e5-3300e99d3b57;IT;2021-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-c20979ea-fb16-4d8f-88de-88083fd02501;IT;2021-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-07ede42d-d7a7-44e9-b721-b083e8f41448;IT;2021-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+c20979ea-fb16-4d8f-88de-88083fd02501;IT;2021-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+07ede42d-d7a7-44e9-b721-b083e8f41448;IT;2021-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 7937a865-f5c4-4db0-b05e-9094c87524bd;IT;2021-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 3dfa97a2-b386-4678-a19a-214567c3523a;IT;2021-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-4880364a-4aad-4aa5-b2d1-e374321f800b;IT;2021-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-12f7ed54-f271-49ef-9ceb-85ee77a2d9b5;IT;2021-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-1661daa4-1e1c-4502-8a07-3dbd96accd04;IT;2021-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+4880364a-4aad-4aa5-b2d1-e374321f800b;IT;2021-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+12f7ed54-f271-49ef-9ceb-85ee77a2d9b5;IT;2021-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+1661daa4-1e1c-4502-8a07-3dbd96accd04;IT;2021-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 3c98d54a-dd6f-4e11-97c3-2cfeeb2e471f;IT;2021-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-2b757549-4a85-4c08-b786-b2ca2d41cfb9;IT;2021-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-47a2f9ae-f037-4b52-af6a-d4fa2321c9ff;IT;2021-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+2b757549-4a85-4c08-b786-b2ca2d41cfb9;IT;2021-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+47a2f9ae-f037-4b52-af6a-d4fa2321c9ff;IT;2021-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 5fbbb74c-63cf-4793-85f7-a6b8e2190aa2;IT;2021-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-dc515452-ca47-4fab-80a7-f4027d7702c1;IT;2021-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-de660672-523a-488c-b533-e33c6cacc07b;IT;2021-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-4e276db3-b2f0-468e-a9e4-935e394c6f54;IT;2021-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+dc515452-ca47-4fab-80a7-f4027d7702c1;IT;2021-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+de660672-523a-488c-b533-e33c6cacc07b;IT;2021-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+4e276db3-b2f0-468e-a9e4-935e394c6f54;IT;2021-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 64ab69a4-0e5f-4b6d-a995-da56d85e59a2;IT;2021-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 ba4d0b0d-cdb0-45e7-80ba-9e1568040178;IT;2021-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 d424555a-0236-41f1-bb2c-be459cff03a7;IT;2021-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
@@ -45,20 +45,20 @@ d424555a-0236-41f1-bb2c-be459cff03a7;IT;2021-12-26;;Public;IT Santo Stefano,EN S
 93ddbb5f-3618-4b5b-99b6-635dfbee4d66;IT;2022-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 7ce8da52-5388-4a7e-9d0e-5b725f69597b;IT;2022-04-18;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 793865c0-03b0-4d77-a79c-453289a9d68a;IT;2022-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-6d5cbdde-915f-495e-8181-5b820ae7523a;IT;2022-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-8f0483ca-7d24-4505-855b-9dab5dc46012;IT;2022-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+6d5cbdde-915f-495e-8181-5b820ae7523a;IT;2022-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+8f0483ca-7d24-4505-855b-9dab5dc46012;IT;2022-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 ace14781-1f47-4135-a610-e14f14671af9;IT;2022-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 afb14e44-595f-4a7c-adf2-34b33fbb8ebd;IT;2022-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-f9463991-5a1c-4d17-9146-52aa9ba3fc7b;IT;2022-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-a581ea5a-803b-4fe4-b509-27339e54252e;IT;2022-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-19996bea-b959-4b89-a4d9-d8657fa2c74b;IT;2022-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+f9463991-5a1c-4d17-9146-52aa9ba3fc7b;IT;2022-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+a581ea5a-803b-4fe4-b509-27339e54252e;IT;2022-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+19996bea-b959-4b89-a4d9-d8657fa2c74b;IT;2022-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 1cc0cd43-9706-4d2c-88ad-7bc284d97c77;IT;2022-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-21cc295b-bd63-4b7e-9a10-59965c8eb62e;IT;2022-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-e3e1a207-0a32-43a4-be61-00caf0fb901c;IT;2022-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+21cc295b-bd63-4b7e-9a10-59965c8eb62e;IT;2022-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+e3e1a207-0a32-43a4-be61-00caf0fb901c;IT;2022-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 b6fe77ea-1af0-4b11-935a-fa9761e64925;IT;2022-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-b4a0fa59-195d-4a48-9db1-c11bb5d0cbd7;IT;2022-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-54bfbc5d-3a63-4cd6-bcff-d2ccc675f9d0;IT;2022-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-48d24886-9747-4f6a-9150-d862e2473968;IT;2022-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+b4a0fa59-195d-4a48-9db1-c11bb5d0cbd7;IT;2022-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+54bfbc5d-3a63-4cd6-bcff-d2ccc675f9d0;IT;2022-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+48d24886-9747-4f6a-9150-d862e2473968;IT;2022-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 8d15164b-65ae-4bd7-ac7a-d3523e5092c2;IT;2022-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 d36477e0-1845-407b-90d2-9397d76efc8e;IT;2022-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 dde1e0a3-69bc-4cde-84d7-c166fb0ed90a;IT;2022-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
@@ -66,20 +66,20 @@ a66a8da0-3f8c-4a98-9d13-04db2900a239;IT;2023-01-01;;Public;IT Capodanno,EN New Y
 c317397a-0260-4b68-a55c-4347235cf6d4;IT;2023-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 28c7a527-c18a-4418-b5f0-ec57939d48ea;IT;2023-04-10;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 836b1be2-d0ac-4a8d-9e2e-6c1359f4ff7b;IT;2023-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-63bc7335-938b-44bc-b431-6df1bfb1d2cf;IT;2023-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-b94d3c4a-e9c7-41d3-8217-a26d95a3c7f3;IT;2023-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+63bc7335-938b-44bc-b431-6df1bfb1d2cf;IT;2023-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+b94d3c4a-e9c7-41d3-8217-a26d95a3c7f3;IT;2023-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 7d304a2d-6927-47ae-9962-2c09cb3daea5;IT;2023-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 26e1d6cc-920e-4cf4-a5a6-15600ec4824e;IT;2023-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-cf392c4a-432d-4caf-b007-6190b7ba2787;IT;2023-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-a9018d7b-88ad-439b-bbba-e44f8d2859d4;IT;2023-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-0efd60ff-99a3-46d2-b9c3-8b0beae78316;IT;2023-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+cf392c4a-432d-4caf-b007-6190b7ba2787;IT;2023-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+a9018d7b-88ad-439b-bbba-e44f8d2859d4;IT;2023-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+0efd60ff-99a3-46d2-b9c3-8b0beae78316;IT;2023-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 a7e17d3c-cba9-4229-81bf-868f30ec8d94;IT;2023-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-bfb128ce-b07c-4b43-a6e9-fb6518cb9583;IT;2023-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-9b1fcc6b-9078-400f-8bae-475a03a1b12b;IT;2023-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+bfb128ce-b07c-4b43-a6e9-fb6518cb9583;IT;2023-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+9b1fcc6b-9078-400f-8bae-475a03a1b12b;IT;2023-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 898114b9-7c6e-4c0b-ae05-027ff2881f2c;IT;2023-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-c7ef9290-aa3c-47aa-a8be-5ea45f7a80c8;IT;2023-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-19daefb1-51e5-467f-aeb8-af52ead57129;IT;2023-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-eeaa1221-59c2-4a5a-b9be-0f2a2c087ba9;IT;2023-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+c7ef9290-aa3c-47aa-a8be-5ea45f7a80c8;IT;2023-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+19daefb1-51e5-467f-aeb8-af52ead57129;IT;2023-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+eeaa1221-59c2-4a5a-b9be-0f2a2c087ba9;IT;2023-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 57702174-8610-49c9-946b-44c43345c779;IT;2023-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 db6aa11b-7acb-4a2a-a8a4-0a82912158ea;IT;2023-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 d64be3be-a7aa-4fc0-9187-30a4479d7e15;IT;2023-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
@@ -87,20 +87,20 @@ f6a3656b-877f-40f7-95b6-af3d94338255;IT;2024-01-01;;Public;IT Capodanno,EN New Y
 088ff0ae-e88a-4d76-b82a-e3a014174ccc;IT;2024-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 d2e29e07-3dc7-416a-abd1-33cef26922bd;IT;2024-04-01;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 7241ae6e-2e6c-4c0d-b09e-5c359f7c2bcf;IT;2024-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-557a913e-14c7-4f0c-adc7-babcc7a0f023;IT;2024-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-d48bdbc7-3e1e-4c55-83c8-2fdb6a85c2cb;IT;2024-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+557a913e-14c7-4f0c-adc7-babcc7a0f023;IT;2024-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+d48bdbc7-3e1e-4c55-83c8-2fdb6a85c2cb;IT;2024-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 0942cb8e-1a39-4165-8aa0-d1bbf0871f61;IT;2024-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 2f2817a7-1a4d-4674-8dd4-45def1d3d3e0;IT;2024-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-99b49ea2-3d39-41bd-a27e-2c126a65b2e3;IT;2024-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-4f93791a-bb85-49f6-aaee-cf76c99577a1;IT;2024-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-4c4418fa-15e6-4838-8df3-27cf52980691;IT;2024-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+99b49ea2-3d39-41bd-a27e-2c126a65b2e3;IT;2024-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+4f93791a-bb85-49f6-aaee-cf76c99577a1;IT;2024-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+4c4418fa-15e6-4838-8df3-27cf52980691;IT;2024-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 08e1b2c3-9ef8-4be6-bf52-233766cc38cc;IT;2024-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-c359f5ae-34c6-4243-82ad-0138d03805ea;IT;2024-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-f6941630-08a1-4711-b386-35468ad8189a;IT;2024-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+c359f5ae-34c6-4243-82ad-0138d03805ea;IT;2024-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+f6941630-08a1-4711-b386-35468ad8189a;IT;2024-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 9de1527b-4ec9-458f-98bb-31881ea77345;IT;2024-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-0ea925f1-4a73-4ede-aed0-4d3456e9166e;IT;2024-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-81c2d260-02d2-4ef3-86ef-52a4e660fa4b;IT;2024-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-5287ec46-879b-498b-badb-70c262ec8911;IT;2024-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+0ea925f1-4a73-4ede-aed0-4d3456e9166e;IT;2024-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+81c2d260-02d2-4ef3-86ef-52a4e660fa4b;IT;2024-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+5287ec46-879b-498b-badb-70c262ec8911;IT;2024-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 0f32c8bd-3215-478a-9eb8-ff7a4be47ed7;IT;2024-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 62285eee-2dcf-4ac2-8969-2ef409e01859;IT;2024-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 8d09a34c-4458-4c22-a20f-9e91ddbaafd1;IT;2024-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
@@ -108,20 +108,20 @@ f6941630-08a1-4711-b386-35468ad8189a;IT;2024-09-19;;Public;IT San Petronio,EN St
 28bfa1ac-e3e1-4592-a807-7d092432f9f9;IT;2025-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 9e3d16a4-a098-4527-9a31-969f07b3d03c;IT;2025-04-21;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 07bf3f21-4d9c-4dd2-bcd0-5eaf63ee197b;IT;2025-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-a377822a-9c21-4866-a2f9-7ebcd03f797a;IT;2025-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-02d99d91-8972-44ee-8242-b27730a5ccbe;IT;2025-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+a377822a-9c21-4866-a2f9-7ebcd03f797a;IT;2025-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+02d99d91-8972-44ee-8242-b27730a5ccbe;IT;2025-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 093f8e7d-29ac-4af3-8a22-1769ea658cf3;IT;2025-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 bd6fdd77-f0db-495e-83ce-633dbd6b9934;IT;2025-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-23be2980-586a-4772-ae66-9d91a82ca129;IT;2025-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-f5663de3-7a46-4271-8b07-89a2b3cb4ef6;IT;2025-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-44e9df04-c9de-48d0-9236-aa7ff453a932;IT;2025-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+23be2980-586a-4772-ae66-9d91a82ca129;IT;2025-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+f5663de3-7a46-4271-8b07-89a2b3cb4ef6;IT;2025-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+44e9df04-c9de-48d0-9236-aa7ff453a932;IT;2025-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 1804e2ef-369e-4bc7-aeb9-230546a3496d;IT;2025-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-ed99206a-5c8d-4786-94cb-fe0a895ad8ca;IT;2025-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-53acfa7d-1c49-49b5-bad1-c2adcdc0446c;IT;2025-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+ed99206a-5c8d-4786-94cb-fe0a895ad8ca;IT;2025-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+53acfa7d-1c49-49b5-bad1-c2adcdc0446c;IT;2025-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 ed89868f-ae42-4ce7-80bc-8207ba406612;IT;2025-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-f2f59660-c735-4619-97c8-1b8223f3de3b;IT;2025-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-8f1b4970-dc5c-437c-a85c-64f960dea8e5;IT;2025-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-aca6b5c0-3b4f-431a-b928-946ba27ab339;IT;2025-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+f2f59660-c735-4619-97c8-1b8223f3de3b;IT;2025-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+8f1b4970-dc5c-437c-a85c-64f960dea8e5;IT;2025-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+aca6b5c0-3b4f-431a-b928-946ba27ab339;IT;2025-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 1024b652-eda7-4baa-a4e2-0ab01de3392e;IT;2025-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 1b3e4f39-f296-4001-8bc3-b52c73a5e652;IT;2025-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 7ae88dc5-a52c-47a6-906d-30ee5d5621f0;IT;2025-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
@@ -129,20 +129,20 @@ fee5c451-899a-4625-b1be-b1bac0d82430;IT;2026-01-01;;Public;IT Capodanno,EN New Y
 83cf417b-7e57-4bd5-92fa-157c68952497;IT;2026-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 517e67e4-aa44-4bdd-84d7-311a8906c3cb;IT;2026-04-06;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 930c4838-8dbc-4048-8023-358af432c5b4;IT;2026-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-c365d0b2-c7df-46dc-be7d-f2b281942771;IT;2026-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-feb31a97-787e-42a9-8091-5cb7f5689f0a;IT;2026-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+c365d0b2-c7df-46dc-be7d-f2b281942771;IT;2026-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+feb31a97-787e-42a9-8091-5cb7f5689f0a;IT;2026-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 4ea07c49-760e-4a67-a7c0-535419242731;IT;2026-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 14c66d52-7947-4be3-ba43-0f643da1c1bc;IT;2026-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-1fd6569c-92ab-491a-a289-2e5d5b640b8f;IT;2026-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-bae5e410-9aaa-43d6-a6b3-dc0f86f322af;IT;2026-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-8716adac-bcf8-42bf-af08-7a7a74376824;IT;2026-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+1fd6569c-92ab-491a-a289-2e5d5b640b8f;IT;2026-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+bae5e410-9aaa-43d6-a6b3-dc0f86f322af;IT;2026-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+8716adac-bcf8-42bf-af08-7a7a74376824;IT;2026-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 34c014c6-66a5-4bfb-8180-8f49eb9a9a07;IT;2026-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-64f4cb4b-8282-4761-9287-26d8a401dc53;IT;2026-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-d11fd0c6-6a8b-4609-bf9c-a9e7945d8b02;IT;2026-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+64f4cb4b-8282-4761-9287-26d8a401dc53;IT;2026-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+d11fd0c6-6a8b-4609-bf9c-a9e7945d8b02;IT;2026-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 a018e103-9ab6-4b0f-a512-765eb7040119;IT;2026-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-0b5fc07e-1372-4ac9-b3fc-b3523507598b;IT;2026-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-1fd2a591-de2a-429d-900c-ce2ab17a32ba;IT;2026-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-1739b399-0767-4324-b63d-17170cb50057;IT;2026-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+0b5fc07e-1372-4ac9-b3fc-b3523507598b;IT;2026-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+1fd2a591-de2a-429d-900c-ce2ab17a32ba;IT;2026-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+1739b399-0767-4324-b63d-17170cb50057;IT;2026-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 5933bb73-2b06-49b8-89b2-12ff3bbc7ad7;IT;2026-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 cef0fac0-00e5-4680-a86a-8792a3f5c08d;IT;2026-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 b927b5ed-f874-455a-a8ea-4d3f13d774fe;IT;2026-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
@@ -150,20 +150,20 @@ ebd8b6f1-a6d8-4018-a9e8-d7b44e6e61e6;IT;2027-01-01;;Public;IT Capodanno,EN New Y
 a322f747-0d5d-44da-8791-e2d9a6699524;IT;2027-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 48dea4ee-3c20-4d1c-b05c-fca9d197100b;IT;2027-03-29;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 26b1c88c-c7b2-4295-a5a9-b60659f21716;IT;2027-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-7871d5a2-d4a1-4cc7-ba3c-5946f70249af;IT;2027-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-d5c9f260-a8ac-4d81-8742-20bf841c41b7;IT;2027-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+7871d5a2-d4a1-4cc7-ba3c-5946f70249af;IT;2027-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+d5c9f260-a8ac-4d81-8742-20bf841c41b7;IT;2027-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 d6687f44-822d-4d35-9d69-52d5b3c90393;IT;2027-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 b0cb2c63-a10d-427c-b014-33ca541393a8;IT;2027-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-9fc4e666-d254-4c7d-acfe-6279adf60e9d;IT;2027-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-18d1ab1f-048c-4864-bea6-cca4d0c57868;IT;2027-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-9405c2fd-e095-41d5-a83f-9b1c3c535ad6;IT;2027-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+9fc4e666-d254-4c7d-acfe-6279adf60e9d;IT;2027-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+18d1ab1f-048c-4864-bea6-cca4d0c57868;IT;2027-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+9405c2fd-e095-41d5-a83f-9b1c3c535ad6;IT;2027-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 609bac7c-93ae-498f-a9e1-4b000b9a550b;IT;2027-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-bdec8a85-30fb-40af-8015-af337de461ed;IT;2027-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-b463d402-5973-488c-95af-da9e2cc44eca;IT;2027-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+bdec8a85-30fb-40af-8015-af337de461ed;IT;2027-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+b463d402-5973-488c-95af-da9e2cc44eca;IT;2027-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 2addbb40-b3c6-47aa-82c0-ef226d99a98a;IT;2027-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-b214fb77-ce15-4dc3-8bb0-32fd870763cc;IT;2027-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-8b2e3630-c5f1-46e6-9d83-d9df54b6a32c;IT;2027-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-3a2e7d64-9f9c-43af-9b12-01459bf32626;IT;2027-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+b214fb77-ce15-4dc3-8bb0-32fd870763cc;IT;2027-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+8b2e3630-c5f1-46e6-9d83-d9df54b6a32c;IT;2027-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+3a2e7d64-9f9c-43af-9b12-01459bf32626;IT;2027-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 2328e90f-9d40-4d3f-8404-35d10286d78c;IT;2027-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 2cdcb5e1-2b9e-4486-9be3-e4314c539fda;IT;2027-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 2ad0edba-0153-4945-9ad9-c6f9de952bf9;IT;2027-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
@@ -171,20 +171,20 @@ d8383b82-dc80-4404-83a8-7c3d5a0355a2;IT;2028-01-01;;Public;IT Capodanno,EN New Y
 4c42cb98-a044-44de-8764-7b4f455017c7;IT;2028-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 4cb819bc-be25-4214-8502-67e75c6abd12;IT;2028-04-17;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 c3bc905e-a8be-4a55-8f55-c10c8cdb7552;IT;2028-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-82b2ff91-ba74-4b8b-9eb9-4630b1e20b6d;IT;2028-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-fccfa951-a530-49da-8ad0-71d867a0f8fb;IT;2028-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+82b2ff91-ba74-4b8b-9eb9-4630b1e20b6d;IT;2028-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+fccfa951-a530-49da-8ad0-71d867a0f8fb;IT;2028-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 c81e6866-d98b-4a6f-88c5-6658852716ee;IT;2028-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 709e8e62-abff-4c32-ae90-756c87692450;IT;2028-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-b5ed5630-06be-44f2-a13b-9e1d3fa0c019;IT;2028-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-1b47d8c4-ae9e-456e-8bfe-5b33a6f8dfff;IT;2028-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-1939eb7a-d29d-4bb1-be8f-47b66978afdc;IT;2028-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+b5ed5630-06be-44f2-a13b-9e1d3fa0c019;IT;2028-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+1b47d8c4-ae9e-456e-8bfe-5b33a6f8dfff;IT;2028-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+1939eb7a-d29d-4bb1-be8f-47b66978afdc;IT;2028-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 2641f15c-2a00-4b62-8c12-5ac5146cca32;IT;2028-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-bd53e28c-3bf7-4f72-915f-726397832fd3;IT;2028-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-6ea57cee-c1cd-45c5-ab59-918408079f1a;IT;2028-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+bd53e28c-3bf7-4f72-915f-726397832fd3;IT;2028-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+6ea57cee-c1cd-45c5-ab59-918408079f1a;IT;2028-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 e3c30fb1-a8e4-44a4-ad45-6491db3c5f99;IT;2028-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-fcc500b4-bf59-4b1c-9134-50829e6c0e29;IT;2028-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-1a4cc761-da69-41ce-a373-3748324b0b70;IT;2028-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-7067cf13-f0d7-4ad9-93ba-f5acd587a26d;IT;2028-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+fcc500b4-bf59-4b1c-9134-50829e6c0e29;IT;2028-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+1a4cc761-da69-41ce-a373-3748324b0b70;IT;2028-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+7067cf13-f0d7-4ad9-93ba-f5acd587a26d;IT;2028-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 69473c9e-3029-4046-904a-ef36dd06dabd;IT;2028-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 174618be-0d02-4154-bc02-3a6e9d387767;IT;2028-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 1c480275-66b1-4376-801c-8241bb4a9235;IT;2028-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
@@ -192,20 +192,20 @@ fcc500b4-bf59-4b1c-9134-50829e6c0e29;IT;2028-11-03;;Public;IT San Giusto,EN St. 
 6ce58a75-68d3-4e8a-9c44-7a5b99e5ee3a;IT;2029-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 b54eb463-51c2-414f-be7b-540baa338dff;IT;2029-04-02;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 383554b5-25a3-49ed-820e-f2cd833963f3;IT;2029-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-3c45a0f1-9f87-4427-8a68-a9344690d76e;IT;2029-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-600c44a6-d4d0-4f00-8a4d-920913b9eec0;IT;2029-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+3c45a0f1-9f87-4427-8a68-a9344690d76e;IT;2029-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+600c44a6-d4d0-4f00-8a4d-920913b9eec0;IT;2029-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 b982f18f-4647-47de-968b-718bf9c31cd8;IT;2029-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 7e485297-54d0-45e0-8540-b8c738ce3367;IT;2029-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-daa193fc-58ec-4e5f-85dd-12b0b32e39b6;IT;2029-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-128a118b-9254-47ff-9fea-18ce2c7b434b;IT;2029-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-404e2531-0d46-406e-b698-223b54d28f0c;IT;2029-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+daa193fc-58ec-4e5f-85dd-12b0b32e39b6;IT;2029-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+128a118b-9254-47ff-9fea-18ce2c7b434b;IT;2029-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+404e2531-0d46-406e-b698-223b54d28f0c;IT;2029-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 938d789a-87cf-465a-9222-76b860fba9d4;IT;2029-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-07710e7d-d72e-4e19-af63-b823648bbf3d;IT;2029-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-917ae7f9-1279-4f6f-adce-e3c66ce193ed;IT;2029-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+07710e7d-d72e-4e19-af63-b823648bbf3d;IT;2029-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+917ae7f9-1279-4f6f-adce-e3c66ce193ed;IT;2029-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 6bcd27b8-6682-4cde-b210-b5fc0c4d24ac;IT;2029-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-dbfe5eb1-2414-4e10-86a4-22699c716a1f;IT;2029-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-ed9dcb5d-b050-4652-90b0-9e1ddf5a0d29;IT;2029-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-7005e999-f1cf-4424-aae3-57ca59e6dbd2;IT;2029-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+dbfe5eb1-2414-4e10-86a4-22699c716a1f;IT;2029-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+ed9dcb5d-b050-4652-90b0-9e1ddf5a0d29;IT;2029-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+7005e999-f1cf-4424-aae3-57ca59e6dbd2;IT;2029-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 2f91d95e-1e60-4da9-bd8c-16321befdf91;IT;2029-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 6c9c272e-cb85-4c22-b7b6-c82f189164b3;IT;2029-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 d7dc5ddb-fa5d-4071-992d-17eaadd42dda;IT;2029-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
@@ -213,20 +213,20 @@ d7dc5ddb-fa5d-4071-992d-17eaadd42dda;IT;2029-12-26;;Public;IT Santo Stefano,EN S
 b2fd5773-2cc8-4ad6-b76f-e010880a5b72;IT;2030-01-06;;Public;IT Epifania,EN Epiphany,DE Heilige drei Könige;
 19ec5fb9-bf6d-4c9b-a8d5-f063362a4012;IT;2030-04-22;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag;
 686e5416-3da1-4deb-9f56-86cae6285f92;IT;2030-04-25;;Public;IT Anniversario della liberazione d'Italia,EN Liberation Day,DE Jahrestag der Befreiung;
-7a31fc3c-a536-48a4-b2ce-3f3341b751b5;IT;2030-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE
-43579663-801f-4b9b-af8f-7e59342385b2;IT;2030-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;R-SA
+7a31fc3c-a536-48a4-b2ce-3f3341b751b5;IT;2030-04-25;;Public;IT Festa di San Marco,EN Feast of St Mark,DE Fest des Heiligen Markus;VE-VE
+43579663-801f-4b9b-af8f-7e59342385b2;IT;2030-04-28;;Public;IT Sa Die de Sa Sardigna,EN Sardinia's Day,DE Tag des sardischen Volkes;SA
 a4bc799c-1c8e-4bcf-af42-45c54dde21e0;IT;2030-05-01;;Public;IT Festa del lavoro,EN Labour Day,DE Tag der Arbeit;
 67382bd1-2bee-4883-b440-fe0538eb2657;IT;2030-06-02;;Public;IT Festa della Repubblica,EN Republic Day,DE Tag der Republik;
-05e4b79a-9be7-4595-841d-0eb190a7e009;IT;2030-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;FI,GE,TO
-2503f502-bd21-42c6-8385-2895e87ad227;IT;2030-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;RO
-36cff01a-eccc-483c-89de-6c619d89c6e3;IT;2030-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;PA
+05e4b79a-9be7-4595-841d-0eb190a7e009;IT;2030-06-24;;Public;IT Jani,EN St. John's Day,DE Johannistag;TO-FI,LI-GE,PI-TO
+2503f502-bd21-42c6-8385-2895e87ad227;IT;2030-06-29;;Public;IT Santi Pietro e Paolo,EN St. John's Day,DE Peter und Paul;LA-RM
+36cff01a-eccc-483c-89de-6c619d89c6e3;IT;2030-07-15;;Public;IT Santa Rosalia,EN Saint Rosalia,DE St. Rosalia;SI-PA
 fe80f0d5-f402-414c-a23d-81661278cb3f;IT;2030-08-15;;Public;IT Ferragosto,EN Assumption Day,DE Mariä Himmelfahrt;
-8aa83725-34d6-45f2-bd09-758cb15396e1;IT;2030-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;NA
-72bfce85-eb4b-4856-9b3a-b4036859b42e;IT;2030-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;BO
+8aa83725-34d6-45f2-bd09-758cb15396e1;IT;2030-09-19;;Public;IT San Gennaro,EN St. Gennaro,DE St. Gennaro;CM-NA
+72bfce85-eb4b-4856-9b3a-b4036859b42e;IT;2030-09-19;;Public;IT San Petronio,EN St. Petronius,DE St. Petronius;ER-BO
 b8bbacef-6373-4d0e-88fb-1a8103ced4b0;IT;2030-11-01;;Public;IT Ognissanti,EN All Saints' Day,DE Allerheiligen;
-d5ba7290-6cc1-40e5-b5d9-9d28a4d28197;IT;2030-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;TS
-926967c6-3865-447b-ab1b-b7aa8d53a491;IT;2030-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;BA
-8b572c4b-a001-4798-87e6-ac4787302e74;IT;2030-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;MI
+d5ba7290-6cc1-40e5-b5d9-9d28a4d28197;IT;2030-11-03;;Public;IT San Giusto,EN St. Justus,DE St. Justus;FV-TS
+926967c6-3865-447b-ab1b-b7aa8d53a491;IT;2030-12-06;;Public;IT San Nicola,EN St. Nicholas,DE St. Nikolaus;PU-BA
+8b572c4b-a001-4798-87e6-ac4787302e74;IT;2030-12-07;;Public;IT Sant'Ambrogio,EN St. Ambrose,DE St. Ambrosius;LO-MI
 eb54bda3-28e6-4231-90af-e03cbdf8539c;IT;2030-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Mariä Empfängnis;
 b780b98d-9a37-4adf-bd50-7a014ff5efdb;IT;2030-12-25;;Public;IT Natale di Gesù,EN Christmas Day,DE Weihnachten;
 a5db2259-037e-4dbd-b76b-a6915b2b2de4;IT;2030-12-26;;Public;IT Santo Stefano,EN St. Stephen's Day,DE Stefanstag;
