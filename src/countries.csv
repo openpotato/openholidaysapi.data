@@ -10,6 +10,7 @@ FR;EN France,FR France (la),DE Frankreich;FR
 HR;EN Croatia,HR Hrvatska,DE Kroatien;HR
 HU;EN Hungary,HU Magyarország,DE Ungarn;HU
 IE;EN Ireland,GA Éire,DE Irland;EN,GA
+IT;EN Italy,IT Italia,DE Italien;IT
 LI;EN Liechtenstein,DE Liechtenstein;DE
 LT;EN Lithuania,LT Lietuva,DE Litauen;LT
 LU;EN Luxembourg,LB Lëtzebuerg,FR Luxembourg (le),DE Luxemburg;LB,FR,DE
@@ -21,3 +22,4 @@ PL;EN Poland,PL Polska,DE Polen;PL
 SI;EN Slovenia,SL Slovenija,DE Slowenien;SL
 SK;EN Slovakia,SK Slovensko,DE Slowakei;SK
 SM;EN San Marino,IT San Marino,DE San Marino;IT
+VA;EN Vatican City,IT Città del Vaticano,DE Vatikanstadt;IT

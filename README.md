@@ -12,6 +12,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Germany (public holidays and school holidays from 2020)
 + Hungary (public holidays and school holidays from 2020)
 + Ireland (public holidays and school holidays from 2020)
++ Italy (public holidays and school holidays from 2020, Initial data from [@48DESIGN](https://github.com/48design))
 + Latvia (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)
 + Lithuania (public holidays and school holidays from 2020)
@@ -24,6 +25,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
++ Vatican City (public holidays from 2020)
 
 ## Sources
 
@@ -183,6 +185,21 @@ School holidays:
 
 + Department of Education: [School holiday dates](https://www.gov.ie/en/service/388196-school-holiday-dates/)
 + An Roinn Oideachais: [Laethanta saoire scoile dátaí](https://www.gov.ie/ga/seirbhis/dae1c6-none/)
+
+### Italy
+
+Public holidays:
+
++ [Ufficio del Cerimoniale di Stato: Festività e giornate nazionali](https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/giornate.html)
+
+School holidays:
+
++ Ministero dell'Istruzione e del Merito: [Il calendario scolastico](https://www.miur.gov.it/calendario-scolastico)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2023-2024 (PDF)](https://www.miur.gov.it/documents/20182/0/Riepilogo+Calendari+scolastici+regionali+a.s.+2023_2024.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2022-2023 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Calendari+scolastici+regionali+a.s.+2022-2023.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2021-2022 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Riepilogo+Calendari+scolastici+regionali+a.s.+2021+-+2022.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2020-2021 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Riepilogo+Calendari+scolastici+regionali+a.s.+2020-2021.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2019-2020 (XLS)](https://www.miur.gov.it/documents/20182/2159038/Calendari+scolastici+regionali+a.s.+19-20_.xls)
 
 ### Latvia
 
@@ -364,6 +381,17 @@ School holidays:
 + Vaud: [Jours fériés et vacances scolaires](https://www.vd.ch/themes/formation/jours-feries-et-vacances-scolaires)
 + Zug: [Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
 + Zürich: [Ferien und schulfreie Tage](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulferien.html)
+
+### Vatican City 
+
+Public holidays:
+
++ [Bollettino N. 29 - 2021/2022: Regolamento per il Personale del Governatorato dello Stato della Città del Vaticano](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-29/testi-aggiornati/regolamento_personale_governatorato_scv.html)
++ [Bollettino N. 11 - 2002: Regolamento per il personale laico del Capitolo della Patriarcale Basilica Vaticana](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-n-11-2002/atti-della-segreteria-di-stato/regolamento-per-il-personale-laico-del-capitolo-della-patriarcal1.html)
+
+School holidays:
+
++ There are no schools in Vatican City.
 
 ## Additional information
 
