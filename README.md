@@ -25,6 +25,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
++ Vatican City (public holidays from 2020)
 
 ## Sources
 
@@ -380,6 +381,17 @@ School holidays:
 + Vaud: [Jours fériés et vacances scolaires](https://www.vd.ch/themes/formation/jours-feries-et-vacances-scolaires)
 + Zug: [Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
 + Zürich: [Ferien und schulfreie Tage](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulferien.html)
+
+### Vatican City 
+
+Public holidays:
+
++ [Bollettino N. 29 - 2021/2022: Regolamento per il Personale del Governatorato dello Stato della Città del Vaticano](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-29/testi-aggiornati/regolamento_personale_governatorato_scv.html)
++ [Bollettino N. 11 - 2002: Regolamento per il personale laico del Capitolo della Patriarcale Basilica Vaticana](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-n-11-2002/atti-della-segreteria-di-stato/regolamento-per-il-personale-laico-del-capitolo-della-patriarcal1.html)
+
+School holidays:
+
++ There are no schools in Vatican City.
 
 ## Additional information
 
