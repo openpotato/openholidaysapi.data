@@ -12,7 +12,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Germany (public holidays and school holidays from 2020)
 + Hungary (public holidays and school holidays from 2020)
 + Ireland (public holidays and school holidays from 2020)
-+ Italy (public holidays and school holidays from 2020)
++ Italy (public holidays and school holidays from 2020, Initial data from [@48DESIGN](https://github.com/48design))
 + Latvia (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)
 + Lithuania (public holidays and school holidays from 2020)
