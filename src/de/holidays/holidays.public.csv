@@ -59,7 +59,7 @@ a537e0cb-c2a1-448a-bee5-49430351f0ad;DE;2022-10-03;;Public;DE Tag der Deutschen 
 d764e01f-db2f-4f94-8f9d-b85b9157ddf2;DE;2022-12-26;;Public;DE 2. Weihnachtsfeiertag,EN 2nd Day of Christmas;
 94498ba1-28e3-4dcd-b28f-d7aaf4cc56d7;DE;2023-01-01;;Public;DE Neujahr,EN New Year's Day;
 04f86fc2-424a-46e5-befd-2dce33158470;DE;2023-01-06;;Public;DE Heilige Drei Könige,EN Epiphany;BW,BY,ST
-88848d07-197b-4b4f-91f6-3cb24a378384;DE;2023-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE
+88848d07-197b-4b4f-91f6-3cb24a378384;DE;2023-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE,MV
 b921a500-5e7e-42b6-9348-885f3157ed4c;DE;2023-04-07;;Public;DE Karfreitag,EN Good Friday;
 6ffa6452-099c-494b-a920-aeaa7adc261a;DE;2023-04-09;;Public;DE Ostersonntag,EN Easter Sunday;BB
 2cc013e7-7079-4c89-a559-27efca5c7b78;DE;2023-04-10;;Public;DE Ostermontag,EN Easter Monday;
@@ -78,7 +78,7 @@ eca484e0-f6a7-4ca4-9891-5def5648c97c;DE;2023-12-25;;Public;DE 1. Weihnachtsfeier
 f9e24f26-c4a9-44e7-bda8-3c56fa11eb55;DE;2023-12-26;;Public;DE 2. Weihnachtsfeiertag,EN 2nd Day of Christmas;
 58a1da08-fb96-4d9b-8d95-b1e06278c8f3;DE;2024-01-01;;Public;DE Neujahr,EN New Year's Day;
 ebf55361-f340-4852-a7fa-547143cf9cf2;DE;2024-01-06;;Public;DE Heilige Drei Könige,EN Epiphany;BW,BY,ST
-c628bb86-927f-4086-8beb-061413603d99;DE;2024-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE
+c628bb86-927f-4086-8beb-061413603d99;DE;2024-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE,MV
 72299d8e-272c-44b6-8d50-86ff5cb01a9a;DE;2024-03-29;;Public;DE Karfreitag,EN Good Friday;
 80e03d79-2d85-4f63-8196-28402341a431;DE;2024-03-31;;Public;DE Ostersonntag,EN Easter Sunday;BB
 bd4e0c06-a2c5-4d2a-aa92-1fb7c59025e2;DE;2024-04-01;;Public;DE Ostermontag,EN Easter Monday;
@@ -97,7 +97,7 @@ b08021e1-9df0-46e4-8adc-f8140b8ad1a9;DE;2024-10-31;;Public;DE Reformationstag,EN
 717b466d-05f3-4810-915b-96625ca2aebf;DE;2024-12-26;;Public;DE 2. Weihnachtsfeiertag,EN 2nd Day of Christmas;
 27f0d8cd-76b2-47e7-89ac-a3a9f6a6b1ba;DE;2025-01-01;;Public;DE Neujahr,EN New Year's Day;
 1c80b87d-8221-4dc2-9a1a-3b0f57dce9f5;DE;2025-01-06;;Public;DE Heilige Drei Könige,EN Epiphany;BW,BY,ST
-4522bbfa-eaee-4efe-b13c-dac7f67bb986;DE;2025-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE
+4522bbfa-eaee-4efe-b13c-dac7f67bb986;DE;2025-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE,MV
 c7aef0d5-f292-4d08-b878-a25a6c05fc12;DE;2025-04-18;;Public;DE Karfreitag,EN Good Friday;
 90718fa1-5b71-49dc-90a4-142a8aef72d8;DE;2025-04-20;;Public;DE Ostersonntag,EN Easter Sunday;BB
 12776265-e638-4112-a11f-f24bb37d8a3d;DE;2025-04-21;;Public;DE Ostermontag,EN Easter Monday;
@@ -116,7 +116,7 @@ ac964e18-2d34-497a-a9c5-b8ab065b7238;DE;2025-10-03;;Public;DE Tag der Deutschen 
 28bf580c-9787-4d67-ab3e-06a5e6597c1c;DE;2025-12-26;;Public;DE 2. Weihnachtsfeiertag,EN 2nd Day of Christmas;
 9ac6fd8b-aec4-41f0-916b-f03af58ecdab;DE;2026-01-01;;Public;DE Neujahr,EN New Year's Day;
 7f99caaa-1eb2-4564-a6e8-13844634c929;DE;2026-01-06;;Public;DE Heilige Drei Könige,EN Epiphany;BW,BY,ST
-f66c8c81-2ea3-43b4-8398-f3dc4ef0f62a;DE;2026-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE
+f66c8c81-2ea3-43b4-8398-f3dc4ef0f62a;DE;2026-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE,MV
 f80fd9dc-41b4-4203-8fea-2cf36d365fbb;DE;2026-04-03;;Public;DE Karfreitag,EN Good Friday;
 ba2b9c3a-e65d-4570-a66e-16452dd0eaaa;DE;2026-04-05;;Public;DE Ostersonntag,EN Easter Sunday;BB
 8d8ad831-8d60-429f-ad46-7f842c9fe2d9;DE;2026-04-06;;Public;DE Ostermontag,EN Easter Monday;
@@ -135,7 +135,7 @@ b37c8536-925e-455c-9e61-8e2b984a74d1;DE;2026-12-25;;Public;DE 1. Weihnachtsfeier
 fafc28cf-c8fc-4290-97b0-99904f920d4f;DE;2026-12-26;;Public;DE 2. Weihnachtsfeiertag,EN 2nd Day of Christmas;
 a9951b88-fbfa-4634-8b80-39c60abb2a0c;DE;2027-01-01;;Public;DE Neujahr,EN New Year's Day;
 341c9738-8063-4e1b-99d3-336174cf42de;DE;2027-01-06;;Public;DE Heilige Drei Könige,EN Epiphany;BW,BY,ST
-1ddfa412-ebda-4571-a6fd-aa8e2ba340d5;DE;2027-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE
+1ddfa412-ebda-4571-a6fd-aa8e2ba340d5;DE;2027-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE,MV
 f5967e35-9fbb-4cd9-ae3d-622f6cf90028;DE;2027-03-26;;Public;DE Karfreitag,EN Good Friday;
 996c2e80-0d29-470d-a2dc-4ba482649afb;DE;2027-03-28;;Public;DE Ostersonntag,EN Easter Sunday;BB
 fcd0558e-3e01-4902-b785-d8bd45baba24;DE;2027-03-29;;Public;DE Ostermontag,EN Easter Monday;
@@ -154,7 +154,7 @@ ba7542be-fca8-427b-ac2d-797470860c62;DE;2027-12-25;;Public;DE 1. Weihnachtsfeier
 ee8fc25d-db77-48d9-a74f-6374d74642fa;DE;2027-12-26;;Public;DE 2. Weihnachtsfeiertag,EN 2nd Day of Christmas;
 286433c6-b1ce-4835-b16a-95f6dbf28e11;DE;2028-01-01;;Public;DE Neujahr,EN New Year's Day;
 b2eccb85-9d35-4f63-95aa-5d1d9954799e;DE;2028-01-06;;Public;DE Heilige Drei Könige,EN Epiphany;BW,BY,ST
-9d7d1b94-17c1-4aec-a843-3dcf938ed7d0;DE;2028-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE
+9d7d1b94-17c1-4aec-a843-3dcf938ed7d0;DE;2028-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE,MV
 692e2b19-92e1-4186-a9e1-971602ddda85;DE;2028-04-14;;Public;DE Karfreitag,EN Good Friday;
 b292a10f-7790-4903-8ff2-b27f51dc3197;DE;2028-04-16;;Public;DE Ostersonntag,EN Easter Sunday;BB
 b13ef7b6-b755-4be1-9b46-f267462513c0;DE;2028-04-17;;Public;DE Ostermontag,EN Easter Monday;
@@ -173,7 +173,7 @@ c11af431-b691-4717-af80-4a3cf954f112;DE;2028-12-25;;Public;DE 1. Weihnachtsfeier
 b03399a3-02cb-444c-a662-bdd176bf5263;DE;2028-12-26;;Public;DE 2. Weihnachtsfeiertag,EN 2nd Day of Christmas;
 3c6f86a6-f9b3-4f02-9605-53218e0c3866;DE;2029-01-01;;Public;DE Neujahr,EN New Year's Day;
 afc11563-3154-4742-bba6-1088139097ac;DE;2029-01-06;;Public;DE Heilige Drei Könige,EN Epiphany;BW,BY,ST
-2162fe67-6c88-44d3-bd12-85e49fdad31e;DE;2029-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE
+2162fe67-6c88-44d3-bd12-85e49fdad31e;DE;2029-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE,MV
 26cfeec9-abbd-4816-a274-14be2014fbfb;DE;2029-03-30;;Public;DE Karfreitag,EN Good Friday;
 f8242352-f6ac-47c4-b7c5-fcbdd8da40b5;DE;2029-04-01;;Public;DE Ostersonntag,EN Easter Sunday;BB
 a4beb782-43c9-4824-9354-74d19e57ad27;DE;2029-04-02;;Public;DE Ostermontag,EN Easter Monday;
@@ -192,7 +192,7 @@ dcf08e29-306a-4c9e-ba16-198b5d354f55;DE;2029-11-21;;Public;DE Buß- und Bettag,E
 ea094378-f694-4981-9cc2-062450123205;DE;2029-12-26;;Public;DE 2. Weihnachtsfeiertag,EN 2nd Day of Christmas;
 dc9c7996-ce14-416d-9119-c01db3c80b9d;DE;2030-01-01;;Public;DE Neujahr,EN New Year's Day;
 196ed112-cab2-4feb-a3c4-e94bcf335e80;DE;2030-01-06;;Public;DE Heilige Drei Könige,EN Epiphany;BW,BY,ST
-9ee3dbe9-3a85-49dd-93c6-3d549076b637;DE;2030-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE
+9ee3dbe9-3a85-49dd-93c6-3d549076b637;DE;2030-03-08;;Public;DE Internationaler Frauentag,EN International Women's Day;BE,MV
 3cf89f2b-f989-47dc-96dd-81932c48f374;DE;2030-04-19;;Public;DE Karfreitag,EN Good Friday;
 928064e0-8f92-4a43-a70a-16ca80042c91;DE;2030-04-21;;Public;DE Ostersonntag,EN Easter Sunday;BB
 6ec8325f-d7da-4d88-acee-68c66843f6fc;DE;2030-04-22;;Public;DE Ostermontag,EN Easter Monday;
