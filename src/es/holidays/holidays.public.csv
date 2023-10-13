@@ -1,0 +1,172 @@
+Id;Country;StartDate;EndDate;Type;Name;Subdivisions
+f620dbf9-3b7d-4e4a-bd77-5702ac5c93d6;ES;2023-01-02;;Public;ES Año Nuevo,CA Cap d'Any,EN New Year's Day;AN,AR,AS,CL,MU
+5cb82d3b-f57e-4b67-8b41-2d61576e9b07;ES;2023-01-06;;Public;ES Epifanía,CA Epifania,EN Epiphany;
+07a3b54b-1ed1-4b60-8144-7ffabedc22b1;ES;2023-02-21;;Public;ES Martes de Carnaval,CA Dimarts de Carnaval,EN Shrove Tuesday;EX
+7a57b08f-0d47-48d5-8f82-2f1b67233a0c;ES;2023-02-28;;Public;ES Fiesta Regional de Andalucía,CA Festiu Regional d'Andalusia,EN Andalusia Regional Holiday;AN
+ecb0731d-4c9c-43f6-8df0-79d727b74d86;ES;2023-03-01;;Public;ES Fiesta Regional de las Islas Baleares,CA Festiu Regional de les Illes Balears,EN Balearic Islands Regional Holiday;IB
+ff2727fe-38e6-45a3-85b7-9d316e8c126a;ES;2023-03-13;;Public;ES Estatuto de Autonomía de Melilla,CA Estatut d'Autonomia de Melilla,EN Melilla Statute of Autonomy;ML
+dd00be1e-6395-4ce5-a9c5-99a13ae1c7a7;ES;2023-03-20;;Public;ES Día de San José,CA Dia de Sant Josep,EN St Joseph's Day;MD,MU,NC
+d2c6868d-7a6d-43e5-882d-eb90b29dbcbf;ES;2023-04-06;;Public;ES Jueves Santo,CA Dijous Sant,EN Maundy Thursday;AN,AR,AS,CB,CN,CE,CL,CM,EX,GA,IB,MC,MD,ML,NC,PV,RI
+4de3b1e1-62d2-453e-89a5-f0987b8e43b5;ES;2023-04-07;;Public;ES Viernes Santo,CA Divendres Sant,EN Good Friday;
+396794aa-bf1d-45c1-8933-f02c9e6be17e;ES;2023-04-10;;Public;ES Lunes de Pascua,CA Dilluns de Pasqua,EN Easter Monday;IB,PV,CT,RI,NC,VC
+575045c9-74f9-4d17-9e4c-1bc2c46a31e3;ES;2023-04-21;;Public;ES Eid al-Fitr,CA Eid al-Fitr,EN Eid al-Fitr;ML
+d2497ff5-3c16-47d0-8d8e-260bc381d91c;ES;2023-04-24;;Public;ES Fiesta Regional de Aragón,CA Festiu Regional d'Aragó,EN Aragon Regional Holiday;AR
+d2497ff5-3c16-47d0-8d8e-260bc381d91c;ES;2023-05-01;;Public;ES Día del Trabajador,CA Dia del Treball,EN Labour Day;
+4ff4beea-18f0-4f1f-92f1-0b038d63b793;ES;2023-05-02;;Public;ES Fiesta Regional de Madrid,CA Festiu Regional de Madrid,EN Madrid Regional Holiday;MD
+4d736c02-33ea-4c04-8334-9533f200c7db;ES;2023-05-15;;Public;ES San Isidro,CA San Isidre,EN San Isidro;MD
+d2a79f5b-107b-4e32-8797-0aa998870c07;ES;2023-05-17;;Public;ES Día de las Letras Gallegas,CA Dia das Letras Galegas,EN Galician Literature Day;GA
+89717a62-02b9-47be-a6a3-16a1f12c6b97;ES;2023-05-30;;Public;ES Fiesta de la Comunidad Canaria,CA Festiu de la Comunitat Canària,EN Canary Islands Regional Holiday;CN
+63e505b2-973d-4e5e-9a3b-af5ad0f22ce9;ES;2023-05-31;;Public;ES Fiesta de Castilla-La Mancha,CA Festiu de Castella-La Manxa,EN Castile-La Mancha Regional Holiday;CM
+c3c1d63d-b27c-4e21-a2b1-33aa7171c3a5;ES;2023-06-08;;Public;ES Corpus Christi,CA Corpus Christi,EN Corpus Christi;CM
+d3c1d63d-b27c-4e21-a2b1-33aa7171c3a5;ES;2023-06-09;;Public;ES Fiesta de La Rioja,CA Festiu de La Rioja,EN La Rioja Regional Holiday;RI
+d3c1d63d-b27c-4e21-a2b1-33aa7171c3a5;ES;2023-06-09;;Public;ES Fiesta de Murcia,CA Festiu de Múrcia,EN Murcia Regional Holiday;MU
+a7c82a1f-3744-41c0-b3b3-476d110d5e9e;ES;2023-06-13;;Public;ES San Antonio,CA Sant Antoni,EN San Antonio;CE
+3f95bc24-675c-41b1-9b7a-71c8bda36dc5;ES;2023-06-24;;Public;ES Noche de San Juan,CA Nit de Sant Joan,EN St John's Day;CT,VC
+5c0f0bb3-2a4e-4f5e-9a3b-af5ad0f22ce9;ES;2023-06-29;;Public;ES Eid al-Adha,CA Eid al-Adha,EN Eid al-Adha;CE,ML
+b0d75215-0845-4e18-988f-f2808aa97159;ES;2023-07-25;;Public;ES Día Nacional de Galicia,CA Dia Nacional de Galícia,EN National Day of Galicia;GA
+ce8d4e92-44c3-47bc-9d67-7e5ae5d21871;ES;2023-07-25;;Public;ES Día de Santiago,CA Dia de Sant Jaume,EN Saint James' Day;PV,CL
+b1ce1226-74d9-4419-b679-4e74086f8b03;ES;2023-07-28;;Public;ES Día de las Instituciones,CA Dia de les Institucions,EN Day of the Institutions;CB
+e55b2b5f-524d-4c4d-81dd-983aa5c35a32;ES;2023-08-05;;Public;ES Nuestra Señora de África,CA Mare de Déu d'Àfrica,EN Our Lady of Africa;CE
+9f3f937b-647b-4c6b-9be1-b9ecb667db08;ES;2023-08-15;;Public;ES Asunción de la Virgen,CA Assumpció de la Mare de Déu,EN Assumption of Mary;
+ec2028e4-4a0a-4a12-a997-42243a6ec235;ES;2023-09-02;;Public;ES Día de Ceuta,CA Dia de Ceuta,EN Day of Ceuta;CE
+ec5bd875-6196-4e14-a9c6-f471246c0da6;ES;2023-09-08;;Public;ES Fiesta Regional del Principado de Asturias,CA Festiu d'Astúries,EN Asturias Regional Holiday;AS
+bf258932-aaea-4787-94eb-d416d4a2c88e;ES;2023-09-08;;Public;ES Fiesta Regional de Extremadura,CA Festiu d'Extremadura,EN Extremadura Regional Holiday;EX
+9e5f8b12-1d5f-47a2-bfea-1f7f85d90019;ES;2023-09-08;;Public;ES Día de la Virgen de las Victorias,CA Dia de la Mare de Déu de les Victòries,EN Our Lady of Victories;ML
+ed956314-e2b9-4c16-97e0-27a82e4f0d54;ES;2023-09-11;;Public;ES Día Nacional de Cataluña,CA Diada Nacional de Catalunya,EN National Day of Catalonia;CT
+e9d3b5f7-6283-4eb7-9e9f-d15c447ec99a;ES;2023-09-15;;Public;ES Fiesta Regional de Cantabria,CA Festiu de Cantàbria,EN Cantabria Regional Holiday;CB
+d64988e0-96db-4a19-a251-75037a07ef89;ES;2023-10-09;;Public;ES Día de la Comunidad Valenciana,CA Dia de la Comunitat Valenciana,EN Valencian Regional Holiday;VC
+b2c54b5a-43e9-40c4-9d8d-5d3502d50a0a;ES;2023-10-12;;Public;ES Fiesta Nacional de España,CA Diada Nacional d'Espanya,EN Spanish National Day;
+f2b48db3-d071-4a03-845e-411d438b41df;ES;2023-11-01;;Public;ES Todos los Santos,CA Tots Sants,EN All Saints' Day;
+e35b0971-47e6-41c1-8f3f-9f76e79d94e3;ES;2023-11-09;;Public;ES Virgen de la Almudena,CA Mare de Déu de l'Almudena,EN Virgin of Almudena;MD
+2f2aa3b6-0d77-4d39-bcc2-9b97be7f3ce5;ES;2023-12-03;;Public;ES San Francisco Javier,CA Sant Francesc Xavier,EN San Francisco Javier;NC
+c0a8c7b1-241f-47f6-8694-4f77b9c7987c;ES;2023-12-06;;Public;ES Día de la Constitución,CA Dia de la Constitució,EN Constitution Day;
+54c64cfd-9d91-4c9d-bd1f-531bb75922f2;ES;2023-12-08;;Public;ES Inmaculada Concepción,CA Puríssima Concepció,EN Immaculate Conception;
+242d8d18-e7b0-4f3b-8a5b-2963ee10b7b1;ES;2023-12-25;;Public;ES Navidad,CA Nadal,EN Christmas Day;
+ef5578a6-2c67-4e56-82b4-81a25d3f4d96;ES;2023-12-26;;Public;ES San Esteban,CA Sant Esteve,EN St Stephen's Day;CT
+04dfa59c-5845-4fc9-ba78-6dd78ad1ef8c;ES;2024-01-01;;Public;ES Año Nuevo,CA Cap d'Any,EN New Year's Day;
+755ca1bd-2953-4e1d-98ac-96ef840b896c;ES;2024-01-06;;Public;ES Epifanía,CA Epifania,EN Epiphany;
+dce5108f-7578-4411-9e24-2258c6dab3af;ES;2024-02-28;;Public;ES Fiesta Regional de Andalucía,CA Festiu Regional d'Andalusia,EN Andalusia Regional Holiday;AN
+5c354618-326b-4cd6-949d-bbb580a43652;ES;2024-03-01;;Public;ES Fiesta Regional de las Islas Baleares,CA Festiu Regional de les Illes Balears,EN Balearic Islands Regional Holiday;IB
+92cd3cfd-9aa1-448f-8d93-36a84519c28a;ES;2024-03-19;;Public;ES Día de San José,CA Dia de Sant Josep,EN St Joseph's Day;PV,CM,GA,MC,NC,VC
+eea5aa73-f316-49d4-92bf-74d739e1129c;ES;2024-03-28;;Public;ES Jueves Santo,CA Dijous Sant,EN Maundy Thursday;AN,AR,AS,CB,CN,CE,CL,CM,EX,GA,IB,MC,MD,ML,NC,PV,RI
+b2b0bfc5-dc10-4157-9a36-c0f626669a0b;ES;2024-03-29;;Public;ES Viernes Santo,CA Divendres Sant,EN Good Friday;
+2e8ef102-5c0c-4cf0-adc8-49df5dbf0c27;ES;2024-04-01;;Public;ES Lunes de Pascua,CA Dilluns de Pasqua,EN Easter Monday;IB,PV,CB,CT,RI,NC,VC
+ff37280f-1f70-47e4-a26c-c02584fc6a4b;ES;2024-04-23;;Public;ES Fiesta Regional de Aragón,CA Festiu Regional d'Aragó,EN Aragon Regional Holiday;AR
+7de3e0a9-51a0-4a2a-88fc-b0491ae0516e;ES;2024-04-23;;Public;ES Fiesta Regional de Castilla y León,CA Festiu Regional de Castella i Lleó,EN Castile and León Regional Holiday;CL
+1575f2dc-84ef-42cb-8b10-3511acb2cdbd;ES;2024-05-01;;Public;ES Día del Trabajador,CA Dia del Treball,EN Labour Day;
+bd1666d2-35f7-43fd-ba8e-c7fc33a92e87;ES;2024-05-02;;Public;ES Fiesta Regional de Madrid,CA Festiu Regional de Madrid,EN Madrid Regional Holiday;MD
+97ecedf5-91f1-437a-8951-e22e5f2b2a0f;ES;2024-05-15;;Public;ES San Isidro,CA San Isidre,EN San Isidro;MD
+7a983f63-745e-4fc9-967c-245dde4c5601;ES;2024-05-17;;Public;ES Día de las Letras Gallegas,CA Dia das Letras Galegas,EN Galician Literature Day;GA
+34462205-edc9-4314-84db-a9d803aa746b;ES;2024-05-30;;Public;ES Fiesta de la Comunidad Canaria,CA Festiu de la Comunitat Canària,EN Canary Islands Regional Holiday;CN
+62eb60ed-d011-44f7-9d9a-6231d72ca8ce;ES;2024-05-30;;Public;ES Corpus Christi,CA Corpus Christi,EN Corpus Christi;CM
+628bbd95-0523-4a0e-ac79-51e1e59f509a;ES;2024-05-31;;Public;ES Fiesta de Castilla-La Mancha,CA Festiu de Castella-La Manxa,EN Castile-La Mancha Regional Holiday;CM
+9ad48065-664c-4a52-9640-f09e272d40da;ES;2024-06-09;;Public;ES Fiesta de La Rioja,CA Festiu de La Rioja,EN La Rioja Regional Holiday;RI
+f1ee316c-4dc4-450c-aac3-ff82b93c1c5b;ES;2024-06-09;;Public;ES Fiesta de Murcia,CA Festiu de Múrcia,EN Murcia Regional Holiday;MU
+74a97fe1-1ebc-4828-8105-a281ca90a062;ES;2024-06-13;;Public;ES San Antonio,CA Sant Antoni,EN San Antonio;CE
+1f68838d-58e5-41b9-a176-eebb367a460d;ES;2024-06-17;;Public;ES Eid al-Adha,CA Eid al-Adha,EN Eid al-Adha;CE,ML
+b8d1ff1a-dbc6-4485-9a88-c38bc1fd6b18;ES;2024-06-24;;Public;ES Noche de San Juan,CA Nit de Sant Joan,EN St John's Day;CT,GA,VC
+81e301b5-4c3f-4b2f-812b-68c4ac36e47c;ES;2024-07-25;;Public;ES Día Nacional de Galicia,CA Dia Nacional de Galícia,EN National Day of Galicia;GA
+3818414b-d580-48e1-a64a-0a1980a8c661;ES;2024-07-25;;Public;ES Día de Santiago,CA Dia de Sant Jaume,EN Saint James' Day;PV
+ab61b291-1201-41b3-93d4-7146088ef337;ES;2024-07-28;;Public;ES Día de las Instituciones,CA Dia de les Institucions,EN Day of the Institutions;CB
+fa0ebd1a-45a1-4ad5-ac39-47e174ed0a37;ES;2024-08-05;;Public;ES Nuestra Señora de África,CA Mare de Déu d'Àfrica,EN Our Lady of Africa;CE
+b0330045-b230-4441-a9fc-20d0a6fb4255;ES;2024-08-15;;Public;ES Asunción de la Virgen,CA Assumpció de la Mare de Déu,EN Assumption of Mary;
+174d2918-c59b-4051-b907-3b0490e6b576;ES;2024-09-02;;Public;ES Día de Ceuta,CA Dia de Ceuta,EN Day of Ceuta;CE
+9b4c72fb-d77f-4bce-8be5-23f7c81e2495;ES;2024-09-08;;Public;ES Fiesta Regional del Principado de Asturias,CA Festiu d'Astúries,EN Asturias Regional Holiday;AS
+9dd6ac76-8780-4ebc-afcc-87fb4a9ba6bb;ES;2024-09-08;;Public;ES Fiesta Regional de Extremadura,CA Festiu d'Extremadura,EN Extremadura Regional Holiday;EX
+dba028de-5905-45c6-9dd3-5587d40e45ef;ES;2024-09-08;;Public;ES Día de la Virgen de las Victorias,CA Dia de la Mare de Déu de les Victòries,EN Our Lady of Victories;ML
+f59fbbf6-e62f-477f-9cbd-d2a8d516b630;ES;2024-09-11;;Public;ES Día Nacional de Cataluña,CA Diada Nacional de Catalunya,EN National Day of Catalonia;CT
+c65b8d28-3ed7-4966-8823-23e359731c90;ES;2024-09-15;;Public;ES Fiesta Regional de Cantabria,CA Festiu de Cantàbria,EN Cantabria Regional Holiday;CB
+8d2df6da-890d-4152-9624-76d31d6e26d5;ES;2024-10-09;;Public;ES Día de la Comunidad Valenciana,CA Dia de la Comunitat Valenciana,EN Valencian Regional Holiday;VC
+4999e41e-8804-480c-abf5-ebeeb71a4d0c;ES;2024-10-12;;Public;ES Fiesta Nacional de España,CA Diada Nacional d'Espanya,EN Spanish National Day;
+0ae5cea7-ea2b-4d07-8106-4b345fafede0;ES;2024-11-01;;Public;ES Todos los Santos,CA Tots Sants,EN All Saints' Day;
+31499af0-7bd6-480d-b4ad-562df6a89a76;ES;2024-11-09;;Public;ES Virgen de la Almudena,CA Mare de Déu de l'Almudena,EN Virgin of Almudena;MD
+54b2b8d3-e316-400f-9b40-bf9b639d1f6a;ES;2024-12-03;;Public;ES San Francisco Javier,CA Sant Francesc Xavier,EN San Francisco Javier;NC
+857c13fa-d6ce-4858-bc16-825188889a12;ES;2024-12-06;;Public;ES Día de la Constitución,CA Dia de la Constitució,EN Constitution Day;
+202105a3-5a4a-43f2-9f69-b12fd5d4cbbb;ES;2024-12-08;;Public;ES Inmaculada Concepción,CA Puríssima Concepció,EN Immaculate Conception;AN,AR,AS,CB,CN,CL,CM,EX,GA,IB,MC,MD,ML,RI,VC 
+ad4ae651-1e5d-4154-9f8b-38817ff4450e;ES;2024-12-09;;Public;ES Día de la Inmaculada Concepción,CA Dia de la Puríssima Concepció,EN Immaculate Conception Holiday;AN,AR,AS,CB,CL,EX,MC,MD,ML,RI
+4c7eb77f-266b-4d4e-8360-9df4be6dcc16;ES;2024-12-25;;Public;ES Navidad,CA Nadal,EN Christmas Day;
+9b8abb42-a343-4033-ad51-d956e25744e0;ES;2024-12-26;;Public;ES San Esteban,CA Sant Esteve,EN St Stephen's Day;IB,CT
+6a829b04-9b17-41ae-92a4-b5c52d7950ce;ES;2025-01-01;;Public;ES Año Nuevo,CA Cap d'Any,EN New Year's Day;
+e8266982-6a93-4db0-83c6-b5e1162eab07;ES;2025-01-06;;Public;ES Epifanía,CA Epifania,EN Epiphany;
+63395126-0512-4277-88f3-048765e83d33;ES;2025-02-28;;Public;ES Fiesta Regional de Andalucía,CA Festiu Regional d'Andalusia,EN Andalusia Regional Holiday;AN
+8e97f10b-d5a9-4383-8563-c267a91eddb7;ES;2025-03-01;;Public;ES Fiesta Regional de las Islas Baleares,CA Festiu Regional de les Illes Balears,EN Balearic Islands Regional Holiday;IB
+9d3727f7-47bf-4414-b061-da24eef5c101;ES;2025-03-19;;Public;ES Día de San José,CA Dia de Sant Josep,EN St Joseph's Day;MD,MU,NC
+59e1bc95-443d-40a2-9699-ee748a7d6c69;ES;2025-04-17;;Public;ES Jueves Santo,CA Dijous Sant,EN Maundy Thursday;AN,AR,AS,CB,CN,CE,CL,CM,EX,GA,IB,MC,MD,ML,NC,PV,RI
+1f5326cb-a9e9-4523-bff4-528c29c16c82;ES;2025-04-18;;Public;ES Viernes Santo,CA Divendres Sant,EN Good Friday;
+e7249e8e-e97e-4257-bf9e-5872b8a892c6;ES;2025-04-21;;Public;ES Lunes de Pascua,CA Dilluns de Pasqua,EN Easter Monday;IB,PV,CT,RI,NC,VC
+7d196049-ce63-423f-b72b-d6b76954569d;ES;2025-04-23;;Public;ES Fiesta Regional de Aragón,CA Festiu Regional d'Aragó,EN Aragon Regional Holiday;AR
+7de3e0a9-51a0-4a2a-88fc-b0491ae0516e;ES;2025-04-23;;Public;ES Fiesta Regional de Castilla y León,CA Festiu Regional de Castella i Lleó,EN Castile and León Regional Holiday;CL
+09a66d66-c814-416b-9aaa-a7d0693d90d3;ES;2025-05-01;;Public;ES Día del Trabajador,CA Dia del Treball,EN Labour Day;
+cfc7ffda-936b-403a-ad92-f164c849a10c;ES;2025-05-02;;Public;ES Fiesta Regional de Madrid,CA Festiu Regional de Madrid,EN Madrid Regional Holiday;MD
+6dddd6f8-904c-40ca-9e63-54f7a8f20d7f;ES;2025-05-15;;Public;ES San Isidro,CA San Isidre,EN San Isidro;MD
+348dad8e-bcfb-47d0-8d95-55c0586f35f7;ES;2025-05-17;;Public;ES Día de las Letras Gallegas,CA Dia das Letras Galegas,EN Galician Literature Day;GA
+33d6eb33-2276-49e3-9e3c-1c99a19379b8;ES;2025-05-30;;Public;ES Fiesta de la Comunidad Canaria,CA Festiu de la Comunitat Canària,EN Canary Islands Regional Holiday;CN
+b19d9624-3ad0-4ab3-8324-f0486dcfda43;ES;2025-05-31;;Public;ES Fiesta de Castilla-La Mancha,CA Festiu de Castella-La Manxa,EN Castile-La Mancha Regional Holiday;CM
+776e035b-e630-4cf7-b5e7-599770ee7690;ES;2025-06-07;;Public;ES Eid al-Adha,CA Eid al-Adha,EN Eid al-Adha;CE,ML
+4beb194f-7800-4173-9122-bf8bf4791b49;ES;2025-06-09;;Public;ES Fiesta de La Rioja,CA Festiu de La Rioja,EN La Rioja Regional Holiday;RI
+0f5c21d8-a391-405b-9a9d-350d2ffbdfd2;ES;2025-06-09;;Public;ES Fiesta de Murcia,CA Festiu de Múrcia,EN Murcia Regional Holiday;MU
+0f092fee-d8d1-4ede-935c-68522b15d09e;ES;2025-06-13;;Public;ES San Antonio,CA Sant Antoni,EN San Antonio;CE
+7fadd151-3ee1-413d-8fa8-94f5bcd4184a;ES;2025-06-13;;Public;ES Corpus Christi,CA Corpus Christi,EN Corpus Christi;CM
+bfa744e8-8c12-44f6-8bed-0b3d840dead9;ES;2025-06-24;;Public;ES Noche de San Juan,CA Nit de Sant Joan,EN St John's Day;CT,GA,VC
+4d5101b8-3a51-4e7b-9a1d-52b225ef3a7a;ES;2025-07-25;;Public;ES Día Nacional de Galicia,CA Dia Nacional de Galícia,EN National Day of Galicia;GA
+3baff3f1-4422-4c42-82d5-326ef9ba0602;ES;2025-07-25;;Public;ES Día de Santiago,CA Dia de Sant Jaume,EN Saint James' Day;PV,MD
+745d90cf-aa7e-4961-98c9-2bcd2b43bfd3;ES;2025-07-28;;Public;ES Día de las Instituciones,CA Dia de les Institucions,EN Day of the Institutions;CB
+b1331d81-ac5d-4f04-9f21-a939c710ecbc;ES;2025-08-05;;Public;ES Nuestra Señora de África,CA Mare de Déu d'Àfrica,EN Our Lady of Africa;CE
+26ffde0b-7e56-48bb-a84e-0850aa8db645;ES;2025-08-15;;Public;ES Asunción de la Virgen,CA Assumpció de la Mare de Déu,EN Assumption of Mary;
+8598a441-8dbf-40ea-aade-26450d4a4384;ES;2025-09-02;;Public;ES Día de Ceuta,CA Dia de Ceuta,EN Day of Ceuta;CE
+1de7caae-f8d9-492f-bed2-1db23c4038b0;ES;2025-09-08;;Public;ES Fiesta Regional del Principado de Asturias,CA Festiu d'Astúries,EN Asturias Regional Holiday;AS
+869c7213-3dd2-4cc8-ba8d-0f5fe27a6239;ES;2025-09-08;;Public;ES Fiesta Regional de Extremadura,CA Festiu d'Extremadura,EN Extremadura Regional Holiday;EX
+7ed763f2-b96a-4004-8d93-df87a3905cb2;ES;2025-09-08;;Public;ES Día de la Virgen de las Victorias,CA Dia de la Mare de Déu de les Victòries,EN Our Lady of Victories;ML
+ed763039-5db4-42db-a47b-14a841e5f7b7;ES;2025-09-11;;Public;ES Día Nacional de Cataluña,CA Diada Nacional de Catalunya,EN National Day of Catalonia;CT
+1b5dda52-30e6-423d-bc45-7766b7f52d52;ES;2025-09-15;;Public;ES Fiesta Regional de Cantabria,CA Festiu de Cantàbria,EN Cantabria Regional Holiday;CB
+45d6b44d-8f23-45d6-97f7-66c64f49b48d;ES;2025-10-09;;Public;ES Día de la Comunidad Valenciana,CA Dia de la Comunitat Valenciana,EN Valencian Regional Holiday;VC
+a2ad0fd5-66e8-4f96-9db6-e471ad7f3483;ES;2025-10-12;;Public;ES Fiesta Nacional de España,CA Diada Nacional d'Espanya,EN Spanish National Day;
+4142f85d-4527-47ee-a0a5-5773d60211f9;ES;2025-11-01;;Public;ES Todos los Santos,CA Tots Sants,EN All Saints' Day;
+01662ffb-dc95-4c9c-8188-3a5d473934d4;ES;2025-11-09;;Public;ES Virgen de la Almudena,CA Mare de Déu de l'Almudena,EN Virgin of Almudena;MD
+9fafffce-7ac9-4b32-a974-e7c889f867d6;ES;2025-12-03;;Public;ES San Francisco Javier,CA Sant Francesc Xavier,EN San Francisco Javier;NC
+353ecd49-0e88-4fd9-80cc-32110d11ac55;ES;2025-12-06;;Public;ES Día de la Constitución,CA Dia de la Constitució,EN Constitution Day;
+10aa17c0-eed6-4d27-bd26-dfd78b93210e;ES;2025-12-08;;Public;ES Inmaculada Concepción,CA Puríssima Concepció,EN Immaculate Conception;AN,AR,AS,CB,CN,CL,CM,CT,EX,GA,IB,MC,MD,ML,NC,PV,RI,VC
+c8c53980-ea59-44a4-96d0-4e3795cbbfaa;ES;2025-12-25;;Public;ES Navidad,CA Nadal,EN Christmas Day;
+66c4bd98-6059-440f-ae42-34f25ad769c4;ES;2025-12-26;;Public;ES San Esteban,CA Sant Esteve,EN St Stephen's Day;IB,CT
+bbf0592b-e474-42e7-849e-52392189be04;ES;2026-01-01;;Public;ES Año Nuevo,CA Cap d'Any,EN New Year's Day;
+7b34f326-fd09-4b92-8112-e3303251e659;ES;2026-01-06;;Public;ES Epifanía,CA Epifania,EN Epiphany;
+143eb7e0-4cb9-44b3-95bb-846d861dd62e;ES;2026-02-28;;Public;ES Fiesta Regional de Andalucía,CA Festiu Regional d'Andalusia,EN Andalusia Regional Holiday;AN
+90fbd331-8745-4fa2-bc00-fe470b9425df;ES;2026-03-01;;Public;ES Fiesta Regional de las Islas Baleares,CA Festiu Regional de les Illes Balears,EN Balearic Islands Regional Holiday;IB
+3b9fe1b1-60d6-4ff3-9f9d-55d5d829e2ba;ES;2026-03-19;;Public;ES Día de San José,CA Dia de Sant Josep,EN St Joseph's Day;MD,MU,NC
+728d0324-6c04-44ac-94ae-4bbc3dfe5fed;ES;2026-04-02;;Public;ES Jueves Santo,CA Dijous Sant,EN Maundy Thursday;AN,AR,AS,CB,CN,CE,CL,CM,EX,GA,IB,MC,MD,ML,NC,PV,RI
+cb5247ee-93ed-477f-ad10-0089b4cccf52;ES;2026-04-03;;Public;ES Viernes Santo,CA Divendres Sant,EN Good Friday;
+bee03fa1-b270-44df-bce0-128cedf2465e;ES;2026-04-06;;Public;ES Lunes de Pascua,CA Dilluns de Pasqua,EN Easter Monday;IB,PV,CT,RI,NC,VC
+4ee933f3-d1f8-478d-b4f6-3ae34e311961;ES;2026-04-23;;Public;ES Fiesta Regional de Aragón,CA Festiu Regional d'Aragó,EN Aragon Regional Holiday;AR
+71a0a867-58c4-4c8c-830d-6db729ae37a3;ES;2026-04-23;;Public;ES Fiesta Regional de Castilla y León,CA Festiu Regional de Castella i Lleó,EN Castile and León Regional Holiday;CL
+d9c1d73a-eab9-4034-af43-bc6d2975b5aa;ES;2026-05-01;;Public;ES Día del Trabajador,CA Dia del Treball,EN Labour Day;
+3c24d7cf-a044-47f2-8f82-79cf228d3307;ES;2026-05-02;;Public;ES Fiesta Regional de Madrid,CA Festiu Regional de Madrid,EN Madrid Regional Holiday;MD
+95269ece-0648-4fc4-b967-0363a9c90909;ES;2026-05-15;;Public;ES San Isidro,CA San Isidre,EN San Isidro;MD
+53c61453-6971-4d73-8c8d-5655249fe3d8;ES;2026-05-17;;Public;ES Día de las Letras Gallegas,CA Dia das Letras Galegas,EN Galician Literature Day;GA
+7f1d83ee-8738-4dc7-a5fc-b9b4a52cba5e;ES;2026-05-27;;Public;ES Eid al-Adha,CA Eid al-Adha,EN Eid al-Adha;CE,ML
+9762e231-75c0-473e-be20-24c6134f585e;ES;2026-05-30;;Public;ES Fiesta de la Comunidad Canaria,CA Festiu de la Comunitat Canària,EN Canary Islands Regional Holiday;CN
+dbc5a995-5585-47ad-9644-7303014c006c;ES;2026-05-31;;Public;ES Fiesta de Castilla-La Mancha,CA Festiu de Castella-La Manxa,EN Castile-La Mancha Regional Holiday;CM
+db24fb8c-857d-4af4-8d3b-cd499096ffb3;ES;2026-06-04;;Public;ES Corpus Christi,CA Corpus Christi,EN Corpus Christi;CM
+c69c5f19-87bb-4d14-9671-ab3329e7639a;ES;2026-06-09;;Public;ES Fiesta de La Rioja,CA Festiu de La Rioja,EN La Rioja Regional Holiday;RI
+a96629d9-0daa-4dcc-8755-d1190e517dec;ES;2026-06-09;;Public;ES Fiesta de Murcia,CA Festiu de Múrcia,EN Murcia Regional Holiday;MU
+a9ea0b48-d35d-433b-a36e-eda57361af91;ES;2026-06-13;;Public;ES San Antonio,CA Sant Antoni,EN San Antonio;CE
+a9faaa40-36a9-4ee0-8cf2-ce52c4d5353b;ES;2026-06-24;;Public;ES Noche de San Juan,CA Nit de Sant Joan,EN St John's Day;CT,GA,VC
+945238bf-2a5e-463c-83eb-fade102dff9e;ES;2026-07-25;;Public;ES Día Nacional de Galicia,CA Dia Nacional de Galícia,EN National Day of Galicia;GA
+b1e1ff14-8004-40ff-8db6-1740693c50b1;ES;2026-07-25;;Public;ES Día de Santiago,CA Dia de Sant Jaume,EN Saint James' Day;PV,MD
+d0e8a572-8ac7-4f94-9180-7bb485917878;ES;2026-07-28;;Public;ES Día de las Instituciones,CA Dia de les Institucions,EN Day of the Institutions;CB
+c95f8ab6-cb87-4968-bf0d-3b9db4863db2;ES;2026-08-05;;Public;ES Nuestra Señora de África,CA Mare de Déu d'Àfrica,EN Our Lady of Africa;CE
+bb84065c-3a24-41f7-a787-0d226a6553af;ES;2026-08-15;;Public;ES Asunción de la Virgen,CA Assumpció de la Mare de Déu,EN Assumption of Mary;
+15ef6f6d-1329-4e91-b933-7ece810bfe63;ES;2026-09-02;;Public;ES Día de Ceuta,CA Dia de Ceuta,EN Day of Ceuta;CE
+4d513693-324c-4ee0-906e-051bb8fe1761;ES;2026-09-08;;Public;ES Fiesta Regional del Principado de Asturias,CA Festiu d'Astúries,EN Asturias Regional Holiday;AS
+aa0b23ca-baf4-4da0-b74e-0af4359868a4;ES;2026-09-08;;Public;ES Fiesta Regional de Extremadura,CA Festiu d'Extremadura,EN Extremadura Regional Holiday;EX
+2373c6ba-4443-4b2e-845e-68e89bbf6512;ES;2026-09-08;;Public;ES Día de la Virgen de las Victorias,CA Dia de la Mare de Déu de les Victòries,EN Our Lady of Victories;ML
+9b2a3391-3d0e-47ed-a160-d0f84d98e45a;ES;2026-09-11;;Public;ES Día Nacional de Cataluña,CA Diada Nacional de Catalunya,EN National Day of Catalonia;CT
+02fd5535-9b8b-4364-9a21-510736fc9ec9;ES;2026-09-15;;Public;ES Fiesta Regional de Cantabria,CA Festiu de Cantàbria,EN Cantabria Regional Holiday;CB
+c2af95df-8803-4c0c-81a9-46af7ad6396b;ES;2026-10-09;;Public;ES Día de la Comunidad Valenciana,CA Dia de la Comunitat Valenciana,EN Valencian Regional Holiday;VC
+f56a2fc4-a8bc-469c-8a9a-d62f2513a9fc;ES;2026-10-12;;Public;ES Fiesta Nacional de España,CA Diada Nacional d'Espanya,EN Spanish National Day;
+1dc068ed-a5ee-4c23-aae0-17f689baf4cc;ES;2026-11-01;;Public;ES Todos los Santos,CA Tots Sants,EN All Saints' Day;
+bc423e8a-44d3-4849-a2c3-e94f577cb8d7;ES;2026-11-09;;Public;ES Virgen de la Almudena,CA Mare de Déu de l'Almudena,EN Virgin of Almudena;MD
+ba00b27b-ac9c-4729-97f7-ebb666b3b4c2;ES;2026-12-03;;Public;ES San Francisco Javier,CA Sant Francesc Xavier,EN San Francisco Javier;NC
+be34c328-237a-44a1-8d15-deafef85832e;ES;2026-12-06;;Public;ES Día de la Constitución,CA Dia de la Constitució,EN Constitution Day;
+6acb8d4d-7294-4a19-8462-04ee83499cec;ES;2026-12-08;;Public;ES Inmaculada Concepción,CA Puríssima Concepció,EN Immaculate Conception;AN,AR,AS,CB,CN,CL,CM,CT,EX,GA,IB,MC,MD,ML,NC,PV,RI,VC
+8271685c-0381-460f-a300-b2d6d742ec26;ES;2026-12-25;;Public;ES Navidad,CA Nadal,EN Christmas Day;
+cd31a0a0-ce9f-4d69-8184-0bac4e8662b1;ES;2026-12-26;;Public;ES San Esteban,CA Sant Esteve,EN St Stephen's Day;IB,CT

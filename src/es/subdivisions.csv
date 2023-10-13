@@ -1,0 +1,20 @@
+Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages
+ES;ES-AN;ES-AN;AN;ES Comunidad autónoma,EN Autonomous community;ES Andalucía,EN Andalusia;ES
+ES;ES-AR;ES-AR;AR;ES Comunidad autónoma,EN Autonomous community;ES Aragón,EN Aragon;ES
+ES;ES-AS;ES-AS;AS;ES Comunidad autónoma,EN Autonomous community;ES Asturias,EN Asturias;ES
+ES;ES-CB;ES-CB;CB;ES Comunidad autónoma,EN Autonomous community;ES Cantabria,EN Cantabria;ES
+ES;ES-CM;ES-CM;CM;ES Comunidad autónoma,EN Autonomous community;ES Castilla-La Mancha,EN Castilla-La Mancha;ES
+ES;ES-CN;ES-CN;CN;ES Comunidad autónoma,EN Autonomous community;ES Canarias,EN Canary Islands;ES
+ES;ES-CL;ES-CL;CL;ES Comunidad autónoma,EN Autonomous community;ES Castilla y León,EN Castile and León;ES
+ES;ES-CT;ES-CT;CT;ES Comunidad autónoma,EN Autonomous community;ES Catalunya,EN Catalonia;CA,ES,OC
+ES;ES-CE;ES-CE;CE;ES Ciudad autónoma,EN Autonomous city;ES Ceuta,EN Ceuta;ES
+ES;ES-EX;ES-EX;EX;ES Comunidad autónoma,EN Autonomous community;ES Extremadura,EN Extremadura;ES
+ES;ES-GA;ES-GA;GA;ES Comunidad autónoma,EN Autonomous community;ES Galicia,EN Galicia;GL,ES
+ES;ES-IB;ES-IB;IB;ES Comunidad autónoma,EN Autonomous community;ES Illes Balears,EN Balearic Islands;CA,ES
+ES;ES-MC;ES-MC;MC;ES Comunidad autónoma,EN Autonomous community;ES Región de Murcia,EN Region of Murcia;ES
+ES;ES-MD;ES-MD;MD;ES Comunidad de Madrid,EN Comunitat de Madrid;ES Murcia,EN Region of Murcia;ES
+ES;ES-ML;ES-ML;ML;ES Ciudad autónoma,EN Autonomous city;ES Melilla,EN Melilla;ES
+ES;ES-NC;ES-NC;NC;ES Comunidad autónoma,EN Autonomous community;ES Navarra,EN Navarre;ES,EU
+ES;ES-PV;ES-PV;PV;ES Comunidad autónoma,EN Autonomous community;ES País Vasco,EN Basque Country;EU,ES
+ES;ES-RI;ES-RI;RI;ES Comunidad autónoma,EN Autonomous community;ES La Rioja,EN La Rioja;ES
+ES;ES-VC;ES-VC;VC;ES Comunidad autónoma,EN Autonomous community;ES Comunitat Valenciana,EN Valencian Community;VLCA,ES
