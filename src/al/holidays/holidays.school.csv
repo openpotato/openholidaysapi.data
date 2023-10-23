@@ -1,0 +1,13 @@
+﻿Id;Country;StartDate;EndDate;Type;Name;Comment
+5e97d446-a1b5-485e-b342-704dc1e2d024;AL;2019-12-21;2020-01-05;School;SQ Pushimet dimërore,DE Weihnachtsferien,EN Christmas holidays;
+59b2c49e-462c-4adf-8af0-29f3deac0463;AL;2020-06-13;2020-09-13;School;SQ Pushimet verore,DE Sommerferien,EN Summer holidays;
+e52da282-9f85-414c-ad72-062ab7dc0255;AL;2020-12-24;2021-01-04;School;SQ Pushimet dimërore,DE Weihnachtsferien,EN Christmas holidays;
+e39476d0-edef-4134-888a-4682605007c3;AL;2021-06-09;2021-09-26;School;SQ Pushimet verore,DE Sommerferien,EN Summer holidays;
+fcb61653-04d0-4802-988c-4a42b9c203f5;AL;2021-12-24;2022-01-04;School;SQ Pushimet dimërore,DE Weihnachtsferien,EN Christmas holidays;
+f156537c-d4f5-40d7-8f56-262a2852105a;AL;2022-06-18;2022-09-11;School;SQ Pushimet verore,DE Sommerferien,EN Summer holidays;
+5b579a43-e456-4e68-a1cd-43ccdfc9a707;AL;2022-12-26;2023-01-04;School;SQ Pushimet dimërore,DE Weihnachtsferien,EN Christmas holidays;
+e9618e29-8d46-4b7c-9c63-3efc5b4c29a1;AL;2023-04-03;2023-04-09;School;SQ Pushimet e pranveres,DE Frühlingsferien,EN Spring holidays;
+3a9a8843-d1db-448f-9c2b-27324e1f1440;AL;2023-06-15;2023-09-10;School;SQ Pushimet verore,DE Sommerferien,EN Summer holidays;
+b2277fb3-5fb6-40a2-8e9f-6b768c8d34e4;AL;2023-12-26;2024-01-05;School;SQ Pushimet dimërore,DE Weihnachtsferien,EN Christmas holidays;
+d37c6ecc-b0be-48d2-b77a-6681e97677f5;AL;2024-04-01;2024-04-05;School;SQ Pushimet e pranveres,DE Frühlingsferien,EN Spring holidays;
+eac852e3-ca1a-4e61-942d-aae6960fd956;AL;2024-06-14;;EndOfLessons;SQ Fundi i klasës,DE Unterrichtsende,EN End of lessons;
