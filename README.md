@@ -2,6 +2,7 @@
 
 This repo aggregates and stores freely accessible calendar data on the following countries:
 
++ Albania (public holidays and school holidays from 2020)
 + Austria (public holidays and school holidays from 2020)
 + Belgium (public holidays and school holidays from 2020)
 + Bulgaria (public holidays and school holidays from 2020)
@@ -28,6 +29,22 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Vatican City (public holidays from 2020)
 
 ## Sources
+
+### Albania
+
+Public holidays:
+
++ [LIGJ Nr.7651, datë 21.12.1992: Për festat zyrtare e ditët përkujtimore](https://tirana.al/uploads/publications/ligje/ligjNr.7651date21.12.docx)
++ [Wikipedia: Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr)
++ [Wikipedia: Eid al-Adha](https://en.wikipedia.org/wiki/Eid_al-Adha)
+
+School holidays: 
+
++ [Miratimi i strukturës së vitit shkollor 2023-2024 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-191-date-20-4-2023-per-miratimin-e-struktures-se-vitit-shkollor-2023-2024-ne-sistemin-arsimor-parauniversitar/)
++ [Miratimi i strukturës së vitit shkollor 2022-2023 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-227-date-28-04-2022-per-miratimin-e-struktures-se-vitit-shkollor-2022-2023-ne-sistemin-arsimor-parauniversitar/
++ [Miratimi i strukturës së vitit shkollor 2021-2022 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-300-date-25-08-2021-per-miratimin-e-struktures-se-vitit-shkollor-2021-2022-ne-sistemin-arsimor-parauniversitar/
++ [Miratimi i strukturës së vitit shkollor 2020-2021 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-71-date-25-02-2020-per-miratimin-e-struktures-se-vitit-shkollor-2020-2021-ne-sistemin-arsimor-parauniversitar/
++ [Miratimi i strukturës së vitit shkollor 2019-2020 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-220-date-11-04-2019-per-miratimin-e-struktures-se-vitit-shkollorn2019-2020-ne-sistemin-arsimor-parauniversitar/
 
 ### Austria
 
