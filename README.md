@@ -414,7 +414,8 @@ School holidays:
 
 Publications Office of the European Union:
 
-+ [The Organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://op.europa.eu/en/publication-detail/-/publication/080f40cc-63d3-11ed-92ed-01aa75ed71a1)
++ [The organisation of school time in Europe. Primary and general secondary education | 2023/2024](https://op.europa.eu/en/publication-detail/-/publication/caea97f5-6194-11ee-9220-01aa75ed71a1)
++ [The organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://op.europa.eu/en/publication-detail/-/publication/080f40cc-63d3-11ed-92ed-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2021/2022](https://op.europa.eu/en/publication-detail/-/publication/f4e1c244-19ba-11ec-b4fe-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2020/2021](https://op.europa.eu/en/publication-detail/-/publication/7260fb98-0dcc-11eb-bc07-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2019/2020](https://op.europa.eu/en/publication-detail/-/publication/5f888c4e-e0d9-11e9-9c4e-01aa75ed71a1)
