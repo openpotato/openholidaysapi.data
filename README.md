@@ -306,6 +306,10 @@ Public holidays:
 
 School holidays:
 
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2029-2030](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2029-2030)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2028-2029](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2028-2029)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2027-2028](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2029-2028)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2026-2027](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2028-2027)
 + Rijksoverheid: [Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
 + Rijksoverheid: [Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
 + Rijksoverheid: [Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
