@@ -2,6 +2,7 @@
 
 This repo aggregates and stores freely accessible calendar data on the following countries:
 
++ Albania (public holidays and school holidays from 2020)
 + Austria (public holidays and school holidays from 2020)
 + Belgium (public holidays and school holidays from 2020)
 + Bulgaria (public holidays and school holidays from 2020)
@@ -12,6 +13,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Germany (public holidays and school holidays from 2020)
 + Hungary (public holidays and school holidays from 2020)
 + Ireland (public holidays and school holidays from 2020)
++ Italy (public holidays and school holidays from 2020, Initial data from [@48DESIGN](https://github.com/48design))
 + Latvia (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)
 + Lithuania (public holidays and school holidays from 2020)
@@ -25,8 +27,25 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
++ Vatican City (public holidays from 2020)
 
 ## Sources
+
+### Albania
+
+Public holidays:
+
++ [LIGJ Nr.7651, datë 21.12.1992: Për festat zyrtare e ditët përkujtimore](https://tirana.al/uploads/publications/ligje/ligjNr.7651date21.12.docx)
++ [Wikipedia: Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr)
++ [Wikipedia: Eid al-Adha](https://en.wikipedia.org/wiki/Eid_al-Adha)
+
+School holidays: 
+
++ [Miratimi i strukturës së vitit shkollor 2023-2024 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-191-date-20-4-2023-per-miratimin-e-struktures-se-vitit-shkollor-2023-2024-ne-sistemin-arsimor-parauniversitar/)
++ [Miratimi i strukturës së vitit shkollor 2022-2023 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-227-date-28-04-2022-per-miratimin-e-struktures-se-vitit-shkollor-2022-2023-ne-sistemin-arsimor-parauniversitar/)
++ [Miratimi i strukturës së vitit shkollor 2021-2022 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-300-date-25-08-2021-per-miratimin-e-struktures-se-vitit-shkollor-2021-2022-ne-sistemin-arsimor-parauniversitar/)
++ [Miratimi i strukturës së vitit shkollor 2020-2021 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-71-date-25-02-2020-per-miratimin-e-struktures-se-vitit-shkollor-2020-2021-ne-sistemin-arsimor-parauniversitar/)
++ [Miratimi i strukturës së vitit shkollor 2019-2020 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-220-date-11-04-2019-per-miratimin-e-struktures-se-vitit-shkollorn2019-2020-ne-sistemin-arsimor-parauniversitar/)
 
 ### Austria
 
@@ -36,6 +55,7 @@ Public holidays:
 
 School holidays: 
 
++ oesterreich.gv.at: [Ferienkalender](https://www.oesterreich.gv.at/themen/bildung_und_neue_medien/schule/3.html)
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Gesetzliche Feiertage, Allerseelentag, Festtage der Landespatrone](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/feiertage.html)
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2023/2024](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_23_24.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html) 
@@ -128,7 +148,7 @@ Public holidays:
 + Bremen: [Gesetz über die Sonn-, Gedenk- und Feiertage (FeiertG BR)](https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-sonn-gedenk-und-feiertage-vom-12-november-1954-145882)
 + Hamburg: [Gesetz über Sonntage, Feiertage, Gedenktage und Trauertage (FeiertG HA)](https://www.landesrecht-hamburg.de/bsha/document/jlr-FeiertGHAV3P1)
 + Hessen: [Hessisches Feiertagsgesetz (HFeiertagsG)](https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-FeiertGHE1952pP1)
-+ Mecklenburg-Vorpommern: [Feiertagsgesetz Mecklenburg-Vorpommern (FTG M-V)](https://www.landesrecht-mv.de/bsmv/document/jlr-FTGMVpP2)
++ Mecklenburg-Vorpommern: [Feiertagsgesetz Mecklenburg-Vorpommern (FTG M-V)](https://www.landesrecht-mv.de/bsmv/document/jlr-FTGMVV3P2/part/S)
 + Niedersachsen: [Niedersächsisches Gesetz über die Feiertage (NFeiertagsG)](https://www.mi.niedersachsen.de/startseite/themen/allgemeine_angelegenheiten_des_inneren/feiertagsrecht/feiertagsgesetz-61491.html)
 + Nordrhein-Westfalen: [Gesetz über die Sonn- und Feiertage (Feiertagsgesetz NW)](https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=2&gld_nr=1&ugl_nr=113&bes_id=3367&aufgehoben=N&menu=1&sg=0)
 + Rheinland-Pfalz: [Feiertagsgesetz (LFtG)](https://landesrecht.rlp.de/bsrp/document/jlr-FeiertGRPpP2)
@@ -184,6 +204,21 @@ School holidays:
 
 + Department of Education: [School holiday dates](https://www.gov.ie/en/service/388196-school-holiday-dates/)
 + An Roinn Oideachais: [Laethanta saoire scoile dátaí](https://www.gov.ie/ga/seirbhis/dae1c6-none/)
+
+### Italy
+
+Public holidays:
+
++ [Ufficio del Cerimoniale di Stato: Festività e giornate nazionali](https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/giornate.html)
+
+School holidays:
+
++ Ministero dell'Istruzione e del Merito: [Il calendario scolastico](https://www.miur.gov.it/calendario-scolastico)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2023-2024 (PDF)](https://www.miur.gov.it/documents/20182/0/Riepilogo+Calendari+scolastici+regionali+a.s.+2023_2024.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2022-2023 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Calendari+scolastici+regionali+a.s.+2022-2023.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2021-2022 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Riepilogo+Calendari+scolastici+regionali+a.s.+2021+-+2022.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2020-2021 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Riepilogo+Calendari+scolastici+regionali+a.s.+2020-2021.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2019-2020 (XLS)](https://www.miur.gov.it/documents/20182/2159038/Calendari+scolastici+regionali+a.s.+19-20_.xls)
 
 ### Latvia
 
@@ -273,6 +308,10 @@ Public holidays:
 
 School holidays:
 
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2029-2030](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2029-2030)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2028-2029](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2028-2029)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2027-2028](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2029-2028)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2026-2027](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2028-2027)
 + Rijksoverheid: [Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
 + Rijksoverheid: [Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
 + Rijksoverheid: [Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
@@ -383,11 +422,23 @@ School holidays:
 + Zug: [Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
 + Zürich: [Ferien und schulfreie Tage](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulferien.html)
 
+### Vatican City 
+
+Public holidays:
+
++ [Bollettino N. 29 - 2021/2022: Regolamento per il Personale del Governatorato dello Stato della Città del Vaticano](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-29/testi-aggiornati/regolamento_personale_governatorato_scv.html)
++ [Bollettino N. 11 - 2002: Regolamento per il personale laico del Capitolo della Patriarcale Basilica Vaticana](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-n-11-2002/atti-della-segreteria-di-stato/regolamento-per-il-personale-laico-del-capitolo-della-patriarcal1.html)
+
+School holidays:
+
++ There are no schools in Vatican City.
+
 ## Additional information
 
 Publications Office of the European Union:
 
-+ [The Organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://op.europa.eu/en/publication-detail/-/publication/080f40cc-63d3-11ed-92ed-01aa75ed71a1)
++ [The organisation of school time in Europe. Primary and general secondary education | 2023/2024](https://op.europa.eu/en/publication-detail/-/publication/caea97f5-6194-11ee-9220-01aa75ed71a1)
++ [The organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://op.europa.eu/en/publication-detail/-/publication/080f40cc-63d3-11ed-92ed-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2021/2022](https://op.europa.eu/en/publication-detail/-/publication/f4e1c244-19ba-11ec-b4fe-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2020/2021](https://op.europa.eu/en/publication-detail/-/publication/7260fb98-0dcc-11eb-bc07-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2019/2020](https://op.europa.eu/en/publication-detail/-/publication/5f888c4e-e0d9-11e9-9c4e-01aa75ed71a1)

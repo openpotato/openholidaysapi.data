@@ -1,0 +1,177 @@
+﻿Id;Country;StartDate;EndDate;Type;Name
+420b43a5-f6dd-445c-b904-9fbe8030153d;AL;2020-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+0de9fdef-01f9-432e-8092-32d6e6a18bea;AL;2020-01-02;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+0f75c4ab-bc81-4ac9-b230-6c93cad6f4af;AL;2020-03-16;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+57a7c5ce-3164-4994-8c48-a7e893625e22;AL;2020-03-23;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+cfce5dd6-5815-4483-a62f-1e63dcf1fb51;AL;2020-04-12;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+d7af0564-d952-4a8c-abde-3da614d611df;AL;2020-04-13;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+e7d31154-931a-457e-9b5a-20ca9c63aa74;AL;2020-04-19;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+fb278938-9e03-42cd-b910-a0c81b43625a;AL;2020-04-20;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+7328cb94-0d66-4a9a-aad2-f8baf7a95aee;AL;2020-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+b119a43a-8d08-44dd-a74d-8305b31a1624;AL;2020-05-24;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+adc18d9a-7c4d-420b-b27c-55d99b921d34;AL;2020-07-31;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+8932e3fc-d11b-4dfc-b0ea-55b3f85cbb28;AL;2020-10-19;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+9605584c-62eb-4554-9628-f5b959bee155;AL;2020-11-30;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+b452457f-3147-4ffe-b8e1-dd9037182b52;AL;2020-11-30;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+314d76f0-96cb-41e3-a1c0-da1459b2abba;AL;2020-12-08;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+841316a4-179b-4301-8f10-99ef510587ac;AL;2020-12-25;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
+e9b6bbd6-09f0-4be2-8eba-27e2f8cca7c8;AL;2021-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+363df1be-c642-4006-95fd-fc3837c8a933;AL;2021-01-04;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+810d55a8-23a1-4dab-a813-b708e1e87773;AL;2021-03-15;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+3edf510d-bc7b-42f0-bb5e-e35c414f1650;AL;2021-03-22;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+9680c647-ccb5-4eb0-a1d5-21a12c56b674;AL;2021-04-04;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+922d7fc1-cc08-4219-91f4-1013952c224f;AL;2021-04-05;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+47aec4b6-07db-4591-a725-2f43115b4496;AL;2021-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+926450dc-c8ba-41f4-9ba4-8bd820a5ccdd;AL;2021-05-02;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+feadc30b-d162-476b-9962-605a16c8e0b1;AL;2021-05-03;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+b8bdcbfd-e0ec-4e21-82fc-67a23335c8af;AL;2021-05-13;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+7633c5f9-f3d1-4e76-8a0a-076d966bd1a5;AL;2021-07-20;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+fc28dda2-f8ad-456b-8090-ac7de5d7e2b2;AL;2021-10-19;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+121637e8-89ac-4f0d-a92f-34c2cbe1ed2a;AL;2021-11-29;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+0cb42a9e-8dd5-4ec4-afc5-6d8f8edfd104;AL;2021-11-29;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+56ab608a-f74f-409b-939f-7c603167d0df;AL;2021-12-08;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+ca4f85fb-fd42-427a-b669-bae115388ae7;AL;2021-12-25;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
+dbf43503-3697-4cc1-bb73-d56bb441c917;AL;2022-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+f00e523c-afdc-43f2-b8ad-675eb8958dab;AL;2022-01-03;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+e65ae3ca-a472-4e82-8471-40781c812dc5;AL;2022-03-14;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+a99ca638-415e-40ca-ace8-d178ac68f3ee;AL;2022-03-22;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+eb267252-06c9-4878-aca5-19b88c4908f1;AL;2022-04-17;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+205f2cae-5411-428e-8de7-b4e541adc563;AL;2022-04-18;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+264ab146-31ed-45df-bb19-3c334ef921e1;AL;2022-04-24;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+0df80be5-72a2-4032-a235-28540fa07f8c;AL;2022-04-25;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+a008acd1-0e07-4864-bd0c-13b3c0c35c9c;AL;2022-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+b7352153-0337-44ed-aafd-242b145c27e5;AL;2022-05-02;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+711535ca-f0ba-403d-a5b8-c2a1c010147f;AL;2022-07-09;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+43ac365d-ed96-46c5-bbdc-6e2d9c9fdf8b;AL;2022-10-19;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+830d1bbd-240e-495d-a99b-8ffbe7222f47;AL;2022-11-28;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+d69c71e9-dba2-412d-9ca6-9154224f3fca;AL;2022-11-29;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+810dc731-92eb-451a-b62f-cff5deabb1a5;AL;2022-12-08;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+dc217b85-1b3e-4d7e-83ab-d5489e6fc000;AL;2022-12-26;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
+c2451eee-dab7-4317-8f95-f9b8916dd6ba;AL;2023-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+a36e539b-865c-4f58-bf6c-d66191b416f2;AL;2023-01-02;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+b89e1ab2-fcaf-4ec4-ac1f-b70f09ad6982;AL;2023-03-14;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+1f34eedc-af2f-4f7b-ac07-5e607f9747ee;AL;2023-03-22;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+9773e307-95c8-4a36-b1d1-01465f1e4a34;AL;2023-04-09;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+fbb97161-84ce-4549-837a-1789c612a277;AL;2023-04-10;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+80fe1c57-c056-44b0-840f-73e5453139ed;AL;2023-04-16;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+e1041de6-cbb7-4c03-aa79-996abec33ab2;AL;2023-04-17;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+476f2329-6032-419c-a953-64e9df13ec39;AL;2023-04-21;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+ba171515-91f3-4dff-85ed-7aa372268349;AL;2023-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+7b34ef73-b77d-4327-ae48-40d3a6875b10;AL;2023-06-28;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+8adc8b6b-9cbb-4bca-a9b8-0a688e54c195;AL;2023-10-19;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+79c598bd-93d8-44b4-b2d6-bb3af15741d7;AL;2023-11-28;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+16b4d6d8-6c96-40c6-9bd6-b2df6b3c2b0f;AL;2023-11-29;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+4b10c582-d2d8-4312-8cfd-47586564a422;AL;2023-12-08;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+4a55516b-d8c5-4ff8-8953-605540f5365f;AL;2023-12-25;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
+521ccb33-202c-4951-933b-53aa4f785610;AL;2024-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+5be21c66-f9e3-4863-80a3-9330f955518c;AL;2024-01-02;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+a108f733-f8f5-47d2-901c-bacc408ab832;AL;2024-03-14;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+a36a31c2-2227-4fc1-89cb-f0239f5d7ecd;AL;2024-03-22;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+d6a8d8ac-9fc4-4931-ac81-411a01002aae;AL;2024-03-31;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+e70d46ea-0903-4d6a-899f-ec12619c92c4;AL;2024-04-01;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+bd752b4f-1b5c-4dd9-b9e7-f303b225cf7b;AL;2024-04-10;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+ee0b1110-0f6c-4e61-b58b-4e2c5dff87cf;AL;2024-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+ae4b6c0f-68ce-4743-a6d8-8630d134f8b7;AL;2024-05-05;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+e642bae6-94dc-4031-8385-f24a1bdacd59;AL;2024-05-06;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+a4f71121-4e80-4f81-91e7-ea4096bb2400;AL;2024-06-16;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+169a8cb8-8809-4ec8-bc71-bc524a1a5403;AL;2024-10-21;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+769edb8d-73c8-41eb-a5c8-c57d72abe0ce;AL;2024-11-28;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+ee1a9c17-e226-4096-b826-e852d60845a6;AL;2024-11-29;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+1af34de1-5ec8-40c3-a246-6d57cb34af10;AL;2024-12-09;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+04eb3b92-c5ed-4377-b949-79856581e39f;AL;2024-12-25;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
+1992ad5f-253c-41da-b8df-4dc94b9f91af;AL;2025-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+7a29766d-b964-499c-87f3-8896c3b8690b;AL;2025-01-02;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+bdb6c338-22a3-4df3-95ae-55f57e6df1e8;AL;2025-03-14;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+4c14cc0e-9399-43cb-9ad9-072e2ab1aebb;AL;2025-03-24;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+6b4f13e9-c160-4650-9147-a65e29569fb1;AL;2025-03-30;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+b8f6ae86-b255-4596-bc47-b1c3294467cf;AL;2025-04-20;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+cb16d02f-7877-4eb4-87ba-630bff3c5861;AL;2025-04-20;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+43bfb92b-26bd-4e49-ab7b-6b12d0d35991;AL;2025-04-21;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+a38ab861-b594-446b-a206-5344d104f8fd;AL;2025-04-21;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+eab82054-e361-4a9c-bdd6-cf3fb52a4433;AL;2025-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+9735cf52-1bcd-49e7-b67a-d314c9997248;AL;2025-06-06;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+d0631383-d473-46f1-b962-e6f94901fc25;AL;2025-10-20;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+ef0d8866-3227-4e67-9493-6f942b1fccd7;AL;2025-11-28;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+79435ec8-52d1-429e-b724-0a1d8e85653f;AL;2025-12-01;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+ece8671f-72ac-4648-9418-a0729ff485d1;AL;2025-12-08;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+ad7911e1-c982-4fcd-a86c-5ae66c4deb4b;AL;2025-12-25;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
+4c6e7080-eea3-4a00-b155-785bc64f5b32;AL;2026-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+c2eccdb2-9d15-4f27-ae04-8b95f668c97b;AL;2026-01-02;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+49142c35-7272-4b14-aa29-a57e619f14a5;AL;2026-03-16;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+97773497-99f5-453f-8f2d-1d17e4ba318f;AL;2026-03-20;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+46495a5b-dfe0-47fc-8e33-94c8c2601888;AL;2026-03-23;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+4d579082-300f-4c77-aeff-3453d05661df;AL;2026-04-05;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+56bce240-b976-41e4-8eec-819d59a8c827;AL;2026-04-06;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+27ef2514-5d7e-4b93-abbf-96d2d20f38e7;AL;2026-04-12;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+14e6aec9-3dcc-49a5-b7f2-e4ab74031294;AL;2026-04-13;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+fbbbf380-110a-4622-a18a-12b66e078b85;AL;2026-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+25d374cb-f634-4f40-8ced-576f6c197a52;AL;2026-05-26;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+571403b0-1743-4488-80f7-fa03811577ab;AL;2026-10-19;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+77166fe3-a1ff-46a7-af42-13ebb75d7e72;AL;2026-11-30;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+fb62715f-eacb-4873-b696-34594e6730e5;AL;2026-11-30;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+9bb6dbb8-c894-4669-b35e-22c6ae90d0d2;AL;2026-12-08;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+cbda713e-b112-41d4-94c9-f0ee3075c47a;AL;2026-12-25;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
+776e3387-6513-4489-942e-57b5760b3c4f;AL;2027-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+a884a4a7-a83b-4bc1-8d04-7bfbedf4503e;AL;2027-01-04;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+a2525dbc-45b3-4b2b-b17a-f44367b1a6f1;AL;2027-03-09;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+1c99ea2d-382a-4ccf-8714-08c716d13a85;AL;2027-03-15;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+42479940-9cfb-4035-a6a8-69b68718c807;AL;2027-03-22;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+217a63c2-a040-44fc-8cf8-c34c42d80b53;AL;2027-03-28;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+8153b872-a2ea-486c-adfc-9e18ea241b96;AL;2027-03-29;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+d2530bfd-1d11-483b-b778-fe51edc290a3;AL;2027-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+58af7908-2adc-4938-b99c-7524a0bcc65d;AL;2027-05-02;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+26d67887-d3e1-476f-8735-86ccb2ca7627;AL;2027-05-03;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+29d88428-f829-4a5c-8caa-506f972a0211;AL;2027-05-16;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+6346d3ea-4f86-465a-8c79-9d8af0fcf008;AL;2027-10-19;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+1b559fc6-6ec4-42a0-975d-8d6a1ba25cf1;AL;2027-11-29;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+d661a35b-6fbe-44c3-b94a-7159d08d91f4;AL;2027-11-29;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+ea69f4ec-5796-4edc-b72a-3547f68a9aa0;AL;2027-12-08;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+0bde8613-bb14-4f6d-8760-ff7af907b7f4;AL;2027-12-27;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
+aa42af20-da20-4c8b-a643-ba2ca3b0405c;AL;2028-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+6159ec81-f73b-492a-99da-3d40bde7dcc4;AL;2028-01-03;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+9a41e16c-c0eb-4342-95fe-0b8c7dc86e06;AL;2028-02-26;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+857b4b22-7759-4b71-94c8-beda2286fd60;AL;2028-03-14;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+82e16b4a-c3c5-4dc4-a6ee-4e1c9c264299;AL;2028-03-22;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+0c7538ab-164c-459e-a58e-59e7b70e1f4d;AL;2028-04-16;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+0904f2fd-7abe-4626-88a8-d90139b135fc;AL;2028-04-16;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+394007c7-2e6f-4659-b676-8459eb86c32f;AL;2028-04-17;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+068ad9e1-febf-4e0c-a031-85ec32339608;AL;2028-04-17;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+3b9b675d-4eea-4c02-ac23-a6d8508817a4;AL;2028-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+72779b4f-f2f8-45d2-8354-1ffa53988c51;AL;2028-05-04;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+3f6067d7-8cad-4ae3-beb0-d8683f3fef0d;AL;2028-10-19;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+9308ddc8-6c04-4f0b-b271-1b46461472e8;AL;2028-11-28;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+a56e6f4e-6b66-43f3-8661-1705bb1d4bd1;AL;2028-11-29;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+ae5d815a-c41e-483c-b44d-fa0a60f0625e;AL;2028-12-08;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+222a9f5a-522b-48bc-a44e-9dd7c46cc5b1;AL;2028-12-25;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
+664ce6e2-a9c0-4386-acc0-99aa30a02223;AL;2029-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+8b6402b0-3f5b-4ddc-9f23-44e123eab3a6;AL;2029-01-02;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+c5ba1085-358d-4755-a9c6-660f88c491de;AL;2029-02-14;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+bbaf5652-f086-405e-ac1e-2278b78c7042;AL;2029-03-14;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+efec030b-e578-4eb3-bd03-5053dacbcab7;AL;2029-03-22;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+9562b557-0287-4001-b36c-837fcfc3d074;AL;2029-04-01;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+8fc44f1b-aea9-4ac3-8f26-b7e57e36ce0e;AL;2029-04-02;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+9282237e-4e5a-4156-aeae-ad9b91fbec24;AL;2029-04-08;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+a004648a-2cb2-47c3-bd1d-f32a8faba2e8;AL;2029-04-09;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+78d693dc-79e0-4e76-aca9-a3e5c2bf3624;AL;2029-04-23;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+4070c608-37cc-44b9-b978-5c270a7796b7;AL;2029-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+884fd9ef-a600-4114-8d66-af080440892c;AL;2029-10-19;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+54c6f41e-9485-4b93-8a44-ad882dd053cd;AL;2029-11-28;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+62bc6799-a05b-43ba-9f31-ead0c8256adf;AL;2029-11-29;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+080757ab-bd01-4548-9aa8-30fea6fbcd12;AL;2029-12-10;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+f6383aff-f56f-4ff5-8101-7b962ad60aef;AL;2029-12-25;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
+558e6685-fb16-4afc-9a5e-4db7669e1934;AL;2030-01-01;;Public;SQ Viti i Ri,DE Neujahr,EN New Year's Day
+000ef700-f8aa-4081-8a60-e4917eb615de;AL;2030-01-02;;Public;SQ Viti i Ri,DE Neujahrsfeiertag,EN New Year's Day Holiday
+fb41fdef-3002-4982-809f-854883015510;AL;2030-02-03;;Public;SQ Dita e Bajramit të Madh,DE Eid al-Fitr (Zuckerfest),EN Eid al-Fitr (Holiday of Breaking the Fast)
+2d1907ad-64aa-4642-ba1a-de947e5ab548;AL;2030-03-14;;Public;SQ Dita e Verës,DE Tag des Sommers,EN Summer Day
+abe3a939-fdc9-4d68-baf7-a2767ecb964d;AL;2030-03-22;;Public;SQ Dita e Nevruzit,DE Nouruz (persisches Frühlingsfest),EN Nowruz (Persian New Year)
+b1a74b11-8ddc-4ae2-a8b9-6a1e5b22483e;AL;2030-04-13;;Public;SQ Dita e Kurban Bajramit,DE Eid ul-Adha (Opferfest),EN Eid ul-Adha (Feast of Sacrifice)
+55abfaf7-1ea1-4703-9f36-cc099f669d08;AL;2030-04-21;;Public;SQ Pashkët Katolike,DE Ostersonntag (katholisch),EN Easter Sunday
+9f596d01-b82f-4b64-9940-1e7e535209c8;AL;2030-04-22;;Public;SQ Hënen e Pashkët Katolike,DE Ostermontag (katholisch),EN Easter Monday
+b7d82c33-128c-47fd-a0ed-83263c4c0f17;AL;2030-04-28;;Public;SQ Pashkët Ortodokse,DE Ostersonntag (orthodox),EN Orthodox Easter Sunday
+83b01159-744a-4293-8389-3ce552cc1749;AL;2030-04-29;;Public;SQ Hënen e Pashkët Ortodokse,DE Ostermontag (orthodox),EN Orthodox Easter Monday
+99539e95-416f-4276-9409-946adc3a221a;AL;2030-05-01;;Public;SQ Dita ndërkombëtare e punonjësve,DE Tag der Arbeit,EN Labour Day
+30f2935c-3571-428f-badc-529afeb3926f;AL;2030-10-21;;Public;SQ Dita e Lumturimit te Nene Terezës,DE Tag der Seligsprechung von Mutter Teresa,EN Mother Teresa Day
+8a2d9ef1-0412-4fd7-be2b-92fafdf82df6;AL;2030-11-28;;Public;SQ Dita e Flamurit dhe e Pavarësisë,DE Tag der Unabhängigkeit und der Flagge,EN Flag and Independence Day
+da4a15d4-423a-429d-b99c-223980ad7abc;AL;2030-11-29;;Public;SQ Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,DE Tag der Befreiung,EN Liberation Day
+7cb58ee0-df1d-432a-8151-d03720c464a0;AL;2030-12-09;;Public;SQ Dita Kombëtare e Rinisë,DE Tag der Jugend,EN Youth Day
+14056f59-182d-49e4-b2bd-39f86c45e0aa;AL;2030-12-25;;Public;SQ Krishtlindjet,DE Weihnachten,EN Christmas Day
