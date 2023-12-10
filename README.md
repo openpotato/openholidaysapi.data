@@ -22,7 +22,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Monaco (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
-+ Portugal (national and district public holidays from 2020)
++ Portugal (national and district public holidays from 2020, Initial data from [@48DESIGN](https://github.com/48design))
 + San Marino (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
@@ -332,6 +332,7 @@ School holidays:
 
 Public holidays:
 
++ API: [List of national, regional and municipal public holidays](https://services.sapo.pt/Metadata/Contract/Holiday)
 + [Lei n.º 7/2009, Código do Trabalho - CT - Subsecção IX](https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34546475-46746675)
 + [Lei n.º 8/2016, de 1 de abril](https://diariodarepublica.pt/dr/detalhe/lei/8-2016-74007209)
 + [Decreto Regional n.º 27/79/M, de 9 de novembro](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1979-363277)
