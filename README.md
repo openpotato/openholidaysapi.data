@@ -22,6 +22,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Monaco (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
++ Portugal (national and district public holidays from 2020, Initial data from [@48DESIGN](https://github.com/48design))
 + San Marino (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
@@ -41,10 +42,10 @@ Public holidays:
 School holidays: 
 
 + [Miratimi i strukturës së vitit shkollor 2023-2024 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-191-date-20-4-2023-per-miratimin-e-struktures-se-vitit-shkollor-2023-2024-ne-sistemin-arsimor-parauniversitar/)
-+ [Miratimi i strukturës së vitit shkollor 2022-2023 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-227-date-28-04-2022-per-miratimin-e-struktures-se-vitit-shkollor-2022-2023-ne-sistemin-arsimor-parauniversitar/
-+ [Miratimi i strukturës së vitit shkollor 2021-2022 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-300-date-25-08-2021-per-miratimin-e-struktures-se-vitit-shkollor-2021-2022-ne-sistemin-arsimor-parauniversitar/
-+ [Miratimi i strukturës së vitit shkollor 2020-2021 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-71-date-25-02-2020-per-miratimin-e-struktures-se-vitit-shkollor-2020-2021-ne-sistemin-arsimor-parauniversitar/
-+ [Miratimi i strukturës së vitit shkollor 2019-2020 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-220-date-11-04-2019-per-miratimin-e-struktures-se-vitit-shkollorn2019-2020-ne-sistemin-arsimor-parauniversitar/
++ [Miratimi i strukturës së vitit shkollor 2022-2023 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-227-date-28-04-2022-per-miratimin-e-struktures-se-vitit-shkollor-2022-2023-ne-sistemin-arsimor-parauniversitar/)
++ [Miratimi i strukturës së vitit shkollor 2021-2022 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-300-date-25-08-2021-per-miratimin-e-struktures-se-vitit-shkollor-2021-2022-ne-sistemin-arsimor-parauniversitar/)
++ [Miratimi i strukturës së vitit shkollor 2020-2021 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-71-date-25-02-2020-per-miratimin-e-struktures-se-vitit-shkollor-2020-2021-ne-sistemin-arsimor-parauniversitar/)
++ [Miratimi i strukturës së vitit shkollor 2019-2020 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-220-date-11-04-2019-per-miratimin-e-struktures-se-vitit-shkollorn2019-2020-ne-sistemin-arsimor-parauniversitar/)
 
 ### Austria
 
@@ -54,6 +55,7 @@ Public holidays:
 
 School holidays: 
 
++ oesterreich.gv.at: [Ferienkalender](https://www.oesterreich.gv.at/themen/bildung_und_neue_medien/schule/3.html)
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Gesetzliche Feiertage, Allerseelentag, Festtage der Landespatrone](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/feiertage.html)
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2023/2024](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_23_24.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html) 
@@ -306,6 +308,10 @@ Public holidays:
 
 School holidays:
 
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2029-2030](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2029-2030)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2028-2029](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2028-2029)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2027-2028](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2029-2028)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2026-2027](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2028-2027)
 + Rijksoverheid: [Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
 + Rijksoverheid: [Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
 + Rijksoverheid: [Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
@@ -321,6 +327,24 @@ Public holidays:
 School holidays:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
+
+### Portugal
+
+Public holidays:
+
++ API: [List of national, regional and municipal public holidays](https://services.sapo.pt/Metadata/Contract/Holiday)
++ [Lei n.º 7/2009, Código do Trabalho - CT - Subsecção IX](https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34546475-46746675)
++ [Lei n.º 8/2016, de 1 de abril](https://diariodarepublica.pt/dr/detalhe/lei/8-2016-74007209)
++ [Decreto Regional n.º 27/79/M, de 9 de novembro](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1979-363277)
++ [Decreto Legislativo Regional n.º 18/2002/M, de 8 de novembro](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-425483)
++ [Decreto Regional n.º 13/80/A, de 21 de agosto](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1980-470865)
+
+School holidays:
+
++ 2022/2023 and 2023/2024 - [Despacho n.º 8356/2022](https://diariodarepublica.pt/dr/detalhe/despacho/8356-2022-185829850)
++ 2021/2022 - [Despacho n.º 12123-M/2021](https://diariodarepublica.pt/dr/detalhe/despacho/12123-m-2021-175816929)
++ 2020/2021 - [Despacho n.º 1689-A/2021](https://diariodarepublica.pt/dr/detalhe/despacho/1689-a-2021-157360559)
++ 2019/2020 - [Despacho n.º 5754-A/2019](https://diariodarepublica.pt/dr/detalhe/despacho/5754-a-2019-122609690)
 
 ### San Marino
 
@@ -414,7 +438,8 @@ School holidays:
 
 Publications Office of the European Union:
 
-+ [The Organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://op.europa.eu/en/publication-detail/-/publication/080f40cc-63d3-11ed-92ed-01aa75ed71a1)
++ [The organisation of school time in Europe. Primary and general secondary education | 2023/2024](https://op.europa.eu/en/publication-detail/-/publication/caea97f5-6194-11ee-9220-01aa75ed71a1)
++ [The organisation of school time in Europe. Primary and general secondary education | 2022/2023](https://op.europa.eu/en/publication-detail/-/publication/080f40cc-63d3-11ed-92ed-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2021/2022](https://op.europa.eu/en/publication-detail/-/publication/f4e1c244-19ba-11ec-b4fe-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2020/2021](https://op.europa.eu/en/publication-detail/-/publication/7260fb98-0dcc-11eb-bc07-01aa75ed71a1)
 + [The organisation of school time in Europe. Primary and general secondary education | 2019/2020](https://op.europa.eu/en/publication-detail/-/publication/5f888c4e-e0d9-11e9-9c4e-01aa75ed71a1)
