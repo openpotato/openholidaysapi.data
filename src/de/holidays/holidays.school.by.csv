@@ -1,6 +1,6 @@
 ﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 3c508482-faa7-4fe8-b80b-bb7f33dcc4ef;DE;2019-12-23;2020-01-04;School;DE Weihnachtsferien,EN Christmas Holidays;BY
-a570a9c7-10b8-4ee9-b4a3-268f224017d0;DE;2020-02-24;2020-03-28;School;DE Frühjahrsferien,EN Spring Holidays;BY
+a570a9c7-10b8-4ee9-b4a3-268f224017d0;DE;2020-02-24;2020-02-28;School;DE Frühjahrsferien,EN Spring Holidays;BY
 e17083ad-ad28-4284-92b5-bf07da7958e1;DE;2020-04-06;2020-04-18;School;DE Osterferien,EN Easter Holidays;BY
 bebe56e4-e16f-49af-8a3e-b01f03c74f59;DE;2020-06-02;2020-06-13;School;DE Pfingstferien,EN Pentecost Holidays;BY
 915fb380-b6ad-4542-a2b2-2e7111323f49;DE;2020-07-27;2020-09-07;School;DE Sommerferien,EN Summer Holidays;BY
