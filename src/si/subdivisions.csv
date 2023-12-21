@@ -1,6 +1,6 @@
 ﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
-SI;SI-ZR;;ZR;SI regije,DE Regionen,EN regions;SL zahodne regije,DE Westliche Regionen,EN western regions;SL;
-SI;SI-VR;;VR;SI regije,DE Regionen,EN regions;SL vzhodne regije,DE Östliche Regionen,EN eastern regions;SL;
+SI;SI-ZR;;ZR;SL regije,DE Regionen,EN regions;SL zahodne regije,DE Westliche Regionen,EN western regions;SL;
+SI;SI-VR;;VR;SL regije,DE Regionen,EN regions;SL vzhodne regije,DE Östliche Regionen,EN eastern regions;SL;
 SI;SI-ZR-GR-AJ;SI-001;GR-AJ;SL občina,DE Gemeinde,EN municipality;SL Ajdovščina;SL;ZR
 SI;SI-ZR-OK-AN;SI-213;OK-AN;SL občina,DE Gemeinde,EN municipality;SL Ankaran;SL;ZR
 SI;SI-VR-PM-AP;SI-195;PM-AP;SL občina,DE Gemeinde,EN municipality;SL Apače;SL;VR
