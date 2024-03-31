@@ -1,0 +1,36 @@
+﻿Id;Country;StartDate;EndDate;Type;Name
+56a2e230-1fae-47ec-a451-c48d0832c4b1;AD;2019-12-23;2020-01-06;School;CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays
+ef23cecc-33e0-44fe-a586-da82d1fe5259;AD;2020-02-24;2020-02-28;School;CA Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays
+6192928a-29d0-48cf-a040-ae82873a8f98;AD;2020-04-06;2020-04-17;School;CA Vacances de Pasqua,DE Osterferien,EN Easter holidays
+6f79820e-6104-4684-a611-fd77f87a35ef;AD;2020-05-25;2020-06-01;School;CA Vacances de Pentecosta,DE Pfingstferien,EN Pentecost holidays
+082fa487-427a-4920-9ac2-0f7aecb3a4ae;AD;2020-07-02;2020-09-08;School;CA Vacances d'estiu,DE Sommerferien,EN Summer holidays
+79d242e5-5bc8-430d-a6c8-5ac50cac97fc;AD;2020-10-26;2020-10-30;School;CA Vacances de Tots Sants,DE Feiertage zu Allerheiligen,EN All Saints Holidays
+5f628c87-bc42-41a9-a565-90f64952cdaa;AD;2020-12-23;2021-01-06;School;CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays
+b28f395b-d559-4c66-879a-28c19d156849;AD;2021-02-15;2021-02-18;School;CA Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays
+031ba668-8fda-4647-914b-9859e6a138d6;AD;2021-03-29;2021-04-06;School;CA Vacances de Pasqua,DE Osterferien,EN Easter holidays
+aae71567-90e6-4f23-8254-34b532ae763a;AD;2021-05-24;2021-05-28;School;CA Vacances de Pentecosta,DE Pfingstferien,EN Pentecost holidays
+af93f9da-6ea9-404f-9954-bb69421c66cb;AD;2021-07-03;2021-09-08;School;CA Vacances d'estiu,DE Sommerferien,EN Summer holidays
+5c7a99d1-dcee-44aa-8d40-663cbd32db0e;AD;2021-11-01;2021-11-01;School;CA Vacances de Tots Sants,DE Feiertage zu Allerheiligen,EN All Saints Holidays
+5776d31a-dc7d-4c39-b97a-0cf083366fa1;AD;2021-12-23;2022-01-07;School;CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays
+cf0f25a5-4221-4f0e-b785-dde76797789e;AD;2022-02-28;2022-03-04;School;CA Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays
+b0059e01-305d-491b-a959-3b13ff9d9af8;AD;2022-04-11;2022-04-22;School;CA Vacances de Pasqua,DE Osterferien,EN Easter holidays
+a599ecc8-9abc-4297-895e-737ba019558b;AD;2022-06-02;2022-06-06;School;CA Vacances de Pentecosta,DE Pfingstferien,EN Pentecost holidays
+f0b16d8f-3afb-4528-bbb8-aaab03d01671;AD;2022-07-02;2022-09-08;School;CA Vacances d'estiu,DE Sommerferien,EN Summer holidays
+97d6ca26-61dc-4fb9-82d2-1cca8ac70c6f;AD;2022-10-31;2022-11-04;School;CA Vacances de Tots Sants,DE Feiertage zu Allerheiligen,EN All Saints Holidays
+95015289-f087-41cd-b828-cd3ed4812ba7;AD;2022-12-23;2023-01-06;School;CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays
+6922af3b-f334-4c0b-a6e0-69f0e2398281;AD;2023-02-20;2023-02-24;School;CA Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays
+56900cae-4d15-4261-9693-ee61c52fd15a;AD;2023-04-03;2023-04-14;School;CA Vacances de Pasqua,DE Osterferien,EN Easter holidays
+eb61ae6e-eca8-405a-b5b3-43bfbcb1cd9e;AD;2023-05-29;2023-05-30;School;CA Vacances de Pentecosta,DE Pfingstferien,EN Pentecost holidays
+121edf90-c37d-4f97-aef0-0e271eb862e0;AD;2023-07-01;2023-09-10;School;CA Vacances d'estiu,DE Sommerferien,EN Summer holidays
+2343ca67-7de8-487c-ac9a-e26f2016e5a4;AD;2023-10-30;2023-11-03;School;CA Vacances de Tots Sants,DE Feiertage zu Allerheiligen,EN All Saints Holidays
+0d820d6f-1726-42da-8560-55fb674f3531;AD;2023-12-25;2024-01-05;School;CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays
+b6cdfdcd-35f1-4778-93d7-f22837727262;AD;2024-02-12;2024-02-16;School;CA Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays
+e1db93f4-5a05-4995-805a-6040cb061bd2;AD;2024-03-28;2024-04-05;School;CA Vacances de Pasqua,DE Osterferien,EN Easter holidays
+2b471b9d-c034-48f9-a7e9-66770ecb0f9b;AD;2024-05-20;2024-05-24;School;CA Vacances de Pentecosta,DE Pfingstferien,EN Pentecost holidays
+c5cae934-dd5a-48fb-beda-3c2b78b1fa6a;AD;2024-06-29;2024-09-08;School;CA Vacances d'estiu,DE Sommerferien,EN Summer holidays
+00577a27-7aeb-4908-befb-63e70032fbbf;AD;2024-10-28;2024-11-01;School;CA Vacances de Tots Sants,DE Feiertage zu Allerheiligen,EN All Saints Holidays
+f7976f97-ef8e-45a6-8093-fbdf08c61b0e;AD;2024-12-23;2025-01-06;School;CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays
+5e4fc66b-393d-4eea-99a4-d38ebc0240d3;AD;2025-02-24;2025-03-03;School;CA Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays
+22bba398-3415-4f96-a8c8-3d21ea57ccb4;AD;2025-04-17;2025-05-02;School;CA Vacances de Pasqua,DE Osterferien,EN Easter holidays
+dd691969-edf9-44dc-ab9f-c4f9ddbf3d27;AD;2025-06-09;;School;CA Vacances de Pentecosta,DE Pfingstferien,EN Pentecost holidays
+d459cbfa-b87a-4eea-ae82-16773a53cc39;AD;2025-06-30;;EndOfLessons;CA Final de classe,DE Unterrichtsende,EN End of lessons
