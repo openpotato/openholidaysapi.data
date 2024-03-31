@@ -1,215 +1,215 @@
 ﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
-SI;SI-ZR;;ZR;SI regije,DE Regionen,EN regions;SI zahodne regije,DE Westliche Regionen,EN western regions;SL;
-SI;SI-VR;;VR;SI regije,DE Regionen,EN regions;SI vzhodne regije,DE Östliche Regionen,EN eastern regions;SL;
-SI;SI-ZR-GR-AJ;SI-001;GR-AJ;SI občina,DE Gemeinde,EN municipality;SL Ajdovščina;SL;ZR
-SI;SI-ZR-OK-AN;SI-213;OK-AN;SI občina,DE Gemeinde,EN municipality;SL Ankaran;SL;ZR
-SI;SI-VR-PM-AP;SI-195;PM-AP;SI občina,DE Gemeinde,EN municipality;SL Apače;SL;VR
-SI;SI-VR-PM-BE;SI-002;PM-BE;SI občina,DE Gemeinde,EN municipality;SL Beltinci;SL;VR
-SI;SI-VR-PD-BE;SI-148;PD-BE;SI občina,DE Gemeinde,EN municipality;SL Benedikt;SL;VR
-SI;SI-VR-SA-BS;SI-149;SA-BS;SI občina,DE Gemeinde,EN municipality;SL Bistrica ob Sotli;SL;VR
-SI;SI-ZR-GJ-BD;SI-003;GJ-BD;SI občina,DE Gemeinde,EN municipality;SL Bled;SL;ZR
-SI;SI-ZR-PN-BL;SI-150;PN-BL;SI občina,DE Gemeinde,EN municipality;SL Bloke;SL;ZR
-SI;SI-ZR-GJ-BO;SI-004;GJ-BO;SI občina,DE Gemeinde,EN municipality;SL Bohinj;SL;ZR
-SI;SI-ZR-OS-BO;SI-005;OS-BO;SI občina,DE Gemeinde,EN municipality;SL Borovnica;SL;ZR
-SI;SI-ZR-GR-BO;SI-006;GR-BO;SI občina,DE Gemeinde,EN municipality;SL Bovec;SL;ZR
-SI;SI-VR-SA-BR;SI-151;SA-BR;SI občina,DE Gemeinde,EN municipality;SL Braslovče;SL;VR
-SI;SI-ZR-GR-BR;SI-007;GR-BR;SI občina,DE Gemeinde,EN municipality;SL Brda;SL;ZR
-SI;SI-ZR-OS-BR;SI-008;OS-BR;SI občina,DE Gemeinde,EN municipality;SL Brezovica;SL;ZR
-SI;SI-VR-PS-BR;SI-009;PS-BR;SI občina,DE Gemeinde,EN municipality;SL Brežice;SL;VR
-SI;SI-VR-PM-CA;SI-152;PM-CA;SI občina,DE Gemeinde,EN municipality;SL Cankova;SL;VR
-SI;SI-VR-SA-CE;SI-011;SA-CE;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Celje;SL;VR
-SI;SI-ZR-GJ-CG;SI-012;GJ-CG;SI občina,DE Gemeinde,EN municipality;SL Cerklje na Gorenjskem;SL;ZR
-SI;SI-ZR-PN-CE;SI-013;PN-CE;SI občina,DE Gemeinde,EN municipality;SL Cerknica;SL;ZR
-SI;SI-ZR-GR-CE;SI-014;GR-CE;SI občina,DE Gemeinde,EN municipality;SL Cerkno;SL;ZR
-SI;SI-VR-PD-CE;SI-153;PD-CE;SI občina,DE Gemeinde,EN municipality;SL Cerkvenjak;SL;VR
-SI;SI-VR-PD-CL;SI-196;PD-CL;SI občina,DE Gemeinde,EN municipality;SL Cirkulane;SL;VR
-SI;SI-VR-PD-DE;SI-018;PD-DE;SI občina,DE Gemeinde,EN municipality;SL Destrnik;SL;VR
-SI;SI-ZR-OK-DI;SI-019;OK-DI;SI občina,DE Gemeinde,EN municipality;SL Divača;SL;ZR
-SI;SI-VR-SA-DJ;SI-154;SA-DJ;SI občina,DE Gemeinde,EN municipality;SL Dobje;SL;VR
-SI;SI-ZR-OS-DB;SI-020;OS-DB;SI občina,DE Gemeinde,EN municipality;SL Dobrepolje;SL;ZR
-SI;SI-VR-SA-DR;SI-155;SA-DR;SI občina,DE Gemeinde,EN municipality;SL Dobrna;SL;VR
-SI;SI-ZR-OS-DP;SI-021;OS-DP;SI občina,DE Gemeinde,EN municipality;SL Dobrova-Polhov Gradec;SL;ZR
-SI;SI-VR-PM-DO;SI-156;PM-DO;SI občina,DE Gemeinde,EN municipality;SL Dobrovnik;SL;VR
-SI;SI-ZR-OS-DL;SI-022;OS-DL;SI občina,DE Gemeinde,EN municipality;SL Dol pri Ljubljani;SL;ZR
-SI;SI-VR-JS-DT;SI-157;JS-DT;SI občina,DE Gemeinde,EN municipality;SL Dolenjske Toplice;SL;VR
-SI;SI-ZR-OS-DM;SI-023;OS-DM;SI občina,DE Gemeinde,EN municipality;SL Domžale;SL;ZR
-SI;SI-VR-PD-DO;SI-024;PD-DO;SI občina,DE Gemeinde,EN municipality;SL Dornava;SL;VR
-SI;SI-VR-KO-DR;SI-025;KO-DR;SI občina,DE Gemeinde,EN municipality;SL Dravograd;SL;VR
-SI;SI-VR-PD-DU;SI-026;PD-DU;SI občina,DE Gemeinde,EN municipality;SL Duplek;SL;VR
-SI;SI-ZR-GJ-GV;SI-027;GJ-GV;SI občina,DE Gemeinde,EN municipality;SL Gorenja vas-Poljane;SL;ZR
-SI;SI-VR-PD-GR;SI-028;PD-GR;SI občina,DE Gemeinde,EN municipality;SL Gorišnica;SL;VR
-SI;SI-ZR-GJ-GJ;SI-207;GJ-GJ;SI občina,DE Gemeinde,EN municipality;SL Gorje;SL;ZR
-SI;SI-VR-PM-GG;SI-029;PM-GG;SI občina,DE Gemeinde,EN municipality;SL Gornja Radgona;SL;VR
-SI;SI-VR-SA-GG;SI-030;SA-GG;SI občina,DE Gemeinde,EN municipality;SL Gornji Grad;SL;VR
-SI;SI-VR-PM-GP;SI-031;PM-GP;SI občina,DE Gemeinde,EN municipality;SL Gornji Petrovci;SL;VR
-SI;SI-VR-PM-GD;SI-158;PM-GD;SI občina,DE Gemeinde,EN municipality;SL Grad;SL;VR
-SI;SI-ZR-OS-GR;SI-032;OS-GR;SI občina,DE Gemeinde,EN municipality;SL Grosuplje;SL;ZR
-SI;SI-VR-PD-HA;SI-159;PD-HA;SI občina,DE Gemeinde,EN municipality;SL Hajdina;SL;VR
-SI;SI-VR-PM-HO;SI-161;PM-HO;SI občina,DE Gemeinde,EN municipality;SL Hodoš;SL;VR
-SI;SI-ZR-OS-HO;SI-162;OS-HO;SI občina,DE Gemeinde,EN municipality;SL Horjul;SL;ZR
-SI;SI-VR-PD-HS;SI-160;PD-HS;SI občina,DE Gemeinde,EN municipality;SL Hoče-Slivnica;SL;VR
-SI;SI-ZR-ZS-HR;SI-034;ZS-HR;SI občina,DE Gemeinde,EN municipality;SL Hrastnik;SL;ZR
-SI;SI-ZR-OK-HK;SI-035;OK-HK;SI občina,DE Gemeinde,EN municipality;SL Hrpelje-Kozina;SL;ZR
-SI;SI-ZR-GR-ID;SI-036;GR-ID;SI občina,DE Gemeinde,EN municipality;SL Idrija;SL;ZR
-SI;SI-ZR-OS-IG;SI-037;OS-IG;SI občina,DE Gemeinde,EN municipality;SL Ig;SL;ZR
-SI;SI-ZR-PN-IB;SI-038;PN-IB;SI občina,DE Gemeinde,EN municipality;SL Ilirska Bistrica;SL;ZR
-SI;SI-ZR-OS-IV;SI-039;OS-IV;SI občina,DE Gemeinde,EN municipality;SL Ivančna Gorica;SL;ZR
-SI;SI-ZR-OK-IZ;SI-040;OK-IZ;SI občina,DE Gemeinde,EN municipality;SL Izola;SL;ZR
-SI;SI-ZR-GJ-JS;SI-041;GJ-JS;SI občina,DE Gemeinde,EN municipality;SL Jesenice;SL;ZR
-SI;SI-ZR-GJ-JZ;SI-163;GJ-JZ;SI občina,DE Gemeinde,EN municipality;SL Jezersko;SL;ZR
-SI;SI-VR-PD-JU;SI-042;PD-JU;SI občina,DE Gemeinde,EN municipality;SL Juršinci;SL;VR
-SI;SI-ZR-OS-KA;SI-043;OS-KA;SI občina,DE Gemeinde,EN municipality;SL Kamnik;SL;ZR
-SI;SI-ZR-GR-KA;SI-044;GR-KA;SI občina,DE Gemeinde,EN municipality;SL Kanal ob Soči;SL;ZR
-SI;SI-VR-PD-KI;SI-045;PD-KI;SI občina,DE Gemeinde,EN municipality;SL Kidričevo;SL;VR
-SI;SI-ZR-GR-KO;SI-046;GR-KO;SI občina,DE Gemeinde,EN municipality;SL Kobarid;SL;ZR
-SI;SI-VR-PM-KO;SI-047;PM-KO;SI občina,DE Gemeinde,EN municipality;SL Kobilje;SL;VR
-SI;SI-ZR-OK-KM;SI-049;OK-KM;SI občina,DE Gemeinde,EN municipality;SL Komen;SL;ZR
-SI;SI-ZR-OS-KM;SI-164;OS-KM;SI občina,DE Gemeinde,EN municipality;SL Komenda;SL;ZR
-SI;SI-ZR-OK-KP;SI-050;OK-KP;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Koper;SL;ZR
-SI;SI-VR-PS-KJ;SI-197;PS-KJ;SI občina,DE Gemeinde,EN municipality;SL Kostanjevica na Krki;SL;VR
-SI;SI-ZR-OS-KS;SI-165;OS-KS;SI občina,DE Gemeinde,EN municipality;SL Kostel;SL;ZR
-SI;SI-VR-SA-KO;SI-051;SA-KO;SI občina,DE Gemeinde,EN municipality;SL Kozje;SL;VR
-SI;SI-ZR-OS-KC;SI-048;OS-KC;SI občina,DE Gemeinde,EN municipality;SL Kočevje;SL;ZR
-SI;SI-ZR-GJ-KR;SI-052;GJ-KR;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Kranj;SL;ZR
-SI;SI-ZR-GJ-KG;SI-053;GJ-KG;SI občina,DE Gemeinde,EN municipality;SL Kranjska Gora;SL;ZR
-SI;SI-VR-PM-KR;SI-166;PM-KR;SI občina,DE Gemeinde,EN municipality;SL Križevci;SL;VR
-SI;SI-VR-PS-KS;SI-054;PS-KS;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Krško;SL;VR
-SI;SI-VR-PD-KU;SI-055;PD-KU;SI občina,DE Gemeinde,EN municipality;SL Kungota;SL;VR
-SI;SI-VR-PM-KU;SI-056;PM-KU;SI občina,DE Gemeinde,EN municipality;SL Kuzma;SL;VR
-SI;SI-VR-SA-LA;SI-057;SA-LA;SI občina,DE Gemeinde,EN municipality;SL Laško;SL;VR
-SI;SI-VR-PD-LN;SI-058;PD-LN;SI občina,DE Gemeinde,EN municipality;SL Lenart;SL;VR
-SI;SI-VR-PM-LE;SI-059;PM-LE;SI občina,DE Gemeinde,EN municipality;SL Lendava;SL;VR
-SI;SI-ZR-OS-LI;SI-060;OS-LI;SI občina,DE Gemeinde,EN municipality;SL Litija;SL;ZR
-SI;SI-ZR-OS-LJ;SI-061;OS-LJ;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Ljubljana;SL;ZR
-SI;SI-VR-SA-LJ;SI-062;SA-LJ;SI občina,DE Gemeinde,EN municipality;SL Ljubno;SL;VR
-SI;SI-VR-PM-LJ;SI-063;PM-LJ;SI občina,DE Gemeinde,EN municipality;SL Ljutomer;SL;VR
-SI;SI-ZR-OS-LD;SI-208;OS-LD;SI občina,DE Gemeinde,EN municipality;SL Log-Dragomer;SL;ZR
-SI;SI-ZR-OS-LO;SI-064;OS-LO;SI občina,DE Gemeinde,EN municipality;SL Logatec;SL;ZR
-SI;SI-VR-PD-LP;SI-167;PD-LP;SI občina,DE Gemeinde,EN municipality;SL Lovrenc na Pohorju;SL;VR
-SI;SI-ZR-PN-LD;SI-065;PN-LD;SI občina,DE Gemeinde,EN municipality;SL Loška Dolina;SL;ZR
-SI;SI-ZR-OS-LP;SI-066;OS-LP;SI občina,DE Gemeinde,EN municipality;SL Loški Potok;SL;ZR
-SI;SI-ZR-OS-LU;SI-068;OS-LU;SI občina,DE Gemeinde,EN municipality;SL Lukovica;SL;ZR
-SI;SI-VR-SA-LU;SI-067;SA-LU;SI občina,DE Gemeinde,EN municipality;SL Luče;SL;VR
-SI;SI-VR-PD-MJ;SI-069;PD-MJ;SI občina,DE Gemeinde,EN municipality;SL Majšperk;SL;VR
-SI;SI-VR-PD-ML;SI-198;PD-ML;SI občina,DE Gemeinde,EN municipality;SL Makole;SL;VR
-SI;SI-VR-PD-MB;SI-070;PD-MB;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Maribor;SL;VR
-SI;SI-VR-PD-MK;SI-168;PD-MK;SI občina,DE Gemeinde,EN municipality;SL Markovci;SL;VR
-SI;SI-ZR-OS-MD;SI-071;OS-MD;SI občina,DE Gemeinde,EN municipality;SL Medvode;SL;ZR
-SI;SI-ZR-OS-MN;SI-072;OS-MN;SI občina,DE Gemeinde,EN municipality;SL Mengeš;SL;ZR
-SI;SI-VR-JS-ME;SI-073;JS-ME;SI občina,DE Gemeinde,EN municipality;SL Metlika;SL;VR
-SI;SI-VR-KO-ME;SI-074;KO-ME;SI občina,DE Gemeinde,EN municipality;SL Mežica;SL;VR
-SI;SI-VR-PD-MD;SI-169;PD-MD;SI občina,DE Gemeinde,EN municipality;SL Miklavž na Dravskem polju;SL;VR
-SI;SI-ZR-GR-MK;SI-075;GR-MK;SI občina,DE Gemeinde,EN municipality;SL Miren-Kostanjevica;SL;ZR
-SI;SI-VR-JS-MI;SI-212;JS-MI;SI občina,DE Gemeinde,EN municipality;SL Mirna;SL;VR
-SI;SI-VR-JS-MP;SI-170;JS-MP;SI občina,DE Gemeinde,EN municipality;SL Mirna Peč;SL;VR
-SI;SI-VR-KO-MI;SI-076;KO-MI;SI občina,DE Gemeinde,EN municipality;SL Mislinja;SL;VR
-SI;SI-VR-JS-MT;SI-199;JS-MT;SI občina,DE Gemeinde,EN municipality;SL Mokronog-Trebelno;SL;VR
-SI;SI-VR-PM-MT;SI-078;PM-MT;SI občina,DE Gemeinde,EN municipality;SL Moravske Toplice;SL;VR
-SI;SI-ZR-OS-MO;SI-077;OS-MO;SI občina,DE Gemeinde,EN municipality;SL Moravče;SL;ZR
-SI;SI-VR-SA-MZ;SI-079;SA-MZ;SI občina,DE Gemeinde,EN municipality;SL Mozirje;SL;VR
-SI;SI-VR-PM-MS;SI-080;PM-MS;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Murska Sobota;SL;VR
-SI;SI-VR-KO-MU;SI-081;KO-MU;SI občina,DE Gemeinde,EN municipality;SL Muta;SL;VR
-SI;SI-ZR-GJ-NA;SI-082;GJ-NA;SI občina,DE Gemeinde,EN municipality;SL Naklo;SL;ZR
-SI;SI-VR-SA-NA;SI-083;SA-NA;SI občina,DE Gemeinde,EN municipality;SL Nazarje;SL;VR
-SI;SI-ZR-GR-NV;SI-084;GR-NV;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Nova Gorica;SL;ZR
-SI;SI-VR-JS-NV;SI-085;JS-NV;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Novo Mesto;SL;VR
-SI;SI-VR-PM-OD;SI-086;PM-OD;SI občina,DE Gemeinde,EN municipality;SL Odranci;SL;VR
-SI;SI-VR-PD-OP;SI-171;PD-OP;SI občina,DE Gemeinde,EN municipality;SL Oplotnica;SL;VR
-SI;SI-VR-PD-OM;SI-087;PD-OM;SI občina,DE Gemeinde,EN municipality;SL Ormož;SL;VR
-SI;SI-ZR-OS-OS;SI-088;OS-OS;SI občina,DE Gemeinde,EN municipality;SL Osilnica;SL;ZR
-SI;SI-VR-PD-PE;SI-089;PD-PE;SI občina,DE Gemeinde,EN municipality;SL Pesnica;SL;VR
-SI;SI-ZR-OK-PI;SI-090;OK-PI;SI občina,DE Gemeinde,EN municipality;SL Piran;SL;ZR
-SI;SI-ZR-GR-PI;SI-091;GR-PI;SI občina,DE Gemeinde,EN municipality;SL Pivka;SL;ZR
-SI;SI-VR-PD-PO;SI-172;PD-PO;SI občina,DE Gemeinde,EN municipality;SL Podlehnik;SL;VR
-SI;SI-VR-KO-PO;SI-093;KO-PO;SI občina,DE Gemeinde,EN municipality;SL Podvelka;SL;VR
-SI;SI-VR-SA-PD;SI-092;SA-PD;SI občina,DE Gemeinde,EN municipality;SL Podčetrtek;SL;VR
-SI;SI-VR-PD-PJ;SI-200;PD-PJ;SI občina,DE Gemeinde,EN municipality;SL Poljčane;SL;VR
-SI;SI-VR-SA-PL;SI-173;SA-PL;SI občina,DE Gemeinde,EN municipality;SL Polzela;SL;VR
-SI;SI-ZR-GR-PO;SI-094;GR-PO;SI občina,DE Gemeinde,EN municipality;SL Postojna;SL;ZR
-SI;SI-VR-SA-PR;SI-174;SA-PR;SI občina,DE Gemeinde,EN municipality;SL Prebold;SL;VR
-SI;SI-ZR-GJ-PR;SI-095;GJ-PR;SI občina,DE Gemeinde,EN municipality;SL Preddvor;SL;ZR
-SI;SI-VR-KO-PR;SI-175;KO-PR;SI občina,DE Gemeinde,EN municipality;SL Prevalje;SL;VR
-SI;SI-VR-PD-PT;SI-096;PD-PT;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Ptuj;SL;VR
-SI;SI-VR-PM-PU;SI-097;PM-PU;SI občina,DE Gemeinde,EN municipality;SL Puconci;SL;VR
-SI;SI-VR-PM-RD;SI-100;PM-RD;SI občina,DE Gemeinde,EN municipality;SL Radenci;SL;VR
-SI;SI-VR-SA-RA;SI-099;SA-RA;SI občina,DE Gemeinde,EN municipality;SL Radeče;SL;VR
-SI;SI-VR-KO-RD;SI-101;KO-RD;SI občina,DE Gemeinde,EN municipality;SL Radlje ob Dravi;SL;VR
-SI;SI-ZR-GJ-RA;SI-102;GJ-RA;SI občina,DE Gemeinde,EN municipality;SL Radovljica;SL;ZR
-SI;SI-VR-KO-RK;SI-103;KO-RK;SI občina,DE Gemeinde,EN municipality;SL Ravne na Koroškem;SL;VR
-SI;SI-VR-PM-RZ;SI-176;PM-RZ;SI občina,DE Gemeinde,EN municipality;SL Razkrižje;SL;VR
-SI;SI-VR-PD-RF;SI-098;PD-RF;SI občina,DE Gemeinde,EN municipality;SL Rače-Fram;SL;VR
-SI;SI-ZR-GR-RV;SI-201;GR-RV;SI občina,DE Gemeinde,EN municipality;SL Renče-Vogrsko;SL;ZR
-SI;SI-VR-SA-RC;SI-209;SA-RC;SI občina,DE Gemeinde,EN municipality;SL Rečica ob Savinji;SL;VR
-SI;SI-ZR-OS-RI;SI-104;OS-RI;SI občina,DE Gemeinde,EN municipality;SL Ribnica;SL;ZR
-SI;SI-ZR-KO-RP;SI-177;KO-RP;SI občina,DE Gemeinde,EN municipality;SL Ribnica na Pohorju;SL;ZR
-SI;SI-VR-SA-RO;SI-107;SA-RO;SI občina,DE Gemeinde,EN municipality;SL Rogatec;SL;VR
-SI;SI-VR-SA-RS;SI-106;SA-RS;SI občina,DE Gemeinde,EN municipality;SL Rogaška SIatina;SL;VR
-SI;SI-VR-PM-RO;SI-105;PM-RO;SI občina,DE Gemeinde,EN municipality;SL Rogašovci;SL;VR
-SI;SI-VR-PD-RU;SI-108;PD-RU;SI občina,DE Gemeinde,EN municipality;SL Ruše;SL;VR
-SI;SI-VR-PD-SD;SI-178;PD-SD;SI občina,DE Gemeinde,EN municipality;SL Selnica ob Dravi;SL;VR
-SI;SI-VR-JS-SM;SI-109;JS-SM;SI občina,DE Gemeinde,EN municipality;SL Semič;SL;VR
-SI;SI-VR-PS-SE;SI-110;PS-SE;SI občina,DE Gemeinde,EN municipality;SL Sevnica;SL;VR
-SI;SI-ZR-OK-SE;SI-111;OK-SE;SI občina,DE Gemeinde,EN municipality;SL Sežana;SL;ZR
-SI;SI-VR-KO-SG;SI-112;KO-SG;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Slovenj Gradec;SL;VR
-SI;SI-VR-PD-SL;SI-113;PD-SL;SI občina,DE Gemeinde,EN municipality;SL Slovenska Bistrica;SL;VR
-SI;SI-VR-SA-SK;SI-114;SA-SK;SI občina,DE Gemeinde,EN municipality;SL Slovenske Konjice;SL;VR
-SI;SI-ZR-OS-SO;SI-179;OS-SO;SI občina,DE Gemeinde,EN municipality;SL Sodražica;SL;ZR
-SI;SI-VR-SA-SL;SI-180;SA-SL;SI občina,DE Gemeinde,EN municipality;SL Solčava;SL;VR
-SI;SI-VR-PD-SR;SI-202;PD-SR;SI občina,DE Gemeinde,EN municipality;SL Središče ob Dravi;SL;VR
-SI;SI-VR-PD-ST;SI-115;PD-ST;SI občina,DE Gemeinde,EN municipality;SL Starše;SL;VR
-SI;SI-VR-JS-SZ;SI-203;JS-SZ;SI občina,DE Gemeinde,EN municipality;SL Straža;SL;VR
-SI;SI-VR-PD-SA;SI-181;PD-SA;SI občina,DE Gemeinde,EN municipality;SL Sveta Ana;SL;VR
-SI;SI-VR-PD-SV;SI-204;PD-SV;SI občina,DE Gemeinde,EN municipality;SL Sveta Trojica v Slovenskih goricah;SL;VR
-SI;SI-VR-PD-SS;SI-182;PD-SS;SI občina,DE Gemeinde,EN municipality;SL Sveti Andraž v Slovenskih goricah;SL;VR
-SI;SI-VR-PM-SJ;SI-116;PM-SJ;SI občina,DE Gemeinde,EN municipality;SL Sveti Jurij ob Ščavnici;SL;VR
-SI;SI-VR-PD-SJ;SI-210;PD-SJ;SI občina,DE Gemeinde,EN municipality;SL Sveti Jurij v Slovenskih goricah;SL;VR
-SI;SI-VR-PD-SZ;SI-205;PD-SZ;SI občina,DE Gemeinde,EN municipality;SL Sveti Tomaž;SL;VR
-SI;SI-VR-SA-TA;SI-184;SA-TA;SI občina,DE Gemeinde,EN municipality;SL Tabor;SL;VR
-SI;SI-VR-PM-TI;SI-010;PM-TI;SI občina,DE Gemeinde,EN municipality;SL Tišina;SL;VR
-SI;SI-ZR-GR-TO;SI-128;GR-TO;SI občina,DE Gemeinde,EN municipality;SL Tolmin;SL;ZR
-SI;SI-ZR-ZS-TR;SI-129;ZS-TR;SI občina,DE Gemeinde,EN municipality;SL Trbovlje;SL;ZR
-SI;SI-VR-JS-TN;SI-130;JS-TN;SI občina,DE Gemeinde,EN municipality;SL Trebnje;SL;VR
-SI;SI-VR-PD-TV;SI-185;PD-TV;SI občina,DE Gemeinde,EN municipality;SL Trnovska Vas;SL;VR
-SI;SI-ZR-OS-TR;SI-186;OS-TR;SI občina,DE Gemeinde,EN municipality;SL Trzin;SL;ZR
-SI;SI-ZR-GJ-TR;SI-131;GJ-TR;SI občina,DE Gemeinde,EN municipality;SL Tržič;SL;ZR
-SI;SI-VR-PM-TU;SI-132;PM-TU;SI občina,DE Gemeinde,EN municipality;SL Turnišče;SL;VR
-SI;SI-VR-SA-VE;SI-133;SA-VE;SI mestna občina,DE Stadtgemeinde,EN urban municipality;SL Velenje;SL;VR
-SI;SI-VR-PM-VP;SI-187;PM-VP;SI občina,DE Gemeinde,EN municipality;SL Velika Polana;SL;VR
-SI;SI-ZR-OS-VL;SI-134;OS-VL;SI občina,DE Gemeinde,EN municipality;SL Velike Lašče;SL;ZR
-SI;SI-VR-PM-VE;SI-188;PM-VE;SI občina,DE Gemeinde,EN municipality;SL Veržej;SL;VR
-SI;SI-VR-PD-VI;SI-135;PD-VI;SI občina,DE Gemeinde,EN municipality;SL Videm;SL;VR
-SI;SI-ZR-GR-VI;SI-136;GR-VI;SI občina,DE Gemeinde,EN municipality;SL Vipava;SL;ZR
-SI;SI-VR-SA-VI;SI-137;SA-VI;SI občina,DE Gemeinde,EN municipality;SL Vitanje;SL;VR
-SI;SI-ZR-OS-VO;SI-138;OS-VO;SI občina,DE Gemeinde,EN municipality;SL Vodice;SL;ZR
-SI;SI-VR-SA-VO;SI-139;SA-VO;SI občina,DE Gemeinde,EN municipality;SL Vojnik;SL;VR
-SI;SI-VR-SA-VR;SI-189;SA-VR;SI občina,DE Gemeinde,EN municipality;SL Vransko;SL;VR
-SI;SI-ZR-OS-VN;SI-140;OS-VN;SI občina,DE Gemeinde,EN municipality;SL Vrhnika;SL;ZR
-SI;SI-VR-KO-VU;SI-141;KO-VU;SI občina,DE Gemeinde,EN municipality;SL Vuzenica;SL;VR
-SI;SI-ZR-ZS-ZS;SI-142;ZS-ZS;SI občina,DE Gemeinde,EN municipality;SL Zagorje ob Savi;SL;ZR
-SI;SI-VR-PD-ZA;SI-143;PD-ZA;SI občina,DE Gemeinde,EN municipality;SL Zavrč;SL;VR
-SI;SI-VR-SA-ZR;SI-144;SA-ZR;SI občina,DE Gemeinde,EN municipality;SL Zreče;SL;VR
-SI;SI-VR-PM-CR;SI-015;PM-CR;SI občina,DE Gemeinde,EN municipality;SL Črenšovci;SL;VR
-SI;SI-VR-KO-CK;SI-016;KO-CK;SI občina,DE Gemeinde,EN municipality;SL Črna na Koroškem;SL;VR
-SI;SI-VR-JS-CR;SI-017;JS-CR;SI občina,DE Gemeinde,EN municipality;SL Črnomelj;SL;VR
-SI;SI-VR-PM-SA;SI-033;PM-SA;SI občina,DE Gemeinde,EN municipality;SL Šalovci;SL;VR
-SI;SI-ZR-GR-SV;SI-183;GR-SV;SI občina,DE Gemeinde,EN municipality;SL Šempeter-Vrtojba;SL;ZR
-SI;SI-VR-PD-SE;SI-118;PD-SE;SI občina,DE Gemeinde,EN municipality;SL Šentilj;SL;VR
-SI;SI-VR-JS-SN;SI-119;JS-SN;SI občina,DE Gemeinde,EN municipality;SL Šentjernej;SL;VR
-SI;SI-VR-SA-SC;SI-120;SA-SC;SI občina,DE Gemeinde,EN municipality;SL Šentjur;SL;VR
-SI;SI-VR-JS-SR;SI-211;JS-SR;SI občina,DE Gemeinde,EN municipality;SL Šentrupert;SL;VR
-SI;SI-ZR-GJ-SE;SI-117;GJ-SE;SI občina,DE Gemeinde,EN municipality;SL Šenčur;SL;ZR
-SI;SI-VR-JS-SK;SI-121;JS-SK;SI občina,DE Gemeinde,EN municipality;SL Škocjan;SL;VR
-SI;SI-ZR-GJ-SL;SI-122;GJ-SL;SI občina,DE Gemeinde,EN municipality;SL Škofja Loka;SL;ZR
-SI;SI-ZR-OS-SK;SI-123;OS-SK;SI občina,DE Gemeinde,EN municipality;SL Škofljica;SL;ZR
-SI;SI-VR-SA-SJ;SI-124;SA-SJ;SI občina,DE Gemeinde,EN municipality;SL Šmarje pri Jelšah;SL;VR
-SI;SI-VR-JS-ST;SI-206;JS-ST;SI občina,DE Gemeinde,EN municipality;SL Šmarješke Toplice;SL;VR
-SI;SI-VR-SA-SP;SI-125;SA-SP;SI občina,DE Gemeinde,EN municipality;SL Šmartno ob Paki;SL;VR
-SI;SI-ZR-OS-SL;SI-194;OS-SL;SI občina,DE Gemeinde,EN municipality;SL Šmartno pri Litiji;SL;ZR
-SI;SI-VR-SA-SS;SI-126;SA-SS;SI občina,DE Gemeinde,EN municipality;SL Šoštanj;SL;VR
-SI;SI-VR-SA-ST;SI-127;SA-ST;SI občina,DE Gemeinde,EN municipality;SL Štore;SL;VR
-SI;SI-VR-SA-ZA;SI-190;SA-ZA;SI občina,DE Gemeinde,EN municipality;SL Žalec;SL;VR
-SI;SI-ZR-GJ-ZE;SI-146;GJ-ZE;SI občina,DE Gemeinde,EN municipality;SL Železniki;SL;ZR
-SI;SI-VR-PD-ZE;SI-191;PD-ZE;SI občina,DE Gemeinde,EN municipality;SL Žetale;SL;VR
-SI;SI-ZR-GJ-ZI;SI-147;GJ-ZI;SI občina,DE Gemeinde,EN municipality;SL Žiri;SL;ZR
-SI;SI-ZR-GJ-ZV;SI-192;GJ-ZV;SI občina,DE Gemeinde,EN municipality;SL Žirovnica;SL;ZR
-SI;SI-VR-JS-ZU;SI-193;JS-ZU;SI občina,DE Gemeinde,EN municipality;SL Žužemberk;SL;VR
+SI;SI-ZR;;ZR;SL regije,DE Regionen,EN regions;SL zahodne regije,DE Westliche Regionen,EN western regions;SL;
+SI;SI-VR;;VR;SL regije,DE Regionen,EN regions;SL vzhodne regije,DE Östliche Regionen,EN eastern regions;SL;
+SI;SI-ZR-GR-AJ;SI-001;GR-AJ;SL občina,DE Gemeinde,EN municipality;SL Ajdovščina;SL;ZR
+SI;SI-ZR-OK-AN;SI-213;OK-AN;SL občina,DE Gemeinde,EN municipality;SL Ankaran;SL;ZR
+SI;SI-VR-PM-AP;SI-195;PM-AP;SL občina,DE Gemeinde,EN municipality;SL Apače;SL;VR
+SI;SI-VR-PM-BE;SI-002;PM-BE;SL občina,DE Gemeinde,EN municipality;SL Beltinci;SL;VR
+SI;SI-VR-PD-BE;SI-148;PD-BE;SL občina,DE Gemeinde,EN municipality;SL Benedikt;SL;VR
+SI;SI-VR-SA-BS;SI-149;SA-BS;SL občina,DE Gemeinde,EN municipality;SL Bistrica ob Sotli;SL;VR
+SI;SI-ZR-GJ-BD;SI-003;GJ-BD;SL občina,DE Gemeinde,EN municipality;SL Bled;SL;ZR
+SI;SI-ZR-PN-BL;SI-150;PN-BL;SL občina,DE Gemeinde,EN municipality;SL Bloke;SL;ZR
+SI;SI-ZR-GJ-BO;SI-004;GJ-BO;SL občina,DE Gemeinde,EN municipality;SL Bohinj;SL;ZR
+SI;SI-ZR-OS-BO;SI-005;OS-BO;SL občina,DE Gemeinde,EN municipality;SL Borovnica;SL;ZR
+SI;SI-ZR-GR-BO;SI-006;GR-BO;SL občina,DE Gemeinde,EN municipality;SL Bovec;SL;ZR
+SI;SI-VR-SA-BR;SI-151;SA-BR;SL občina,DE Gemeinde,EN municipality;SL Braslovče;SL;VR
+SI;SI-ZR-GR-BR;SI-007;GR-BR;SL občina,DE Gemeinde,EN municipality;SL Brda;SL;ZR
+SI;SI-ZR-OS-BR;SI-008;OS-BR;SL občina,DE Gemeinde,EN municipality;SL Brezovica;SL;ZR
+SI;SI-VR-PS-BR;SI-009;PS-BR;SL občina,DE Gemeinde,EN municipality;SL Brežice;SL;VR
+SI;SI-VR-PM-CA;SI-152;PM-CA;SL občina,DE Gemeinde,EN municipality;SL Cankova;SL;VR
+SI;SI-VR-SA-CE;SI-011;SA-CE;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Celje;SL;VR
+SI;SI-ZR-GJ-CG;SI-012;GJ-CG;SL občina,DE Gemeinde,EN municipality;SL Cerklje na Gorenjskem;SL;ZR
+SI;SI-ZR-PN-CE;SI-013;PN-CE;SL občina,DE Gemeinde,EN municipality;SL Cerknica;SL;ZR
+SI;SI-ZR-GR-CE;SI-014;GR-CE;SL občina,DE Gemeinde,EN municipality;SL Cerkno;SL;ZR
+SI;SI-VR-PD-CE;SI-153;PD-CE;SL občina,DE Gemeinde,EN municipality;SL Cerkvenjak;SL;VR
+SI;SI-VR-PD-CL;SI-196;PD-CL;SL občina,DE Gemeinde,EN municipality;SL Cirkulane;SL;VR
+SI;SI-VR-PD-DE;SI-018;PD-DE;SL občina,DE Gemeinde,EN municipality;SL Destrnik;SL;VR
+SI;SI-ZR-OK-DI;SI-019;OK-DI;SL občina,DE Gemeinde,EN municipality;SL Divača;SL;ZR
+SI;SI-VR-SA-DJ;SI-154;SA-DJ;SL občina,DE Gemeinde,EN municipality;SL Dobje;SL;VR
+SI;SI-ZR-OS-DB;SI-020;OS-DB;SL občina,DE Gemeinde,EN municipality;SL Dobrepolje;SL;ZR
+SI;SI-VR-SA-DR;SI-155;SA-DR;SL občina,DE Gemeinde,EN municipality;SL Dobrna;SL;VR
+SI;SI-ZR-OS-DP;SI-021;OS-DP;SL občina,DE Gemeinde,EN municipality;SL Dobrova-Polhov Gradec;SL;ZR
+SI;SI-VR-PM-DO;SI-156;PM-DO;SL občina,DE Gemeinde,EN municipality;SL Dobrovnik;SL;VR
+SI;SI-ZR-OS-DL;SI-022;OS-DL;SL občina,DE Gemeinde,EN municipality;SL Dol pri Ljubljani;SL;ZR
+SI;SI-VR-JS-DT;SI-157;JS-DT;SL občina,DE Gemeinde,EN municipality;SL Dolenjske Toplice;SL;VR
+SI;SI-ZR-OS-DM;SI-023;OS-DM;SL občina,DE Gemeinde,EN municipality;SL Domžale;SL;ZR
+SI;SI-VR-PD-DO;SI-024;PD-DO;SL občina,DE Gemeinde,EN municipality;SL Dornava;SL;VR
+SI;SI-VR-KO-DR;SI-025;KO-DR;SL občina,DE Gemeinde,EN municipality;SL Dravograd;SL;VR
+SI;SI-VR-PD-DU;SI-026;PD-DU;SL občina,DE Gemeinde,EN municipality;SL Duplek;SL;VR
+SI;SI-ZR-GJ-GV;SI-027;GJ-GV;SL občina,DE Gemeinde,EN municipality;SL Gorenja vas-Poljane;SL;ZR
+SI;SI-VR-PD-GR;SI-028;PD-GR;SL občina,DE Gemeinde,EN municipality;SL Gorišnica;SL;VR
+SI;SI-ZR-GJ-GJ;SI-207;GJ-GJ;SL občina,DE Gemeinde,EN municipality;SL Gorje;SL;ZR
+SI;SI-VR-PM-GG;SI-029;PM-GG;SL občina,DE Gemeinde,EN municipality;SL Gornja Radgona;SL;VR
+SI;SI-VR-SA-GG;SI-030;SA-GG;SL občina,DE Gemeinde,EN municipality;SL Gornji Grad;SL;VR
+SI;SI-VR-PM-GP;SI-031;PM-GP;SL občina,DE Gemeinde,EN municipality;SL Gornji Petrovci;SL;VR
+SI;SI-VR-PM-GD;SI-158;PM-GD;SL občina,DE Gemeinde,EN municipality;SL Grad;SL;VR
+SI;SI-ZR-OS-GR;SI-032;OS-GR;SL občina,DE Gemeinde,EN municipality;SL Grosuplje;SL;ZR
+SI;SI-VR-PD-HA;SI-159;PD-HA;SL občina,DE Gemeinde,EN municipality;SL Hajdina;SL;VR
+SI;SI-VR-PM-HO;SI-161;PM-HO;SL občina,DE Gemeinde,EN municipality;SL Hodoš;SL;VR
+SI;SI-ZR-OS-HO;SI-162;OS-HO;SL občina,DE Gemeinde,EN municipality;SL Horjul;SL;ZR
+SI;SI-VR-PD-HS;SI-160;PD-HS;SL občina,DE Gemeinde,EN municipality;SL Hoče-Slivnica;SL;VR
+SI;SI-ZR-ZS-HR;SI-034;ZS-HR;SL občina,DE Gemeinde,EN municipality;SL Hrastnik;SL;ZR
+SI;SI-ZR-OK-HK;SI-035;OK-HK;SL občina,DE Gemeinde,EN municipality;SL Hrpelje-Kozina;SL;ZR
+SI;SI-ZR-GR-ID;SI-036;GR-ID;SL občina,DE Gemeinde,EN municipality;SL Idrija;SL;ZR
+SI;SI-ZR-OS-IG;SI-037;OS-IG;SL občina,DE Gemeinde,EN municipality;SL Ig;SL;ZR
+SI;SI-ZR-PN-IB;SI-038;PN-IB;SL občina,DE Gemeinde,EN municipality;SL Ilirska Bistrica;SL;ZR
+SI;SI-ZR-OS-IV;SI-039;OS-IV;SL občina,DE Gemeinde,EN municipality;SL Ivančna Gorica;SL;ZR
+SI;SI-ZR-OK-IZ;SI-040;OK-IZ;SL občina,DE Gemeinde,EN municipality;SL Izola;SL;ZR
+SI;SI-ZR-GJ-JS;SI-041;GJ-JS;SL občina,DE Gemeinde,EN municipality;SL Jesenice;SL;ZR
+SI;SI-ZR-GJ-JZ;SI-163;GJ-JZ;SL občina,DE Gemeinde,EN municipality;SL Jezersko;SL;ZR
+SI;SI-VR-PD-JU;SI-042;PD-JU;SL občina,DE Gemeinde,EN municipality;SL Juršinci;SL;VR
+SI;SI-ZR-OS-KA;SI-043;OS-KA;SL občina,DE Gemeinde,EN municipality;SL Kamnik;SL;ZR
+SI;SI-ZR-GR-KA;SI-044;GR-KA;SL občina,DE Gemeinde,EN municipality;SL Kanal ob Soči;SL;ZR
+SI;SI-VR-PD-KI;SI-045;PD-KI;SL občina,DE Gemeinde,EN municipality;SL Kidričevo;SL;VR
+SI;SI-ZR-GR-KO;SI-046;GR-KO;SL občina,DE Gemeinde,EN municipality;SL Kobarid;SL;ZR
+SI;SI-VR-PM-KO;SI-047;PM-KO;SL občina,DE Gemeinde,EN municipality;SL Kobilje;SL;VR
+SI;SI-ZR-OK-KM;SI-049;OK-KM;SL občina,DE Gemeinde,EN municipality;SL Komen;SL;ZR
+SI;SI-ZR-OS-KM;SI-164;OS-KM;SL občina,DE Gemeinde,EN municipality;SL Komenda;SL;ZR
+SI;SI-ZR-OK-KP;SI-050;OK-KP;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Koper;SL;ZR
+SI;SI-VR-PS-KJ;SI-197;PS-KJ;SL občina,DE Gemeinde,EN municipality;SL Kostanjevica na Krki;SL;VR
+SI;SI-ZR-OS-KS;SI-165;OS-KS;SL občina,DE Gemeinde,EN municipality;SL Kostel;SL;ZR
+SI;SI-VR-SA-KO;SI-051;SA-KO;SL občina,DE Gemeinde,EN municipality;SL Kozje;SL;VR
+SI;SI-ZR-OS-KC;SI-048;OS-KC;SL občina,DE Gemeinde,EN municipality;SL Kočevje;SL;ZR
+SI;SI-ZR-GJ-KR;SI-052;GJ-KR;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Kranj;SL;ZR
+SI;SI-ZR-GJ-KG;SI-053;GJ-KG;SL občina,DE Gemeinde,EN municipality;SL Kranjska Gora;SL;ZR
+SI;SI-VR-PM-KR;SI-166;PM-KR;SL občina,DE Gemeinde,EN municipality;SL Križevci;SL;VR
+SI;SI-VR-PS-KS;SI-054;PS-KS;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Krško;SL;VR
+SI;SI-VR-PD-KU;SI-055;PD-KU;SL občina,DE Gemeinde,EN municipality;SL Kungota;SL;VR
+SI;SI-VR-PM-KU;SI-056;PM-KU;SL občina,DE Gemeinde,EN municipality;SL Kuzma;SL;VR
+SI;SI-VR-SA-LA;SI-057;SA-LA;SL občina,DE Gemeinde,EN municipality;SL Laško;SL;VR
+SI;SI-VR-PD-LN;SI-058;PD-LN;SL občina,DE Gemeinde,EN municipality;SL Lenart;SL;VR
+SI;SI-VR-PM-LE;SI-059;PM-LE;SL občina,DE Gemeinde,EN municipality;SL Lendava;SL;VR
+SI;SI-ZR-OS-LI;SI-060;OS-LI;SL občina,DE Gemeinde,EN municipality;SL Litija;SL;ZR
+SI;SI-ZR-OS-LJ;SI-061;OS-LJ;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Ljubljana;SL;ZR
+SI;SI-VR-SA-LJ;SI-062;SA-LJ;SL občina,DE Gemeinde,EN municipality;SL Ljubno;SL;VR
+SI;SI-VR-PM-LJ;SI-063;PM-LJ;SL občina,DE Gemeinde,EN municipality;SL Ljutomer;SL;VR
+SI;SI-ZR-OS-LD;SI-208;OS-LD;SL občina,DE Gemeinde,EN municipality;SL Log-Dragomer;SL;ZR
+SI;SI-ZR-OS-LO;SI-064;OS-LO;SL občina,DE Gemeinde,EN municipality;SL Logatec;SL;ZR
+SI;SI-VR-PD-LP;SI-167;PD-LP;SL občina,DE Gemeinde,EN municipality;SL Lovrenc na Pohorju;SL;VR
+SI;SI-ZR-PN-LD;SI-065;PN-LD;SL občina,DE Gemeinde,EN municipality;SL Loška Dolina;SL;ZR
+SI;SI-ZR-OS-LP;SI-066;OS-LP;SL občina,DE Gemeinde,EN municipality;SL Loški Potok;SL;ZR
+SI;SI-ZR-OS-LU;SI-068;OS-LU;SL občina,DE Gemeinde,EN municipality;SL Lukovica;SL;ZR
+SI;SI-VR-SA-LU;SI-067;SA-LU;SL občina,DE Gemeinde,EN municipality;SL Luče;SL;VR
+SI;SI-VR-PD-MJ;SI-069;PD-MJ;SL občina,DE Gemeinde,EN municipality;SL Majšperk;SL;VR
+SI;SI-VR-PD-ML;SI-198;PD-ML;SL občina,DE Gemeinde,EN municipality;SL Makole;SL;VR
+SI;SI-VR-PD-MB;SI-070;PD-MB;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Maribor;SL;VR
+SI;SI-VR-PD-MK;SI-168;PD-MK;SL občina,DE Gemeinde,EN municipality;SL Markovci;SL;VR
+SI;SI-ZR-OS-MD;SI-071;OS-MD;SL občina,DE Gemeinde,EN municipality;SL Medvode;SL;ZR
+SI;SI-ZR-OS-MN;SI-072;OS-MN;SL občina,DE Gemeinde,EN municipality;SL Mengeš;SL;ZR
+SI;SI-VR-JS-ME;SI-073;JS-ME;SL občina,DE Gemeinde,EN municipality;SL Metlika;SL;VR
+SI;SI-VR-KO-ME;SI-074;KO-ME;SL občina,DE Gemeinde,EN municipality;SL Mežica;SL;VR
+SI;SI-VR-PD-MD;SI-169;PD-MD;SL občina,DE Gemeinde,EN municipality;SL Miklavž na Dravskem polju;SL;VR
+SI;SI-ZR-GR-MK;SI-075;GR-MK;SL občina,DE Gemeinde,EN municipality;SL Miren-Kostanjevica;SL;ZR
+SI;SI-VR-JS-MI;SI-212;JS-MI;SL občina,DE Gemeinde,EN municipality;SL Mirna;SL;VR
+SI;SI-VR-JS-MP;SI-170;JS-MP;SL občina,DE Gemeinde,EN municipality;SL Mirna Peč;SL;VR
+SI;SI-VR-KO-MI;SI-076;KO-MI;SL občina,DE Gemeinde,EN municipality;SL Mislinja;SL;VR
+SI;SI-VR-JS-MT;SI-199;JS-MT;SL občina,DE Gemeinde,EN municipality;SL Mokronog-Trebelno;SL;VR
+SI;SI-VR-PM-MT;SI-078;PM-MT;SL občina,DE Gemeinde,EN municipality;SL Moravske Toplice;SL;VR
+SI;SI-ZR-OS-MO;SI-077;OS-MO;SL občina,DE Gemeinde,EN municipality;SL Moravče;SL;ZR
+SI;SI-VR-SA-MZ;SI-079;SA-MZ;SL občina,DE Gemeinde,EN municipality;SL Mozirje;SL;VR
+SI;SI-VR-PM-MS;SI-080;PM-MS;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Murska Sobota;SL;VR
+SI;SI-VR-KO-MU;SI-081;KO-MU;SL občina,DE Gemeinde,EN municipality;SL Muta;SL;VR
+SI;SI-ZR-GJ-NA;SI-082;GJ-NA;SL občina,DE Gemeinde,EN municipality;SL Naklo;SL;ZR
+SI;SI-VR-SA-NA;SI-083;SA-NA;SL občina,DE Gemeinde,EN municipality;SL Nazarje;SL;VR
+SI;SI-ZR-GR-NV;SI-084;GR-NV;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Nova Gorica;SL;ZR
+SI;SI-VR-JS-NV;SI-085;JS-NV;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Novo Mesto;SL;VR
+SI;SI-VR-PM-OD;SI-086;PM-OD;SL občina,DE Gemeinde,EN municipality;SL Odranci;SL;VR
+SI;SI-VR-PD-OP;SI-171;PD-OP;SL občina,DE Gemeinde,EN municipality;SL Oplotnica;SL;VR
+SI;SI-VR-PD-OM;SI-087;PD-OM;SL občina,DE Gemeinde,EN municipality;SL Ormož;SL;VR
+SI;SI-ZR-OS-OS;SI-088;OS-OS;SL občina,DE Gemeinde,EN municipality;SL Osilnica;SL;ZR
+SI;SI-VR-PD-PE;SI-089;PD-PE;SL občina,DE Gemeinde,EN municipality;SL Pesnica;SL;VR
+SI;SI-ZR-OK-PI;SI-090;OK-PI;SL občina,DE Gemeinde,EN municipality;SL Piran;SL;ZR
+SI;SI-ZR-GR-PI;SI-091;GR-PI;SL občina,DE Gemeinde,EN municipality;SL Pivka;SL;ZR
+SI;SI-VR-PD-PO;SI-172;PD-PO;SL občina,DE Gemeinde,EN municipality;SL Podlehnik;SL;VR
+SI;SI-VR-KO-PO;SI-093;KO-PO;SL občina,DE Gemeinde,EN municipality;SL Podvelka;SL;VR
+SI;SI-VR-SA-PD;SI-092;SA-PD;SL občina,DE Gemeinde,EN municipality;SL Podčetrtek;SL;VR
+SI;SI-VR-PD-PJ;SI-200;PD-PJ;SL občina,DE Gemeinde,EN municipality;SL Poljčane;SL;VR
+SI;SI-VR-SA-PL;SI-173;SA-PL;SL občina,DE Gemeinde,EN municipality;SL Polzela;SL;VR
+SI;SI-ZR-GR-PO;SI-094;GR-PO;SL občina,DE Gemeinde,EN municipality;SL Postojna;SL;ZR
+SI;SI-VR-SA-PR;SI-174;SA-PR;SL občina,DE Gemeinde,EN municipality;SL Prebold;SL;VR
+SI;SI-ZR-GJ-PR;SI-095;GJ-PR;SL občina,DE Gemeinde,EN municipality;SL Preddvor;SL;ZR
+SI;SI-VR-KO-PR;SI-175;KO-PR;SL občina,DE Gemeinde,EN municipality;SL Prevalje;SL;VR
+SI;SI-VR-PD-PT;SI-096;PD-PT;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Ptuj;SL;VR
+SI;SI-VR-PM-PU;SI-097;PM-PU;SL občina,DE Gemeinde,EN municipality;SL Puconci;SL;VR
+SI;SI-VR-PM-RD;SI-100;PM-RD;SL občina,DE Gemeinde,EN municipality;SL Radenci;SL;VR
+SI;SI-VR-SA-RA;SI-099;SA-RA;SL občina,DE Gemeinde,EN municipality;SL Radeče;SL;VR
+SI;SI-VR-KO-RD;SI-101;KO-RD;SL občina,DE Gemeinde,EN municipality;SL Radlje ob Dravi;SL;VR
+SI;SI-ZR-GJ-RA;SI-102;GJ-RA;SL občina,DE Gemeinde,EN municipality;SL Radovljica;SL;ZR
+SI;SI-VR-KO-RK;SI-103;KO-RK;SL občina,DE Gemeinde,EN municipality;SL Ravne na Koroškem;SL;VR
+SI;SI-VR-PM-RZ;SI-176;PM-RZ;SL občina,DE Gemeinde,EN municipality;SL Razkrižje;SL;VR
+SI;SI-VR-PD-RF;SI-098;PD-RF;SL občina,DE Gemeinde,EN municipality;SL Rače-Fram;SL;VR
+SI;SI-ZR-GR-RV;SI-201;GR-RV;SL občina,DE Gemeinde,EN municipality;SL Renče-Vogrsko;SL;ZR
+SI;SI-VR-SA-RC;SI-209;SA-RC;SL občina,DE Gemeinde,EN municipality;SL Rečica ob Savinji;SL;VR
+SI;SI-ZR-OS-RI;SI-104;OS-RI;SL občina,DE Gemeinde,EN municipality;SL Ribnica;SL;ZR
+SI;SI-ZR-KO-RP;SI-177;KO-RP;SL občina,DE Gemeinde,EN municipality;SL Ribnica na Pohorju;SL;ZR
+SI;SI-VR-SA-RO;SI-107;SA-RO;SL občina,DE Gemeinde,EN municipality;SL Rogatec;SL;VR
+SI;SI-VR-SA-RS;SI-106;SA-RS;SL občina,DE Gemeinde,EN municipality;SL Rogaška SIatina;SL;VR
+SI;SI-VR-PM-RO;SI-105;PM-RO;SL občina,DE Gemeinde,EN municipality;SL Rogašovci;SL;VR
+SI;SI-VR-PD-RU;SI-108;PD-RU;SL občina,DE Gemeinde,EN municipality;SL Ruše;SL;VR
+SI;SI-VR-PD-SD;SI-178;PD-SD;SL občina,DE Gemeinde,EN municipality;SL Selnica ob Dravi;SL;VR
+SI;SI-VR-JS-SM;SI-109;JS-SM;SL občina,DE Gemeinde,EN municipality;SL Semič;SL;VR
+SI;SI-VR-PS-SE;SI-110;PS-SE;SL občina,DE Gemeinde,EN municipality;SL Sevnica;SL;VR
+SI;SI-ZR-OK-SE;SI-111;OK-SE;SL občina,DE Gemeinde,EN municipality;SL Sežana;SL;ZR
+SI;SI-VR-KO-SG;SI-112;KO-SG;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Slovenj Gradec;SL;VR
+SI;SI-VR-PD-SL;SI-113;PD-SL;SL občina,DE Gemeinde,EN municipality;SL Slovenska Bistrica;SL;VR
+SI;SI-VR-SA-SK;SI-114;SA-SK;SL občina,DE Gemeinde,EN municipality;SL Slovenske Konjice;SL;VR
+SI;SI-ZR-OS-SO;SI-179;OS-SO;SL občina,DE Gemeinde,EN municipality;SL Sodražica;SL;ZR
+SI;SI-VR-SA-SL;SI-180;SA-SL;SL občina,DE Gemeinde,EN municipality;SL Solčava;SL;VR
+SI;SI-VR-PD-SR;SI-202;PD-SR;SL občina,DE Gemeinde,EN municipality;SL Središče ob Dravi;SL;VR
+SI;SI-VR-PD-ST;SI-115;PD-ST;SL občina,DE Gemeinde,EN municipality;SL Starše;SL;VR
+SI;SI-VR-JS-SZ;SI-203;JS-SZ;SL občina,DE Gemeinde,EN municipality;SL Straža;SL;VR
+SI;SI-VR-PD-SA;SI-181;PD-SA;SL občina,DE Gemeinde,EN municipality;SL Sveta Ana;SL;VR
+SI;SI-VR-PD-SV;SI-204;PD-SV;SL občina,DE Gemeinde,EN municipality;SL Sveta Trojica v Slovenskih goricah;SL;VR
+SI;SI-VR-PD-SS;SI-182;PD-SS;SL občina,DE Gemeinde,EN municipality;SL Sveti Andraž v Slovenskih goricah;SL;VR
+SI;SI-VR-PM-SJ;SI-116;PM-SJ;SL občina,DE Gemeinde,EN municipality;SL Sveti Jurij ob Ščavnici;SL;VR
+SI;SI-VR-PD-SJ;SI-210;PD-SJ;SL občina,DE Gemeinde,EN municipality;SL Sveti Jurij v Slovenskih goricah;SL;VR
+SI;SI-VR-PD-SZ;SI-205;PD-SZ;SL občina,DE Gemeinde,EN municipality;SL Sveti Tomaž;SL;VR
+SI;SI-VR-SA-TA;SI-184;SA-TA;SL občina,DE Gemeinde,EN municipality;SL Tabor;SL;VR
+SI;SI-VR-PM-TI;SI-010;PM-TI;SL občina,DE Gemeinde,EN municipality;SL Tišina;SL;VR
+SI;SI-ZR-GR-TO;SI-128;GR-TO;SL občina,DE Gemeinde,EN municipality;SL Tolmin;SL;ZR
+SI;SI-ZR-ZS-TR;SI-129;ZS-TR;SL občina,DE Gemeinde,EN municipality;SL Trbovlje;SL;ZR
+SI;SI-VR-JS-TN;SI-130;JS-TN;SL občina,DE Gemeinde,EN municipality;SL Trebnje;SL;VR
+SI;SI-VR-PD-TV;SI-185;PD-TV;SL občina,DE Gemeinde,EN municipality;SL Trnovska Vas;SL;VR
+SI;SI-ZR-OS-TR;SI-186;OS-TR;SL občina,DE Gemeinde,EN municipality;SL Trzin;SL;ZR
+SI;SI-ZR-GJ-TR;SI-131;GJ-TR;SL občina,DE Gemeinde,EN municipality;SL Tržič;SL;ZR
+SI;SI-VR-PM-TU;SI-132;PM-TU;SL občina,DE Gemeinde,EN municipality;SL Turnišče;SL;VR
+SI;SI-VR-SA-VE;SI-133;SA-VE;SL mestna občina,DE Stadtgemeinde,EN urban municipality;SL Velenje;SL;VR
+SI;SI-VR-PM-VP;SI-187;PM-VP;SL občina,DE Gemeinde,EN municipality;SL Velika Polana;SL;VR
+SI;SI-ZR-OS-VL;SI-134;OS-VL;SL občina,DE Gemeinde,EN municipality;SL Velike Lašče;SL;ZR
+SI;SI-VR-PM-VE;SI-188;PM-VE;SL občina,DE Gemeinde,EN municipality;SL Veržej;SL;VR
+SI;SI-VR-PD-VI;SI-135;PD-VI;SL občina,DE Gemeinde,EN municipality;SL Videm;SL;VR
+SI;SI-ZR-GR-VI;SI-136;GR-VI;SL občina,DE Gemeinde,EN municipality;SL Vipava;SL;ZR
+SI;SI-VR-SA-VI;SI-137;SA-VI;SL občina,DE Gemeinde,EN municipality;SL Vitanje;SL;VR
+SI;SI-ZR-OS-VO;SI-138;OS-VO;SL občina,DE Gemeinde,EN municipality;SL Vodice;SL;ZR
+SI;SI-VR-SA-VO;SI-139;SA-VO;SL občina,DE Gemeinde,EN municipality;SL Vojnik;SL;VR
+SI;SI-VR-SA-VR;SI-189;SA-VR;SL občina,DE Gemeinde,EN municipality;SL Vransko;SL;VR
+SI;SI-ZR-OS-VN;SI-140;OS-VN;SL občina,DE Gemeinde,EN municipality;SL Vrhnika;SL;ZR
+SI;SI-VR-KO-VU;SI-141;KO-VU;SL občina,DE Gemeinde,EN municipality;SL Vuzenica;SL;VR
+SI;SI-ZR-ZS-ZS;SI-142;ZS-ZS;SL občina,DE Gemeinde,EN municipality;SL Zagorje ob Savi;SL;ZR
+SI;SI-VR-PD-ZA;SI-143;PD-ZA;SL občina,DE Gemeinde,EN municipality;SL Zavrč;SL;VR
+SI;SI-VR-SA-ZR;SI-144;SA-ZR;SL občina,DE Gemeinde,EN municipality;SL Zreče;SL;VR
+SI;SI-VR-PM-CR;SI-015;PM-CR;SL občina,DE Gemeinde,EN municipality;SL Črenšovci;SL;VR
+SI;SI-VR-KO-CK;SI-016;KO-CK;SL občina,DE Gemeinde,EN municipality;SL Črna na Koroškem;SL;VR
+SI;SI-VR-JS-CR;SI-017;JS-CR;SL občina,DE Gemeinde,EN municipality;SL Črnomelj;SL;VR
+SI;SI-VR-PM-SA;SI-033;PM-SA;SL občina,DE Gemeinde,EN municipality;SL Šalovci;SL;VR
+SI;SI-ZR-GR-SV;SI-183;GR-SV;SL občina,DE Gemeinde,EN municipality;SL Šempeter-Vrtojba;SL;ZR
+SI;SI-VR-PD-SE;SI-118;PD-SE;SL občina,DE Gemeinde,EN municipality;SL Šentilj;SL;VR
+SI;SI-VR-JS-SN;SI-119;JS-SN;SL občina,DE Gemeinde,EN municipality;SL Šentjernej;SL;VR
+SI;SI-VR-SA-SC;SI-120;SA-SC;SL občina,DE Gemeinde,EN municipality;SL Šentjur;SL;VR
+SI;SI-VR-JS-SR;SI-211;JS-SR;SL občina,DE Gemeinde,EN municipality;SL Šentrupert;SL;VR
+SI;SI-ZR-GJ-SE;SI-117;GJ-SE;SL občina,DE Gemeinde,EN municipality;SL Šenčur;SL;ZR
+SI;SI-VR-JS-SK;SI-121;JS-SK;SL občina,DE Gemeinde,EN municipality;SL Škocjan;SL;VR
+SI;SI-ZR-GJ-SL;SI-122;GJ-SL;SL občina,DE Gemeinde,EN municipality;SL Škofja Loka;SL;ZR
+SI;SI-ZR-OS-SK;SI-123;OS-SK;SL občina,DE Gemeinde,EN municipality;SL Škofljica;SL;ZR
+SI;SI-VR-SA-SJ;SI-124;SA-SJ;SL občina,DE Gemeinde,EN municipality;SL Šmarje pri Jelšah;SL;VR
+SI;SI-VR-JS-ST;SI-206;JS-ST;SL občina,DE Gemeinde,EN municipality;SL Šmarješke Toplice;SL;VR
+SI;SI-VR-SA-SP;SI-125;SA-SP;SL občina,DE Gemeinde,EN municipality;SL Šmartno ob Paki;SL;VR
+SI;SI-ZR-OS-SL;SI-194;OS-SL;SL občina,DE Gemeinde,EN municipality;SL Šmartno pri Litiji;SL;ZR
+SI;SI-VR-SA-SS;SI-126;SA-SS;SL občina,DE Gemeinde,EN municipality;SL Šoštanj;SL;VR
+SI;SI-VR-SA-ST;SI-127;SA-ST;SL občina,DE Gemeinde,EN municipality;SL Štore;SL;VR
+SI;SI-VR-SA-ZA;SI-190;SA-ZA;SL občina,DE Gemeinde,EN municipality;SL Žalec;SL;VR
+SI;SI-ZR-GJ-ZE;SI-146;GJ-ZE;SL občina,DE Gemeinde,EN municipality;SL Železniki;SL;ZR
+SI;SI-VR-PD-ZE;SI-191;PD-ZE;SL občina,DE Gemeinde,EN municipality;SL Žetale;SL;VR
+SI;SI-ZR-GJ-ZI;SI-147;GJ-ZI;SL občina,DE Gemeinde,EN municipality;SL Žiri;SL;ZR
+SI;SI-ZR-GJ-ZV;SI-192;GJ-ZV;SL občina,DE Gemeinde,EN municipality;SL Žirovnica;SL;ZR
+SI;SI-VR-JS-ZU;SI-193;JS-ZU;SL občina,DE Gemeinde,EN municipality;SL Žužemberk;SL;VR
