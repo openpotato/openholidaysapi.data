@@ -1,37 +1,58 @@
 ﻿Id;Country;StartDate;EndDate;Type;Name;Comment
-6ca769d0-d813-4ee1-9ccb-12c5d28a7be1;LI;2019-12-21;2020-01-06;School;DE Winter,EN Christmas;
-10f9d99f-4c30-463b-b4e9-9652124b7ff0;LI;2020-02-22;2020-03-01;School;DE Sport,EN Sport;
-71fa4b55-9747-400a-9358-cdc9ee2f3490;LI;2020-04-09;2020-04-26;School;DE Frühling,EN Spring;
-f258837f-e899-4b0a-92c5-12aa2f3c8f71;LI;2020-07-04;2020-08-16;School;DE Sommer,EN Summer;
-5ae357e6-1836-4dbe-80dd-b554d16f35bc;LI;2020-10-03;2020-10-18;School;DE Herbst,EN Autumn;
-8579836b-1fad-4387-b75a-8483acd4c96d;LI;2020-12-24;2021-01-06;School;DE Winter,EN Christmas;
-3e4de030-6446-4bb7-89f3-a54a128d43b7;LI;2021-02-13;2021-02-21;School;DE Sport,EN Sport;
-f34b2518-d707-432c-a58a-0062ef1bfebd;LI;2021-04-01;2021-04-18;School;DE Frühling,EN Spring;
-2f539620-2e9c-44e9-be66-4aca7290cfbb;LI;2021-07-03;2021-08-15;School;DE Sommer,EN Summer;
-0cb1d2eb-1866-44d7-8417-b9517891a585;LI;2021-10-02;2021-10-17;School;DE Herbst,EN Autumn;
-79489ce6-77d5-4dfb-95da-b33cdb0f1aaf;LI;2021-12-24;2022-01-09;School;DE Winter,EN Christmas;
-eeaf7864-6669-431d-a7d1-0e2b84ffdd4d;LI;2022-02-26;2022-03-06;School;DE Sport,EN Sport;
-80ca7902-4ec0-4266-959f-de78fd8bd6a0;LI;2022-04-14;2022-05-01;School;DE Frühling,EN Spring;
-6a77b766-a041-4e75-81eb-c20fb09d6b16;LI;2022-07-02;2022-08-16;School;DE Sommer,EN Summer;
-1e971008-7fb8-4508-a025-19c2cd59051b;LI;2022-10-01;2022-10-16;School;DE Herbst,EN Autumn;
-84a2bc02-d252-4ce6-a24f-a2943b33bcba;LI;2022-12-24;2023-01-08;School;DE Winter,EN Christmas;
-d27020bf-8bf2-413a-90ea-a49be4fba75a;LI;2023-02-18;2023-02-26;School;DE Sport,EN Sport;
-b687ef4a-d984-4602-94cf-1a767884b456;LI;2023-04-06;2023-04-23;School;DE Frühling,EN Spring;
-d593e2b2-3c1b-4d1b-9982-e34b37d8da56;LI;2023-07-08;2023-08-20;School;DE Sommer,EN Summer;
-7cf5b5ae-14ee-4814-a3ae-a0f88df17e57;LI;2023-10-07;2023-10-22;School;DE Herbst,EN Autumn;
-7d51a6bb-516a-4aef-9c08-15de8a6dff66;LI;2023-12-23;2024-01-07;School;DE Winter,EN Christmas;
-1f1b81b9-be10-4044-aff3-adad6719634d;LI;2024-02-10;2024-02-18;School;DE Sport,EN Sport;
-22f808e2-1605-44f4-969e-95a49eedc9a8;LI;2024-03-28;2024-04-14;School;DE Frühling,EN Spring;
-16ee6ffb-6cd0-462a-8913-8654baf7a84f;LI;2024-07-06;2024-08-18;School;DE Sommer,EN Summer;
-d3fb56c0-5719-4b1c-afae-608119b80797;LI;2024-10-05;2024-10-20;School;DE Herbst,EN Autumn;
-5da330c0-5482-4da2-84c3-85fd9e6f0755;LI;2024-12-21;2025-01-06;School;DE Winter,EN Christmas;
-c04e906c-d6a9-4d84-9590-13203a42267e;LI;2025-03-01;2025-03-09;School;DE Sport,EN Sport;
-818bf33d-bbc1-4f09-b2e6-7d3cf73daae9;LI;2025-04-17;2025-05-04;School;DE Frühling,EN Spring;
-d8b7e06d-4fdc-420c-964e-2a7f2e7af0f8;LI;2025-07-05;2025-08-17;School;DE Sommer,EN Summer;
-7511f309-09a5-43c3-8171-5866a5fb86e4;LI;2025-10-04;2025-10-19;School;DE Herbst,EN Autumn;
-9558cbb8-5c26-4223-956c-884ffa60dfcb;LI;2025-12-24;2026-01-06;School;DE Winter,EN Christmas;
-c712f440-69c8-4d8e-b5fa-09c58df6f5a5;LI;2026-02-14;2026-02-22;School;DE Sport,EN Sport;
-00eaf60b-71a1-4c4b-90ae-c61bf9f3fc36;LI;2026-04-02;2026-04-19;School;DE Frühling,EN Spring;
-a02124ab-48fb-4a08-bbba-b6c039f1e89d;LI;2026-07-04;2026-08-16;School;DE Sommer,EN Summer;
-a3caba01-e3cc-4bfc-9f0c-2cc0ce6c7564;LI;2026-10-03;2026-10-18;School;DE Herbst,EN Autumn;
-cc5280b3-c921-481e-9574-73a01c211060;LI;2026-12-24;2027-01-06;School;DE Winter,EN Christmas;
+6ca769d0-d813-4ee1-9ccb-12c5d28a7be1;LI;2019-12-21;2020-01-06;School;DE Winterferien,EN Christmas holidays;
+10f9d99f-4c30-463b-b4e9-9652124b7ff0;LI;2020-02-22;2020-03-01;School;DE Sportferien,EN Sport holidays;
+c7bb78a3-e73e-4cfe-9d09-8810dbaeabcb;LI;2020-04-09;;School;DE Schulfrei,EN No lessons;DE Ab Mittag schulfrei,EN No lessons from midday
+71fa4b55-9747-400a-9358-cdc9ee2f3490;LI;2020-04-10;2020-04-26;School;DE Frühlingsferien,EN Spring holidays;
+4bef4eac-3c13-4265-815d-0b0a942c78d2;LI;2020-05-22;;School;DE Schulfrei,EN No lessons;
+84b397ca-2e32-498a-a002-201db6348224;LI;2020-06-12;;School;DE Schulfrei,EN No lessons;
+f258837f-e899-4b0a-92c5-12aa2f3c8f71;LI;2020-07-04;2020-08-16;School;DE Sommerferien,EN Summer holidays;
+5ae357e6-1836-4dbe-80dd-b554d16f35bc;LI;2020-10-03;2020-10-18;School;DE Herbstferien,EN Autumn holidays;
+8579836b-1fad-4387-b75a-8483acd4c96d;LI;2020-12-24;2021-01-06;School;DE Winterferien,EN Christmas holidays;
+3e4de030-6446-4bb7-89f3-a54a128d43b7;LI;2021-02-13;2021-02-21;School;DE Sportferien,EN Sport holidays;
+d9c618c7-c46d-4450-9940-02bb269b6c8d;LI;2021-04-01;;School;DE Schulfrei,EN No lessons;DE Ab Mittag schulfrei,EN No lessons from midday
+f34b2518-d707-432c-a58a-0062ef1bfebd;LI;2021-04-02;2021-04-18;School;DE Frühlingsferien,EN Spring holidays;
+fd54c234-3294-4cc3-bffe-79796cc43df9;LI;2021-05-14;;School;DE Schulfrei,EN No lessons;
+83276df9-5eab-48d9-b5e3-650d20fa07c4;LI;2021-06-04;;School;DE Schulfrei,EN No lessons;
+2f539620-2e9c-44e9-be66-4aca7290cfbb;LI;2021-07-03;2021-08-15;School;DE Sommerferien,EN Summer holidays;
+0cb1d2eb-1866-44d7-8417-b9517891a585;LI;2021-10-02;2021-10-17;School;DE Herbstferien,EN Autumn holidays;
+79489ce6-77d5-4dfb-95da-b33cdb0f1aaf;LI;2021-12-24;2022-01-09;School;DE Winterferien,EN Christmas holidays;
+eeaf7864-6669-431d-a7d1-0e2b84ffdd4d;LI;2022-02-26;2022-03-06;School;DE Sportferien,EN Sport holidays;
+80ca7902-4ec0-4266-959f-de78fd8bd6a0;LI;2022-04-13;2022-05-01;School;DE Frühlingsferien,EN Spring holidays;
+856b7bdd-98be-4216-832c-971504b9a064;LI;2022-04-14;;School;DE Schulfrei,EN No lessons;DE Ab Mittag schulfrei,EN No lessons from midday
+dca81a63-382b-44f0-b540-a8df1413183d;LI;2022-05-27;;School;DE Schulfrei,EN No lessons;
+223f4e14-ea91-4102-a279-7181a66ab23f;LI;2022-06-17;;School;DE Schulfrei,EN No lessons;
+6a77b766-a041-4e75-81eb-c20fb09d6b16;LI;2022-07-02;2022-08-16;School;DE Sommerferien,EN Summer holidays;
+1e971008-7fb8-4508-a025-19c2cd59051b;LI;2022-10-01;2022-10-16;School;DE Herbstferien,EN Autumn holidays;
+84a2bc02-d252-4ce6-a24f-a2943b33bcba;LI;2022-12-24;2023-01-08;School;DE Winterferien,EN Christmas holidays;
+d27020bf-8bf2-413a-90ea-a49be4fba75a;LI;2023-02-18;2023-02-26;School;DE Sportferien,EN Sport holidays;
+65d5cddd-0b66-4cd3-80f9-508539a27b1c;LI;2023-04-06;;School;DE Schulfrei,EN No lessons;DE Ab Mittag schulfrei,EN No lessons from midday
+b687ef4a-d984-4602-94cf-1a767884b456;LI;2023-04-07;2023-04-23;School;DE Frühlingsferien,EN Spring holidays;
+8b5915fa-9061-4146-a1ce-6a8d35d314f6;LI;2023-05-19;;School;DE Schulfrei,EN No lessons;
+97dc15fd-d1f9-47c6-8293-85ce770d846f;LI;2023-06-09;;School;DE Schulfrei,EN No lessons;
+d593e2b2-3c1b-4d1b-9982-e34b37d8da56;LI;2023-07-08;2023-08-20;School;DE Sommerferien,EN Summer holidays;
+7cf5b5ae-14ee-4814-a3ae-a0f88df17e57;LI;2023-10-07;2023-10-22;School;DE Herbstferien,EN Autumn holidays;
+7d51a6bb-516a-4aef-9c08-15de8a6dff66;LI;2023-12-23;2024-01-07;School;DE Winterferien,EN Christmas holidays;
+1f1b81b9-be10-4044-aff3-adad6719634d;LI;2024-02-10;2024-02-18;School;DE Sportferien,EN Sport holidays;
+22f808e2-1605-44f4-969e-95a49eedc9a8;LI;2024-03-29;2024-04-14;School;DE Frühlingsferien,EN Spring holidays;
+f43ab627-4e7c-42af-9d31-1bbdc0eaea33;LI;2024-03.28;;School;DE Schulfrei,EN No lessons;DE Ab Mittag schulfrei,EN No lessons from midday
+3dfacfa6-fa3a-4450-b8fb-03896a1e63bc;LI;2024-05-10;;School;DE Schulfrei,EN No lessons;
+a454897e-1a49-40d9-82d1-c29234d4bdb1;LI;2024-05-31;;School;DE Schulfrei,EN No lessons;
+16ee6ffb-6cd0-462a-8913-8654baf7a84f;LI;2024-07-06;2024-08-18;School;DE Sommerferien,EN Summer holidays;
+d3fb56c0-5719-4b1c-afae-608119b80797;LI;2024-10-05;2024-10-20;School;DE Herbstferien,EN Autumn holidays;
+5da330c0-5482-4da2-84c3-85fd9e6f0755;LI;2024-12-21;2025-01-06;School;DE Winterferien,EN Christmas holidays;
+c04e906c-d6a9-4d84-9590-13203a42267e;LI;2025-03-01;2025-03-09;School;DE Sportferien,EN Sport holidays;
+b5fb75bd-3ecb-41af-9fd0-047d8fd86244;LI;2025-04-17;;School;DE Schulfrei,EN No lessons;DE Ab Mittag schulfrei,EN No lessons from midday
+818bf33d-bbc1-4f09-b2e6-7d3cf73daae9;LI;2025-04-18;2025-05-04;School;DE Frühlingsferien,EN Spring holidays;
+db855596-64bd-403e-a918-50dcc6a1c0c5;LI;2025-05-30;;School;DE Schulfrei,EN No lessons;
+57b4e06e-bc7f-43a3-8e58-c96fe7e00f59;LI;2025-06-20;;School;DE Schulfrei,EN No lessons;
+d8b7e06d-4fdc-420c-964e-2a7f2e7af0f8;LI;2025-07-05;2025-08-17;School;DE Sommerferien,EN Summer holidays;
+7511f309-09a5-43c3-8171-5866a5fb86e4;LI;2025-10-04;2025-10-19;School;DE Herbstferien,EN Autumn holidays;
+9558cbb8-5c26-4223-956c-884ffa60dfcb;LI;2025-12-24;2026-01-06;School;DE Winterferien,EN Christmas holidays;
+c712f440-69c8-4d8e-b5fa-09c58df6f5a5;LI;2026-02-14;2026-02-22;School;DE Sportferien,EN Sport holidays;
+6a23cc8a-7d0a-410e-a878-debecd16c062;LI;2026-04-02;;School;DE Schulfrei,EN No lessons;DE Ab Mittag schulfrei,EN No lessons from midday
+00eaf60b-71a1-4c4b-90ae-c61bf9f3fc36;LI;2026-04-03;2026-04-19;School;DE Frühlingsferien,EN Spring holidays;
+8b94dde8-fc93-42bc-acaf-9fb345d28d38;LI;2026-05-15;;School;DE Schulfrei,EN No lessons;
+6b5f770e-5c77-4e2d-b8c5-b96c086fde2c;LI;2026-06-05;;School;DE Schulfrei,EN No lessons;
+a02124ab-48fb-4a08-bbba-b6c039f1e89d;LI;2026-07-04;2026-08-16;School;DE Sommerferien,EN Summer holidays;
+a3caba01-e3cc-4bfc-9f0c-2cc0ce6c7564;LI;2026-10-03;2026-10-18;School;DE Herbstferien,EN Autumn holidays;
+cc5280b3-c921-481e-9574-73a01c211060;LI;2026-12-24;2027-01-06;School;DE Winterferien,EN Christmas holidays;
