@@ -1,0 +1,30 @@
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
+2707e7b5-7e7b-4b36-b835-3b048b983637;ES;2019-12-23;2020-01-07;School;ES Descanso de Navidad,CA Descans de Nadal,DE Weihnachtspause,EN Christmas break;CM
+f35bbb92-87ba-4555-8f45-1097a683ffa4;ES;2020-02-24;2020-02-25;School;ES Días de libre disposición,CA Dies de lliure disposició,DE Schulfreie Tage,EN Non-teaching days;CM
+918a9f01-e409-44b2-bdec-dd869aca7085;ES;2020-03-20;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;CM
+1e15fa61-0b8a-462f-848c-60ac50c6bcb3;ES;2020-04-06;2020-04-13;School;ES Descanso de Semana Santa,CA Descans de Setmana Santa,DE Osterpause,EN Easter break;CM
+2e18d0fa-31a9-4f6f-9a01-c98cde7bf089;ES;2020-06-26;2020-09-08;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;CM
+5df66b64-7fdb-4a17-a3bc-3cd42aab71ff;ES;2020-11-13;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;CM
+debf8db2-05ad-452b-bfc4-6d0a2fd5c525;ES;2020-12-23;2021-01-07;School;ES Descanso de Navidad,CA Descans de Nadal,DE Weihnachtspause,EN Christmas break;CM
+19b91f50-4647-41ef-8151-af7c6a630296;ES;2021-02-15;2021-02-15;School;ES Días de libre disposición,CA Dies de lliure disposició,DE Schulfreie Tage,EN Non-teaching days;CM
+d50ad1be-df47-44d6-836c-1241eb5b0708;ES;2021-03-29;2021-04-05;School;ES Descanso de Semana Santa,CA Descans de Setmana Santa,DE Osterpause,EN Easter break;CM
+4c47afca-96ca-463c-b1ae-c4619c53b4ea;ES;2021-04-30;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;CM
+9de8b364-7835-42c8-b424-30f6eb7366e6;ES;2021-06-29;2021-09-08;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;CM
+b6d01884-b5ce-4778-801a-73eea2bba49d;ES;2021-11-19;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;CM
+caa17d68-fdb9-416a-99c5-f21b0d72df7a;ES;2021-12-23;2022-01-07;School;ES Descanso de Navidad,CA Descans de Nadal,DE Weihnachtspause,EN Christmas break;CM
+45b36fe5-8ef0-4bd5-a5da-340394e2c9cf;ES;2022-02-28;2022-03-01;School;ES Días de libre disposición,CA Dies de lliure disposició,DE Schulfreie Tage,EN Non-teaching days;CM
+94776ca9-c302-4b5b-9428-182b954f96d6;ES;2022-04-11;2022-04-18;School;ES Descanso de Semana Santa,CA Descans de Setmana Santa,DE Osterpause,EN Easter break;CM
+6b0c323b-5179-4f39-8187-7aab193d7135;ES;2022-06-16;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;CM
+f0aa6606-df16-4c25-a9f4-95448e01b5c0;ES;2022-06-25;2022-09-07;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;CM
+e4575eb0-eb0c-4a4f-ade4-94a78f824c87;ES;2022-11-18;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;CM
+19a0665e-5fef-48da-bf18-e279e85c085c;ES;2022-12-23;2023-01-08;School;ES Descanso de Navidad,CA Descans de Nadal,DE Weihnachtspause,EN Christmas break;CM
+d51474c1-fecc-4315-bba3-afe9272f8fe8;ES;2023-02-20;2023-02-21;School;ES Días de libre disposición,CA Dies de lliure disposició,DE Schulfreie Tage,EN Non-teaching days;CM
+607cb4d5-57aa-4d8f-b849-c7418c079583;ES;2023-04-03;2023-04-10;School;ES Descanso de Semana Santa,CA Descans de Setmana Santa,DE Osterpause,EN Easter break;CM
+524e1488-f908-426d-a2c3-62b53b398c97;ES;2023-06-24;2023-09-10;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;CM
+0c910da1-620f-4434-a0d2-8c07cb27dd7d;ES;2023-10-13;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;CM
+026119a0-47d0-4537-b4ed-341453387d94;ES;2023-11-17;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;CM
+9c4c9d90-27b1-4709-bd41-2436f54c9465;ES;2023-12-07;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;CM
+b40e95f6-0155-4704-9f14-95be64854b49;ES;2023-12-23;2024-01-07;School;ES Descanso de Navidad,CA Descans de Nadal,DE Weihnachtspause,EN Christmas break;CM
+1ddec0f9-837d-4b99-933c-3a52fedac571;ES;2024-02-12;2020-02-13;School;ES Días de libre disposición,CA Dies de lliure disposició,DE Schulfreie Tage,EN Non-teaching days;CM
+209b9147-d326-4651-a8af-1729f7eb6f54;ES;2024-03-25;2024-04-01;School;ES Descanso de Semana Santa,CA Descans de Setmana Santa,DE Osterpause,EN Easter break;CM
+829e5ef7-c831-4a07-96ce-7acd729c81e6;ES;2024-06-21;;EndOfLessons;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;CM

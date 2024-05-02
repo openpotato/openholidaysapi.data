@@ -1,0 +1,25 @@
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
+866c596f-661c-472d-8d38-a842f4cf43be;ES;2019-12-23;2020-01-07;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+4265797b-9163-41a0-9dad-ad918d42adbb;ES;2020-02-28;;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+901a1989-2d9b-47fa-8a68-cb50cf8c803f;ES;2020-04-08;2020-04-19;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+cb198bde-eb89-474f-92a6-93a46d6826b1;ES;2020-06-20;2020-09-09;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+4c128f49-fd8e-4f75-b133-b6613b4cc12c;ES;2020-12-23;2021-01-07;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+a5d57b39-81f3-452d-b582-744f0a366042;ES;2021-02-26;;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+26c6ff35-a233-43c6-b9f5-ca19dbcebe6d;ES;2021-04-01;2021-04-11;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+6a3544c0-83f0-46af-acc8-e616696d9bf6;ES;2021-06-23;2021-09-09;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+01368a61-6ccf-440b-84f9-6e332b074eba;ES;2021-12-23;2022-01-07;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+03a2db00-72f7-4ab2-8edd-38ae3c6953f4;ES;2022-02-28;;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+06e66739-6941-414b-b2de-72bd37abc48f;ES;2022-04-14;2022-04-22;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+4ce32636-2270-43a9-9a53-699ca1ec1630;ES;2022-06-24;2022-09-11;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+1bb52dcf-87c7-4259-9eeb-797afe8eb0dd;ES;2022-12-23;2023-01-05;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+a0a7676a-3de0-4b90-8685-915fd0cb4801;ES;2023-02-28;;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+93b3c6f7-c50a-4a1c-8ac6-587a22625aec;ES;2023-04-06;2023-04-14;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+6b4a61be-5d80-4373-8361-408e90cc17ec;ES;2023-06-24;2023-09-06;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+0a044129-2fc9-435b-a289-34d8156b468e;ES;2023-10-30;2023-10-31;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+2b1b26be-5da4-4373-8f72-a30ea3415baa;ES;2023-11-02;2023-11-03;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+6327891f-2831-49c4-bc51-531143d45ab2;ES;2023-12-07;;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+f06f8c20-34c1-4f7d-8d0b-f3d08ecadf60;ES;2023-12-26;2024-01-05;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+c9039ac3-47e1-450e-b12c-bed882d47374;ES;2024-02-12;2024-02-16;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+1deb60a0-663f-4f38-bc89-0bb459e6091e;ES;2024-03-25;2024-03-29;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+dd60fae4-a281-4d74-aaed-aa174b439639;ES;2024-05-02;2024-05-03;School;ES No lectivos,CA No lectius,DE Kein Unterricht,EN No lessons;CB
+f1d2d7a9-52b0-43dd-8f9d-047801128fdc;ES;2024-06-25;;EndOfLessons;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;CB

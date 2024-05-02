@@ -1,12 +1,15 @@
 ﻿IsoCode;Name
 BG;EN Bulgarian,BG Български,DE Bulgarisch
-CA;EN Catalan,CA català,DE Katalanisch	
+CA;EN Catalan,CA Català,ES Catalán,DE Katalanisch	
 CS;EN Czech,CS Česky,DE Tschechisch
 DE;EN German,DE Deutsch
 EN;EN English,DE Englisch
+ES;EN Spain,ES España,DE Spanisch
 ET;EN Estonian,ET Eesti,DE Estnisch
+EU;EN Basque,EU Euskara,ES Euskera,DE Baskisch
 FR;EN French,FR français,DE Französisch
 GA;EN Irish,GA Gaeilge,DE Irisch
+GL;EN Galician,GL Galego,ES Gallego,DE Galicisch
 HR;EN Croatian,HR Hrvatska,DE Kroatisch
 HU;EN Hungarian,HU Magyarország,DE Ungarisch
 IT;EN Italian,IT Italiano,DE Italienisch
@@ -18,6 +21,6 @@ NL;EN Dutch,NL Nederlands,DE Niederländisch
 PL;EN Polish,PL Polska,DE Polnisch
 PT;EN Portuguese,PT Português,DE Portugiesisch
 RM;EN Romansh,RM Rumantsch,DE Rätoromanisch
-SL;EN Slovenian,SL Slovenski,DE Slowenisch
 SK;EN Slovak,SK Slovenský,DE Slowakisch
+SL;EN Slovenian,SL Slovenski,DE Slowenisch
 SQ;EN Albanian,SQ shqip,DE Albanisch

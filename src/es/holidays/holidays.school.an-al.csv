@@ -1,0 +1,41 @@
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
+a33dee12-6a23-4b45-9681-8e7a0499d55f;ES;2019-12-23;2020-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;AN-AL
+5f87aa76-8368-49e1-81ba-b7bea4af0289;ES;2020-01-07;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+1097c69c-d3c4-4e94-96b8-c3eb79edddbb;ES;2020-02-26;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+dfeafe12-ced0-464b-a771-08fb7f507c51;ES;2020-02-27;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,DE Tag der Bildungsgemeinschaft,EN Educational Community Days;AN-AL
+d17365a6-6b1e-40ca-8c60-a7d8de4267f0;ES;2020-04-05;2020-04-12;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;AN-AL
+3f9d9267-174e-40ad-bbec-3579bd785d70;ES;2020-05-04;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+140a0618-15dd-4753-985c-ef8f82f5a2e3;ES;2020-06-24;2020-09-09;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;AN-AL
+36e24683-ca66-4810-973c-59ff16e37a17;ES;2020-10-13;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+497c249a-9d03-41f3-9333-eb2d4c9a1b54;ES;2020-12-04;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+d1a53107-28de-447f-b5a2-c3dd7e427e5e;ES;2020-12-23;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+0c4126c7-9f9b-45c8-8187-6e85fa2ab08a;ES;2020-12-24;2021-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;AN-AL
+6c20b2ef-7e10-4f61-a1af-7e0b8b2b5742;ES;2021-03-02;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,DE Tag der Bildungsgemeinschaft,EN Educational Community Days;AN-AL
+f50205bd-b444-4391-a1f6-0081a3c2aaf3;ES;2021-03-28;2021-04-04;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;AN-AL
+73bc7362-0f73-45f9-9ca5-1d1a538edf68;ES;2021-04-30;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+a4a31581-0890-4a1d-94fa-803761e09236;ES;2021-06-23;2021-09-09;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;AN-AL
+94cb3382-a6df-41b3-93f0-47685bf0c27e;ES;2021-10-11;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+1de9a49a-6850-49e6-88f4-b52d86ae2191;ES;2021-12-07;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+5cc267be-4ee1-4d68-b43b-2f68f933672f;ES;2021-12-23;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+126a8fe7-98a2-4ce9-a3df-13d5fb36e181;ES;2021-12-24;2022-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;AN-AL
+3c9c9e88-97ab-4482-832b-09928b0f6770;ES;2022-01-07;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+f00721b3-fec2-413b-91fe-6e544243dbe7;ES;2022-03-01;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,DE Tag der Bildungsgemeinschaft,EN Educational Community Days;AN-AL
+011e8567-6770-4399-80f4-98cb973dfb5c;ES;2022-04-10;2022-04-17;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;AN-AL
+6fe9bb4f-36b8-4a70-8865-8474120f0342;ES;2022-06-23;2022-09-11;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;AN-AL
+b4ec00b4-ff90-4add-918f-ab95d42962f0;ES;2022-10-31;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+7a2fcb24-23bd-45d3-83ea-98d71c8044e9;ES;2022-12-05;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+68ebf447-5aba-46c5-aeb5-58db1aed9c18;ES;2022-12-07;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+6e3ef2ff-a353-41c8-b135-1e87b5d5859b;ES;2022-12-24;2023-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;AN-AL
+ae9e9d66-a3a1-4fa4-8222-ed8fd7c0a575;ES;2023-02-27;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,DE Tag der Bildungsgemeinschaft,EN Educational Community Days;AN-AL
+9f27218b-7b29-4615-a667-efc38443b660;ES;2023-03-01;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+431a2aac-0c02-4337-ab0e-98b4fd3af8b8;ES;2023-04-02;2023-04-09;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;AN-AL
+a19a1940-8e5d-49fb-a42a-f2c870979ec7;ES;2023-05-02;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+f0c1401a-d97d-4c26-9624-48d9ba79010f;ES;2023-06-23;2023-09-10;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;AN-AL
+ce96bf0a-a01a-41e7-826e-6f8e2cfa507f;ES;2023-10-13;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+54d07bfc-b6c8-4cbb-9183-caa5482d0d2c;ES;2023-12-07;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+94a7cb0d-1105-4dae-a8d3-ddc82d1c99b9;ES;2023-12-22;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+8689eb66-4cb7-4a00-9215-f7d31c557a7f;ES;2023-12-23;2024-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;AN-AL
+381676dd-74f6-4f4d-bf0c-6479ce57a306;ES;2024-02-29;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,DE Tag der Bildungsgemeinschaft,EN Educational Community Days;AN-AL
+0243fe0f-7feb-4d09-8147-7f4d9677a027;ES;2024-03-01;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;AN-AL
+4cbb30c1-d9b9-4406-b3bf-2aafa77ae172;ES;2024-03-23;2024-03-31;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;AN-AL
+ac72e29d-5a7b-4545-bb52-1f144190a0ef;ES;2024-06-22;;EndOfLessons;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;AN-AL

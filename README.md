@@ -2,8 +2,8 @@
 
 This repo aggregates and stores freely accessible calendar data on the following countries:
 
-+ Andorra (public holidays and school holidays from 2020)
 + Albania (public holidays and school holidays from 2020)
++ Andorra (public holidays and school holidays from 2020)
 + Austria (public holidays and school holidays from 2020)
 + Belgium (public holidays and school holidays from 2020)
 + Bulgaria (public holidays and school holidays from 2020)
@@ -27,6 +27,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + San Marino (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
++ Spain (public holidays and school holidays from 2020, Initial data from [@TBiele](https://github.com/TBiele))
 + Switzerland (public holidays and school holidays from 2020)
 + Vatican City (public holidays from 2020)
 

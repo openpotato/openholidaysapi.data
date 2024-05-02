@@ -1,0 +1,18 @@
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
+408a136b-6b9d-4742-a5e7-61e77c267c6d;ES;2019-12-23;2020-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;VC
+5dd3f255-3a2a-4139-8e33-5cf36a3f8541;ES;2020-04-09;2020-04-20;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;VC
+26a1658a-af76-4a68-b762-31a95bbea2e1;ES;2020-06-19;2020-09-06;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;VC
+d6349b2f-7dd3-4aca-9a84-a2434da94125;ES;2020-10-09;;School;ES Día de la Comunitat Valenciana,CA Dia de la Comunitat Valenciana,EN Valencian Community Day,DE Tag der valencianischen Gemeinschaft;VC
+1e1a8453-9562-44e5-87ce-98c49d1263a0;ES;2020-12-23;2021-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;VC
+ff2bfaa7-b6ce-4c06-bc97-d8497b8c82b9;ES;2021-04-01;2021-04-12;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;VC
+d8308345-51ba-4da0-94e2-f4adc379b19a;ES;2021-06-24;2021-09-07;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;VC
+43ae04d0-464b-4018-8d01-4efc9c9f7bc4;ES;2021-12-23;2022-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;VC
+8da88614-9884-44fa-8980-b85b2f21b306;ES;2022-04-14;2022-04-25;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;VC
+b2616825-a905-4680-a9f8-f2ff12e4d666;ES;2022-06-22;2022-09-11;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;VC
+12d17208-14f5-42b8-96bb-0d91d032acc5;ES;2022-12-23;2023-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;VC
+6f5e0843-b4cb-4ed5-9971-aaa2fe9e401d;ES;2023-04-06;2023-04-17;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;VC
+3db5cfa3-f3b8-464e-b5c4-9243eef3418d;ES;2023-06-22;2023-09-10;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;VC
+7fb16e19-83fd-4410-b98c-7d7653ca7cb6;ES;2023-10-09;;School;ES Día de la Comunitat Valenciana,CA Dia de la Comunitat Valenciana,EN Valencian Community Day,DE Tag der valencianischen Gemeinschaft;VC
+69cc0d50-8edd-48d5-873d-c38bdd0f790c;ES;2023-12-23;2024-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;VC
+1aa38b49-b6db-4d4e-8942-a43e4ee1e505;ES;2024-03-28;2024-04-08;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;VC
+ae1bcdd3-b41a-40ea-b50a-d90a1e145f62;ES;2024-06-21;;EndOfLessons;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;VC

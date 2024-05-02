@@ -1,0 +1,77 @@
+Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
+ES;ES-AN;ES-AN;AN;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;ES Andalucía,CA Andalusia,EN Andalusia,DE Andalusien;ES;
+ES;ES-AN-AL;ES-AL;AN-AL;ES provincia,CA província,EN province,DE Provinz;ES Almería,CA Almeria,EN Almería,DE Almería;ES;AN
+ES;ES-AN-CA;ES-CA;AN-CA;ES provincia,CA província,EN province,DE Provinz;ES Cádiz,CA Càdiz,EN Cádiz,DE Cádiz;ES;AN
+ES;ES-AN-CO;ES-CO;AN-CO;ES provincia,CA província,EN province,DE Provinz;ES Córdoba,CA Còrdova,EN Córdoba,DE Córdoba;ES;AN
+ES;ES-AN-GR;ES-GR;AN-GR;ES provincia,CA província,EN province,DE Provinz;ES Granada,CA Granada,EN Granada,DE Granada;ES;AN
+ES;ES-AN-HL;ES-H;AN-HL;ES provincia,CA província,EN province,DE Provinz;ES Huelva,CA Huelva,EN Huelva,DE Huelva;ES;AN
+ES;ES-AN-JA;ES-J;AN-JA;ES provincia,CA província,EN province,DE Provinz;ES Jaén,CA Jaén,EN Jaén,DE Jaén;ES;AN
+ES;ES-AN-MA;ES-MA;AN-MA;ES provincia,CA província,EN province,DE Provinz;ES Málaga,CA Màlaga,EN Málaga,DE Málaga;ES;AN
+ES;ES-AN-SE;ES-SE;AN-SE;ES provincia,CA província,EN province,DE Provinz;ES Sevilla,CA Sevilla,EN Seville,DE Sevilla;ES;AN
+ES;ES-AR;ES-AR;AR;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;ES Aragón,CA Aragó,EN Aragon,DE Aragonien;ES;
+ES;ES-AR-HU;ES-HU;AR-HU;ES provincia,CA província,EN province,DE Provinz;ES Huesca,CA Huesca,EN Huesca,DE Huesca;ES;AR
+ES;ES-AR-TE;ES-TE;AR-TE;ES provincia,CA província,EN province,DE Provinz;ES Teruel,CA Terol,EN Teruel,DE Teruel;ES;AR
+ES;ES-AR-ZG;ES-Z;AR-ZG;ES provincia,CA província,EN province,DE Provinz;ES Zaragoza,CA Saragossa,EN Zaragoza,DE Saragossa;ES;AR
+ES;ES-AS;ES-AS;AS;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;ES Asturias,CA Astúries,EN Asturias,DE Asturien;ES;
+ES;ES-AS-AS;ES-O;AS-AS;ES provincia,CA província,EN province,DE Provinz;ES Asturias,CA Astúries,EN Asturias,DE Asturien;ES;AS
+ES;ES-CB;ES-CB;CB;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;ES Cantabria,CA Cantàbria,EN Cantabria,DE Kantabrien;ES;
+ES;ES-CB-CB;ES-S;CB-CB;ES provincia,CA província,EN province,DE Provinz;ES Cantabria,CA Cantàbria,EN Cantabria,DE Kantabrien;ES;CB
+ES;ES-CE;ES-CE;CE;ES Ciudad autónoma del norte de África,CA Ciutat autònoma a l'Àfrica del Nord,EN Autonomous city in North Africa,DE Autonome Stadt in Nordafrika;ES Ceuta,CA Ceuta,EN Ceuta,DE Ceuta;ES;
+ES;ES-CL;ES-CL;CL;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;ES Castilla y León,CA Castella i Lleó,EN Castile and León,DE Kastilien und León;ES;
+ES;ES-CL-AV;ES-AV;CL-AV;ES provincia,CA província,EN province,DE Provinz;ES Ávila,CA Àvila,EN ÁvilaDE,DE Ávila;ES;CL
+ES;ES-CL-BU;ES-BU;CL-BU;ES provincia,CA província,EN province,DE Provinz;ES Burgos,CA Burgos,EN Burgos,DE Burgos;ES;CL
+ES;ES-CL-LE;ES-LE;CL-LE;ES provincia,CA província,EN province,DE Provinz;ES León,CA Lleó,EN León,DE León;ES;CL
+ES;ES-CL-PL;ES-P;CL-PL;ES provincia,CA província,EN province,DE Provinz;ES Palencia,CA Palència,EN Palencia,DE Palencia;ES;CL
+ES;ES-CL-SA;ES-SA;CL-SA;ES provincia,CA província,EN province,DE Provinz;ES Salamanca,CA Salamanca,EN Salamanca,DE Salamanca;ES;CL
+ES;ES-CL-SG;ES-SG;CL-SG;ES provincia,CA província,EN province,DE Provinz;ES Segovia,CA Segòvia,EN Segovia,DE Segovia;ES;CL
+ES;ES-CL-SO;ES-SO;CL-SO;ES provincia,CA província,EN province,DE Provinz;ES Soria,CA Sòria,EN Soria,DE Soria ;ES;CL
+ES;ES-CL-VA;ES-VA;CL-VA;ES provincia,CA província,EN province,DE Provinz;ES Valladolid,CA Valladolid,EN Valladolid,DE Valladolid;ES;CL
+ES;ES-CL-ZA;ES-ZA;CL-ZA;ES provincia,CA província,EN province,DE Provinz;ES Zamora,CA Zamora,EN Zamora,DE Zamora;ES;CL
+ES;ES-CM;ES-CM;CM;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;ES Castilla-La Mancha,CA Castella-La Manxa,EN Castilla-La Mancha,DE Kastilien-La Mancha;ES;
+ES;ES-CM-AB;ES-AB;CM-AB;ES provincia,CA província,EN province,DE Provinz;ES Albacete,CA Albacete,EN Albacete,DE Albacete;ES;CM
+ES;ES-CM-CR;ES-CR;CM-CR;ES provincia,CA província,EN province,DE Provinz;ES Ciudad Real,CA Ciutat Real,EN Ciudad Real,DE Ciudad Real;ES;CM
+ES;ES-CM-CU;ES-CU;CM-CU;ES provincia,CA província,EN province,DE Provinz;ES Cuenca,CA Cuenca,EN Cuenca,DE Cuenca;ES;CM
+ES;ES-CM-GU;ES-GU;CM-GU;ES provincia,CA província,EN province,DE Provinz;ES Guadalajara,CA Guadalajara,EN Guadalajara,DE Guadalajara;ES;CM
+ES;ES-CM-TO;ES-TO;CM-TO;ES provincia,CA província,EN province,DE Provinz;ES Toledo,CA Toledo,EN Toledo,DE Toledo;ES;CM
+ES;ES-CN;ES-CN;CN;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;ES Canarias,CA Canàries,EN Canary Islands,DE Kanarische Inseln;ES;
+ES;ES-CN-LP;ES-GC;CN-LP;ES provincia,CA província,EN province,DE Provinz;ES Las Palmas,CA Les Palmas,EN Las Palmas,DE Las Palmas;ES;CN
+ES;ES-CN-LP-FV;;CN-LP-FV;ES isla,CA Illa,EN island,DE Insel;ES Fuerteventura,CA Lanzarote,EN Lanzarote,DE Fuerteventura;ES;CN-LP
+ES;ES-CN-LP-GC;;CN-LP-GC;ES isla,CA Illa,EN island,DE Insel;ES Gran Canaria,CA Gran Canària,EN Gran Canaria,DE Gran Canaria;ES;CN-LP
+ES;ES-CN-LP-LA;;CN-LP-LA;ES isla,CA Illa,EN island,DE Insel;ES Lanzarote,CA Lanzarote,EN Lanzarote,DE Lanzarote;ES;CN-LP
+ES;ES-CN-SC;ES-TF;CN-SC;ES provincia,CA província,EN province,DE Provinz;ES Santa Cruz de Tenerife,CA Santa Creu de Tenerife,EN Santa Cruz de Tenerife,DE Santa Cruz de Tenerife;ES;CN
+ES;ES-CN-SC-EH;;CN-SC-EH;ES isla,CA Illa,EN island,DE Insel;ES El Hierro,CA El Hierro,EN El Hierro,DE El Hierro;ES;CN-SC
+ES;ES-CN-SC-LG;;CN-SC-LG;ES isla,CA Illa,EN island,DE Insel;ES La Gomera,CA La Gomera,EN La Gomera,DE La Gomera;ES;CN-SC
+ES;ES-CN-SC-LP;;CN-SC-LP;ES isla,CA Illa,EN island,DE Insel;ES La Palma,CA La Palma,EN La Palma,DE La Palma;ES;CN-SC
+ES;ES-CN-SC-TE;;CN-SC-TE;ES isla,CA Illa,EN island,DE Insel;ES Tenerife,CA Tenerife,EN Tenerife,DE Teneriffa;ES;CN-SC
+ES;ES-CT;ES-CT;CT;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;CA Catalunya,ES Catalunya,EN Catalonia,DE Katalonien;CA,ES;
+ES;ES-CT-BA;ES-B;CT-BA;ES provincia,CA província,EN province,DE Provinz;CA Barcelona,ES Barcelona,EN Barcelona,DE Barcelona;CA,ES;CT
+ES;ES-CT-GI;ES-GI;CT-GI;ES provincia,CA província,EN province,DE Provinz;CA Girona,ES Gerona,EN Gironad,DE Girona;CA,ES;CT
+ES;ES-CT-LD;ES-L;CT-LD;ES provincia,CA província,EN province,DE Provinz;CA Lleida,ES Lérida,EN Lérida,DE Lérida;CA,ES;CT
+ES;ES-CT-TG;ES-T;CT-TG;ES provincia,CA província,EN province,DE Provinz;CA Tarragona,ES Tarragona,EN Tarragona,DE Tarragona;CA,ES;CT
+ES;ES-EX;ES-EX;EX;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;ES Extremadura,CA Extremadura,EN Extremadura,DE Extremadura;ES;
+ES;ES-EX-BA;ES-BA;EX-BA;ES provincia,CA província,EN province,DE Provinz;ES Badajoz,CA Badajoz,EN Badajoz,DE Badajoz;ES;EX
+ES;ES-EX-CC;ES-CC;EX-CC;ES provincia,CA província,EN province,DE Provinz;ES Cáceres,CA Càceres,EN Cáceres,DE Cáceres;ES;EX
+ES;ES-GA;ES-GA;GA;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;GL Galicia,ES Galicia,CA Galícia,EN Galicia,DE Galicien;GL,ES;
+ES;ES-GA-AC;ES-C;GA-AC;ES provincia,CA província,EN province,DE Provinz;GL A Coruña,ES La Coruña,CA La Corunya,EN A Coruña,DE A Coruña;GL,ES;GA
+ES;ES-GA-LG;ES-LU;GA-LG;ES provincia,CA província,EN province,DE Provinz;GL Lugo,ES Lugo,CA Llugo,EN Lugo,DE Lugo;GL,ES;GA
+ES;ES-GA-OR;ES-OR;GA-OR;ES provincia,CA província,EN province,DE Provinz;GL Ourense,ES Orense,CA Ourense,EN Ourense,DE Ourense;GL,ES;GA
+ES;ES-GA-PV;ES-PO;GA-PV;ES provincia,CA província,EN province,DE Provinz;GL Pontevedra,ES Pontevedra,CA Pontevedra,EN Pontevedra,DE Pontevedra;GL,ES;GA
+ES;ES-IB;ES-IB;IB;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;CA Illes Balears,ES Illes Balears,EN Balearic Islands,DE Balearische Inseln;CA,ES;
+ES;ES-IB-PM;ES-PM;IB-PM;ES provincia,CA província,EN province,DE Provinz;CA Illes Balears,ES Islas Baleares,EN Balearic Islands,DE Balearische Inseln;CA,ES;IB
+ES;ES-MC;ES-MC;MC;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;ES Región de Murcia,CA Regió de Múrcia,EN Region of Murcia,DE Region Murcia;ES;
+ES;ES-MC-MU;ES-MU;MC-MU;ES provincia,CA província,EN province,DE Provinz;ES Murcia,CA Múrcia,EN Murcia,DE Murcia;ES;MC
+ES;ES-MD;ES-MD;MD;ES Comunidad de Madrid,CA Comunitat de Madrid,EN Community of Madrid,DE Region Madrid;ES Comunidad de Madrid,CA Comunitat de Madrid,EN Community of Madrid,DE Region Madrid;ES;
+ES;ES-MD-MD;ES-M;MD-MD;ES provincia,CA província,EN province,DE Provinz;ES Madrid,CA Madrid,EN Madrid,DE Madrid;ES;MD
+ES;ES-ML;ES-ML;ML;ES Ciudad autónoma del norte de África,CA Ciutat autònoma a l'Àfrica del Nord,EN Autonomous city in North Africa,DE Autonome Stadt in Nordafrika;ES Melilla,CA Melilla,EN Melilla,DE Melilla;ES;
+ES;ES-NC;ES-NC;NC;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;EU Nafarroako Foru Komunitatea,ES Comunidad Foral de Navarra,CA Comunitat Foral de Navarra,EN Navarra,DE Navarra ;EU,ES;
+ES;ES-NC-NA;ES-NA;NC-NA;ES provincia,CA província,EN province,DE Provinz;EU Nafarroa,ES Navarra,CA Navarra,EN Navarre,DE Navarra;EU,ES;NC
+ES;ES-PV;ES-PV;PV;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;EU Euskal Herria,ES País Vasco,CA País Basc,EN Basque Country,DE Baskenland;EU,ES;
+ES;ES-PV-AA;ES-VI;PV-AA;ES provincia,CA província,EN province,DE Provinz;EU Araba,ES Álava,CA Àlaba,EN Álava,DE Álava;EU,ES;PV
+ES;ES-PV-GP;ES-SS;PV-GP;ES provincia,CA província,EN province,DE Provinz;EU Gipuzkoa,ES Guipúzcoa,CA Guipúscoa,EN Gipuzkoa,DE Gipuzkoa;EU,ES;PV
+ES;ES-PV-VZ;ES-BI;PV-VZ;ES provincia,CA província,EN province,DE Provinz;EU Bizkaia,ES Vizcaya,CA Biscaia,EN Biscay,DE Bizkaia;EU,ES;PV
+ES;ES-RI;ES-RI;RI;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;ES La Rioja,CA La Rioja,EN La Rioja,DE La Rioja;ES;
+ES;ES-RI-LR;ES-LO;RI-LR;ES provincia,CA província,EN province,DE Provinz;ES La Rioja,CA La Rioja,EN La Rioja,DE La Rioja;ES;RI
+ES;ES-VC;ES-VC;VC;ES Comunidad autónoma,CA Comunitat autònoma,EN Autonomous community,DE Autonome Gemeinschaft;CA Comunitat Valenciana,ES Comunidad Valenciana,EN Valencian Community,DE Valencianische Gemeinschaft;CA,ES;
+ES;ES-VC-AN;ES-A;VC-AN;ES provincia,CA província,EN province,DE Provinz;CA Alacant,ES Alicante,EN Alicante,DE Alicante;CA,ES;VC
+ES;ES-VC-CS;ES-CS;VC-CS;ES provincia,CA província,EN province,DE Provinz;CA Castelló,ES Castellón,EN Castellón,DE Castellón;CA,ES;VC
+ES;ES-VC-VN;ES-V;VC-VN;ES provincia,CA província,EN province,DE Provinz;CA València,ES Valencia,EN Valencia,DE Valencia;CA,ES;VC
