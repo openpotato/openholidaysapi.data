@@ -11,7 +11,7 @@ ce9331bc-bb3d-415f-9e15-f2d364ec00f0;DE;2020-05-08;;Public;DE Tag der Befreiung,
 fed605b2-39ac-46bc-87be-c42410ee2446;DE;2020-05-31;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 30bc6858-7e7d-4a0f-9bc0-de506b7a4397;DE;2020-06-01;;Public;DE Pfingstmontag,EN Pentecost Monday;
 4916a671-f043-4d59-a7a7-dee06b3ba356;DE;2020-06-11;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-bbddeb37-af4f-45d7-89f8-d81decd0839f;DE;2020-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+bbddeb37-af4f-45d7-89f8-d81decd0839f;DE;2020-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 1ed054a5-9e02-4a5a-8941-43788ceccb63;DE;2020-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 852e6da0-7b71-415b-a36f-a12ec5551f57;DE;2020-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 9ef90361-8436-4e0a-8e28-e6ae55b341b7;DE;2020-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
@@ -31,7 +31,7 @@ f769b001-8d0b-4e41-9a16-fb446a6bcc64;DE;2021-05-13;;Public;DE Christi Himmelfahr
 319c34c9-5227-48c0-aa55-baff26a602fc;DE;2021-05-23;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 c5495db1-32f7-47f6-8bc6-b2eee461af58;DE;2021-05-24;;Public;DE Pfingstmontag,EN Pentecost Monday;
 0bec62b8-79d8-4fb8-b7d6-e495d8bdecd0;DE;2021-06-03;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-6fb60260-b97f-46d8-a630-aad5c77f93dc;DE;2021-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+6fb60260-b97f-46d8-a630-aad5c77f93dc;DE;2021-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 e4ab47f2-6630-4728-a65e-2ac590d42491;DE;2021-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 112ce485-d9e7-45f8-a866-dfe172e2e3ba;DE;2021-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 9735e445-143d-4db7-b689-f77b1fb6310e;DE;2021-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
@@ -47,11 +47,11 @@ ff3b77a3-8c31-47af-b1c7-f26dd51f3c19;DE;2022-01-01;;Public;DE Neujahr,EN New Yea
 71098c0a-04dd-48d9-ac24-5aadbf8a4cd6;DE;2022-04-17;;Public;DE Ostersonntag,EN Easter Sunday;BB
 04857023-b572-4ff7-b412-a2a068f3a387;DE;2022-04-18;;Public;DE Ostermontag,EN Easter Monday;
 c4f18911-57b7-4854-9ce3-bab66b024c04;DE;2022-05-01;;Public;DE Tag der Arbeit,EN Labour Day;
+40ace374-45e8-4b9f-aa22-3891eeb5451c;DE;2022-05-26;;Public;DE Christi Himmelfahrt,EN Ascension Day;
 03364f5d-c1bc-4727-8786-0257f7df8f73;DE;2022-06-05;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 ce336268-1932-498a-b56b-04191abe18fb;DE;2022-06-06;;Public;DE Pfingstmontag,EN Pentecost Monday;
-40ace374-45e8-4b9f-aa22-3891eeb5451c;DE;2022-05-26;;Public;DE Christi Himmelfahrt,EN Ascension Day;
 fba46f24-170b-4c9a-8d0d-8b0f1c16d510;DE;2022-06-16;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-651242c7-1d42-448c-ac75-9cb9085afc67;DE;2022-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+651242c7-1d42-448c-ac75-9cb9085afc67;DE;2022-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 54dd812d-4b01-4e38-a6de-9fccdb77130e;DE;2022-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 279a6957-3e76-4b00-bdee-340a2f219ac9;DE;2022-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 a537e0cb-c2a1-448a-bee5-49430351f0ad;DE;2022-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
@@ -71,7 +71,7 @@ c18498e4-d3a7-4e27-8ea3-18e396c2d785;DE;2023-05-18;;Public;DE Christi Himmelfahr
 31c384f2-709c-4c55-8af4-f550b8e1006b;DE;2023-05-28;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 9730d923-2686-4d44-8fa5-b4c46a1937f8;DE;2023-05-29;;Public;DE Pfingstmontag,EN Pentecost Monday;
 86ee67fc-a51f-4f7b-a0c6-f6e9e11eb0ed;DE;2023-06-08;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-66234202-e1f0-4bd1-9504-45fdd4ae5808;DE;2023-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+66234202-e1f0-4bd1-9504-45fdd4ae5808;DE;2023-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 07617cd9-9dcf-459b-b30d-ac612ae42cd9;DE;2023-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 dc8830b1-0d82-45ad-911f-5781056ed994;DE;2023-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 f4f1fe82-cd70-4d33-b456-f78f9b77f064;DE;2023-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
@@ -91,7 +91,7 @@ d849751c-921e-4be1-8b30-117a610c126c;DE;2024-05-01;;Public;DE Tag der Arbeit,EN 
 989514bb-91bf-40e6-80bc-b14c18f25654;DE;2024-05-19;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 2407e8d2-b6bc-4d5f-b19a-52d4eba5e498;DE;2024-05-20;;Public;DE Pfingstmontag,EN Pentecost Monday;
 3931407a-d2f7-4a89-966c-a94781f4a649;DE;2024-05-30;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-67210c1e-8bfe-4240-8e75-ccdd2f945347;DE;2024-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+67210c1e-8bfe-4240-8e75-ccdd2f945347;DE;2024-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 a0ce548d-6447-4802-948a-1c4897938626;DE;2024-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 14e793ec-208d-4646-8513-8493c0c70668;DE;2024-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 a2454b44-b3d5-4681-a345-6eae46fb9f4b;DE;2024-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
@@ -111,7 +111,7 @@ c7aef0d5-f292-4d08-b878-a25a6c05fc12;DE;2025-04-18;;Public;DE Karfreitag,EN Good
 edfb560a-d5c6-493f-b1c1-06f2936347e7;DE;2025-06-08;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 b52574c0-0e5d-44ff-ac6b-4e3c6d71f1d7;DE;2025-06-09;;Public;DE Pfingstmontag,EN Pentecost Monday;
 2590b1ad-4268-4cac-a11a-5192791d0c0d;DE;2025-06-19;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-dc74ad4c-cea7-426a-bef2-ce38fa3435ef;DE;2025-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+dc74ad4c-cea7-426a-bef2-ce38fa3435ef;DE;2025-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 e09a9106-86e9-4eeb-9c84-5d257b4f9488;DE;2025-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 7d63faa9-5577-4527-a192-edf54e28cd1a;DE;2025-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 ac964e18-2d34-497a-a9c5-b8ab065b7238;DE;2025-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
@@ -131,7 +131,7 @@ ba2b9c3a-e65d-4570-a66e-16452dd0eaaa;DE;2026-04-05;;Public;DE Ostersonntag,EN Ea
 928ff571-f39a-47a4-b646-41caabd12852;DE;2026-05-24;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 ce6dcd62-b512-4075-be98-73ffc3dee4db;DE;2026-05-25;;Public;DE Pfingstmontag,EN Pentecost Monday;
 4030dfd3-7e29-4334-b637-42a9097be309;DE;2026-06-04;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-bea65880-834e-4095-9ab7-07b05f2c3030;DE;2026-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+bea65880-834e-4095-9ab7-07b05f2c3030;DE;2026-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 31eed1b5-9a4f-4e22-8e6d-2687d42dfed7;DE;2026-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 ef36e90a-c391-4a8f-a927-8f6517506484;DE;2026-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 555eaa64-b8f6-44ce-850b-6af0d75555e9;DE;2026-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
@@ -151,7 +151,7 @@ fcd0558e-3e01-4902-b785-d8bd45baba24;DE;2027-03-29;;Public;DE Ostermontag,EN Eas
 9193ed98-190c-4819-ae54-5fadd9957912;DE;2027-05-16;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 689daf70-cc0e-44d6-a501-8a17d4a551dc;DE;2027-05-17;;Public;DE Pfingstmontag,EN Pentecost Monday;
 c1b5e914-3c7d-426d-90b4-1d8a889b02a2;DE;2027-05-27;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-b797f7bd-cc49-423b-8835-3acf3cfb1e72;DE;2027-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+b797f7bd-cc49-423b-8835-3acf3cfb1e72;DE;2027-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 5773654b-86ef-458c-8ae1-1e59aba3123b;DE;2027-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 b126dee7-6a09-4e83-aa39-75f3d70b5eda;DE;2027-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 3e88b5c4-993a-4bd1-9f9a-149545598bc6;DE;2027-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
@@ -171,7 +171,7 @@ ed0edf81-d59d-4406-9681-372e81b69abc;DE;2028-05-25;;Public;DE Christi Himmelfahr
 39eed258-052e-410d-a712-b12b8241e2c6;DE;2028-06-04;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 71df5df7-5477-4374-abc4-2afddcc1632a;DE;2028-06-05;;Public;DE Pfingstmontag,EN Pentecost Monday;
 d2b970b8-57ef-4f06-a8bd-b6f6b3009688;DE;2028-06-15;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-2e67080b-cdc3-4b4b-ba64-c8959e7f9a8a;DE;2028-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+2e67080b-cdc3-4b4b-ba64-c8959e7f9a8a;DE;2028-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 a31e1f51-5d92-4a9f-a2e8-d2112c813be8;DE;2028-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 b13228e7-69de-4630-a6c8-8c1e6096bcc7;DE;2028-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 0bab590b-6c97-4feb-bb8e-fde4ccf45d5f;DE;2028-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
@@ -191,7 +191,7 @@ be2453a2-c4da-43c6-b404-1fa0a02d3bb1;DE;2029-05-10;;Public;DE Christi Himmelfahr
 cbedbca2-b1c8-4559-b812-776635879a69;DE;2029-05-20;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 ede6bf3d-94a9-485a-b565-a46d5c91fbe4;DE;2029-05-21;;Public;DE Pfingstmontag,EN Pentecost Monday;
 ba5ae176-3444-466a-a453-692a03786562;DE;2029-05-31;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-af6b7c5f-4d2d-4e4a-aaa8-a34c9e2071b5;DE;2029-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+af6b7c5f-4d2d-4e4a-aaa8-a34c9e2071b5;DE;2029-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 36241d78-1a1c-473a-b3bd-c797e719bd22;DE;2029-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 5b4e322a-5456-4f38-83a5-47d9d137d985;DE;2029-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 1a4a00d6-927b-4b52-93c8-a444bd420e45;DE;2029-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
@@ -211,7 +211,7 @@ a281aee6-f183-45c7-9dc3-4d99395b89f1;DE;2030-05-01;;Public;DE Tag der Arbeit,EN 
 95ce8d42-589c-473e-95cd-d85dbc6baf9e;DE;2030-06-09;;Public;DE Pfingstsonntag,EN Pentecost Sunday;BB
 68b47cd0-849a-40c7-a5e3-4b7bebfbd1b7;DE;2030-06-10;;Public;DE Pfingstmontag,EN Pentecost Monday;
 0725d32b-4b2c-4aa3-aed4-adb4df650c4a;DE;2030-06-20;;Public;DE Fronleichnam,EN Corpus Christi;BW,BY,HE,NW,RP,SL
-e616e7f1-79ef-4d6d-b48b-e8a24cfcbd27;DE;2030-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY
+e616e7f1-79ef-4d6d-b48b-e8a24cfcbd27;DE;2030-08-08;;Public;DE Friedensfest,EN High Festival of Peace;BY-AU
 f76bb050-fe54-4acc-9a2e-4a39d8404fe7;DE;2030-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day;BY,SL
 815da894-1a12-41de-af3b-e9e1a7e0ce35;DE;2030-09-20;;Public;DE Weltkindertag,EN World Children's Day;TH
 f7e6b0c0-1b71-4eb8-9f21-88551b81e59d;DE;2030-10-03;;Public;DE Tag der Deutschen Einheit,EN Day of German Unity;
