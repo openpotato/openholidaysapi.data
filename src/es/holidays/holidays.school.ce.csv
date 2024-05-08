@@ -1,5 +1,5 @@
 ﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
-2f08914f-6f27-4d41-9c2a-3a2f1c0d3ee6;ES;2019-12-23;2020-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;CE
+2f08914f-6f27-4d41-9c2a-3a2f1c0d3ee6;ES;2019-12-23;2020-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;CE
 abd88884-fac8-4462-9ba3-42537b10e253;ES;2020-02-21;;School;ES Día de libre disposición,CA Dia de lliure disposició,DE Schulfreier Tag,EN Non-teaching day;CE
 c52e3e38-9a26-4a73-b21d-203dfcfe1a0d;ES;2020-02-24;;School;ES Día de libre disposición,CA Dia de lliure disposició,DE Schulfreier Tag,EN Non-teaching day;CE
 272d6ebd-6138-4d3f-9fd8-570367e4ec8a;ES;2020-03-30;2020-03-31;School;ES Días de libre disposición,CA Dies de lliure disposició,DE Schulfreie Tage,EN Non-teaching days;CE
@@ -7,20 +7,20 @@ affb797f-e1c9-4313-97b6-5c2025420cdc;ES;2020-04-01;2020-04-03;School;ES Días de
 37a0bf49-423f-4a28-a85f-e820d176de11;ES;2020-04-06;2020-04-08;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;CE
 ebdb917d-ad06-46ce-afe3-4d8484aeb6ec;ES;2020-05-25;;School;ES Día de libre disposición,CA Dia de lliure disposició,DE Schulfreier Tag,EN Non-teaching day;CE
 61950c7f-ad0d-4710-8108-e94bd3be33f8;ES;2020-06-23;2020-09-09;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;CE
-3a97d6c7-31c1-4631-88fb-2d99ad62b20d;ES;2020-12-23;2021-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;CE
+3a97d6c7-31c1-4631-88fb-2d99ad62b20d;ES;2020-12-23;2021-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;CE
 c70a4976-0875-434e-8c34-54e8ea7e3f86;ES;2021-02-15;;School;ES Día de libre disposición,CA Dia de lliure disposició,DE Schulfreier Tag,EN Non-teaching day;CE
 86ef782d-324c-472d-8379-6d97dd2ae8cd;ES;2021-03-29;2021-04-11;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;CE
 5c57388d-d67b-4ab8-8289-635b5b5581bd;ES;2021-05-13;2021-05-14;School;ES Fin del Ramadán,CA Fi del Ramadà,DE Ende des Ramadan,EN End of Ramadan;CE
 59294e0b-4ce8-4645-8787-e95c5d7179f2;ES;2021-06-23;2021-09-09;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;CE
 37df11ea-638f-412c-a2cc-a4d09de5ca90;ES;2021-12-07;;School;ES Día de libre disposición,CA Dia de lliure disposició,DE Schulfreier Tag,EN Non-teaching day;CE
-f61c4e08-79ea-40b3-b554-67fca504a678;ES;2021-12-23;2022-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;CE
+f61c4e08-79ea-40b3-b554-67fca504a678;ES;2021-12-23;2022-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;CE
 f37e793d-7e2d-42b4-85f9-0f4d77e8bf3c;ES;2022-04-04;2022-04-08;School;ES Días de libre disposición,CA Dies de lliure disposició,DE Schulfreie Tage,EN Non-teaching days;CE
 6cda3c2b-d402-45ed-aad2-153fbadc84ca;ES;2022-04-11;2022-04-15;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;CE
 cc1ca0e1-ea82-4b4a-8782-ba73af36f283;ES;2022-05-03;;School;ES Fin del Ramadán,CA Fi del Ramadà,DE Ende des Ramadan,EN End of Ramadan;CE
 aeff9ee3-b7d4-46d7-a2b7-f2a9cab8b799;ES;2022-06-24;2022-09-07;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;CE
 595549ea-0808-4d40-b6b4-387e9221c72a;ES;2022-10-31;;School;ES Día de libre disposición,CA Dia de lliure disposició,DE Schulfreier Tag,EN Non-teaching day;CE
 98d838d3-3fbe-4f84-819e-afd0a594a82e;ES;2022-12-05;;School;ES Día de libre disposición,CA Dia de lliure disposició,DE Schulfreier Tag,EN Non-teaching day;CE
-ab406303-cbb9-40fd-8995-1bfce3d5e480;ES;2022-12-23;2023-01-05;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;CE
+ab406303-cbb9-40fd-8995-1bfce3d5e480;ES;2022-12-23;2023-01-05;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;CE
 bacf5d57-b434-43fc-b2be-65805e0a6f25;ES;2023-02-17;;School;ES Día de libre disposición,CA Dia de lliure disposició,DE Schulfreier Tag,EN Non-teaching day;CE
 bb735f7c-0ebf-4ba9-8f40-fc9d62fe9337;ES;2023-03-27;2023-03-31;School;ES Días de libre disposición,CA Dies de lliure disposició,DE Schulfreie Tage,EN Non-teaching days;CE
 678290c6-af37-42e0-830d-3c7dae3b3863;ES;2023-04-03;2023-04-05;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;CE
@@ -28,7 +28,7 @@ bb735f7c-0ebf-4ba9-8f40-fc9d62fe9337;ES;2023-03-27;2023-03-31;School;ES Días de
 87ec4f2f-0bd7-42cb-9658-5aab2d4880e4;ES;2023-06-24;2023-09-06;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;CE
 a1c2c93a-0d98-46e2-9a19-821093e54585;ES;2023-10-13;;School;ES Día de libre disposición,CA Dia de lliure disposició,DE Schulfreier Tag,EN Non-teaching day;CE
 1c379a58-b894-4430-9338-1c1c7327fbcb;ES;2023-12-07;;School;ES Día de libre disposición,CA Dia de lliure disposició,DE Schulfreier Tag,EN Non-teaching day;CE
-5c0f621f-3ff7-46d2-b678-169ea5ed4871;ES;2023-12-25;2024-01-05;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;CE
+5c0f621f-3ff7-46d2-b678-169ea5ed4871;ES;2023-12-25;2024-01-05;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;CE
 2b75555b-21f0-4e45-8001-307dd4255ae5;ES;2024-02-15;2024-02-16;School;ES Días de libre disposición,CA Dies de lliure disposició,DE Schulfreie Tage,EN Non-teaching days;CE
 f3990aa1-da49-47fb-9119-0b1d00c6eca1;ES;2024-03-18;2024-03-22;School;ES Días de libre disposición,CA Dies de lliure disposició,DE Schulfreie Tage,EN Non-teaching days;CE
 d9668c8c-e44d-4b6b-8e1e-0ad31239678c;ES;2024-03-25;2024-03-29;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;CE

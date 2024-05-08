@@ -1,21 +1,21 @@
 ﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
-2c02b246-3c71-4ad2-97e3-b054b9dd9f37;ES;2019-12-23;2020-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;AN-SE
+2c02b246-3c71-4ad2-97e3-b054b9dd9f37;ES;2019-12-23;2020-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;AN-SE
 ec1d4f54-cfd6-40ee-adbe-aa50d96dead8;ES;2020-03-02;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,DE Tag der Bildungsgemeinschaft,EN Educational Community Days;AN-SE
 ecbb2bf6-c7de-4532-ae16-2f6ed4e02d40;ES;2020-04-06;2020-04-12;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;AN-SE
 75ebbf5e-cf9d-4154-9a0a-e8d1e88230b5;ES;2020-06-25;2020-09-09;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;AN-SE
-f1a78ab4-2f10-4a03-b1e1-9e1cd9e0463d;ES;2020-12-23;2021-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;AN-SE
+f1a78ab4-2f10-4a03-b1e1-9e1cd9e0463d;ES;2020-12-23;2021-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;AN-SE
 d5943467-7fa3-4012-911c-2fdf39e62481;ES;2021-02-26;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,DE Tag der Bildungsgemeinschaft,EN Educational Community Days;AN-SE
 6573ed14-6bfc-4815-a84d-bd12f5f3d423;ES;2021-03-29;2021-04-04;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;AN-SE
 3419f817-a6eb-4152-998f-194e5a7b52fb;ES;2021-06-22;2021-09-09;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;AN-SE
-682e86c8-e037-4dfe-89a1-7f0d2499a9f6;ES;2021-12-23;2022-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;AN-SE
+682e86c8-e037-4dfe-89a1-7f0d2499a9f6;ES;2021-12-23;2022-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;AN-SE
 9af92092-13f4-4d35-afc9-018ea63bfef5;ES;2022-02-25;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,DE Tag der Bildungsgemeinschaft,EN Educational Community Days;AN-SE
 7b1e381c-a341-4765-931e-6adb865c584f;ES;2022-04-11;2022-04-17;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;AN-SE
 8bc62b67-6758-4e93-a1bf-7ca54eb552e7;ES;2022-06-25;2022-09-11;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;AN-SE
-a95e800b-cf40-4754-b184-5b2fe2779923;ES;2022-12-23;2023-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;AN-SE
+a95e800b-cf40-4754-b184-5b2fe2779923;ES;2022-12-23;2023-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;AN-SE
 8f47d893-d8fe-445e-987f-84c5f3a0cdb5;ES;2023-02-27;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,DE Tag der Bildungsgemeinschaft,EN Educational Community Days;AN-SE
 766af9b8-4e8b-4e2d-8dd5-d6ee6793e267;ES;2023-04-03;2023-04-09;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;AN-SE
 c193d4ad-00ec-448f-ab73-80e19896fe03;ES;2023-06-24;2023-09-10;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;AN-SE
-0206fd20-683c-45a4-972d-b2a73f47fecb;ES;2023-12-25;2024-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;AN-SE
+0206fd20-683c-45a4-972d-b2a73f47fecb;ES;2023-12-25;2024-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;AN-SE
 d3606d8d-90bd-4a56-8cde-d0dc0e5eadbc;ES;2024-02-27;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,DE Tag der Bildungsgemeinschaft,EN Educational Community Days;AN-SE
 7d4ffcae-d6d5-4712-8e2b-c97d04a92149;ES;2024-03-25;2024-03-31;School;ES Vacaciones de Semana Santa,CA Vacances de Setmana Santa,DE Osterferien,EN Easter holidays;AN-SE
 3ee71862-d331-4ebf-aade-1b42db7d7b13;ES;2024-06-24;;EndOfLessons;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;AN-SE

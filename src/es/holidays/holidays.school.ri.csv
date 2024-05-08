@@ -1,15 +1,15 @@
 ﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
-086be335-9539-459e-899f-87b19acafbd2;ES;2019-12-23;2020-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;RI
+086be335-9539-459e-899f-87b19acafbd2;ES;2019-12-23;2020-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;RI
 56701bd8-81d6-4933-b2de-2b75b99bc2c1;ES;2020-02-24;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,EN Educational Community Day,DE Tag der Bildungsgemeinschaft;RI
 a97cd543-acd0-45a1-afb7-527f871d4658;ES;2020-04-09;2020-04-17;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;RI
 71931f69-7e1c-4c30-af27-724ea4fe3cbe;ES;2020-06-23;2020-09-06;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;RI
-23e51722-5619-43dc-9e20-88259c4be0f2;ES;2020-12-23;2021-01-08;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;RI
+23e51722-5619-43dc-9e20-88259c4be0f2;ES;2020-12-23;2021-01-08;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;RI
 1cf64007-d93c-4c0c-aaf3-4818c2ebbee7;ES;2021-02-15;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,EN Educational Community Day,DE Tag der Bildungsgemeinschaft;RI
 11697977-cd92-4833-9d5a-33806be24566;ES;2021-04-01;2021-04-09;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;RI
 295fdf31-caf5-4d0a-82da-e1905df83209;ES;2021-06-23;2021-09-05;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;RI
 27e4d121-d515-4e1c-9777-b2fb698b0632;ES;2021-10-11;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;RI
 4662c7fb-8706-478e-9066-f75093d15751;ES;2021-12-07;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;RI
-2ffd4549-740a-4fd3-8f4d-38ba92be32fd;ES;2021-12-23;2022-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;RI
+2ffd4549-740a-4fd3-8f4d-38ba92be32fd;ES;2021-12-23;2022-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;RI
 9479cc23-c0f6-455a-a8df-2d53428b4db2;ES;2022-03-11;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,EN Educational Community Day,DE Tag der Bildungsgemeinschaft;RI
 8abe0625-4954-45e1-9c7a-0015cf0f5961;ES;2022-03-14;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;RI
 336acc2b-1a73-4231-bbb4-3a5f3e43ae99;ES;2022-04-11;2022-04-15;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;RI
@@ -17,18 +17,18 @@ a97cd543-acd0-45a1-afb7-527f871d4658;ES;2020-04-09;2020-04-17;School;ES Vacacion
 be1a5e7a-5f25-4a67-a314-a32b3f04c992;ES;2022-06-10;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;RI
 23f1fd52-acaf-4c3d-b6f0-b08c5781a60d;ES;2022-06-25;2022-09-07;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;RI
 634fb57e-279a-4f73-9221-faa21c472369;ES;2022-10-31;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;RI
-ed1203fe-ea2e-46af-9950-bb11c3ea9e7a;ES;2022-12-24;2023-01-08;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;RI
+ed1203fe-ea2e-46af-9950-bb11c3ea9e7a;ES;2022-12-24;2023-01-08;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;RI
 1e0f13ab-9a38-4418-bf9f-46087ff4466f;ES;2023-03-09;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;RI
 babf3884-6399-48ec-b18a-b49004f53cf7;ES;2023-03-10;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,EN Educational Community Day,DE Tag der Bildungsgemeinschaft;RI
 b875c48d-4fad-41ee-aae9-b0891e3e45ce;ES;2023-04-01;2023-04-10;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;RI
 71feb5f8-0f21-4fc2-ae70-2ac3b406733d;ES;2023-06-24;2023-09-06;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;RI
 91d66fea-9276-4ba3-9b5f-5f883e1a6b16;ES;2023-10-13;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;RI
 053055eb-ea01-41e0-b931-9ae3b1d36967;ES;2023-12-07;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;RI
-782e0e5f-0d4d-4de3-8e94-2130322ef7ee;ES;2023-12-23;2024-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;RI
+782e0e5f-0d4d-4de3-8e94-2130322ef7ee;ES;2023-12-23;2024-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;RI
 f43f362a-5d71-4700-a938-3edcf8ab2c02;ES;2024-02-17;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,EN Educational Community Day,DE Tag der Bildungsgemeinschaft;RI
 22011633-437d-4c82-9869-befc08f76192;ES;2024-03-28;2024-04-07;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;RI
 248bd8d9-9704-4105-8320-d40397dd16c9;ES;2024-06-22;2024-09-05;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;RI
-6076a752-a5bc-48a4-afca-cde8ac15bfcf;ES;2024-12-23;2025-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christman holidays;RI
+6076a752-a5bc-48a4-afca-cde8ac15bfcf;ES;2024-12-23;2025-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;RI
 c65e5195-86fe-40cf-84ab-a6d50280797e;ES;2025-02-28;;School;ES Día de la Comunidad Educativa,CA Dia de la Comunitat Educativa,EN Educational Community Day,DE Tag der Bildungsgemeinschaft;RI
 95d53191-334a-4ca4-bedb-f10cfd526c99;ES;2025-04-17;2025-04-25;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;RI
 eeadb4a3-cb68-431c-b93a-99e7c8c8e0e1;ES;2025-05-02;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;RI
