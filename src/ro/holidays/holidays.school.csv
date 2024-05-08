@@ -1,0 +1,34 @@
+﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
+131887d2-914f-49d8-8cf8-1a5d1bf437d0;RO;2019-12-21;2020-01-12;School;RO Vacanţa de iarnă,DE Winterferien,EN Winter holidays;;
+c16bd813-babc-42bb-aef6-0f094e047e79;RO;2020-04-04;2020-04-21;School;RO Vacanţa de primăvară,DE Frühlingsferien,EN Spring holidays;;
+96742364-c37d-4e54-8fec-46b85aa434a1;RO;2020-06-13;2020-09-13;School;RO Vacanţa de vară,DE Sommerferien,EN Summer holidays;;
+d4646fb5-4a84-43bd-8e20-31cc63e42e9d;RO;2020-10-24;2020-11-01;School;RO Vacanţa de toamnă,DE Herbstferien,EN Autumn holidays;;
+41f9dba0-ae92-45df-933a-8ef8d62471d9;RO;2020-12-23;2021-01-10;School;RO Vacanţa de iarnă,DE Winterferien,EN Winter holidays;;
+c3b4d225-c764-45da-9191-8e184da915e6;RO;2021-01-30;2021-02-07;School;RO Vacanţa intersemestrială,DE Semesterferien,EN Semester holidays;;
+de88376b-d3e6-4c09-abeb-8e4331e570ce;RO;2021-04-02;2021-04-11;School;RO Vacanţa de primăvară 1,DE 1. Frühlingsferien,EN First Spring holidays;;
+be096363-b4d8-40d8-b678-e221ace78330;RO;2021-04-30;2021-05-09;School;RO Vacanţa de primăvară 2,DE 2. Frühlingsferien,EN Second Spring holidays;;
+4f23c5ee-5a26-4864-9d61-c52992cb3237;RO;2021-06-19;2021-09-12;School;RO Vacanţa de vară,DE Sommerferien,EN Summer holidays;;
+51499b02-394f-4404-9807-c69829b79825;RO;2021-10-23;2021-11-07;School;RO Vacanţa de toamnă,DE Herbstferien,EN Autumn holidays;;
+e11c3916-e470-40f6-8a1d-e061575cd060;RO;2021-12-24;2022-01-02;School;RO Vacanţa de iarnă,DE Winterferien,EN Winter holidays;;
+8e2c0bba-22d0-4896-b8ae-16a1560aee1f;RO;2021-12-24;2022-01-09;School;RO Vacanţa de iarnă,DE Winterferien,EN Winter holidays;;RO Doar pentru învățământul preșcolar și primar,DE nur Vorschule und Grundschule,EN Preschool and primary school only
+852c3f04-57bd-4bf0-9560-6684d1603ad2;RO;2022-04-15;2022-05-01;School;RO Vacanţa de primăvară,DE Frühlingsferien,EN Spring holidays;;
+2155ba36-afae-48af-8423-bd39658f20ea;RO;2022-06-11;2022-09-04;School;RO Vacanţa de vară,DE Sommerferien,EN Summer holidays;;
+3a4dbc87-2d72-4dea-a6e9-e7f1196f2f72;RO;2022-10-22;2022-10-30;School;RO Vacanţa de toamnă,DE Herbstferien,EN Autumn holidays;;
+ac2e3e4e-0a61-4a7d-ad71-f26199927a61;RO;2022-12-23;2023-01-08;School;RO Vacanţa de iarnă,DE Winterferien,EN Winter holidays;;
+9b45007a-021a-42b3-8a7b-a1f61c85c55c;RO;2023-02-06;2023-02-12;School;RO Vacanţa de schi,DE Skiferien,EN Ski holidays;IF,SV;
+47e6453b-5cfb-4cd9-adb6-3581800b7803;RO;2023-02-13;2023-02-19;School;RO Vacanţa de schi,DE Skiferien,EN Ski holidays;AG,BH,BN,CJ,CL,DB,GJ,HD,PH,TR;
+8be007b2-a8f0-438f-a066-daf58b7937aa;RO;2023-02-20;2023-02-26;School;RO Vacanţa de schi,DE Skiferien,EN Ski holidays;AB,AR,BC,BT,BV,BR,BU,BZ,CS,CT,CV,DJ,GL,GR,HR,IL,IS,MM,MH,MS,NT,OT,SM,SB,SJ,TM,TL,VS,VN,VL;
+c592db8f-6296-477e-8c8f-e609716ea1d2;RO;2023-04-07;2023-04-18;School;RO Vacanţa de primăvară,DE Frühlingsferien,EN Spring holidays;;
+01ad15d0-989d-41aa-8a8f-257facdbcb35;RO;2023-06-17;2023-09-03;School;RO Vacanţa de vară,DE Sommerferien,EN Summer holidays;;
+4be5a84a-dd54-4c6f-997e-e477d4dec631;RO;2023-10-28;2023-11-05;School;RO Vacanţa de toamnă,DE Herbstferien,EN Autumn holidays;;
+7640eac6-f45e-4498-b4a9-f3c74db38d33;RO;2023-12-23;2024-01-07;School;RO Vacanţa de iarnă,DE Winterferien,EN Winter holidays;;
+da5a8406-8feb-4b9c-842a-de425cc4b45e;RO;2024-02-12;2024-02-18;School;RO Vacanţa de schi,DE Skiferien,EN Ski holidays;BN,SM;
+0fe6db0a-6ed5-41e8-8a64-6ffae4262a44;RO;2024-02-12;2024-02-18;School;RO Vacanţa de schi,DE Skiferien,EN Ski holidays;;
+a5571ab6-f081-41b8-8427-48b0b15b520b;RO;2024-02-19;2024-02-25;School;RO Vacanţa de schi,DE Skiferien,EN Ski holidays;AG,BH,BT,BR,BU,BZ,CS,CJ,CV,CL,DB,GL,GR,GJ,HR,HD,IL,IS,IF,NT,OT,PH,SJ,TR,VS,VN;
+0386a6f6-adbe-46ef-a8e1-4cd75dae3602;RO;2024-02-26;2024-03-03;School;RO Vacanţa de schi,DE Skiferien,EN Ski holidays;AB,AR,BC,BV,CT,DJ,MM,MH,MS,SB,SV,TM,TL,VL;
+0f1e63ad-76a3-46c2-9396-0b5fe8cc5ce2;RO;2024-04-27;2024-05-07;School;RO Vacanţa de primăvară,DE Frühlingsferien,EN Spring holidays;;
+853de039-1d6d-4b6c-8e2c-94e7c11acbee;RO;2024-06-22;2024-09-08;School;RO Vacanţa de vară,DE Sommerferien,EN Summer holidays;;
+47bd03e2-465e-4691-b3d5-b6aa3f194b29;RO;2024-10-26;2024-11-03;School;RO Vacanţa de toamnă,DE Herbstferien,EN Autumn holidays;;
+ea6ea79a-a281-450c-9e40-438ea94b771f;RO;2024-12-21;2025-01-07;School;RO Vacanţa de iarnă,DE Winterferien,EN Winter holidays;;
+17084d44-2b8f-4bea-b515-dae3ac5448ee;RO;2025-04-18;2025-04-27;School;RO Vacanţa de primăvară,DE Frühlingsferien,EN Spring holidays;;
+24413657-34ff-42c5-8296-642bdc48e1db;RO;2025-06-21;2025-09-07;School;RO Vacanţa de vară,DE Sommerferien,EN Summer holidays;;
