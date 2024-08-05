@@ -52,7 +52,7 @@ a4d617ec-3f30-4c99-91ad-76f750dd26fb;FR;2024-04-21;2024-05-05;School;FR Vacances
 deabaaf6-ba4b-42e0-84f6-7323bc75e7a5;FR;2024-07-06;;EndOfLessons;FR Fin des cours,DE Unterrichtsende,EN End of lessons;CO
 7caa5418-c8ec-44c4-ab8e-b1aede561fb7;FR;2024-07-07;2024-09-01;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;ZA,ZB,ZC
 83ef2de9-945c-4df9-aa46-d8fef32210b8;FR;2024-07-07;2024-09-02;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;CO
-b6125167-254b-4e8f-9a99-985a63b46cfb;FR;2024-10-20;2024-11-03;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZA,ZB,ZC
+b6125167-254b-4e8f-9a99-985a63b46cfb;FR;2024-10-20;2024-11-03;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZA,ZB,ZC,CO
 37673317-e59e-48e9-baa1-d33cea33c080;FR;2024-12-22;2025-01-05;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZA,ZB,ZC,CO
 d6a63874-54ab-44e0-9296-e3011ef1b63c;FR;2025-02-09;2025-02-23;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZB
 78f214c4-b062-4165-a98d-886ffe050592;FR;2025-02-16;2025-03-02;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZC,CO
@@ -61,7 +61,7 @@ f1211d65-d6cd-4c9f-a1d1-62010eaccd02;FR;2025-04-06;2025-04-21;School;FR Vacances
 cd69d675-cb23-4b4d-9146-0b3a856df3d4;FR;2025-04-13;2025-04-27;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZC,CO
 7cabe16f-10ed-4327-8130-f8defb5dad56;FR;2025-04-20;2025-05-04;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZA
 1a3ba895-36f5-4825-ba90-87b2949441d2;FR;2025-07-06;2025-08-31;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;ZA,ZB,ZC,CO
-9efd88bb-e41b-4021-afc6-f5c1f493e3c8;FR;2025-10-19;2025-11-02;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZA,ZB,ZC,CO
+9efd88bb-e41b-4021-afc6-f5c1f493e3c8;FR;2025-10-19;2025-11-02;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZA,ZB,ZC
 361a6fd9-8773-4d99-9c19-f481fec94476;FR;2025-12-21;2026-01-04;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZA,ZB,ZC
 954e5aae-39fc-418a-8a93-e758a8a6bb67;FR;2026-02-08;2026-02-22;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZA
 4039a322-b417-48e1-a751-a4bd133f2b06;FR;2026-02-15;2026-03-01;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZB
