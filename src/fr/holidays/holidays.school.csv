@@ -54,48 +54,51 @@ a4d617ec-3f30-4c99-91ad-76f750dd26fb;FR;2024-04-21;2024-05-05;School;FR Vacances
 6b697092-3061-49b8-b98f-4afa7c4b2a10;FR;2024-10-12;2024-10-27;School;FR Vacances après première période;RU
 31bad6eb-7e8d-4a90-b910-9a1cd6c6c6af;FR;2024-10-12;2024-10-27;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;YT
 b6125167-254b-4e8f-9a99-985a63b46cfb;FR;2024-10-19;2024-11-03;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZA,ZB,ZC,CO,MQ,GY
-c074ca16-5527-4f05-a53a-dda3e39122b5;FR;2024-10-22;2024-11-03;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;GP
+c074ca16-5527-4f05-a53a-dda3e39122b5;FR;2024-10-22;2024-11-03;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;GP,BL,MF
+44452287-ae5b-489d-935c-71f4b5a28375;FR;2024-10-23;2024-11-03;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;SP
 117b6627-e670-40b0-ae29-d3a1cf94d7f7;FR;2024-12-14;2025-01-12;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;YT
-8c406693-b4d0-4cf2-8949-165eeb20ce08;FR;2024-12-19;2025-01-20;School;FR Vacances d'été austral';RU
-37673317-e59e-48e9-baa1-d33cea33c080;FR;2024-12-21;2025-01-05;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZA,ZB,ZC,CO,GP,MQ,GY
+8c406693-b4d0-4cf2-8949-165eeb20ce08;FR;2024-12-19;2025-01-20;School;FR Vacances d'été austral;RU
+37673317-e59e-48e9-baa1-d33cea33c080;FR;2024-12-21;2025-01-05;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZA,ZB,ZC,CO,GP,BL,MF,MQ,GY,SP
 d6a63874-54ab-44e0-9296-e3011ef1b63c;FR;2025-02-08;2025-02-23;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZB
 78f214c4-b062-4165-a98d-886ffe050592;FR;2025-02-15;2025-03-02;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZC,CO
-8fb2bcb3-39f7-4dcf-8381-e7f671cb15c0;FR;2025-02-22;2025-03-09;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZA
-fde82bb6-ec1a-46dd-b7c6-b46b16ccdb78;FR;2025-02-22;2025-03-09;School;FR Vacances de Carnaval;GP,MQ,GY
+8fb2bcb3-39f7-4dcf-8381-e7f671cb15c0;FR;2025-02-22;2025-03-09;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZA,SP
+fde82bb6-ec1a-46dd-b7c6-b46b16ccdb78;FR;2025-02-22;2025-03-09;School;FR Vacances de Carnaval;GP,BL,MF,MQ,GY
 154e943d-90f5-41b7-a4a4-41184ed35ea0;FR;2025-03-01;2025-03-09;School;FR Vacances de février;YT
 ef89017c-ed6a-410d-a522-e52aa4a9b213;FR;2025-03-01;2025-03-16;School;FR Vacances après troisième période;RU
 f1211d65-d6cd-4c9f-a1d1-62010eaccd02;FR;2025-04-05;2025-04-21;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZB
 cd69d675-cb23-4b4d-9146-0b3a856df3d4;FR;2025-04-12;2025-04-27;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZC,CO
 3adec704-7a43-4885-9b26-560542663598;FR;2025-04-12;2025-04-28;School;FR Vacances de Pâques;MQ
 35fa33ef-c724-45f7-ac1b-5383d2ab4c36;FR;2025-04-17;2025-05-04;School;FR Vacances de Pâques;GY
-36354228-9990-4bfe-9907-d3d714214373;FR;2025-04-19;2025-05-04;School;FR Vacances de Pâques;GP
+36354228-9990-4bfe-9907-d3d714214373;FR;2025-04-19;2025-05-04;School;FR Vacances de Pâques;GP,BL,MF
+1d543565-50e2-4b4c-8ce6-5b491fe8052f;FR;2025-04-19;2025-05-04;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;SP
 7cabe16f-10ed-4327-8130-f8defb5dad56;FR;2025-04-20;2025-05-04;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZA
 f50eea1c-7fa8-437c-8044-ae0c02809c55;FR;2025-04-26;2025-05-11;School;FR Vacances de Pâques;YT
 134b983c-bb4c-42ce-93d4-ef5422671b5d;FR;2025-05-03;2025-05-18;School;FR Vacances après quatrième périodes;RU
+fcdfbfca-5640-4ba9-a1c3-6c216382eb01;FR;2025-05-28;2025-06-01;School;FR Pont de l'Ascension,DE Brückentage zu Christi Himmelfahrt,EN Ascension Bridge;SP
 2f984301-2fc8-4218-8420-12e63ea5e0c6;FR;2025-07-05;2025-08-18;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;RU
 52c7f3e7-20b4-476e-8c09-92e81ac7fd34;FR;2025-07-05;2025-08-24;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;YT
-1a3ba895-36f5-4825-ba90-87b2949441d2;FR;2025-07-05;2025-08-31;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;ZA,ZB,ZC,GP,MQ,GY
-a637e6c8-90fd-4537-af75-3063ccb891bf;FR;2025-07-05;;EndOfLessons;FR Fin des cours,DE Unterrichtsende,EN End of lessons;CO
+1a3ba895-36f5-4825-ba90-87b2949441d2;FR;2025-07-05;2025-08-31;School;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;ZA,ZB,ZC,GP,BL,MF,MQ,GY
+a637e6c8-90fd-4537-af75-3063ccb891bf;FR;2025-07-05;;EndOfLessons;FR Fin des cours,DE Unterrichtsende,EN End of lessons;CO,SP
 95d738f1-5a53-4314-98a8-083d8804cb9b;FR;2025-10-11;2025-10-26;School;FR Vacances après première période;RU
 b81b6a58-b32e-4c1a-9595-c16506b46cee;FR;2025-10-12;2025-10-27;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;YT
-9efd88bb-e41b-4021-afc6-f5c1f493e3c8;FR;2025-10-18;2025-11-02;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZA,ZB,ZC,GP,MQ,GY
+9efd88bb-e41b-4021-afc6-f5c1f493e3c8;FR;2025-10-18;2025-11-02;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZA,ZB,ZC,GP,BL,MF,MQ,GY
 b5423d59-b4fc-491e-9f43-551c26b3c9aa;FR;2025-10-19;2025-11-02;School;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;YT
 9e88a939-5ed0-4c4c-98f5-e9a08aea9a0a;FR;2025-12-14;2026-01-12;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;YT
-4a79d5b8-d25c-4f5d-aa84-9753f814b895;FR;2025-12-19;2026-01-20;School;FR Vacances d'été austral';RU
-361a6fd9-8773-4d99-9c19-f481fec94476;FR;2025-12-20;2026-01-04;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZA,ZB,ZC,GP,MQ,GY
+4a79d5b8-d25c-4f5d-aa84-9753f814b895;FR;2025-12-19;2026-01-20;School;FR Vacances d'été austral;RU
+361a6fd9-8773-4d99-9c19-f481fec94476;FR;2025-12-20;2026-01-04;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZA,ZB,ZC,GP,BL,MF,MQ,GY
 954e5aae-39fc-418a-8a93-e758a8a6bb67;FR;2026-02-07;2026-02-22;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZA
-58f110de-81ca-40da-8941-402f3087bc83;FR;2026-02-07;2026-02-22;School;FR Vacances de Carnaval;GP,MQ,GY
+58f110de-81ca-40da-8941-402f3087bc83;FR;2026-02-07;2026-02-22;School;FR Vacances de Carnaval;GP,BL,MF,MQ,GY
 4039a322-b417-48e1-a751-a4bd133f2b06;FR;2026-02-14;2026-03-01;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZB
 09ee863b-c982-4f62-9dea-0ca17c22b6f1;FR;2026-02-21;2026-03-08;School;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZC
 1cb0c52a-d24e-4954-bb31-7833daffebe8;FR;2026-02-28;2026-03-15;School;FR Vacances après troisième période;RU
 c9a55008-2256-49c5-8373-22eec557f96c;FR;2026-03-01;2026-03-09;School;FR Vacances de février;YT
 7c9cd3ae-0693-4de6-872f-728bf098b781;FR;2026-03-28;2026-04-12;School;FR Vacances de Pâques;MQ
 1d149a72-64c4-491b-8047-f309e82100d7;FR;2026-04-01;2026-04-15;School;FR Vacances de Pâques;GY
-379c3ccc-6cf2-4c44-b08b-05eaa88e415a;FR;2026-04-02;2026-04-19;School;FR Vacances de Pâques;GP
+379c3ccc-6cf2-4c44-b08b-05eaa88e415a;FR;2026-04-02;2026-04-19;School;FR Vacances de Pâques;GP,BL,MF
 9353034c-7df8-4d95-902f-c51002bde552;FR;2026-04-04;2026-04-19;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZA
 d9baa9e2-93dd-4b56-9e95-7658952ed1a1;FR;2026-04-11;2026-04-26;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZB
 06ebc77d-02d3-4fed-bf01-2bf6b08ab31f;FR;2026-04-18;2026-05-03;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZC
-c7eb1e77-104d-4173-b2a1-0cf1ff9b6f91;FR;2026-04-18;2026-05-04;School;FR Vacances de Pâques;GP
+c7eb1e77-104d-4173-b2a1-0cf1ff9b6f91;FR;2026-04-18;2026-05-04;School;FR Vacances de Pâques;GP,BL,MF
 1937bfbb-5bee-4cb0-b85d-cab0c5e3adc2;FR;2026-04-26;2026-05-11;School;FR Vacances de Pâques;YT
 94845932-7265-4aad-952c-232ee2e8a002;FR;2026-05-02;2026-05-17;School;FR Vacances après quatrième périodes;RU
-25265659-8d52-4b19-8edd-f321f4688cbf;FR;2026-07-04;;EndOfLessons;FR Fin des cours,DE Unterrichtsende,EN End of lessons;ZA,ZB,ZC,GP,MQ,GY,RU,YT
+25265659-8d52-4b19-8edd-f321f4688cbf;FR;2026-07-04;;EndOfLessons;FR Fin des cours,DE Unterrichtsende,EN End of lessons;ZA,ZB,ZC,GP,BL,MF,MQ,GY,RU,YT
