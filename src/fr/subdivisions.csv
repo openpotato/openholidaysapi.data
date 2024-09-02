@@ -1,145 +1,145 @@
-﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
-FR;FR-01;FR-01;01;FR département,DE Department,EN department;FR Ain;FR;AR
-FR;FR-02;FR-02;02;FR département,DE Department,EN department;FR Aisne;FR;HD
-FR;FR-03;FR-03;03;FR département,DE Department,EN department;FR Allier;FR;AR
-FR;FR-04;FR-04;04;FR département,DE Department,EN department;FR Alpes-de-Haute-Provence;FR;PC
-FR;FR-05;FR-05;05;FR département,DE Department,EN department;FR Hautes-Alpes;FR;PC
-FR;FR-06;FR-06;06;FR département,DE Department,EN department;FR Alpes-Maritimes;FR;PC
-FR;FR-07;FR-07;07;FR département,DE Department,EN department;FR Ardèche;FR;AR
-FR;FR-08;FR-08;08;FR département,DE Department,EN department;FR Ardennes;FR;GE
-FR;FR-09;FR-09;09;FR département,DE Department,EN department;FR Ariège;FR;OC
-FR;FR-2A;FR-2A;2A;FR département,DE Department,EN department;FR Corse-du-Sud;FR;CO
-FR;FR-2B;FR-2B;2B;FR département,DE Department,EN department;FR Haute-Corse;FR;CO
-FR;FR-10;FR-10;10;FR département,DE Department,EN department;FR Aube;FR;GE
-FR;FR-11;FR-11;11;FR département,DE Department,EN department;FR Aude;FR;OC
-FR;FR-12;FR-12;12;FR département,DE Department,EN department;FR Aveyron;FR;OC
-FR;FR-13;FR-13;13;FR département,DE Department,EN department;FR Bouches-du-Rhône;FR;PC
-FR;FR-14;FR-14;14;FR département,DE Department,EN department;FR Calvados;FR;NR
-FR;FR-15;FR-15;15;FR département,DE Department,EN department;FR Cantal;FR;AR
-FR;FR-16;FR-16;16;FR département,DE Department,EN department;FR Charente;FR;NQ
-FR;FR-17;FR-17;17;FR département,DE Department,EN department;FR Charente-Maritime;FR;NQ
-FR;FR-18;FR-18;18;FR département,DE Department,EN department;FR Cher;FR;CV
-FR;FR-19;FR-19;19;FR département,DE Department,EN department;FR Corrèze;FR;NQ
-FR;FR-21;FR-21;21;FR département,DE Department,EN department;FR Côte-d'Or;FR;BF
-FR;FR-22;FR-22;22;FR département,DE Department,EN department;FR Côtes-d'Armor;FR;BR
-FR;FR-23;FR-23;23;FR département,DE Department,EN department;FR Creuse;FR;NQ
-FR;FR-24;FR-24;24;FR département,DE Department,EN department;FR Dordogne;FR;NQ
-FR;FR-25;FR-25;25;FR département,DE Department,EN department;FR Doubs;FR;BF
-FR;FR-26;FR-26;26;FR département,DE Department,EN department;FR Drôme;FR;AR
-FR;FR-27;FR-27;27;FR département,DE Department,EN department;FR Eure;FR;NR
-FR;FR-28;FR-28;28;FR département,DE Department,EN department;FR Eure-et-Loir;FR;CV
-FR;FR-29;FR-29;29;FR département,DE Department,EN department;FR Finistère;FR;BR
-FR;FR-30;FR-30;30;FR département,DE Department,EN department;FR Gard;FR;OC
-FR;FR-31;FR-31;31;FR département,DE Department,EN department;FR Haute-Garonne;FR;OC
-FR;FR-32;FR-32;32;FR département,DE Department,EN department;FR Gers;FR;OC
-FR;FR-33;FR-33;33;FR département,DE Department,EN department;FR Gironde;FR;NQ
-FR;FR-34;FR-34;34;FR département,DE Department,EN department;FR Hérault;FR;OC
-FR;FR-35;FR-35;35;FR département,DE Department,EN department;FR Ille-et-Vilaine;FR;BR
-FR;FR-36;FR-36;36;FR département,DE Department,EN department;FR Indre;FR;CV
-FR;FR-37;FR-37;37;FR département,DE Department,EN department;FR Indre-et-Loire;FR;CV
-FR;FR-38;FR-38;38;FR département,DE Department,EN department;FR Isère;FR;AR
-FR;FR-39;FR-39;39;FR département,DE Department,EN department;FR Jura;FR;BF
-FR;FR-40;FR-40;40;FR département,DE Department,EN department;FR Landes;FR;NQ
-FR;FR-41;FR-41;41;FR département,DE Department,EN department;FR Loir-et-Cher;FR;CV
-FR;FR-42;FR-42;42;FR département,DE Department,EN department;FR Loire;FR;AR
-FR;FR-43;FR-43;43;FR département,DE Department,EN department;FR Haute-Loire;FR;AR
-FR;FR-44;FR-44;44;FR département,DE Department,EN department;FR Loire-Atlantique;FR;PD
-FR;FR-45;FR-45;45;FR département,DE Department,EN department;FR Loiret;FR;CV
-FR;FR-46;FR-46;46;FR département,DE Department,EN department;FR Lot;FR;OC
-FR;FR-47;FR-47;47;FR département,DE Department,EN department;FR Lot-et-Garonne;FR;NQ
-FR;FR-48;FR-48;48;FR département,DE Department,EN department;FR Lozère;FR;OC
-FR;FR-49;FR-49;49;FR département,DE Department,EN department;FR Maine-et-Loire;FR;PD
-FR;FR-50;FR-50;50;FR département,DE Department,EN department;FR Manche;FR;NR
-FR;FR-51;FR-51;51;FR département,DE Department,EN department;FR Marne;FR;GE
-FR;FR-52;FR-52;52;FR département,DE Department,EN department;FR Haute-Marne;FR;GE
-FR;FR-53;FR-53;53;FR département,DE Department,EN department;FR Mayenne;FR;PD
-FR;FR-54;FR-54;54;FR département,DE Department,EN department;FR Meurthe-et-Moselle;FR;GE
-FR;FR-55;FR-55;55;FR département,DE Department,EN department;FR Meuse;FR;GE
-FR;FR-56;FR-56;56;FR département,DE Department,EN department;FR Morbihan;FR;BR
-FR;FR-57;FR-57;57;FR département,DE Department,EN department;FR Moselle;FR;GE
-FR;FR-58;FR-58;58;FR département,DE Department,EN department;FR Nièvre;FR;BF
-FR;FR-59;FR-59;59;FR département,DE Department,EN department;FR Nord;FR;HD
-FR;FR-60;FR-60;60;FR département,DE Department,EN department;FR Oise;FR;HD
-FR;FR-61;FR-61;61;FR département,DE Department,EN department;FR Orne;FR;NR
-FR;FR-62;FR-62;62;FR département,DE Department,EN department;FR Pas-de-Calais;FR;HD
-FR;FR-63;FR-63;63;FR département,DE Department,EN department;FR Puy-de-Dôme;FR;AR
-FR;FR-64;FR-64;64;FR département,DE Department,EN department;FR Pyrénées-Atlantiques;FR;NQ
-FR;FR-65;FR-65;65;FR département,DE Department,EN department;FR Hautes-Pyrénées;FR;OC
-FR;FR-66;FR-66;66;FR département,DE Department,EN department;FR Pyrénées-Orientales;FR;OC
-FR;FR-67;FR-67;67;FR département,DE Department,EN department;FR Bas-Rhin;FR;GE
-FR;FR-68;FR-68;68;FR département,DE Department,EN department;FR Haut-Rhin;FR;GE
-FR;FR-69;FR-69;69;FR département,DE Department,EN department;FR Rhône;FR;AR
-FR;FR-70;FR-70;70;FR département,DE Department,EN department;FR Haute-Saône;FR;BF
-FR;FR-71;FR-71;71;FR département,DE Department,EN department;FR Saône-et-Loire;FR;BF
-FR;FR-72;FR-72;72;FR département,DE Department,EN department;FR Sarthe;FR;PD
-FR;FR-73;FR-73;73;FR département,DE Department,EN department;FR Savoie;FR;AR
-FR;FR-74;FR-74;74;FR département,DE Department,EN department;FR Haute-Savoie;FR;AR
-FR;FR-75;FR-75;75;FR département,DE Department,EN department;FR Paris;FR;ID
-FR;FR-76;FR-76;76;FR département,DE Department,EN department;FR Seine-Maritime;FR;NR
-FR;FR-77;FR-77;77;FR département,DE Department,EN department;FR Seine-et-Marne;FR;ID
-FR;FR-78;FR-78;78;FR département,DE Department,EN department;FR Yvelines;FR;ID
-FR;FR-79;FR-79;79;FR département,DE Department,EN department;FR Deux-Sèvres;FR;NQ
-FR;FR-80;FR-80;80;FR département,DE Department,EN department;FR Somme;FR;HD
-FR;FR-81;FR-81;81;FR département,DE Department,EN department;FR Tarn;FR;OC
-FR;FR-82;FR-82;82;FR département,DE Department,EN department;FR Tarn-et-Garonne;FR;OC
-FR;FR-83;FR-83;83;FR département,DE Department,EN department;FR Var;FR;PC
-FR;FR-84;FR-84;84;FR département,DE Department,EN department;FR Vaucluse;FR;PC
-FR;FR-85;FR-85;85;FR département,DE Department,EN department;FR Vendée;FR;PD
-FR;FR-86;FR-86;86;FR département,DE Department,EN department;FR Vienne;FR;NQ
-FR;FR-87;FR-87;87;FR département,DE Department,EN department;FR Haute-Vienne;FR;NQ
-FR;FR-88;FR-88;88;FR département,DE Department,EN department;FR Vosges;FR;GE
-FR;FR-89;FR-89;89;FR département,DE Department,EN department;FR Yonne;FR;BF
-FR;FR-90;FR-90;90;FR département,DE Department,EN department;FR Territoire de Belfort;FR;BF
-FR;FR-91;FR-91;91;FR département,DE Department,EN department;FR Essonne;FR;ID
-FR;FR-92;FR-92;92;FR département,DE Department,EN department;FR Hauts-de-Seine;FR;ID
-FR;FR-93;FR-93;93;FR département,DE Department,EN department;FR Seine-Saint-Denis;FR;ID
-FR;FR-94;FR-94;94;FR département,DE Department,EN department;FR Val-de-Marne;FR;ID
-FR;FR-95;FR-95;95;FR département,DE Department,EN department;FR Val-d'Oise;FR;ID
-FR;FR-ZB-AM;;AM;FR académie,DE Schulbezirk,EN school district;FR Amiens;FR;ZB
-FR;FR-AR;FR-ARA;AR;FR région,DE Region,EN region;FR Auvergne-Rhône-Alpes;FR;ZA
-FR;FR-ZB-AX;;AX;FR académie,DE Schulbezirk,EN school district;FR Aix-Marseille;FR;ZB
-FR;FR-ZA-BE;;BE;FR académie,DE Schulbezirk,EN school district;FR Besançon;FR;ZA
-FR;FR-BF;FR-BFC;BF;FR région,DE Region,EN region;FR Bourgogne-Franche-Comté;FR;ZA
-FR;FR-BL;FR-BL;BL;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR Saint-Barthélemy,DE St. Barts,EN St. Barts;FR;
-FR;FR-ZA-BO;;BO;FR académie,DE Schulbezirk,EN school district;FR Bordeaux;FR;ZA
-FR;FR-BR;FR-BRE;BR;FR région,DE Region,EN region;FR Bretagne;FR;ZB
-FR;FR-ZA-CF;;CF;FR académie,DE Schulbezirk,EN school district;FR Clermont-Ferrand;FR;ZA
-FR;FR-CO;FR-20R;CO;FR collectivité métropolitaine à statut particulier,DE Gebietskörperschaft mit Sonderstatus,EN metropolitan collectivity with special status;FR Corse,DE Korsika,EN Corsica;FR;
-FR;FR-ZC-CR;;CR;FR académie,DE Schulbezirk,EN school district;FR Créteil;FR;ZC
-FR;FR-CV;FR-CVL;CV;FR région,DE Region,EN region;FR Centre-Val de Loire;FR;ZB
-FR;FR-ZA-DI;;DI;FR académie,DE Schulbezirk,EN school district;FR Dijon;FR;ZA
-FR;FR-GE;FR-GES;GE;FR région,DE Region,EN region;FR Grand Est;FR;ZB
-FR;FR-GP;FR-971;GP;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR Guadeloupe,DE Guadeloupe,EN Guadeloupe;FR;
-FR;FR-ZA-GR;;GR;FR académie,DE Schulbezirk,EN school district;FR Grenoble;FR;ZA
-FR;FR-GY;FR-973;GY;FR collectivité territoriale unique d'outre-mer,DE Gebietskörperschaft mit Sonderstatus,EN overseas unique territorial collectivity;FR Guyane,DE Guyana,EN Guyana;FR;
-FR;FR-HD;FR-HDF;HD;FR région,DE Region,EN region;FR Hauts-de-France;FR;ZB
-FR;FR-ID;FR-IDF;ID;FR région,DE Region,EN region;FR Île-de-France;FR;ZC
-FR;FR-ZA-LI;;LI;FR académie,DE Schulbezirk,EN school district;FR Limoges;FR;ZA
-FR;FR-ZB-LL;;LL;FR académie,DE Schulbezirk,EN school district;FR Lille;FR;ZB
-FR;FR-ZA-LY;;LY;FR académie,DE Schulbezirk,EN school district;FR Lyon;FR;ZA
-FR;FR-MF;FR-MF;MF;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR Saint-Martin,DE Saint Martin,EN Saint Martin;FR;
-FR;FR-ZC-MO;;MO;FR académie,DE Schulbezirk,EN school district;FR Montpellier;FR;ZC
-FR;FR-MQ;FR-972;MQ;FR collectivité territoriale unique d'outre-mer,DE Gebietskörperschaft mit Sonderstatus,EN overseas unique territorial collectivity;FR Martinique,DE Martinique,EN Martinique;FR;
-FR;FR-ZB-NA;;NA;FR académie,DE Schulbezirk,EN school district;FR Nantes;FR;ZB
-FR;FR-ZB-NI;;NI;FR académie,DE Schulbezirk,EN school district;FR Nice;FR;ZB
-FR;FR-ZB-NM;;NM;FR académie,DE Schulbezirk,EN school district;FR Nancy-Metz;FR;ZB
-FR;FR-ZB-NO;;NO;FR académie,DE Schulbezirk,EN school district;FR Normandie;FR;ZB
-FR;FR-NQ;FR-NAQ;NQ;FR région,DE Region,EN region;FR Nouvelle-Aquitaine;FR;ZA
-FR;FR-NR;FR-NOR;NR;FR région,DE Region,EN region;FR Normandie;FR;ZB
-FR;FR-OC;FR-OCC;OC;FR région,DE Region,EN region;FR Occitanie;FR;ZC
-FR;FR-ZB-OT;;OT;FR académie,DE Schulbezirk,EN school district;FR Orléans-Tours;FR;ZB
-FR;FR-ZC-PA;;PA;FR académie,DE Schulbezirk,EN school district;FR Paris;FR;ZC
-FR;FR-PC;FR-PAC;PC;FR région,DE Region,EN region;FR Provence-Alpes-Côte d'Azur;FR;ZB
-FR;FR-PD;FR-PDL;PD;FR région,DE Region,EN region;FR Pays de la Loire;FR;ZB
-FR;FR-ZA-PO;;PO;FR académie,DE Schulbezirk,EN school district;FR Poitiers;FR;ZA
-FR;FR-ZB-RE;;RE;FR académie,DE Schulbezirk,EN school district;FR Reims;FR;ZB
-FR;FR-ZB-RN;;RN;FR académie,DE Schulbezirk,EN school district;FR Rennes;FR;ZB
-FR;FR-RU;FR-974;RU;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR La Réunion,DE Reunion,EN Reunion;FR;
-FR;FR-SP;FR-975;SP;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR Saint-Pierre-et-Miquelon,DE Saint-Pierre und Miquelon,EN Saint Pierre and Miquelon;FR;
-FR;FR-ZB-ST;;ST;FR académie,DE Schulbezirk,EN school district;FR Strasbourg;FR;ZB
-FR;FR-ZC-TO;;TO;FR académie,DE Schulbezirk,EN school district;FR Toulouse;FR;ZC
-FR;FR-ZC-VE;;VE;FR académie,DE Schulbezirk,EN school district;FR Versailles;FR;ZC
-FR;FR-YT;FR-976;YT;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR Mayotte,DE Mayotte,EN Mayotte;FR;
-FR;FR-ZA;;ZA;FR zone,DE Zone,EN zone;FR Zone A,DE Zone A,EN Zone A;FR;
-FR;FR-ZB;;ZB;FR zone,DE Zone,EN zone;FR Zone B,DE Zone B,EN Zone B;FR;
-FR;FR-ZC;;ZC;FR zone,DE Zone,EN zone;FR Zone C,DE Zone C,EN Zone C;FR;
+﻿Country;Code;IsoCode;ShortName;Parent;Name;Category;OfficialLanguages
+FR;FR-ZA;;ZA;;FR Zone A,DE Zone A,EN Zone A;FR zone,DE Zone,EN zone;FR
+FR;FR-ZA-BE;;ZA-BE;ZA;FR Besançon;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZA-BO;;ZA-BO;ZA;FR Bordeaux;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZA-CF;;ZA-CF;ZA;FR Clermont-Ferrand;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZA-DI;;ZA-DI;ZA;FR Dijon;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZA-GR;;ZA-GR;ZA;FR Grenoble;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZA-LI;;ZA-LI;ZA;FR Limoges;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZA-LY;;ZA-LY;ZA;FR Lyon;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZA-PO;;ZA-PO;ZA;FR Poitiers;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB;;ZB;;FR Zone B,DE Zone B,EN Zone B;FR zone,DE Zone,EN zone;FR
+FR;FR-ZB-AM;;ZB-AM;ZB;FR Amiens;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB-AX;;ZB-AX;ZB;FR Aix-Marseille;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB-LL;;ZB-LL;ZB;FR Lille;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB-NA;;ZB-NA;ZB;FR Nantes;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB-NI;;ZB-NI;ZB;FR Nice;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB-NM;;ZB-NM;ZB;FR Nancy-Metz;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB-NO;;ZB-NO;ZB;FR Normandie;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB-OT;;ZB-OT;ZB;FR Orléans-Tours;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB-RE;;ZB-RE;ZB;FR Reims;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB-RN;;ZB-RN;ZB;FR Rennes;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZB-ST;;ZB-ST;ZB;FR Strasbourg;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZC;;ZC;;FR Zone C,DE Zone C,EN Zone C;FR zone,DE Zone,EN zone;FR
+FR;FR-ZC-CR;;ZC-CR;ZC;FR Créteil;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZC-MO;;ZC-MO;ZC;FR Montpellier;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZC-PA;;ZC-PA;ZC;FR Paris;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZC-TO;;ZC-TO;ZC;FR Toulouse;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-ZC-VE;;ZC-VE;ZC;FR Versailles;FR académie,DE Schulbezirk,EN school district;FR
+FR;FR-AR;FR-ARA;AR;ZA;FR Auvergne-Rhône-Alpes;FR région,DE Region,EN region;FR
+FR;FR-BF;FR-BFC;BF;ZA;FR Bourgogne-Franche-Comté;FR région,DE Region,EN region;FR
+FR;FR-BT;FR-BRE;BT;ZB;FR Bretagne;FR région,DE Region,EN region;FR
+FR;FR-CV;FR-CVL;CV;ZB;FR Centre-Val de Loire;FR région,DE Region,EN region;FR
+FR;FR-GE;FR-GES;GE;ZB;FR Grand Est;FR région,DE Region,EN region;FR
+FR;FR-HF;FR-HDF;HF;ZB;FR Hauts-de-France;FR région,DE Region,EN region;FR
+FR;FR-IF;FR-IDF;IF;ZC;FR Île-de-France;FR région,DE Region,EN region;FR
+FR;FR-NA;FR-NAQ;NA;ZA;FR Nouvelle-Aquitaine;FR région,DE Region,EN region;FR
+FR;FR-NO;FR-NOR;NO;ZB;FR Normandie;FR région,DE Region,EN region;FR
+FR;FR-OC;FR-OCC;OC;ZC;FR Occitanie;FR région,DE Region,EN region;FR
+FR;FR-PC;FR-PAC;PC;ZB;FR Provence-Alpes-Côte d'Azur;FR région,DE Region,EN region;FR
+FR;FR-PL;FR-PDL;PL;ZB;FR Pays de la Loire;FR région,DE Region,EN region;FR
+FR;FR-BL;FR-BL;BL;;FR Saint-Barthélemy,DE St. Barts,EN St. Barts;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR
+FR;FR-MF;FR-MF;MF;;FR Saint-Martin,DE Saint Martin,EN Saint Martin;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR
+FR;FR-SP;FR-975;SP;;FR Saint-Pierre-et-Miquelon,DE Saint-Pierre und Miquelon,EN Saint Pierre and Miquelon;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR
+FR;FR-GP;FR-971;GP;;FR Guadeloupe,DE Guadeloupe,EN Guadeloupe;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR
+FR;FR-RU;FR-974;RU;;FR La Réunion,DE Reunion,EN Reunion;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR
+FR;FR-YT;FR-976;YT;;FR Mayotte,DE Mayotte,EN Mayotte;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR
+FR;FR-CO;FR-20R;CO;;FR Corse,DE Korsika,EN Corsica;FR collectivité métropolitaine à statut particulier,DE Gebietskörperschaft mit Sonderstatus,EN metropolitan collectivity with special status;FR
+FR;FR-GY;FR-973;GY;;FR Guyane,DE Guyana,EN Guyana;FR collectivité territoriale unique d'outre-mer,DE Gebietskörperschaft mit Sonderstatus,EN overseas unique territorial collectivity;FR
+FR;FR-MQ;FR-972;MQ;;FR Martinique,DE Martinique,EN Martinique;FR collectivité territoriale unique d'outre-mer,DE Gebietskörperschaft mit Sonderstatus,EN overseas unique territorial collectivity;FR
+FR;FR-AR-AI;FR-01;AR-AI;AR;FR Ain;FR département,DE Department,EN department;FR
+FR;FR-HF-AS;FR-02;HF-AS;HF;FR Aisne;FR département,DE Department,EN department;FR
+FR;FR-AR-AL;FR-03;AR-AL;AR;FR Allier;FR département,DE Department,EN department;FR
+FR;FR-PC-AP;FR-04;PC-AP;PC;FR Alpes-de-Haute-Provence;FR département,DE Department,EN department;FR
+FR;FR-PC-HA;FR-05;PC-HA;PC;FR Hautes-Alpes;FR département,DE Department,EN department;FR
+FR;FR-PC-AM;FR-06;PC-AM;PC;FR Alpes-Maritimes;FR département,DE Department,EN department;FR
+FR;FR-AR-AH;FR-07;AR-AH;AR;FR Ardèche;FR département,DE Department,EN department;FR
+FR;FR-GE-AN;FR-08;GE-AN;GE;FR Ardennes;FR département,DE Department,EN department;FR
+FR;FR-OC-AG;FR-09;OC-AG;OC;FR Ariège;FR département,DE Department,EN department;FR
+FR;FR-GE-AB;FR-10;GE-AB;GE;FR Aube;FR département,DE Department,EN department;FR
+FR;FR-OC-AD;FR-11;OC-AD;OC;FR Aude;FR département,DE Department,EN department;FR
+FR;FR-OC-AV;FR-12;OC-AV;OC;FR Aveyron;FR département,DE Department,EN department;FR
+FR;FR-PC-BD;FR-13;PC-BD;PC;FR Bouches-du-Rhône;FR département,DE Department,EN department;FR
+FR;FR-NO-CV;FR-14;NO-CV;NO;FR Calvados;FR département,DE Department,EN department;FR
+FR;FR-AR-CL;FR-15;AR-CL;AR;FR Cantal;FR département,DE Department,EN department;FR
+FR;FR-NA-CT;FR-16;NA-CT;NA;FR Charente;FR département,DE Department,EN department;FR
+FR;FR-NA-CM;FR-17;NA-CM;NA;FR Charente-Maritime;FR département,DE Department,EN department;FR
+FR;FR-CV-CH;FR-18;CV-CH;CV;FR Cher;FR département,DE Department,EN department;FR
+FR;FR-NA-CZ;FR-19;NA-CZ;NA;FR Corrèze;FR département,DE Department,EN department;FR
+FR;FR-BF-CO;FR-21;BF-CO;BF;FR Côte-d'Or;FR département,DE Department,EN department;FR
+FR;FR-BT-CA;FR-22;BT-CA;BT;FR Côtes-d'Armor;FR département,DE Department,EN department;FR
+FR;FR-NA-CR;FR-23;NA-CR;NA;FR Creuse;FR département,DE Department,EN department;FR
+FR;FR-NA-DD;FR-24;NA-DD;NA;FR Dordogne;FR département,DE Department,EN department;FR
+FR;FR-BF-DB;FR-25;BF-DB;BF;FR Doubs;FR département,DE Department,EN department;FR
+FR;FR-AR-DM;FR-26;AR-DM;AR;FR Drôme;FR département,DE Department,EN department;FR
+FR;FR-NO-EU;FR-27;NO-EU;NO;FR Eure;FR département,DE Department,EN department;FR
+FR;FR-CV-EL;FR-28;CV-EL;CV;FR Eure-et-Loir;FR département,DE Department,EN department;FR
+FR;FR-BT-FI;FR-29;BT-FI;BT;FR Finistère;FR département,DE Department,EN department;FR
+FR;FR-CO-CS;FR-2A;CO-CS;CO;FR Corse-du-Sud;FR département,DE Department,EN department;FR
+FR;FR-CO-HC;FR-2B;CO-HC;CO;FR Haute-Corse;FR département,DE Department,EN department;FR
+FR;FR-OC-GA;FR-30;OC-GA;OC;FR Gard;FR département,DE Department,EN department;FR
+FR;FR-OC-HG;FR-31;OC-HG;OC;FR Haute-Garonne;FR département,DE Department,EN department;FR
+FR;FR-OC-GE;FR-32;OC-GE;OC;FR Gers;FR département,DE Department,EN department;FR
+FR;FR-NA-GI;FR-33;NA-GI;NA;FR Gironde;FR département,DE Department,EN department;FR
+FR;FR-OC-HE;FR-34;OC-HE;OC;FR Hérault;FR département,DE Department,EN department;FR
+FR;FR-BT-IV;FR-35;BT-IV;BT;FR Ille-et-Vilaine;FR département,DE Department,EN department;FR
+FR;FR-CV-IN;FR-36;CV-IN;CV;FR Indre;FR département,DE Department,EN department;FR
+FR;FR-CV-IL;FR-37;CV-IL;CV;FR Indre-et-Loire;FR département,DE Department,EN department;FR
+FR;FR-AR-IS;FR-38;AR-IS;AR;FR Isère;FR département,DE Department,EN department;FR
+FR;FR-BF-JU;FR-39;BF-JU;BF;FR Jura;FR département,DE Department,EN department;FR
+FR;FR-NA-LA;FR-40;NA-LA;NA;FR Landes;FR département,DE Department,EN department;FR
+FR;FR-CV-LC;FR-41;CV-LC;CV;FR Loir-et-Cher;FR département,DE Department,EN department;FR
+FR;FR-AR-LO;FR-42;AR-LO;AR;FR Loire;FR département,DE Department,EN department;FR
+FR;FR-AR-HL;FR-43;AR-HL;AR;FR Haute-Loire;FR département,DE Department,EN department;FR
+FR;FR-PL-LA;FR-44;PL-LA;PL;FR Loire-Atlantique;FR département,DE Department,EN department;FR
+FR;FR-CV-LO;FR-45;CV-LO;CV;FR Loiret;FR département,DE Department,EN department;FR
+FR;FR-OC-LO;FR-46;OC-LO;OC;FR Lot;FR département,DE Department,EN department;FR
+FR;FR-NA-CG;FR-47;NA-CG;NA;FR Lot-et-Garonne;FR département,DE Department,EN department;FR
+FR;FR-OC-LZ;FR-48;OC-LZ;OC;FR Lozère;FR département,DE Department,EN department;FR
+FR;FR-PL-ML;FR-49;PL-ML;PL;FR Maine-et-Loire;FR département,DE Department,EN department;FR
+FR;FR-NO-MA;FR-50;NO-MA;NO;FR Manche;FR département,DE Department,EN department;FR
+FR;FR-GE-MA;FR-51;GE-MA;GE;FR Marne;FR département,DE Department,EN department;FR
+FR;FR-GE-HM;FR-52;GE-HM;GE;FR Haute-Marne;FR département,DE Department,EN department;FR
+FR;FR-PL-MY;FR-53;PL-MY;PL;FR Mayenne;FR département,DE Department,EN department;FR
+FR;FR-GE-MM;FR-54;GE-MM;GE;FR Meurthe-et-Moselle;FR département,DE Department,EN department;FR
+FR;FR-GE-ME;FR-55;GE-ME;GE;FR Meuse;FR département,DE Department,EN department;FR
+FR;FR-BT-MO;FR-56;BT-MO;BT;FR Morbihan;FR département,DE Department,EN department;FR
+FR;FR-GE-MO;FR-57;GE-MO;GE;FR Moselle;FR département,DE Department,EN department;FR
+FR;FR-BF-NI;FR-58;BF-NI;BF;FR Nièvre;FR département,DE Department,EN department;FR
+FR;FR-HF-NO;FR-59;HF-NO;HF;FR Nord;FR département,DE Department,EN department;FR
+FR;FR-HF-OL;FR-60;HF-OL;HF;FR Oise;FR département,DE Department,EN department;FR
+FR;FR-NO-OR;FR-61;NO-OR;NO;FR Orne;FR département,DE Department,EN department;FR
+FR;FR-HF-PC;FR-62;HF-PC;HF;FR Pas-de-Calais;FR département,DE Department,EN department;FR
+FR;FR-AR-PD;FR-63;AR-PD;AR;FR Puy-de-Dôme;FR département,DE Department,EN department;FR
+FR;FR-NA-PA;FR-64;NA-PA;NA;FR Pyrénées-Atlantiques;FR département,DE Department,EN department;FR
+FR;FR-OC-HP;FR-65;OC-HP;OC;FR Hautes-Pyrénées;FR département,DE Department,EN department;FR
+FR;FR-OC-PO;FR-66;OC-PO;OC;FR Pyrénées-Orientales;FR département,DE Department,EN department;FR
+FR;FR-GE-BR;FR-67;GE-BR;GE;FR Bas-Rhin;FR département,DE Department,EN department;FR
+FR;FR-GE-HR;FR-68;GE-HR;GE;FR Haut-Rhin;FR département,DE Department,EN department;FR
+FR;FR-AR-RH;FR-69;AR-RH;AR;FR Rhône;FR département,DE Department,EN department;FR
+FR;FR-BF-HS;FR-70;BF-HS;BF;FR Haute-Saône;FR département,DE Department,EN department;FR
+FR;FR-BF-SL;FR-71;BF-SL;BF;FR Saône-et-Loire;FR département,DE Department,EN department;FR
+FR;FR-PL-SA;FR-72;PL-SA;PL;FR Sarthe;FR département,DE Department,EN department;FR
+FR;FR-AR-SV;FR-73;AR-SV;AR;FR Savoie;FR département,DE Department,EN department;FR
+FR;FR-AR-HS;FR-74;AR-HS;AR;FR Haute-Savoie;FR département,DE Department,EN department;FR
+FR;FR-IF-PA;FR-75;IF-PA;IF;FR Paris;FR département,DE Department,EN department;FR
+FR;FR-NO-SM;FR-76;NO-SM;NO;FR Seine-Maritime;FR département,DE Department,EN department;FR
+FR;FR-IF-SM;FR-77;IF-SM;IF;FR Seine-et-Marne;FR département,DE Department,EN department;FR
+FR;FR-IF-YV;FR-78;IF-YV;IF;FR Yvelines;FR département,DE Department,EN department;FR
+FR;FR-NA-DS;FR-79;NA-DS;NA;FR Deux-Sèvres;FR département,DE Department,EN department;FR
+FR;FR-HF-SO;FR-80;HF-SO;HF;FR Somme;FR département,DE Department,EN department;FR
+FR;FR-OC-TA;FR-81;OC-TA;OC;FR Tarn;FR département,DE Department,EN department;FR
+FR;FR-OC-TG;FR-82;OC-TG;OC;FR Tarn-et-Garonne;FR département,DE Department,EN department;FR
+FR;FR-PC-VA;FR-83;PC-VA;PC;FR Var;FR département,DE Department,EN department;FR
+FR;FR-PC-VC;FR-84;PC-VC;PC;FR Vaucluse;FR département,DE Department,EN department;FR
+FR;FR-PL-VE;FR-85;PL-VE;PL;FR Vendée;FR département,DE Department,EN department;FR
+FR;FR-NA-VI;FR-86;NA-VI;NA;FR Vienne;FR département,DE Department,EN department;FR
+FR;FR-NA-HV;FR-87;NA-HV;NA;FR Haute-Vienne;FR département,DE Department,EN department;FR
+FR;FR-GE-VO;FR-88;GE-VO;GE;FR Vosges;FR département,DE Department,EN department;FR
+FR;FR-BF-YO;FR-89;BF-YO;BF;FR Yonne;FR département,DE Department,EN department;FR
+FR;FR-BF-TB;FR-90;BF-TB;BF;FR Territoire de Belfort;FR département,DE Department,EN department;FR
+FR;FR-IF-ES;FR-91;IF-ES;IF;FR Essonne;FR département,DE Department,EN department;FR
+FR;FR-IF-HS;FR-92;IF-HS;IF;FR Hauts-de-Seine;FR département,DE Department,EN department;FR
+FR;FR-IF-SD;FR-93;IF-SD;IF;FR Seine-Saint-Denis;FR département,DE Department,EN department;FR
+FR;FR-IF-VM;FR-94;IF-VM;IF;FR Val-de-Marne;FR département,DE Department,EN department;FR
+FR;FR-IF-VO;FR-95;IF-VO;IF;FR Val-d'Oise;FR département,DE Department,EN department;FR
