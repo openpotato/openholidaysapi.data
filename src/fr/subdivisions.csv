@@ -1,44 +1,4 @@
 ﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
-FR;FR-ZA;;ZA;FR zone,DE Zone,EN zone;FR Zone A,DE Zone A,EN Zone A;FR;
-FR;FR-ZB;;ZB;FR zone,DE Zone,EN zone;FR Zone B,DE Zone B,EN Zone B;FR;
-FR;FR-ZC;;ZC;FR zone,DE Zone,EN zone;FR Zone C,DE Zone C,EN Zone C;FR;
-FR;FR-ZA-BE;;BE;FR académie,DE Schulbezirk,EN school district;FR Besançon;FR;ZA
-FR;FR-ZA-BO;;BO;FR académie,DE Schulbezirk,EN school district;FR Bordeaux;FR;ZA
-FR;FR-ZA-CF;;CF;FR académie,DE Schulbezirk,EN school district;FR Clermont-Ferrand;FR;ZA
-FR;FR-ZA-DI;;DI;FR académie,DE Schulbezirk,EN school district;FR Dijon;FR;ZA
-FR;FR-ZA-GR;;GR;FR académie,DE Schulbezirk,EN school district;FR Grenoble;FR;ZA
-FR;FR-ZA-LI;;LI;FR académie,DE Schulbezirk,EN school district;FR Limoges;FR;ZA
-FR;FR-ZA-LY;;LY;FR académie,DE Schulbezirk,EN school district;FR Lyon;FR;ZA
-FR;FR-ZA-PO;;PO;FR académie,DE Schulbezirk,EN school district;FR Poitiers;FR;ZA
-FR;FR-ZB-AM;;AM;FR académie,DE Schulbezirk,EN school district;FR Amiens;FR;ZB
-FR;FR-ZB-AX;;AX;FR académie,DE Schulbezirk,EN school district;FR Aix-Marseille;FR;ZB
-FR;FR-ZB-LL;;LL;FR académie,DE Schulbezirk,EN school district;FR Lille;FR;ZB
-FR;FR-ZB-NA;;NA;FR académie,DE Schulbezirk,EN school district;FR Nantes;FR;ZB
-FR;FR-ZB-NI;;NI;FR académie,DE Schulbezirk,EN school district;FR Nice;FR;ZB
-FR;FR-ZB-NM;;NM;FR académie,DE Schulbezirk,EN school district;FR Nancy-Metz;FR;ZB
-FR;FR-ZB-NO;;NO;FR académie,DE Schulbezirk,EN school district;FR Normandie;FR;ZB
-FR;FR-ZB-OT;;OT;FR académie,DE Schulbezirk,EN school district;FR Orléans-Tours;FR;ZB
-FR;FR-ZB-RE;;RE;FR académie,DE Schulbezirk,EN school district;FR Reims;FR;ZB
-FR;FR-ZB-RN;;RN;FR académie,DE Schulbezirk,EN school district;FR Rennes;FR;ZB
-FR;FR-ZB-ST;;ST;FR académie,DE Schulbezirk,EN school district;FR Strasbourg;FR;ZB
-FR;FR-ZC-CR;;CR;FR académie,DE Schulbezirk,EN school district;FR Créteil;FR;ZC
-FR;FR-ZC-MO;;MO;FR académie,DE Schulbezirk,EN school district;FR Montpellier;FR;ZC
-FR;FR-ZC-PA;;PA;FR académie,DE Schulbezirk,EN school district;FR Paris;FR;ZC
-FR;FR-ZC-TO;;TO;FR académie,DE Schulbezirk,EN school district;FR Toulouse;FR;ZC
-FR;FR-ZC-VE;;VE;FR académie,DE Schulbezirk,EN school district;FR Versailles;FR;ZC
-FR;FR-CO;FR-20R;CO;FR collectivité métropolitaine à statut particulier,DE Gebietskörperschaft mit Sonderstatus,EN metropolitan collectivity with special status;FR Corse,DE Korsika,EN Corsica;FR;
-FR;FR-ARA;FR-ARA;AR;FR région,DE Region,EN region;FR Auvergne-Rhône-Alpes;FR;ZA
-FR;FR-BFC;FR-BFC;BF;FR région,DE Region,EN region;FR Bourgogne-Franche-Comté;FR;ZA
-FR;FR-BRE;FR-BRE;BR;FR région,DE Region,EN region;FR Bretagne;FR;ZB
-FR;FR-CVL;FR-CVL;CV;FR région,DE Region,EN region;FR Centre-Val de Loire;FR;ZB
-FR;FR-GES;FR-GES;GE;FR région,DE Region,EN region;FR Grand Est;FR;ZB
-FR;FR-HDF;FR-HDF;HD;FR région,DE Region,EN region;FR Hauts-de-France;FR;ZB
-FR;FR-IDF;FR-IDF;ID;FR région,DE Region,EN region;FR Île-de-France;FR;ZC
-FR;FR-NOR;FR-NOR;NR;FR région,DE Region,EN region;FR Normandie;FR;ZB
-FR;FR-NAQ;FR-NAQ;NQ;FR région,DE Region,EN region;FR Nouvelle-Aquitaine;FR;ZA
-FR;FR-OCC;FR-OCC;OC;FR région,DE Region,EN region;FR Occitanie;FR;ZC
-FR;FR-PDL;FR-PDL;PD;FR région,DE Region,EN region;FR Pays de la Loire;FR;ZB
-FR;FR-PAC;FR-PAC;PC;FR région,DE Region,EN region;FR Provence-Alpes-Côte d'Azur;FR;ZB
 FR;FR-01;FR-01;01;FR département,DE Department,EN department;FR Ain;FR;AR
 FR;FR-02;FR-02;02;FR département,DE Department,EN department;FR Aisne;FR;HD
 FR;FR-03;FR-03;03;FR département,DE Department,EN department;FR Allier;FR;AR
@@ -48,6 +8,8 @@ FR;FR-06;FR-06;06;FR département,DE Department,EN department;FR Alpes-Maritimes
 FR;FR-07;FR-07;07;FR département,DE Department,EN department;FR Ardèche;FR;AR
 FR;FR-08;FR-08;08;FR département,DE Department,EN department;FR Ardennes;FR;GE
 FR;FR-09;FR-09;09;FR département,DE Department,EN department;FR Ariège;FR;OC
+FR;FR-2A;FR-2A;2A;FR département,DE Department,EN department;FR Corse-du-Sud;FR;CO
+FR;FR-2B;FR-2B;2B;FR département,DE Department,EN department;FR Haute-Corse;FR;CO
 FR;FR-10;FR-10;10;FR département,DE Department,EN department;FR Aube;FR;GE
 FR;FR-11;FR-11;11;FR département,DE Department,EN department;FR Aude;FR;OC
 FR;FR-12;FR-12;12;FR département,DE Department,EN department;FR Aveyron;FR;OC
@@ -58,8 +20,6 @@ FR;FR-16;FR-16;16;FR département,DE Department,EN department;FR Charente;FR;NQ
 FR;FR-17;FR-17;17;FR département,DE Department,EN department;FR Charente-Maritime;FR;NQ
 FR;FR-18;FR-18;18;FR département,DE Department,EN department;FR Cher;FR;CV
 FR;FR-19;FR-19;19;FR département,DE Department,EN department;FR Corrèze;FR;NQ
-FR;FR-2A;FR-2A;2A;FR département,DE Department,EN department;FR Corse-du-Sud;FR;CO
-FR;FR-2B;FR-2B;2B;FR département,DE Department,EN department;FR Haute-Corse;FR;CO
 FR;FR-21;FR-21;21;FR département,DE Department,EN department;FR Côte-d'Or;FR;BF
 FR;FR-22;FR-22;22;FR département,DE Department,EN department;FR Côtes-d'Armor;FR;BR
 FR;FR-23;FR-23;23;FR département,DE Department,EN department;FR Creuse;FR;NQ
@@ -135,11 +95,51 @@ FR;FR-92;FR-92;92;FR département,DE Department,EN department;FR Hauts-de-Seine;
 FR;FR-93;FR-93;93;FR département,DE Department,EN department;FR Seine-Saint-Denis;FR;ID
 FR;FR-94;FR-94;94;FR département,DE Department,EN department;FR Val-de-Marne;FR;ID
 FR;FR-95;FR-95;95;FR département,DE Department,EN department;FR Val-d'Oise;FR;ID
-FR;FR-GLP;FR-971;GP;FR département d'outre-mer,DE Überseedepartement,EN overseas department;FR Guadeloupe,DE Guadeloupe,EN Guadeloupe;FR
-FR;FR-MTQ;FR-972;MQ;FR collectivité métropolitaine à statut particulier,DE Gebietskörperschaft mit Sonderstatus,EN metropolitan collectivity with special status;FR Martinique,DE Martinique,EN Martinique;FR
-FR;FR-GUY;FR-973;GY;FR collectivité métropolitaine à statut particulier,DE Gebietskörperschaft mit Sonderstatus,EN metropolitan collectivity with special status;FR Guyane,DE Guyana,EN Guyana;FR
-FR;FR-REU;FR-974;RU;FR département d'outre-mer,DE Überseedepartement,EN overseas department;FR La Réunion,DE Reunion,EN Reunion;FR
-FR;FR-SPM;FR-975;SP;FR collectivité d'outre-mer,DE überseeische Gebietskörperschaft,EN overseas collectivity;FR Saint-Pierre-et-Miquelon,DE Saint-Pierre und Miquelon,EN Saint Pierre and Miquelon;FR
-FR;FR-MYT;FR-976;YT;FR collectivité métropolitaine à statut particulier,DE Gebietskörperschaft mit Sonderstatus,EN metropolitan collectivity with special status;FR Mayotte,DE Mayotte,EN Mayotte;FR
-FR;FR-BLM;FR-BL;BL;FR collectivité d'outre-mer,DE überseeische Gebietskörperschaft,EN overseas collectivity;FR Saint-Barthélemy,DE St. Barts,EN St. Barts;FR
-FR;FR-MAF;FR-MF;MF;FR collectivité d'outre-mer,DE überseeische Gebietskörperschaft,EN overseas collectivity;FR Saint-Martin,DE Saint Martin,EN Saint Martin;FR
+FR;FR-ZB-AM;;AM;FR académie,DE Schulbezirk,EN school district;FR Amiens;FR;ZB
+FR;FR-AR;FR-ARA;AR;FR région,DE Region,EN region;FR Auvergne-Rhône-Alpes;FR;ZA
+FR;FR-ZB-AX;;AX;FR académie,DE Schulbezirk,EN school district;FR Aix-Marseille;FR;ZB
+FR;FR-ZA-BE;;BE;FR académie,DE Schulbezirk,EN school district;FR Besançon;FR;ZA
+FR;FR-BF;FR-BFC;BF;FR région,DE Region,EN region;FR Bourgogne-Franche-Comté;FR;ZA
+FR;FR-BL;FR-BL;BL;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR Saint-Barthélemy,DE St. Barts,EN St. Barts;FR;
+FR;FR-ZA-BO;;BO;FR académie,DE Schulbezirk,EN school district;FR Bordeaux;FR;ZA
+FR;FR-BR;FR-BRE;BR;FR région,DE Region,EN region;FR Bretagne;FR;ZB
+FR;FR-ZA-CF;;CF;FR académie,DE Schulbezirk,EN school district;FR Clermont-Ferrand;FR;ZA
+FR;FR-CO;FR-20R;CO;FR collectivité métropolitaine à statut particulier,DE Gebietskörperschaft mit Sonderstatus,EN metropolitan collectivity with special status;FR Corse,DE Korsika,EN Corsica;FR;
+FR;FR-ZC-CR;;CR;FR académie,DE Schulbezirk,EN school district;FR Créteil;FR;ZC
+FR;FR-CV;FR-CVL;CV;FR région,DE Region,EN region;FR Centre-Val de Loire;FR;ZB
+FR;FR-ZA-DI;;DI;FR académie,DE Schulbezirk,EN school district;FR Dijon;FR;ZA
+FR;FR-GE;FR-GES;GE;FR région,DE Region,EN region;FR Grand Est;FR;ZB
+FR;FR-GP;FR-971;GP;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR Guadeloupe,DE Guadeloupe,EN Guadeloupe;FR;
+FR;FR-ZA-GR;;GR;FR académie,DE Schulbezirk,EN school district;FR Grenoble;FR;ZA
+FR;FR-GY;FR-973;GY;FR collectivité territoriale unique d'outre-mer,DE Gebietskörperschaft mit Sonderstatus,EN overseas unique territorial collectivity;FR Guyane,DE Guyana,EN Guyana;FR;
+FR;FR-HD;FR-HDF;HD;FR région,DE Region,EN region;FR Hauts-de-France;FR;ZB
+FR;FR-ID;FR-IDF;ID;FR région,DE Region,EN region;FR Île-de-France;FR;ZC
+FR;FR-ZA-LI;;LI;FR académie,DE Schulbezirk,EN school district;FR Limoges;FR;ZA
+FR;FR-ZB-LL;;LL;FR académie,DE Schulbezirk,EN school district;FR Lille;FR;ZB
+FR;FR-ZA-LY;;LY;FR académie,DE Schulbezirk,EN school district;FR Lyon;FR;ZA
+FR;FR-MF;FR-MF;MF;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR Saint-Martin,DE Saint Martin,EN Saint Martin;FR;
+FR;FR-ZC-MO;;MO;FR académie,DE Schulbezirk,EN school district;FR Montpellier;FR;ZC
+FR;FR-MQ;FR-972;MQ;FR collectivité territoriale unique d'outre-mer,DE Gebietskörperschaft mit Sonderstatus,EN overseas unique territorial collectivity;FR Martinique,DE Martinique,EN Martinique;FR;
+FR;FR-ZB-NA;;NA;FR académie,DE Schulbezirk,EN school district;FR Nantes;FR;ZB
+FR;FR-ZB-NI;;NI;FR académie,DE Schulbezirk,EN school district;FR Nice;FR;ZB
+FR;FR-ZB-NM;;NM;FR académie,DE Schulbezirk,EN school district;FR Nancy-Metz;FR;ZB
+FR;FR-ZB-NO;;NO;FR académie,DE Schulbezirk,EN school district;FR Normandie;FR;ZB
+FR;FR-NQ;FR-NAQ;NQ;FR région,DE Region,EN region;FR Nouvelle-Aquitaine;FR;ZA
+FR;FR-NR;FR-NOR;NR;FR région,DE Region,EN region;FR Normandie;FR;ZB
+FR;FR-OC;FR-OCC;OC;FR région,DE Region,EN region;FR Occitanie;FR;ZC
+FR;FR-ZB-OT;;OT;FR académie,DE Schulbezirk,EN school district;FR Orléans-Tours;FR;ZB
+FR;FR-ZC-PA;;PA;FR académie,DE Schulbezirk,EN school district;FR Paris;FR;ZC
+FR;FR-PC;FR-PAC;PC;FR région,DE Region,EN region;FR Provence-Alpes-Côte d'Azur;FR;ZB
+FR;FR-PD;FR-PDL;PD;FR région,DE Region,EN region;FR Pays de la Loire;FR;ZB
+FR;FR-ZA-PO;;PO;FR académie,DE Schulbezirk,EN school district;FR Poitiers;FR;ZA
+FR;FR-ZB-RE;;RE;FR académie,DE Schulbezirk,EN school district;FR Reims;FR;ZB
+FR;FR-ZB-RN;;RN;FR académie,DE Schulbezirk,EN school district;FR Rennes;FR;ZB
+FR;FR-RU;FR-974;RU;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR La Réunion,DE Reunion,EN Reunion;FR;
+FR;FR-SP;FR-975;SP;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR Saint-Pierre-et-Miquelon,DE Saint-Pierre und Miquelon,EN Saint Pierre and Miquelon;FR;
+FR;FR-ZB-ST;;ST;FR académie,DE Schulbezirk,EN school district;FR Strasbourg;FR;ZB
+FR;FR-ZC-TO;;TO;FR académie,DE Schulbezirk,EN school district;FR Toulouse;FR;ZC
+FR;FR-ZC-VE;;VE;FR académie,DE Schulbezirk,EN school district;FR Versailles;FR;ZC
+FR;FR-YT;FR-976;YT;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR Mayotte,DE Mayotte,EN Mayotte;FR;
+FR;FR-ZA;;ZA;FR zone,DE Zone,EN zone;FR Zone A,DE Zone A,EN Zone A;FR;
+FR;FR-ZB;;ZB;FR zone,DE Zone,EN zone;FR Zone B,DE Zone B,EN Zone B;FR;
+FR;FR-ZC;;ZC;FR zone,DE Zone,EN zone;FR Zone C,DE Zone C,EN Zone C;FR;
