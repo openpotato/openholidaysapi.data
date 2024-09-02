@@ -1,91 +1,91 @@
-﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent;
-CZ;CZ-ST;CZ-20;ST;CS kraj,EN region,DE Region;CS Středočeský kraj,EN Central Bohemian Region,DE Mittelböhmische Region;CS;;
-CZ;CZ-JC;CZ-31;JC;CS kraj,EN region,DE Region;CS Jihočeský kraj,EN South Bohemian Region,DE Südböhmische Region;CS;;
-CZ;CZ-PL;CZ-32;PL;CS kraj,EN region,DE Region;CS Plzeňský kraj,EN Plzeň Region,DE Pilsner Region;CS;;
-CZ;CZ-KA;CZ-41;KA;CS kraj,EN region,DE Region;CS Karlovarský kraj,EN Karlovy Vary Region,DE Karlsbader Region;CS;;
-CZ;CZ-US;CZ-42;US;CS kraj,EN region,DE Region;CS Ústecký kraj,EN Ústecký Region,DE Aussiger Regio;CS;;
-CZ;CZ-LI;CZ-51;LI;CS kraj,EN region,DE Region;CS Liberecký kraj,EN Liberec Region,DE Reichenberger Region;CS;;
-CZ;CZ-KR;CZ-52;KR;CS kraj,EN region,DE Region;CS Královéhradecký kraj,EN Hradec Králové Region ,DE Königgrätzer Region;CS;;
-CZ;CZ-PA;CZ-53;PA;CS kraj,EN region,DE Region;CS Pardubický kraj,EN Pardubice Region,DE Pardubitzer Region;CS;;
-CZ;CZ-VY;CZ-63;VY;CS kraj,EN region,DE Region;CS Kraj Vysočina,EN Vysočina Region,DE Region Hochland;CS;;
-CZ;CZ-JM;CZ-64;JM;CS kraj,EN region,DE Region;CS Jihomoravský kraj,EN South Moravian Region,DE Südmährische Region;CS;;
-CZ;CZ-OL;CZ-71;OL;CS kraj,EN region,DE Region;CS Olomoucký kraj,EN Olomouc Region,DE Olmützer Region;CS;;
-CZ;CZ-ZL;CZ-72;ZL;CS kraj,EN region,DE Region;CS Zlínský kraj,EN Zlín Region,DE Zliner Region;CS;;
-CZ;CZ-MO;CZ-80;MO;CS kraj,EN region,DE Region;CS Moravskoslezský kraj,EN Moravian-Silesian Region,DE Mährisch-Schlesische Region;CS;;
-CZ;CZ-PR;CZ-10;PR;CS hlavní město,EN capital city,DE Hauptstadt;CS Praha,EN Prague,DE Prag;CS;;
-CZ;CZ-ST-BN;CZ-201;ST-BN;CS okres,EN district,DE Bezirk;CS Benešov,DE Beneschau;CS;ST;
-CZ;CZ-ST-BE;CZ-202;ST-BE;CS okres,EN district,DE Bezirk;CS Beroun,DE Beroun;CS;ST;
-CZ;CZ-JM-BK;CZ-641;JM-BK;CS okres,EN district,DE Bezirk;CS Blansko,DE Blanz;CS;JM;
-CZ;CZ-JM-BM;CZ-642;JM-BM;CS okres,EN district,DE Bezirk;CS Brno-město,EN Brno-City,DE Brünn-Stadt;CS;JM;
-CZ;CZ-JM-BO;CZ-643;JM-BO;CS okres,EN district,DE Bezirk;CS Brno-venkov,EN Brno-Country,DE Brünn-Land;CS;JM;
-CZ;CZ-MO-BR;CZ-801;MO-BR;CS okres,EN district,DE Bezirk;CS Bruntál,DE Freudenthal;CS;MO;
-CZ;CZ-JM-BV;CZ-644;JM-BV;CS okres,EN district,DE Bezirk;CS Břeclav,DE Lundenburg;CS;JM;
-CZ;CZ-KA-CH;CZ-411;KA-CH;CS okres,EN district,DE Bezirk;CS Cheb,DE Eger;CS;KA;
-CZ;CZ-US-CV;CZ-422;US-CV;CS okres,EN district,DE Bezirk;CS Chomutov,DE Komotau;CS;US;
-CZ;CZ-PA-CR;CZ-531;PA-CR;CS okres,EN district,DE Bezirk;CS Chrudim,DE Chrudim;CS;PA;
-CZ;CZ-PL-DO;CZ-321;PL-DO;CS okres,EN district,DE Bezirk;CS Domažlice,DE Taus;CS;PL;
-CZ;CZ-US-DC;CZ-421;US-DC;CS okres,EN district,DE Bezirk;CS Děčín,DE Tetschen;CS;US;
-CZ;CZ-MO-FM;CZ-802;MO-FM;CS okres,EN district,DE Bezirk;CS Frýdek-Místek,DE Friedeck-Mistek;CS;MO;
-CZ;CZ-VY-HB;CZ-631;VY-HB;CS okres,EN district,DE Bezirk;CS Havlíčkův Brod,DE Deutschbrod;CS;VY;
-CZ;CZ-JM-HO;CZ-645;JM-HO;CS okres,EN district,DE Bezirk;CS Hodonín,DE Göding;CS;JM;
-CZ;CZ-KR-HK;CZ-521;KR-HK;CS okres,EN district,DE Bezirk;CS Hradec Králov,DE Königgrätz;CS;KR;
-CZ;CZ-LI-JN;CZ-512;LI-JN;CS okres,EN district,DE Bezirk;CS Jablonec nad Nisou,DE Gablonz;CS;LI;
-CZ;CZ-OL-JE;CZ-711;OL-JE;CS okres,EN district,DE Bezirk;CS Jeseník,DE Freiwaldau;CS;OL;
-CZ;CZ-VY-JI;CZ-632;VY-JI;CS okres,EN district,DE Bezirk;CS Jihlava,DE Iglau;CS;VY;
-CZ;CZ-JC-JH;CZ-313;JC-JH;CS okres,EN district,DE Bezirk;CS Jindřichův Hradec,DE Neuhaus;CS;JC;
-CZ;CZ-KR-JC;CZ-522;KR-JC;CS okres,EN district,DE Bezirk;CS Jičín,DE Jitschin;CS;KR;
-CZ;CZ-KA-KV;CZ-412;KA-KV;CS okres,EN district,DE Bezirk;CS Karlovy Vary,DE Karlsbad;CS;KA;
-CZ;CZ-MO-KI;CZ-803;MO-KI;CS okres,EN district,DE Bezirk;CS Karviná,DE Karwin;CS;MO;
-CZ;CZ-ST-KL;CZ-203;ST-KL;CS okres,EN district,DE Bezirk;CS Kladno,DE Kladen;CS;ST;
-CZ;CZ-PL-KT;CZ-322;PL-KT;CS okres,EN district,DE Bezirk;CS Klatovy,DE Klattau;CS;PL;
-CZ;CZ-ST-KO;CZ-204;ST-KO;CS okres,EN district,DE Bezirk;CS Kolín,DE Kolin;CS;ST;
-CZ;CZ-ZL-KM;CZ-721;ZL-KM;CS okres,EN district,DE Bezirk;CS Kroměříž,DE Kremsier;CS;ZL;
-CZ;CZ-ST-KH;CZ-205;ST-KH;CS okres,EN district,DE Bezirk;CS Kutná Hora,DE Kuttenberg;CS;ST;
-CZ;CZ-LI-LB;CZ-513;LI-LB;CS okres,EN district,DE Bezirk;CS Liberec,DE Reichenberg;CS;LI;
-CZ;CZ-US-LT;CZ-423;US-LT;CS okres,EN district,DE Bezirk;CS Litoměřice,DE Leitmeritz;CS;US;
-CZ;CZ-US-LN;CZ-424;US-LN;CS okres,EN district,DE Bezirk;CS Louny,DE Laun;CS;US;
-CZ;CZ-ST-MB;CZ-207;ST-MB;CS okres,EN district,DE Bezirk;CS Mladá Boleslav,DE Jungbunzlau;CS;;
-CZ;CZ-US-MO;CZ-425;US-MO;CS okres,EN district,DE Bezirk;CS Most,DE Brüx;CS;US;
-CZ;CZ-ST-ME;CZ-206;ST-ME;CS okres,EN district,DE Bezirk;CS Mělník,DE Melnik;CS;ST;
-CZ;CZ-MO-NJ;CZ-804;MO-NJ;CS okres,EN district,DE Bezirk;CS Nový Jičín,DE Neu Titschein;CS;MO;
-CZ;CZ-ST-NB;CZ-208;ST-NB;CS okres,EN district,DE Bezirk;CS Nymburk,DE Nimburg;CS;ST;
-CZ;CZ-KR-NA;CZ-523;KR-NA;CS okres,EN district,DE Bezirk;CS Náchod,DE Nachod;CS;KR;
-CZ;CZ-OL-OC;CZ-712;OL-OC;CS okres,EN district,DE Bezirk;CS Olomouc,DE Olmütz;CS;OL;
-CZ;CZ-MO-OP;CZ-805;MO-OP;CS okres,EN district,DE Bezirk;CS Opava,DE Troppau;CS;MO;
-CZ;CZ-MO-OV;CZ-806;MO-OV;CS okres,EN district,DE Bezirk;CS Ostrava-město,EN Ostrava-City,DE Ostrau-Stadt;CS;MO;
-CZ;CZ-PA-PU;CZ-532;PA-PU;CS okres,EN district,DE Bezirk;CS Pardubice,DE Pardubitz;CS;PA;
-CZ;CZ-VY-PE;CZ-633;VY-PE;CS okres,EN district,DE Bezirk;CS Pelhřimov,DE Pilgrams;CS;VY;
-CZ;CZ-PL-PJ;CZ-324;PL-PJ;CS okres,EN district,DE Bezirk;CS Plzeň-jih,EN Plzeň-South,DE Pilsen-Süd;CS;PL;
-CZ;CZ-PL-PM;CZ-323;PL-PM;CS okres,EN district,DE Bezirk;CS Plzeň-město,EN Plzeň-City,DE Pilsen-Stadt;CS;PL;
-CZ;CZ-PL-PS;CZ-325;PL-PS;CS okres,EN district,DE Bezirk;CS Plzeň-sever,EN Plzeň-North,DE Pilsen-Nord;CS;PL;
-CZ;CZ-JC-PT;CZ-315;JC-PT;CS okres,EN district,DE Bezirk;CS Prachatice,DE Prachatitz;CS;JC;
-CZ;CZ-ST-PH;CZ-209;ST-PH;CS okres,EN district,DE Bezirk;CS Praha-východ,EN Prague-East,DE Prag-Ost;CS;ST;
-CZ;CZ-ST-PZ;CZ-20A;ST-PZ;CS okres,EN district,DE Bezirk;CS Praha-západ,EN Prague-West,DE Prag-West;CS;ST;
-CZ;CZ-OL-PV;CZ-713;OL-PV;CS okres,EN district,DE Bezirk;CS Prostějov,DE Proßnitz;CS;OL;
-CZ;CZ-JC-PI;CZ-314;JC-PI;CS okres,EN district,DE Bezirk;CS Písek,DE Pisek;CS;JC;JC
-CZ;CZ-OL-PR;CZ-714;OL-PR;CS okres,EN district,DE Bezirk;CS Přerov,DE Prerau;CS;OL;
-CZ;CZ-ST-PB;CZ-20B;ST-PB;CS okres,EN district,DE Bezirk;CS Příbram,DE Pribram;CS;ST;
-CZ;CZ-ST-RA;CZ-20C;ST-RA;CS okres,EN district,DE Bezirk;CS Rakovník,DE Rakonitz;CS;ST;
-CZ;CZ-PL-RO;CZ-326;PL-RO;CS okres,EN district,DE Bezirk;CS Rokycany,DE Rokitzan;CS;PL;
-CZ;CZ-KR-RK;CZ-524;KR-RK;CS okres,EN district,DE Bezirk;CS Rychnov nad Kněžnou,DE Reichenau an der Knieschna;CS;KR;
-CZ;CZ-LI-SM;CZ-514;LI-SM;CS okres,EN district,DE Bezirk;CS Semily,DE Semil;CS;LI;
-CZ;CZ-KA-SO;CZ-413;KA-SO;CS okres,EN district,DE Bezirk;CS Sokolov,DE Falkenau;CS;KA;
-CZ;CZ-JC-ST;CZ-316;JC-ST;CS okres,EN district,DE Bezirk;CS Strakonice,DE Strakonitz;CS;JC;
-CZ;CZ-PA-SY;CZ-533;PA-SY;CS okres,EN district,DE Bezirk;CS Svitavy,DE Zwittau;CS;PA;
-CZ;CZ-PL-TC;CZ-327;PL-TC;CS okres,EN district,DE Bezirk;CS Tachov,DE Tachau;CS;PL;
-CZ;CZ-US-TP;CZ-426;US-TP;CS okres,EN district,DE Bezirk;CS Teplice,DE Teplitz-Schönau;CS;US;
-CZ;CZ-KR-TU;CZ-525;KR-TU;CS okres,EN district,DE Bezirk;CS Trutnov,DE Trautenau;CS;KR;
-CZ;CZ-JC-TA;CZ-317;JC-TA;CS okres,EN district,DE Bezirk;CS Tábor,DE Tabor;CS;JC;
-CZ;CZ-VY-TR;CZ-634;VY-TR;CS okres,EN district,DE Bezirk;CS Třebíč,DE Trebitsch;CS;VY;
-CZ;CZ-ZL-UH;CZ-722;ZL-UH;CS okres,EN district,DE Bezirk;CS Uherské Hradiště,DE Ungarisch Hradisch;CS;ZL;
-CZ;CZ-ZL-VS;CZ-723;ZL-VS;CS okres,EN district,DE Bezirk;CS Vsetín,DE Wischau;CS;ZL;
-CZ;CZ-JM-VY;CZ-646;JM-VY;CS okres,EN district,DE Bezirk;CS Vyškov;CS;JM;
-CZ;CZ-ZL-ZL;CZ-724;ZL-ZL;CS okres,EN district,DE Bezirk;CS Zlín,DE Zlin;CS;ZL;
-CZ;CZ-JM-ZN;CZ-647;JM-ZN;CS okres,EN district,DE Bezirk;CS Znojmom,DE Znaim;CS;JM;
-CZ;CZ-US-UL;CZ-427;US-UL;CS okres,EN district,DE Bezirk;CS Ústí nad Labem,DE Aussig;CS;US;
-CZ;CZ-PA-UO;CZ-534;PA-UO;CS okres,EN district,DE Bezirk;CS Ústí nad Orlicí,DE Wildenschwert;CS;PA;
-CZ;CZ-LI-CL;CZ-511;LI-CL;CS okres,EN district,DE Bezirk;CS Česká Lípa,DE Böhmisch Leipa;CS;LI;
-CZ;CZ-JC-CB;CZ-311;JC-CB;CS okres,EN district,DE Bezirk;CS České Budějovice,DE Budweis;CS;JC;
-CZ;CZ-JC-CK;CZ-312;JC-CK;CS okres,EN district,DE Bezirk;CS Český Krumlov,DE Krumau;CS;JC;
-CZ;CZ-OL-SU;CZ-715;OL-SU;CS okres,EN district,DE Bezirk;CS Šumperk,DE Mährisch Schönberg;CS;OL;
-CZ;CZ-VY-ZR;CZ-635;VY-ZR;CS okres,EN district,DE Bezirk;CS Žďár nad Sázavou,DE Saar;CS;VY;
+﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
+CZ;CZ-ST;CZ-20;ST;CS kraj,EN region,DE Region;CS Středočeský kraj,EN Central Bohemian Region,DE Mittelböhmische Region;CS;
+CZ;CZ-JC;CZ-31;JC;CS kraj,EN region,DE Region;CS Jihočeský kraj,EN South Bohemian Region,DE Südböhmische Region;CS;
+CZ;CZ-PL;CZ-32;PL;CS kraj,EN region,DE Region;CS Plzeňský kraj,EN Plzeň Region,DE Pilsner Region;CS;
+CZ;CZ-KA;CZ-41;KA;CS kraj,EN region,DE Region;CS Karlovarský kraj,EN Karlovy Vary Region,DE Karlsbader Region;CS;
+CZ;CZ-US;CZ-42;US;CS kraj,EN region,DE Region;CS Ústecký kraj,EN Ústecký Region,DE Aussiger Regio;CS;
+CZ;CZ-LI;CZ-51;LI;CS kraj,EN region,DE Region;CS Liberecký kraj,EN Liberec Region,DE Reichenberger Region;CS;
+CZ;CZ-KR;CZ-52;KR;CS kraj,EN region,DE Region;CS Královéhradecký kraj,EN Hradec Králové Region,DE Königgrätzer Region;CS;
+CZ;CZ-PA;CZ-53;PA;CS kraj,EN region,DE Region;CS Pardubický kraj,EN Pardubice Region,DE Pardubitzer Region;CS;
+CZ;CZ-VY;CZ-63;VY;CS kraj,EN region,DE Region;CS Kraj Vysočina,EN Vysočina Region,DE Region Hochland;CS;
+CZ;CZ-JM;CZ-64;JM;CS kraj,EN region,DE Region;CS Jihomoravský kraj,EN South Moravian Region,DE Südmährische Region;CS;
+CZ;CZ-OL;CZ-71;OL;CS kraj,EN region,DE Region;CS Olomoucký kraj,EN Olomouc Region,DE Olmützer Region;CS;
+CZ;CZ-ZL;CZ-72;ZL;CS kraj,EN region,DE Region;CS Zlínský kraj,EN Zlín Region,DE Zliner Region;CS;
+CZ;CZ-MO;CZ-80;MO;CS kraj,EN region,DE Region;CS Moravskoslezský kraj,EN Moravian-Silesian Region,DE Mährisch-Schlesische Region;CS;
+CZ;CZ-PR;CZ-10;PR;CS hlavní město,EN capital city,DE Hauptstadt;CS Praha,EN Prague,DE Prag;CS;
+CZ;CZ-ST-BN;CZ-201;ST-BN;CS okres,EN district,DE Bezirk;CS Benešov,DE Beneschau;CS;ST
+CZ;CZ-ST-BE;CZ-202;ST-BE;CS okres,EN district,DE Bezirk;CS Beroun,DE Beroun;CS;ST
+CZ;CZ-JM-BK;CZ-641;JM-BK;CS okres,EN district,DE Bezirk;CS Blansko,DE Blanz;CS;JM
+CZ;CZ-JM-BM;CZ-642;JM-BM;CS okres,EN district,DE Bezirk;CS Brno-město,EN Brno-City,DE Brünn-Stadt;CS;JM
+CZ;CZ-JM-BO;CZ-643;JM-BO;CS okres,EN district,DE Bezirk;CS Brno-venkov,EN Brno-Country,DE Brünn-Land;CS;JM
+CZ;CZ-MO-BR;CZ-801;MO-BR;CS okres,EN district,DE Bezirk;CS Bruntál,DE Freudenthal;CS;MO
+CZ;CZ-JM-BV;CZ-644;JM-BV;CS okres,EN district,DE Bezirk;CS Břeclav,DE Lundenburg;CS;JM
+CZ;CZ-KA-CH;CZ-411;KA-CH;CS okres,EN district,DE Bezirk;CS Cheb,DE Eger;CS;KA
+CZ;CZ-US-CV;CZ-422;US-CV;CS okres,EN district,DE Bezirk;CS Chomutov,DE Komotau;CS;US
+CZ;CZ-PA-CR;CZ-531;PA-CR;CS okres,EN district,DE Bezirk;CS Chrudim,DE Chrudim;CS;PA
+CZ;CZ-PL-DO;CZ-321;PL-DO;CS okres,EN district,DE Bezirk;CS Domažlice,DE Taus;CS;PL
+CZ;CZ-US-DC;CZ-421;US-DC;CS okres,EN district,DE Bezirk;CS Děčín,DE Tetschen;CS;US
+CZ;CZ-MO-FM;CZ-802;MO-FM;CS okres,EN district,DE Bezirk;CS Frýdek-Místek,DE Friedeck-Mistek;CS;MO
+CZ;CZ-VY-HB;CZ-631;VY-HB;CS okres,EN district,DE Bezirk;CS Havlíčkův Brod,DE Deutschbrod;CS;VY
+CZ;CZ-JM-HO;CZ-645;JM-HO;CS okres,EN district,DE Bezirk;CS Hodonín,DE Göding;CS;JM
+CZ;CZ-KR-HK;CZ-521;KR-HK;CS okres,EN district,DE Bezirk;CS Hradec Králov,DE Königgrätz;CS;KR
+CZ;CZ-LI-JN;CZ-512;LI-JN;CS okres,EN district,DE Bezirk;CS Jablonec nad Nisou,DE Gablonz;CS;LI
+CZ;CZ-OL-JE;CZ-711;OL-JE;CS okres,EN district,DE Bezirk;CS Jeseník,DE Freiwaldau;CS;OL
+CZ;CZ-VY-JI;CZ-632;VY-JI;CS okres,EN district,DE Bezirk;CS Jihlava,DE Iglau;CS;VY
+CZ;CZ-JC-JH;CZ-313;JC-JH;CS okres,EN district,DE Bezirk;CS Jindřichův Hradec,DE Neuhaus;CS;JC
+CZ;CZ-KR-JC;CZ-522;KR-JC;CS okres,EN district,DE Bezirk;CS Jičín,DE Jitschin;CS;KR
+CZ;CZ-KA-KV;CZ-412;KA-KV;CS okres,EN district,DE Bezirk;CS Karlovy Vary,DE Karlsbad;CS;KA
+CZ;CZ-MO-KI;CZ-803;MO-KI;CS okres,EN district,DE Bezirk;CS Karviná,DE Karwin;CS;MO
+CZ;CZ-ST-KL;CZ-203;ST-KL;CS okres,EN district,DE Bezirk;CS Kladno,DE Kladen;CS;ST
+CZ;CZ-PL-KT;CZ-322;PL-KT;CS okres,EN district,DE Bezirk;CS Klatovy,DE Klattau;CS;PL
+CZ;CZ-ST-KO;CZ-204;ST-KO;CS okres,EN district,DE Bezirk;CS Kolín,DE Kolin;CS;ST
+CZ;CZ-ZL-KM;CZ-721;ZL-KM;CS okres,EN district,DE Bezirk;CS Kroměříž,DE Kremsier;CS;ZL
+CZ;CZ-ST-KH;CZ-205;ST-KH;CS okres,EN district,DE Bezirk;CS Kutná Hora,DE Kuttenberg;CS;ST
+CZ;CZ-LI-LB;CZ-513;LI-LB;CS okres,EN district,DE Bezirk;CS Liberec,DE Reichenberg;CS;LI
+CZ;CZ-US-LT;CZ-423;US-LT;CS okres,EN district,DE Bezirk;CS Litoměřice,DE Leitmeritz;CS;US
+CZ;CZ-US-LN;CZ-424;US-LN;CS okres,EN district,DE Bezirk;CS Louny,DE Laun;CS;US
+CZ;CZ-ST-MB;CZ-207;ST-MB;CS okres,EN district,DE Bezirk;CS Mladá Boleslav,DE Jungbunzlau;CS;ST
+CZ;CZ-US-MO;CZ-425;US-MO;CS okres,EN district,DE Bezirk;CS Most,DE Brüx;CS;US
+CZ;CZ-ST-ME;CZ-206;ST-ME;CS okres,EN district,DE Bezirk;CS Mělník,DE Melnik;CS;ST
+CZ;CZ-MO-NJ;CZ-804;MO-NJ;CS okres,EN district,DE Bezirk;CS Nový Jičín,DE Neu Titschein;CS;MO
+CZ;CZ-ST-NB;CZ-208;ST-NB;CS okres,EN district,DE Bezirk;CS Nymburk,DE Nimburg;CS;ST
+CZ;CZ-KR-NA;CZ-523;KR-NA;CS okres,EN district,DE Bezirk;CS Náchod,DE Nachod;CS;KR
+CZ;CZ-OL-OC;CZ-712;OL-OC;CS okres,EN district,DE Bezirk;CS Olomouc,DE Olmütz;CS;OL
+CZ;CZ-MO-OP;CZ-805;MO-OP;CS okres,EN district,DE Bezirk;CS Opava,DE Troppau;CS;MO
+CZ;CZ-MO-OV;CZ-806;MO-OV;CS okres,EN district,DE Bezirk;CS Ostrava-město,EN Ostrava-City,DE Ostrau-Stadt;CS;MO
+CZ;CZ-PA-PU;CZ-532;PA-PU;CS okres,EN district,DE Bezirk;CS Pardubice,DE Pardubitz;CS;PA
+CZ;CZ-VY-PE;CZ-633;VY-PE;CS okres,EN district,DE Bezirk;CS Pelhřimov,DE Pilgrams;CS;VY
+CZ;CZ-PL-PJ;CZ-324;PL-PJ;CS okres,EN district,DE Bezirk;CS Plzeň-jih,EN Plzeň-South,DE Pilsen-Süd;CS;PL
+CZ;CZ-PL-PM;CZ-323;PL-PM;CS okres,EN district,DE Bezirk;CS Plzeň-město,EN Plzeň-City,DE Pilsen-Stadt;CS;PL
+CZ;CZ-PL-PS;CZ-325;PL-PS;CS okres,EN district,DE Bezirk;CS Plzeň-sever,EN Plzeň-North,DE Pilsen-Nord;CS;PL
+CZ;CZ-JC-PT;CZ-315;JC-PT;CS okres,EN district,DE Bezirk;CS Prachatice,DE Prachatitz;CS;JC
+CZ;CZ-ST-PH;CZ-209;ST-PH;CS okres,EN district,DE Bezirk;CS Praha-východ,EN Prague-East,DE Prag-Ost;CS;ST
+CZ;CZ-ST-PZ;CZ-20A;ST-PZ;CS okres,EN district,DE Bezirk;CS Praha-západ,EN Prague-West,DE Prag-West;CS;ST
+CZ;CZ-OL-PV;CZ-713;OL-PV;CS okres,EN district,DE Bezirk;CS Prostějov,DE Proßnitz;CS;OL
+CZ;CZ-JC-PI;CZ-314;JC-PI;CS okres,EN district,DE Bezirk;CS Písek,DE Pisek;CS;JC
+CZ;CZ-OL-PR;CZ-714;OL-PR;CS okres,EN district,DE Bezirk;CS Přerov,DE Prerau;CS;OL
+CZ;CZ-ST-PB;CZ-20B;ST-PB;CS okres,EN district,DE Bezirk;CS Příbram,DE Pribram;CS;ST
+CZ;CZ-ST-RA;CZ-20C;ST-RA;CS okres,EN district,DE Bezirk;CS Rakovník,DE Rakonitz;CS;ST
+CZ;CZ-PL-RO;CZ-326;PL-RO;CS okres,EN district,DE Bezirk;CS Rokycany,DE Rokitzan;CS;PL
+CZ;CZ-KR-RK;CZ-524;KR-RK;CS okres,EN district,DE Bezirk;CS Rychnov nad Kněžnou,DE Reichenau an der Knieschna;CS;KR
+CZ;CZ-LI-SM;CZ-514;LI-SM;CS okres,EN district,DE Bezirk;CS Semily,DE Semil;CS;LI
+CZ;CZ-KA-SO;CZ-413;KA-SO;CS okres,EN district,DE Bezirk;CS Sokolov,DE Falkenau;CS;KA
+CZ;CZ-JC-ST;CZ-316;JC-ST;CS okres,EN district,DE Bezirk;CS Strakonice,DE Strakonitz;CS;JC
+CZ;CZ-PA-SY;CZ-533;PA-SY;CS okres,EN district,DE Bezirk;CS Svitavy,DE Zwittau;CS;PA
+CZ;CZ-PL-TC;CZ-327;PL-TC;CS okres,EN district,DE Bezirk;CS Tachov,DE Tachau;CS;PL
+CZ;CZ-US-TP;CZ-426;US-TP;CS okres,EN district,DE Bezirk;CS Teplice,DE Teplitz-Schönau;CS;US
+CZ;CZ-KR-TU;CZ-525;KR-TU;CS okres,EN district,DE Bezirk;CS Trutnov,DE Trautenau;CS;KR
+CZ;CZ-JC-TA;CZ-317;JC-TA;CS okres,EN district,DE Bezirk;CS Tábor,DE Tabor;CS;JC
+CZ;CZ-VY-TR;CZ-634;VY-TR;CS okres,EN district,DE Bezirk;CS Třebíč,DE Trebitsch;CS;VY
+CZ;CZ-ZL-UH;CZ-722;ZL-UH;CS okres,EN district,DE Bezirk;CS Uherské Hradiště,DE Ungarisch Hradisch;CS;ZL
+CZ;CZ-ZL-VS;CZ-723;ZL-VS;CS okres,EN district,DE Bezirk;CS Vsetín,DE Wischau;CS;ZL
+CZ;CZ-JM-VY;CZ-646;JM-VY;CS okres,EN district,DE Bezirk;CS Vyškov;CS;JM
+CZ;CZ-ZL-ZL;CZ-724;ZL-ZL;CS okres,EN district,DE Bezirk;CS Zlín,DE Zlin;CS;ZL
+CZ;CZ-JM-ZN;CZ-647;JM-ZN;CS okres,EN district,DE Bezirk;CS Znojmom,DE Znaim;CS;JM
+CZ;CZ-US-UL;CZ-427;US-UL;CS okres,EN district,DE Bezirk;CS Ústí nad Labem,DE Aussig;CS;US
+CZ;CZ-PA-UO;CZ-534;PA-UO;CS okres,EN district,DE Bezirk;CS Ústí nad Orlicí,DE Wildenschwert;CS;PA
+CZ;CZ-LI-CL;CZ-511;LI-CL;CS okres,EN district,DE Bezirk;CS Česká Lípa,DE Böhmisch Leipa;CS;LI
+CZ;CZ-JC-CB;CZ-311;JC-CB;CS okres,EN district,DE Bezirk;CS České Budějovice,DE Budweis;CS;JC
+CZ;CZ-JC-CK;CZ-312;JC-CK;CS okres,EN district,DE Bezirk;CS Český Krumlov,DE Krumau;CS;JC
+CZ;CZ-OL-SU;CZ-715;OL-SU;CS okres,EN district,DE Bezirk;CS Šumperk,DE Mährisch Schönberg;CS;OL
+CZ;CZ-VY-ZR;CZ-635;VY-ZR;CS okres,EN district,DE Bezirk;CS Žďár nad Sázavou,DE Saar;CS;VY
