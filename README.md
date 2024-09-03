@@ -28,6 +28,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Portugal (national and district public holidays from 2020, Initial data from [@48DESIGN](https://github.com/48design))
 + Romania (public holidays and school holidays from 2020)
 + San Marino (public holidays and school holidays from 2020)
++ Serbia (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
 + Spain (public holidays and school holidays from 2020, Initial data from [@TBiele](https://github.com/TBiele))
