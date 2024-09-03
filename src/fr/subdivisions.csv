@@ -26,27 +26,27 @@ FR;FR-ZC-MO;;ZC-MO;ZC;FR Montpellier;FR académie,DE Schulbezirk,EN school distr
 FR;FR-ZC-PA;;ZC-PA;ZC;FR Paris;FR académie,DE Schulbezirk,EN school district;FR
 FR;FR-ZC-TO;;ZC-TO;ZC;FR Toulouse;FR académie,DE Schulbezirk,EN school district;FR
 FR;FR-ZC-VE;;ZC-VE;ZC;FR Versailles;FR académie,DE Schulbezirk,EN school district;FR
-FR;FR-AR;FR-ARA;AR;ZA;FR Auvergne-Rhône-Alpes;FR région,DE Region,EN region;FR
-FR;FR-BF;FR-BFC;BF;ZA;FR Bourgogne-Franche-Comté;FR région,DE Region,EN region;FR
-FR;FR-BT;FR-BRE;BT;ZB;FR Bretagne;FR région,DE Region,EN region;FR
-FR;FR-CV;FR-CVL;CV;ZB;FR Centre-Val de Loire;FR région,DE Region,EN region;FR
-FR;FR-GE;FR-GES;GE;ZB;FR Grand Est;FR région,DE Region,EN region;FR
-FR;FR-HF;FR-HDF;HF;ZB;FR Hauts-de-France;FR région,DE Region,EN region;FR
-FR;FR-IF;FR-IDF;IF;ZC;FR Île-de-France;FR région,DE Region,EN region;FR
-FR;FR-NA;FR-NAQ;NA;ZA;FR Nouvelle-Aquitaine;FR région,DE Region,EN region;FR
-FR;FR-NO;FR-NOR;NO;ZB;FR Normandie;FR région,DE Region,EN region;FR
-FR;FR-OC;FR-OCC;OC;ZC;FR Occitanie;FR région,DE Region,EN region;FR
-FR;FR-PC;FR-PAC;PC;ZB;FR Provence-Alpes-Côte d'Azur;FR région,DE Region,EN region;FR
-FR;FR-PL;FR-PDL;PL;ZB;FR Pays de la Loire;FR région,DE Region,EN region;FR
+FR;FR-AR;FR-ARA;AR;;FR Auvergne-Rhône-Alpes;FR région,DE Region,EN region;FR
+FR;FR-BF;FR-BFC;BF;;FR Bourgogne-Franche-Comté;FR région,DE Region,EN region;FR
+FR;FR-BT;FR-BRE;BT;;FR Bretagne;FR région,DE Region,EN region;FR
+FR;FR-CV;FR-CVL;CV;;FR Centre-Val de Loire;FR région,DE Region,EN region;FR
+FR;FR-GE;FR-GES;GE;;FR Grand Est;FR région,DE Region,EN region;FR
+FR;FR-HF;FR-HDF;HF;;FR Hauts-de-France;FR région,DE Region,EN region;FR
+FR;FR-IF;FR-IDF;IF;;FR Île-de-France;FR région,DE Region,EN region;FR
+FR;FR-NA;FR-NAQ;NA;;FR Nouvelle-Aquitaine;FR région,DE Region,EN region;FR
+FR;FR-NO;FR-NOR;NO;;FR Normandie;FR région,DE Region,EN region;FR
+FR;FR-OC;FR-OCC;OC;;FR Occitanie;FR région,DE Region,EN region;FR
+FR;FR-PC;FR-PAC;PC;;FR Provence-Alpes-Côte d'Azur;FR région,DE Region,EN region;FR
+FR;FR-PL;FR-PDL;PL;;FR Pays de la Loire;FR région,DE Region,EN region;FR
 FR;FR-BL;FR-BL;BL;;FR Saint-Barthélemy,DE St. Barts,EN St. Barts;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR
 FR;FR-MF;FR-MF;MF;;FR Saint-Martin,DE Saint Martin,EN Saint Martin;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR
-FR;FR-SP;FR-975;SP;;FR Saint-Pierre-et-Miquelon,DE Saint-Pierre und Miquelon,EN Saint Pierre and Miquelon;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR
-FR;FR-GP;FR-971;GP;;FR Guadeloupe,DE Guadeloupe,EN Guadeloupe;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR
-FR;FR-RU;FR-974;RU;;FR La Réunion,DE Reunion,EN Reunion;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR
-FR;FR-YT;FR-976;YT;;FR Mayotte,DE Mayotte,EN Mayotte;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR
 FR;FR-CO;FR-20R;CO;;FR Corse,DE Korsika,EN Corsica;FR collectivité métropolitaine à statut particulier,DE Gebietskörperschaft mit Sonderstatus,EN metropolitan collectivity with special status;FR
-FR;FR-GY;FR-973;GY;;FR Guyane,DE Guyana,EN Guyana;FR collectivité territoriale unique d'outre-mer,DE Gebietskörperschaft mit Sonderstatus,EN overseas unique territorial collectivity;FR
+FR;FR-GP;FR-971;GP;;FR Guadeloupe,DE Guadeloupe,EN Guadeloupe;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR
 FR;FR-MQ;FR-972;MQ;;FR Martinique,DE Martinique,EN Martinique;FR collectivité territoriale unique d'outre-mer,DE Gebietskörperschaft mit Sonderstatus,EN overseas unique territorial collectivity;FR
+FR;FR-GY;FR-973;GY;;FR Guyane,DE Guyana,EN Guyana;FR collectivité territoriale unique d'outre-mer,DE Gebietskörperschaft mit Sonderstatus,EN overseas unique territorial collectivity;FR
+FR;FR-RU;FR-974;RU;;FR La Réunion,DE Reunion,EN Reunion;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR
+FR;FR-SP;FR-975;SP;;FR Saint-Pierre-et-Miquelon,DE Saint-Pierre und Miquelon,EN Saint Pierre and Miquelon;FR collectivité d'outre-mer,DE Überseegebiet,EN overseas collectivity;FR
+FR;FR-YT;FR-976;YT;;FR Mayotte,DE Mayotte,EN Mayotte;FR collectivité départementale d'outre-mer,DE Überseedepartement,EN overseas departmental collectivity;FR
 FR;FR-AR-AI;FR-01;AR-AI;AR;FR Ain;FR département,DE Department,EN department;FR
 FR;FR-HF-AS;FR-02;HF-AS;HF;FR Aisne;FR département,DE Department,EN department;FR
 FR;FR-AR-AL;FR-03;AR-AL;AR;FR Allier;FR département,DE Department,EN department;FR
