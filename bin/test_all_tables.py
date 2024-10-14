@@ -47,7 +47,7 @@ def main() -> None:
             continue
 
         try:
-            df_subdivisions = pd.read_csv(country_dir / "subdivisions.csv", sep=";")
+            df_subdivisions = pd.read_csv(country_dir / "subdivisions.csv", sep=";", keep_default_na=False)
             subdivisions = set(df_subdivisions.ShortName)
         except FileNotFoundError:
             subdivisions = {}

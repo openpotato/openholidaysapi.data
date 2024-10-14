@@ -4,6 +4,7 @@ AL;EN Albania,SQ Shqipëria,DE Albanien;SQ
 AT;EN Austria,DE Österreich;DE
 BE;EN Belgium,NL België,FR Belgique (la),DE Belgien;NL,FR,DE
 BG;EN Bulgaria,BG България,DE Bulgarien;BG
+BY;EN Belarus,BE Беларусь,RU Беларусь,DE Belarus;BE,RU
 CH;EN Switzerland,DE Schweiz,FR Suisse (la),IT Svizzera (la),RM Svizra (la);DE,FR,IT,RM
 CZ;EN Czechia,CS Česko,DE Tschechien;CS
 DE;EN Germany,DE Deutschland;DE
@@ -19,10 +20,13 @@ LT;EN Lithuania,LT Lietuva,DE Litauen;LT
 LU;EN Luxembourg,LB Lëtzebuerg,FR Luxembourg (le),DE Luxemburg;LB,FR,DE
 LV;EN Latvia,LV Latvija,DE Lettland;LV
 MC;EN Monaco,FR Monaco,DE Monaco;FR
+MD;EN Moldova,RO Moldova,DE Moldau;RO
 MT;EN Malta,MT Malta,DE Malta;MT,EN
 NL;EN Netherlands (the),NL Nederland,DE Niederlande;NL
 PL;EN Poland,PL Polska,DE Polen;PL
 PT;EN Portugal,PT Portugal,DE Portugal;PT
+RO;EN Romania,RO România,DE Rumänien;RO
+RS;EN Serbia,SR Србија,DE Serbien;SR
 SI;EN Slovenia,SL Slovenija,DE Slowenien;SL
 SK;EN Slovakia,SK Slovensko,DE Slowakei;SK
 SM;EN San Marino,IT San Marino,DE San Marino;IT

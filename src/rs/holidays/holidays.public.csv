@@ -1,0 +1,100 @@
+﻿Id;Country;StartDate;EndDate;Type;Name
+7b215ce1-0d57-4b94-8d08-fbc985e484a5;RS;2020-01-01;2020-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+e2f2b1ad-2a26-463a-8d16-3ef0a33ec250;RS;2020-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+4b8e0588-a8f0-414d-950a-3ec979977e23;RS;2020-02-15;2020-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+c06048cd-e2fa-4c97-a3fc-9423cfd1e6db;RS;2020-04-17;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+3a5ceb54-6e5f-46c5-9bce-6369c0f579b4;RS;2020-04-18;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+92f00f74-fb4e-4f0c-88db-4ede5c19701d;RS;2020-04-19;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+fb43ead9-113c-474b-8c15-f8b7362258cc;RS;2020-04-20;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+b3a74e68-5a9d-41ff-883a-59af8e8c9079;RS;2020-05-01;2020-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+42daff16-05ed-4b5d-a236-31832cd2e4a6;RS;2020-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day
+9a832412-171b-46f1-9a16-85dd67a715e5;RS;2021-01-01;2021-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+40c843ce-f3e6-4a58-84d2-9b4b9e882c5c;RS;2021-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+f37d6fea-2b9c-4d50-8e5d-66c51cbef791;RS;2021-02-15;2021-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+e2bde474-cfe6-4ba9-88c6-c273ae12e7a8;RS;2021-04-30;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+0581a948-f0b5-414c-9314-679b27449fb3;RS;2021-05-01;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+0d5c1447-6921-4df8-b532-0c7b2ad82ea0;RS;2021-05-01;2021-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+334f1331-5ae3-4282-93d5-21b63a2941af;RS;2021-05-02;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+255d6fb5-47eb-4faf-8331-88a304bc91b8;RS;2021-05-03;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+1e63c936-38c8-4109-a378-e91d9b2cbc68;RS;2021-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day
+be646f65-33ce-4530-bb70-73bf23036c65;RS;2022-01-01;2022-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+fb4b9053-073c-4f64-91dd-41d8de3b54aa;RS;2022-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+fa990735-cae9-46b5-ba8b-02595107feaf;RS;2022-02-15;2022-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+3a1273f5-2252-4075-858b-c454eaecbd00;RS;2022-04-22;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+b67eb7f5-e95d-44b4-96e0-a00bc3185f9d;RS;2022-04-23;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+a9d5806b-089a-4520-8e88-ec177d307871;RS;2022-04-24;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+a10c81ce-ff1d-4e0a-b3c5-001bb977eba2;RS;2022-04-25;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+52395a4c-005b-4bff-a84e-97d06761e62e;RS;2022-05-01;2022-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+8405dfa2-1282-4161-b041-9e51c087d91f;RS;2022-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day
+b0abd5c5-547e-43e9-9042-4540394e1b3a;RS;2023-01-01;2023-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+a03efbac-15c5-45b7-b799-850456f19213;RS;2023-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+fafc0882-6435-4c5e-bf2d-2f2e76b6473f;RS;2023-02-15;2023-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+81435555-04d9-4155-8e99-8653c4837d1f;RS;2023-04-14;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+41d8913c-534c-4d8c-be01-40dbe70e8034;RS;2023-04-15;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+6d1749b2-c469-43ec-833d-f8c162b3771b;RS;2023-04-16;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+c4bdd27f-2f77-4d4a-b7d9-56c575a6f75c;RS;2023-04-17;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+ddfda89c-f650-4383-90b5-e63ec6c2c320;RS;2023-05-01;2023-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+6b8fefb3-7df8-4988-aa66-6560bbfc55bf;RS;2023-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day
+11a9449d-94ed-4127-9eda-f1e720c8dca0;RS;2024-01-01;2024-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+624caada-2090-4566-a235-d03fcbdae00f;RS;2024-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+62da73f9-42de-477e-a6cc-d446e7332af1;RS;2024-02-15;2024-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+20abf615-cf76-4003-9bcd-fe6debd9ff40;RS;2024-05-01;2024-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+f86f6803-0acb-40f4-b376-94bec2f88072;RS;2024-05-03;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+e22c52a0-7124-4913-b2d5-53a1be96729a;RS;2024-05-04;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+442043a0-2d66-4141-ad69-951b951c3040;RS;2024-05-05;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+94932555-cb4a-44b9-b6d3-986053b14e7f;RS;2024-05-06;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+0ca850a5-43aa-49e8-8736-36a77d418770;RS;2024-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day
+76a38947-cdfb-4775-950b-81ffeab93d5f;RS;2025-01-01;2025-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+93811894-5dcc-43eb-b55a-067633c59910;RS;2025-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+baec2d83-c6d1-434d-8644-b4e601e1b225;RS;2025-02-15;2025-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+b26ad982-a857-40c8-8183-6666f5f0110b;RS;2025-04-18;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+60393dfb-75b9-41fe-bfe3-882c69f0f9ab;RS;2025-04-19;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+0a3d4d8e-3a95-4c46-9094-2c0fb3c1db16;RS;2025-04-20;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+125387c9-eb2d-47a8-91dd-3c5b7e53b01e;RS;2025-04-21;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+d70303ed-0231-482a-818c-8896b176a371;RS;2025-05-01;2025-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+d872aa1b-9564-4c63-a47a-00b0105fa8a4;RS;2025-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day
+38ba8c2d-cf6f-4edc-b1fe-bf305b409a9f;RS;2026-01-01;2026-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+6d7ef3cc-6840-4b3e-b826-add4a60004b6;RS;2026-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+2d8d15ae-9eea-4b11-bce8-43436ada823f;RS;2026-02-15;2026-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+73233841-003f-4e5f-b325-9c8775d7768a;RS;2026-04-10;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+6c750288-7723-45ee-be00-490ed03db007;RS;2026-04-11;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+37497a3d-c32a-4cb1-8b4d-98565a695af7;RS;2026-04-12;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+2abef0a5-fcea-478b-b6ae-0a136107028b;RS;2026-04-13;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+bb7ea2aa-26e9-4e9d-9206-ea4ad9db612d;RS;2026-05-01;2026-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+159d625c-0e52-41b7-9c5b-92632fe9fa8d;RS;2026-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day
+82332607-02a6-415a-832c-4776422718b4;RS;2027-01-01;2027-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+909f8133-09bd-4285-81e6-40105b1b1422;RS;2027-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+3e949640-5e10-4520-94a5-5d475f8a58d9;RS;2027-02-15;2027-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+586126f9-6f13-4352-ac7c-9dddb944a263;RS;2027-04-30;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+83ad517d-67df-4920-bb14-20a28c1d333d;RS;2027-05-01;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+f04f8c06-780d-4da0-9668-c2561e03764f;RS;2027-05-01;2027-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+124e1c71-7ada-46c2-9d1d-91fbca3b7872;RS;2027-05-02;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+df745579-6050-4a91-9d2a-05c85c053734;RS;2027-05-03;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+e4f00af7-e10d-40d4-9050-6e2a5f02f4b8;RS;2027-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day
+00f50a1b-6c24-4e6d-b258-95a9a7c6e891;RS;2028-01-01;2028-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+0199905a-7598-49d1-ba9d-b5b1cad81f84;RS;2028-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+2c9b8971-6ac0-410a-b806-de2d1540ce47;RS;2028-02-15;2028-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+d7d83540-6041-43a2-ba1b-a929d27da791;RS;2028-04-14;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+119de15a-61d7-48a6-85cd-fe6cab1d4ced;RS;2028-04-15;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+82bb3033-903c-451e-b201-7e48e7abb4a9;RS;2028-04-16;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+22ec6ebd-5772-4b33-ab48-677a788fd3f1;RS;2028-04-17;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+78709ad2-36ba-4198-a168-dc8cf7d7bbc2;RS;2028-05-01;2028-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+fea0f875-bb9c-4a49-ad57-9d2a97783bf9;RS;2028-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day
+4c03b3e6-df0b-43ce-8d6f-0f279ec7534c;RS;2029-01-01;2029-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+a76c8435-7c7f-4fd3-aa09-d0c8bbae4210;RS;2029-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+4d0b1b64-6571-4fb0-b4c9-4a92a3e6fb1c;RS;2029-02-15;2029-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+1347ce3c-1ee8-4683-967d-d8f3fe257b5e;RS;2029-04-06;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+2259ef36-f865-4996-a2f6-512a486920a5;RS;2029-04-07;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+8763bd30-c4fc-4fc5-b0b3-f3249664afd5;RS;2029-04-08;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+be3ce006-3659-447c-ba8b-916a0256ad8f;RS;2029-04-09;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+c9ca3969-bd1c-485f-9b34-eb06d05117a8;RS;2029-05-01;2029-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+0e1fc11d-4597-4fd3-b1b2-3a6949816b39;RS;2029-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day
+519dd029-d60b-4505-832a-2826bee96573;RS;2030-01-01;2030-01-02;Public;SR Нова Година,DE Neujahr,EN New Year's Day
+1723e71b-e8a5-4cfa-b379-2bb003bfa1d8;RS;2030-01-07;;Public;SR Први дан Божића,DE Weihnachten (Orthodox),EN Christmas (Orthodox)
+f3038f11-c83b-4e4c-9eb9-ee90e3b296f9;RS;2030-02-15;2030-02-16;Public;SR Дан државности Србије,DE Unabhängigkeitstag,EN Sovereignty Day
+cc064fe3-704c-4502-a3d4-afa78171d005;RS;2030-04-26;;Public;SR Добар петак,DE Karfreitag (Orthodox),EN Good Friday (Orthodox)
+5bb459e9-a6ce-44d8-a047-e7a64c10c0b4;RS;2030-04-27;;Public;SR Ускршња субота,DE Ostersamstag (Orthodox),EN Easter Saturday (Orthodox)
+0654c71b-dd72-4731-bd40-46aaf87cb11c;RS;2030-04-28;;Public;SR Ускрс,DE Ostersonntag (Orthodox),EN Easter Sunday (Orthodox)
+010d38e4-3c1d-49a9-a28e-597aa7b130bd;RS;2030-04-29;;Public;SR Ускршњи понедељак,DE Ostermontag (Orthodox),EN Easter Monday (Orthodox)
+87424fed-13d2-49cf-97fd-d3af8e9dce9d;RS;2030-05-01;2030-05-02;Public;SR Празник рада,DE Tag der Arbeit,EN Labour Day
+e2f159af-f965-4bb7-b5f2-dda6bc584f35;RS;2030-11-11;;Public;SR Дан примирја у Првом светском рату,DE Tag des Waffenstillstands,EN Armistice Day

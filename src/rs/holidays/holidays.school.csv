@@ -1,0 +1,35 @@
+﻿Id;Country;StartDate;EndDate;Type;Name;Comment
+56a5c3b9-fc8c-4c4b-849b-8aebcfe0db20;RS;2019-12-30;2020-01-07;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;
+e55656d4-dcd0-4943-8a8c-cac07e94ed9d;RS;2020-02-03;2020-02-14;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;SR Средња Школа,DE Weiterführende Schulen,EN post-primary schools
+e1619c31-b83b-40d5-b85e-f2dbb98e6ad4;RS;2020-02-03;2020-02-17;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+8dfccf83-b015-4da8-bb1b-c0fcdf7304a9;RS;2020-04-13;2020-04-20;School;SR Пролећни распуст,DE Frühlingsferien,EN Spring holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+b0e97ce6-fc5f-45bf-bbda-b785a2825155;RS;2020-04-15;2020-04-20;School;SR Пролећни распуст,DE Frühlingsferien,EN Spring holidays;SR Средња Школа,DE Weiterführende Schulen,EN post-primary schools
+4456f4cf-8c69-483b-a7bf-93e1c7bc3bc8;RS;2020-06-17;2020-08-31;School;SR Летњи распуст,DE Sommerferien,EN Summer holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+75a122b7-0e1f-4093-aafa-4925a366058a;RS;2020-06-22;2020-08-31;School;SR Летњи распуст,DE Sommerferien,EN Summer holidays;SR Средња Школа,DE Weiterführende Schulen,EN post-primary schools
+406b3509-eaf8-4c22-9e63-cbc1694690da;RS;2020-11-11;2020-11-13;School;SR Јесењи распуст,DE Herbstferien,EN Autumn holidays;
+2023795b-07c9-4bb9-ad68-fe4d2c65f7de;RS;2020-12-21;2021-01-15;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;SR Средња Школа,DE Weiterführende Schulen,EN post-primary schools
+5a6ae9b3-1af5-4272-a584-bd0aa17d9c89;RS;2020-12-31;2021-01-08;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+fa1ac0db-c020-48a3-a4f9-3dc2c878b201;RS;2021-02-01;2021-02-16;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+d23f396a-638e-493d-baa8-8b22b7675b33;RS;2021-04-30;2021-05-03;School;SR Пролећни распуст,DE Frühlingsferien,EN Spring holidays;SR Средња Школа,DE Weiterführende Schulen,EN post-primary schools
+8894005d-c6d4-4121-8768-1f0aeae676a7;RS;2021-04-30;2021-05-07;School;SR Пролећни распуст,DE Frühlingsferien,EN Spring holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+0501d07c-3d1c-4845-b88c-a2827f9fbc04;RS;2021-06-21;2021-08-31;School;SR Летњи распуст,DE Sommerferien,EN Summer holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+09bd3c0d-1026-4fcd-8e0f-ab06a3756c9e;RS;2021-06-23;2021-08-31;School;SR Летњи распуст,DE Sommerferien,EN Summer holidays;SR Средња Школа,DE Weiterführende Schulen,EN post-primary schools
+c96093be-d004-4276-bc73-76517f37d2c4;RS;2021-11-11;2021-11-12;School;SR Јесењи распуст,DE Herbstferien,EN Autumn holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+d43f453b-111f-4a5d-8dc7-1930ceee290d;RS;2021-11-12;;School;SR Јесењи распуст,DE Herbstferien,EN Autumn holidays;SR Средња Школа,DE Weiterführende Schulen,EN post-primary schools
+ea6ca434-a0bb-4590-8514-341378c893c6;RS;2021-12-31;2022-01-21;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+efae9c8d-fdea-4bf6-bd3a-30d7d074d605;RS;2022-01-04;2022-01-21;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;SR Средња Школа,DE Weiterführende Schulen,EN post-primary schools
+362c43b9-8ea9-4392-89e5-35487f1f61c0;RS;2022-04-22;2022-05-03;School;SR Пролећни распуст,DE Frühlingsferien,EN Spring holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+a68392c2-6bc5-4e1c-a34f-c226f9a9ca5b;RS;2022-06-22;2022-08-31;School;SR Летњи распуст,DE Sommerferien,EN Summer holidays;
+849f79da-37b8-4858-a2db-bd4a9526b0b1;RS;2023-01-03;2023-01-13;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;SR Средња Школа,DE Weiterführende Schulen,EN post-primary schools
+7ccad143-267a-488f-b4b7-04ae87cc0b7a;RS;2023-01-03;2023-01-20;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+bd8ea4b4-6e17-46a5-a838-8b11341ccf51;RS;2023-04-11;2023-04-18;School;SR Пролећни распуст,DE Frühlingsferien,EN Spring holidays;
+42a36ac7-ec14-46c3-bc43-36965aed787e;RS;2023-06-21;2023-08-31;School;SR Летњи распуст,DE Sommerferien,EN Summer holidays;
+bb069855-d711-4479-9222-12524336f363;RS;2023-11-08;2023-11-10;School;SR Јесењи распуст,DE Herbstferien,EN Autumn holidays;
+c10f1639-85bb-45a3-9922-842bda98d506;RS;2024-01-01;2024-01-19;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;
+85510275-c8da-4e43-aff9-0a16cbd8a264;RS;2024-04-29;2024-05-06;School;SR Пролећни распуст,DE Frühlingsferien,EN Spring holidays;
+881a9770-041d-44be-b88c-af799ff865c5;RS;2024-06-24;2024-08-30;School;SR Летњи распуст,DE Sommerferien,EN Summer holidays;
+144e8a2a-cc4e-4738-a3a4-5e1648c704b2;RS;2024-11-11;2024-11-12;School;SR Јесењи распуст,DE Herbstferien,EN Autumn holidays;
+249308fe-68e8-4d09-b55e-2538f8acb256;RS;2024-12-30;2025-01-17;School;SR Зимски распуст,DE Winterferien,EN Winter holidays;
+820eef25-f4b3-43a9-9020-8c9419119ceb;RS;2025-04-16;2025-04-21;School;SR Пролећни распуст,DE Frühlingsferien,EN Spring holidays;
+094b161f-0b3e-45c6-b55f-050796061f4d;RS;2025-06-16;2025-08-29;School;SR Летњи распуст,DE Sommerferien,EN Summer holidays;SR Основна Школа,DE Grundschulen,EN primary schools
+db3e8f05-deb6-421b-ab99-e5a0e0c97548;RS;2025-06-23;2025-08-29;School;SR Летњи распуст,DE Sommerferien,EN Summer holidays;SR Средња Школа,DE Weiterführende Schulen,EN post-primary schools
