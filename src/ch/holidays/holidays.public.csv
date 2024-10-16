@@ -1,6 +1,6 @@
 ﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
 2e635824-9ae7-48dc-9fd4-df43d64fcdc8;CH;2020-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-8649224c-12df-4984-aa7a-f84831bb8e77;CH;2020-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+8649224c-12df-4984-aa7a-f84831bb8e77;CH;2020-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 4f8a15b8-4f2b-4ebf-bfc9-337657473ad5;CH;2020-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 99ff6535-07a2-4099-9405-95533b97d84e;CH;2020-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 4f2e8065-df65-481e-8e6f-68f5887650cf;CH;2020-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -10,19 +10,19 @@ e8da150b-5b13-4551-ab92-cbfd0615741a;CH;2020-02-05;;Public;DE Agathatag,FR Journ
 26f7c030-93cc-443d-82c2-f9a41d922030;CH;2020-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 a940a924-f65a-47f3-a6a5-fa4ccbd7bf77;CH;2020-04-02;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
 2392c0e2-2e3c-42ec-87f1-56be0f4446f7;CH;2020-04-10;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-4e67735a-b51c-4a68-b761-273ddae5e253;CH;2020-04-13;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
-a1e42693-e25a-49e8-b341-f3b41038c0fa;CH;2020-04-20;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+4e67735a-b51c-4a68-b761-273ddae5e253;CH;2020-04-13;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+a1e42693-e25a-49e8-b341-f3b41038c0fa;CH;2020-04-20;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 b8f5a698-891a-46fd-9d51-2df017e83f9e;CH;2020-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 ce964834-f7dd-4d0a-aa8a-aec6d65ecae6;CH;2020-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 ab288861-967f-4919-99a1-87d3e9aff07b;CH;2020-05-21;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-c5f44e0b-5844-47eb-be1c-2d0a822fc805;CH;2020-06-01;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+c5f44e0b-5844-47eb-be1c-2d0a822fc805;CH;2020-06-01;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 8e3d35cc-fb85-425e-acbb-26cee5962860;CH;2020-06-11;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 c717384f-4709-4e3a-9942-9cf7eacbbbed;CH;2020-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;TI
 e04357d2-0a7c-4389-bd0c-6473c6dcf14b;CH;2020-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 43216a7b-76ec-4f81-b791-84957a4dd39c;CH;2020-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 ad4e416f-64e3-4bd9-88bf-5de06c4c3a43;CH;2020-09-10;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
+fa9933ae-09f3-4cb2-a52a-5302f07e23d1;CH;2020-09-14;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 71528789-c5e6-4d01-bcc2-e9580d70fdf7;CH;2020-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
-fa9933ae-09f3-4cb2-a52a-5302f07e23d1;CH;2020-09-14;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 0bb9d5e1-ea62-485f-bec4-c357b1532159;CH;2020-09-19;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 31d01336-fe4b-4bd8-86bd-88f44d597400;CH;2020-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
 969cd403-d633-4dc3-ab04-2af92dd6f381;CH;2020-09-25;;Public;DE Bruder-Klausen-Fest,FR Fête de Saint-Nicolas-de-Flüe,IT Festa di san Nicola di Flüe,EN Saint Nicholas of Flüe Day;OW
@@ -34,7 +34,7 @@ ab434ac3-7562-4edc-9ff9-62dffb940965;CH;2020-11-11;;Public;DE Martinstag,FR Jour
 af25e080-5285-46e9-a7d4-c6b82f547a5f;CH;2020-12-26;;Public;DE Stephanstag,FR Saint-Etienne,IT Giorno di Santo Stefano,EN St Stephen's Day;AG-AA,AG-BA,AG-BG,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AG-ZZ,AR,BE,BL,BS,FR,GL,GR,LU,OW,SG,SH,SO,SZ,TG,TI,UR,ZG,ZH
 30e92e7c-8b91-493f-bf44-2a430f30e469;CH;2020-12-31;;Public;DE Wiederherstellung der Republik,FR Restauration de la République,IT Restauro della Repubblica,EN Restoration of the Republic;GE
 d09f4485-3091-43fb-a337-759d5b091e83;CH;2021-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-bf8b46d3-d09a-4040-ae7d-86dcbdb0200c;CH;2021-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+bf8b46d3-d09a-4040-ae7d-86dcbdb0200c;CH;2021-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 b2015f5a-442f-4f14-a22b-776bfe65d2e2;CH;2021-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 42f05807-42bd-40c8-ac6d-e1389fafe273;CH;2021-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 1567afb5-682e-4aaa-8032-358ca4323011;CH;2021-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -43,19 +43,19 @@ ea364102-092b-4d99-bedd-307ff5c467e8;CH;2021-02-05;;Public;DE Agathatag,FR Journ
 283c2eae-c0e1-4392-9a0c-9df464da00bb;CH;2021-03-19;;Public;DE Josephstag,FR Saint-Joseph,IT San Giuseppe,EN St Joseph's Day;NW,SZ,TI,UR,VS
 18a0940d-0652-4886-a14e-2e825b38d9f6;CH;2021-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 309cb08d-7d93-47c8-b99f-6bd906bad457;CH;2021-04-02;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-840dcc6a-43b9-4b17-8f87-deaf7a4e37e3;CH;2021-04-05;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+840dcc6a-43b9-4b17-8f87-deaf7a4e37e3;CH;2021-04-05;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 0a7b41e3-5d0a-48d3-8e2b-fd6a0edda1eb;CH;2021-04-08;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
-2bf2c64d-9e81-48fd-a97c-0f3f15f8c930;CH;2021-04-19;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+2bf2c64d-9e81-48fd-a97c-0f3f15f8c930;CH;2021-04-19;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 eaef9142-c1da-425a-8733-d4fddcc00d89;CH;2021-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 6f21a261-d6ae-49ca-956e-818b80b78c7f;CH;2021-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 fd53dd61-482a-491d-b782-00cc8327077c;CH;2021-05-13;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-3828e8d5-489b-48a2-a348-72abcda6ede7;CH;2021-05-24;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+3828e8d5-489b-48a2-a348-72abcda6ede7;CH;2021-05-24;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 4947c941-a868-40bb-a623-71e27c54c759;CH;2021-06-03;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 e0c2718d-6902-4613-ba9b-561d5e68adb8;CH;2021-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;GR,TI
 ddb45a1f-dd74-4c2e-b82a-da90c3f72d97;CH;2021-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 7bc11316-5d08-4386-83db-24ce719277e0;CH;2021-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 f7d82a49-0882-448e-b57a-29eba84fa501;CH;2021-09-09;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
-7bc5226e-962c-4baf-8c67-8d7a65d4ca0f;CH;2021-09-13;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
+7bc5226e-962c-4baf-8c67-8d7a65d4ca0f;CH;2021-09-13;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 107f4603-5c6c-4de6-8f81-3c1a1ef3042e;CH;2021-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
 d2126063-fad2-4d22-8ead-91cc31836e83;CH;2021-09-19;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 269ef58f-0506-4525-b14d-13d248c488b9;CH;2021-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
@@ -68,7 +68,7 @@ c827785a-9fec-461e-adb6-73bc69d5d601;CH;2021-12-25;;Public;DE Weihnachten,FR No�
 b209dd29-ad69-464f-92fa-79e92ac0e4b1;CH;2021-12-26;;Public;DE Stephanstag,FR Saint-Etienne,IT Giorno di Santo Stefano,EN St Stephen's Day;AG-AA,AG-BA,AG-BG,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AG-ZZ,AI,AR,BL,BS,BE,FR,GL,GR,LU,OW,SG,SH,SZ,SO,TG,TI,UR,ZG,ZH
 bcf5121d-9ed3-46aa-bf68-1208fc26a1ff;CH;2021-12-31;;Public;DE Wiederherstellung der Republik,FR Restauration de la République,IT Restauro della Repubblica,EN Restoration of the Republic;GE
 626c5358-5306-43d3-ac39-e8fd393fbe46;CH;2022-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-308addc4-aae2-4d82-895e-3669a9f5c0bb;CH;2022-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+308addc4-aae2-4d82-895e-3669a9f5c0bb;CH;2022-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 4272d0ba-d2eb-43fd-8688-33e3e2e4d73a;CH;2022-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 3425ce8d-4c74-4ec5-931f-afe51dace757;CH;2022-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 1625a336-641e-46c0-8d2c-3b5f0c310932;CH;2022-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -78,18 +78,18 @@ d6467fe2-ecda-452a-9d66-19df9b69eb7c;CH;2022-02-02;;Public;DE Mariä Lichtmess,F
 d2f2d0a1-e5f7-47e3-b1cf-4940039d7a7c;CH;2022-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 9ae4137e-b464-4678-a049-cc98242fe186;CH;2022-04-07;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
 23b3126c-f886-4360-9558-e31afdc37840;CH;2022-04-15;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-9fe59c66-4196-4f64-bcc4-860f3aeebfd5;CH;2022-04-18;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
-3ed91ee5-f5f8-4fbb-8f9a-04b6c514f874;CH;2022-04-25;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+9fe59c66-4196-4f64-bcc4-860f3aeebfd5;CH;2022-04-18;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+3ed91ee5-f5f8-4fbb-8f9a-04b6c514f874;CH;2022-04-25;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 d37f894b-5951-4842-8d71-8936a8c04132;CH;2022-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 ef678a21-4d7b-4b02-95a1-6a8d1a4f1e19;CH;2022-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 ef5a54c4-e3e6-4e96-a663-a948a91086e3;CH;2022-05-26;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-6408d06c-0764-4ca9-8e76-b07045fc6b93;CH;2022-06-06;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+6408d06c-0764-4ca9-8e76-b07045fc6b93;CH;2022-06-06;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 83a5929e-dc51-42e4-9add-bf4987042443;CH;2022-06-16;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 89bc0589-3fe1-4f14-901f-de205bb51474;CH;2022-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;GR,TI
 3512874d-06be-46d6-a196-4923047b2592;CH;2022-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 df243c17-b4e7-431f-8c6f-96ae4e81e1ac;CH;2022-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 7bc8e35f-63b0-4db3-aad4-8e316cf2d5e8;CH;2022-09-08;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
-fa8dc34a-e4eb-453c-a36a-f0f153fec446;CH;2022-09-12;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
+fa8dc34a-e4eb-453c-a36a-f0f153fec446;CH;2022-09-12;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 cb403620-51dc-4882-bc1a-0fff92f9e5b2;CH;2022-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
 bf98f380-7d8e-445e-9202-0ce543e9a07c;CH;2022-09-18;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 f69c7579-5bfd-44c7-96ae-f722c150efc1;CH;2022-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
@@ -102,7 +102,7 @@ a6fd23b4-3b12-4fb1-967c-15d8c5dd1078;CH;2022-11-01;;Public;DE Allerheiligen,FR T
 509e4bbd-7a28-4247-8851-027af48b43ae;CH;2022-12-26;;Public;DE Stephanstag,FR Saint-Etienne,IT Giorno di Santo Stefano,EN St Stephen's Day;AG-AA,AG-BA,AG-BG,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AG-ZZ,AI,AR,BL,BS,BE,FR,GL,GR,LU,OW,SG,SH,SZ,SO,TG,TI,UR,ZG,ZH
 8e877f1f-dbaf-44eb-b3f0-306397d8070b;CH;2022-12-31;;Public;DE Wiederherstellung der Republik,FR Restauration de la République,IT Restauro della Repubblica,EN Restoration of the Republic;GE
 8d5e28cb-9bd9-4d0f-b209-380965801f21;CH;2023-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-cfb30363-db56-46dd-a03d-fd9168422191;CH;2023-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+cfb30363-db56-46dd-a03d-fd9168422191;CH;2023-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 a5804977-070a-44b6-bfb3-0ca8bcaf8465;CH;2023-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 f347f5bb-5546-4b11-b201-a0f2c9c857bb;CH;2023-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 966755f5-a53c-46f9-96a2-3d648d41f28e;CH;2023-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -111,19 +111,19 @@ f347f5bb-5546-4b11-b201-a0f2c9c857bb;CH;2023-01-17;;Public;DE Antoniustag,FR Fê
 b7dd036f-1133-4e6f-947d-8a4a1181fc22;CH;2023-03-19;;Public;DE Josephstag,FR Saint-Joseph,IT San Giuseppe,EN St Joseph's Day;NW,SZ,TI,UR,VS
 3cbeca02-c1d5-481a-9312-05fa63c9094b;CH;2023-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 25fea96a-da0a-4a8a-a77a-0fd887364864;CH;2023-04-07;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-27aeaebe-aa4d-4a5d-8305-1045a152b6a2;CH;2023-04-10;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+27aeaebe-aa4d-4a5d-8305-1045a152b6a2;CH;2023-04-10;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 d2c74f5f-7c18-4010-9e01-e851c064dbf9;CH;2023-04-13;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
-839eae2d-9714-484e-8e83-2eb03c29b4c2;CH;2023-04-17;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+839eae2d-9714-484e-8e83-2eb03c29b4c2;CH;2023-04-17;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 89ad28bf-f057-40b9-b251-62c902e4dc22;CH;2023-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 2d2ac581-92ee-416a-9c13-1f61490b3d8f;CH;2023-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 0c6f6bee-d02e-42a0-ace2-7700d869b83b;CH;2023-05-18;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-4333d8ec-76de-4f86-9125-e0293bc7b46d;CH;2023-05-29;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+4333d8ec-76de-4f86-9125-e0293bc7b46d;CH;2023-05-29;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 6ba40023-94b0-40e8-987e-e2d16c3e6552;CH;2023-06-08;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 0c7dbdc7-dd6e-4c2d-bdad-c242a89a6f3a;CH;2023-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;GR,TI
 9c1fe862-59f3-43a1-b842-a0d6d00e337f;CH;2023-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 656b9e3c-6c0a-423c-9fb0-c974ba67bfa0;CH;2023-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 ff681b10-1b2e-47db-a4b9-44cafe1699e5;CH;2023-09-07;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
-7182a611-3a5a-48b5-8188-e1327c6fb794;CH;2023-09-11;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
+7182a611-3a5a-48b5-8188-e1327c6fb794;CH;2023-09-11;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 77f3ac2d-8b37-4a68-b2e1-3b5bc9e2eb88;CH;2023-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
 5fbfd78b-a323-4eda-ba2b-873782a00608;CH;2023-09-17;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 7772ff9c-b361-4df7-b522-d9d66115efdf;CH;2023-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
@@ -136,7 +136,7 @@ e86a7ec4-8756-44e8-adcd-92cebee3fb2a;CH;2023-09-25;;Public;DE Bruder-Klausen-Fes
 b00e5173-13bf-4a8c-aa7e-8a7582cb1a67;CH;2023-12-26;;Public;DE Stephanstag,FR Saint-Etienne,IT Giorno di Santo Stefano,EN St Stephen's Day;AG-AA,AG-BA,AG-BG,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AG-ZZ,AR,BE,BL,BS,FR,GL,GR,LU,OW,SG,SH,SO,SZ,TG,TI,UR,ZG,ZH
 c5bbeb81-0a18-4ab4-a4c3-283d83289542;CH;2023-12-31;;Public;DE Wiederherstellung der Republik,FR Restauration de la République,IT Restauro della Repubblica,EN Restoration of the Republic;GE
 b90c6036-b041-49d7-a138-81e4173f122a;CH;2024-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-fe93e666-6a0e-4604-ba57-5e06062d2d1c;CH;2024-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+fe93e666-6a0e-4604-ba57-5e06062d2d1c;CH;2024-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 6f2f8004-cae4-42e8-b4b8-2f8bcecbd0a4;CH;2024-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 00d59e68-00de-446c-8858-faf625ecaaa1;CH;2024-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 1ab5e249-a283-4b48-8734-7d5e5a52cbf0;CH;2024-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -145,19 +145,19 @@ ceb80fec-1a5f-4ec5-a587-f92886cd9780;CH;2024-02-02;;Public;DE Mariä Lichtmess,F
 faa638bc-c9c4-4943-93db-609218dcb63a;CH;2024-03-19;;Public;DE Josephstag,FR Saint-Joseph,IT San Giuseppe,EN St Joseph's Day;NW,SZ,TI,UR,VS
 7a63dc38-0a9b-40b9-ab65-6ef6820b86d0;CH;2024-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 3b2313fe-d17b-456a-a4c1-377ad5f3e7e8;CH;2024-03-29;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-48975d05-ca03-4e2d-b68d-884695548b87;CH;2024-04-01;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+48975d05-ca03-4e2d-b68d-884695548b87;CH;2024-04-01;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 a3df98af-270c-4149-bfd0-6552c26d4d8b;CH;2024-04-04;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
-0eb9b7c7-278d-4b69-a118-41532a40a2fd;CH;2024-04-15;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+0eb9b7c7-278d-4b69-a118-41532a40a2fd;CH;2024-04-15;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 42c6715c-5b19-4f08-adf9-44cd1cd01b10;CH;2024-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 9ea7a7c5-746e-424a-a23f-afd54f09f797;CH;2024-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 33e8b4fa-f02e-43e9-b658-fba6d3551dea;CH;2024-05-09;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-d24c35d1-a786-465c-9538-eb13b20a61bb;CH;2024-05-20;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+d24c35d1-a786-465c-9538-eb13b20a61bb;CH;2024-05-20;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 cd09c306-7a7d-4c6e-9376-95f36553e7b1;CH;2024-05-30;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 145030c8-cdff-4991-8349-81d1e917992a;CH;2024-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;GR,TI
 fc687b29-6743-4844-b734-b01c01e393fd;CH;2024-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 7537a06b-46f4-478d-aec5-1e72c4442ab3;CH;2024-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 bcda328c-9bd5-47c2-bac1-5a676361d71f;CH;2024-09-05;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
-fd3ae2e8-28bc-4181-8168-2c8a0c80d038;CH;2024-09-09;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
+fd3ae2e8-28bc-4181-8168-2c8a0c80d038;CH;2024-09-09;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 881e587f-726f-4f62-bfd5-db8a4d76ab9d;CH;2024-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
 e9a2c395-4114-4670-a967-2e377287a877;CH;2024-09-15;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 07ff06ac-5d4a-47cf-aedc-af0cd5ddbc56;CH;2024-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
@@ -170,7 +170,7 @@ d6cb838a-8136-499a-82cf-1ecace81bb4a;CH;2024-12-25;;Public;DE Weihnachten,FR No�
 39df4fec-401e-405a-9e39-dc101ce6b52a;CH;2024-12-26;;Public;DE Stephanstag,FR Saint-Etienne,IT Giorno di Santo Stefano,EN St Stephen's Day;AG-AA,AG-BA,AG-BG,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AG-ZZ,AI,AR,BL,BS,BE,FR,GL,GR,LU,OW,SG,SH,SZ,SO,TG,TI,UR,ZG,ZH
 5939f205-447e-4c4b-9ac2-8cbfe86f1373;CH;2024-12-31;;Public;DE Wiederherstellung der Republik,FR Restauration de la République,IT Restauro della Repubblica,EN Restoration of the Republic;GE
 e5f43c3f-bc4e-432e-a311-40fe09200f90;CH;2025-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-732e4a20-ea2e-4e8f-b5c4-30b76d8d53ab;CH;2025-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+732e4a20-ea2e-4e8f-b5c4-30b76d8d53ab;CH;2025-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 570fc5cc-0c8a-4f9f-aae3-4cc3661581d2;CH;2025-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 03d28760-194c-4ada-add5-fb978798b471;CH;2025-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 ec428d07-6474-44af-9bc1-ec407a4b215d;CH;2025-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -180,19 +180,19 @@ ffe0c6b5-3d81-49e2-9463-aaf5333a68ed;CH;2025-02-02;;Public;DE Mariä Lichtmess,F
 8e973072-27ea-4736-a7fc-f7da5b9c3fe3;CH;2025-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 cc5ca869-f7ee-4386-bba4-eb8af92fc501;CH;2025-04-03;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
 2a7947c8-f5db-420f-8f07-5378613e209c;CH;2025-04-18;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-2f2c6fbc-8331-409f-b227-7defdd5fd3de;CH;2025-04-21;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
-35c5f89e-2595-420d-9b40-67ac49cd3cdc;CH;2025-04-28;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+2f2c6fbc-8331-409f-b227-7defdd5fd3de;CH;2025-04-21;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+35c5f89e-2595-420d-9b40-67ac49cd3cdc;CH;2025-04-28;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 a35992a0-ffcb-480c-b97d-195052c25dfe;CH;2025-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 456ce9a9-2f82-485c-a226-1c9fd272fcde;CH;2025-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 f01c712c-c002-4b3c-bec8-88ae7fcf70e5;CH;2025-05-29;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-6d397395-b64e-4096-b0a0-c497e22a202d;CH;2025-06-09;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+6d397395-b64e-4096-b0a0-c497e22a202d;CH;2025-06-09;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 63a8c4ae-5e5b-4643-beef-01716a9df3cc;CH;2025-06-19;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 239d7f06-27ba-41fe-81c1-b3021f0e0f1d;CH;2025-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;GR,TI
 7b4e3520-bea8-442a-b6c2-9bb24cd65986;CH;2025-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 75adbf5d-47a6-409a-89ca-e150c9dd0a4c;CH;2025-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 0fa12ff5-576b-43bf-9680-bc5e7835a180;CH;2025-09-11;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
 2e5304f0-da51-461c-b1ee-1ad0d4fcafef;CH;2025-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
-cad38d6d-e597-4ae6-a5c3-bc90963f73e5;CH;2025-09-15;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
+cad38d6d-e597-4ae6-a5c3-bc90963f73e5;CH;2025-09-15;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 7dff2cb7-4ac6-42f9-96dc-2faafb0b2286;CH;2025-09-21;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 5ade4789-2d4c-47c2-b62c-5ad4dc29bdf1;CH;2025-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
 e6f13d9a-9079-4c75-8d3b-0666af5d3e78;CH;2025-09-25;;Public;DE Bruder-Klausen-Fest,FR Fête de Saint-Nicolas-de-Flüe,IT Festa di san Nicola di Flüe,EN Saint Nicholas of Flüe Day;OW
@@ -204,7 +204,7 @@ efd60619-ebf7-49d2-80d9-4d99daec4e58;CH;2025-10-16;;Public;DE Gallustag,FR Journ
 6638de0b-90ce-4d9e-be2d-7f727beff983;CH;2025-12-26;;Public;DE Stephanstag,FR Saint-Etienne,IT Giorno di Santo Stefano,EN St Stephen's Day;AG-AA,AG-BA,AG-BG,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AG-ZZ,AI,AR,BL,BS,BE,FR,GL,GR,LU,OW,SG,SH,SZ,SO,TG,TI,UR,ZG,ZH
 e012eb39-50a8-46b2-97cc-49a500f558ca;CH;2025-12-31;;Public;DE Wiederherstellung der Republik,FR Restauration de la République,IT Restauro della Repubblica,EN Restoration of the Republic;GE
 adbbd6a7-365b-441f-bd45-1750624026bd;CH;2026-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-241f2d63-900c-42eb-b2a0-14864f9e36e5;CH;2026-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+241f2d63-900c-42eb-b2a0-14864f9e36e5;CH;2026-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 1fedae44-e234-4705-810f-f0955ff2054e;CH;2026-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 57239e4f-4778-4fea-8cba-a512cec7566a;CH;2026-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 f2d34e3b-40f9-422d-a2e3-52cd2e1e2ec2;CH;2026-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -213,20 +213,20 @@ bbad7c87-bb34-4ab8-a3b8-eb1cd8d2cc6e;CH;2026-02-02;;Public;DE Mariä Lichtmess,F
 3f170b8e-a9ec-4865-8057-a28f74dbbc94;CH;2026-03-19;;Public;DE Josephstag,FR Saint-Joseph,IT San Giuseppe,EN St Joseph's Day;NW,SZ,TI,UR,VS
 2e1a41b9-f7d4-49ce-89bc-50a2868a9b91;CH;2026-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 637e6673-4e30-4855-8b16-91d6b56d3ad6;CH;2026-04-03;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-f4e848c4-0b8b-4561-91b3-ea8b3d1b2963;CH;2026-04-06;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+f4e848c4-0b8b-4561-91b3-ea8b3d1b2963;CH;2026-04-06;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 7a8b2298-9d0e-4c7b-ad40-ece079f92ea3;CH;2026-04-09;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
-1ce03cdc-685c-4636-8761-ae0bc3678c3d;CH;2026-04-20;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+1ce03cdc-685c-4636-8761-ae0bc3678c3d;CH;2026-04-20;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 40d9e769-20c5-4f2e-982c-eb5102dc1ead;CH;2026-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 52beb188-975d-4d79-a7f5-628e3ffd72fe;CH;2026-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 e27306a5-5a7d-4eb2-ae07-a5ffe87332e7;CH;2026-05-14;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-93f16b7a-0315-42e8-87c1-497aec040179;CH;2026-05-25;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+93f16b7a-0315-42e8-87c1-497aec040179;CH;2026-05-25;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 1d18ada1-12f6-45be-becf-9b9d8eb0564b;CH;2026-06-04;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 95b59a1c-4ad6-461f-8d79-5ef86bd32c54;CH;2026-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;GR,TI
 91fcdfdf-fe22-4d56-ba2d-3482d0fcfc7e;CH;2026-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 74cfca78-79a4-4c28-8c64-8b600dcd94cf;CH;2026-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 6bea938d-f682-49f8-801f-65e955b6cf8d;CH;2026-09-10;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
+d112c475-bbd0-479a-ba4d-eb38f82312f5;CH;2026-09-14;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 c0381af2-5542-4e27-9bb2-a01c21164ade;CH;2026-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
-d112c475-bbd0-479a-ba4d-eb38f82312f5;CH;2026-09-14;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 cddd771c-afd2-46b8-9e8b-4753d471357f;CH;2026-09-20;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 1ba36d86-8646-499f-b3a5-911ebab9fd20;CH;2026-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
 a78a607d-025b-49b1-a46e-36c453ca98d0;CH;2026-09-25;;Public;DE Bruder-Klausen-Fest,FR Fête de Saint-Nicolas-de-Flüe,IT Festa di san Nicola di Flüe,EN Saint Nicholas of Flüe Day;OW
@@ -238,7 +238,7 @@ e550a49b-c824-41c9-ac68-02996c9760b8;CH;2026-12-25;;Public;DE Weihnachten,FR No�
 f8710c7f-3e88-46f9-bcd7-ffb4451e712a;CH;2026-12-26;;Public;DE Stephanstag,FR Saint-Etienne,IT Giorno di Santo Stefano,EN St Stephen's Day;AG-AA,AG-BA,AG-BG,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AG-ZZ,AR,BE,BL,BS,FR,GL,GR,LU,OW,SG,SH,SO,SZ,TG,TI,UR,ZG,ZH
 18100ff3-564c-4ad4-abb7-d2cf4e46db7b;CH;2026-12-31;;Public;DE Wiederherstellung der Republik,FR Restauration de la République,IT Restauro della Repubblica,EN Restoration of the Republic;GE
 a4b8a366-10fc-416d-9159-d16437f42b03;CH;2027-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-7049a2e0-a579-49e5-8859-e69deec23073;CH;2027-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+7049a2e0-a579-49e5-8859-e69deec23073;CH;2027-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 06cb8262-53a6-4b16-8183-ce8c2d4a2369;CH;2027-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 6fb17a7f-ccdc-447c-acb8-7504b8d50808;CH;2027-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 84938ff0-1f98-46c6-80df-379ce29c284e;CH;2027-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -247,19 +247,19 @@ a4b8a366-10fc-416d-9159-d16437f42b03;CH;2027-01-01;;Public;DE Neujahrstag,FR Nou
 6a6ee28b-4591-4ad5-9210-29d6a8f6d57a;CH;2027-03-19;;Public;DE Josephstag,FR Saint-Joseph,IT San Giuseppe,EN St Joseph's Day;NW,SZ,TI,UR,VS
 6379943e-8508-464b-8ae5-c2dee330002e;CH;2027-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 289e0c15-5618-4530-9402-afc1bcd604f9;CH;2027-03-26;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-e30ca15f-d5ee-425a-b53e-e554b54b3d92;CH;2027-03-29;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+e30ca15f-d5ee-425a-b53e-e554b54b3d92;CH;2027-03-29;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 5d9cf524-1b79-461b-ad56-ee91e07f2563;CH;2027-04-01;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
-d9179577-c993-4c90-baf5-dcf73ae92829;CH;2027-04-19;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+d9179577-c993-4c90-baf5-dcf73ae92829;CH;2027-04-19;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 370210eb-b8b4-41bf-9931-53c5714a83b1;CH;2027-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 47cec6a6-90bc-4bd2-bb0f-6b930c32aa6b;CH;2027-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 4989fcaf-ef41-4a05-b5d4-494d84202f94;CH;2027-05-06;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-f7e2d460-e4b5-440d-976a-3675c8be7882;CH;2027-05-17;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+f7e2d460-e4b5-440d-976a-3675c8be7882;CH;2027-05-17;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 e2c4ae1f-b516-41bb-ad11-94ae8c975078;CH;2027-05-27;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 c9c862c4-7dd2-4b5d-961e-4df4e15c0fd8;CH;2027-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;GR,TI
 38c00091-7962-4d41-9670-84ab0e672d88;CH;2027-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 cd8705fa-0735-49e6-a2dd-f988e4f38b21;CH;2027-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 a996028d-2ef7-4e11-9d45-512073c38e8c;CH;2027-09-09;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
-9feb1526-9a38-467d-bdc5-0fe583445eb8;CH;2027-09-13;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
+9feb1526-9a38-467d-bdc5-0fe583445eb8;CH;2027-09-13;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 d3faaea3-47f6-41c7-a002-91a7da75e454;CH;2027-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
 60688e7a-ecba-4477-bdc4-08c308c57a2f;CH;2027-09-19;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 3de789d0-5e1c-444e-9def-0994c733aa1a;CH;2027-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
@@ -272,7 +272,7 @@ e36d157e-7f01-4413-91a8-804eb68cd484;CH;2027-12-25;;Public;DE Weihnachten,FR No�
 097d9fae-ff21-4a5e-af0c-e3a7637fdb9d;CH;2027-12-26;;Public;DE Stephanstag,FR Saint-Etienne,IT Giorno di Santo Stefano,EN St Stephen's Day;AG-AA,AG-BA,AG-BG,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AG-ZZ,AI,AR,BL,BS,BE,FR,GL,GR,LU,OW,SG,SH,SZ,SO,TG,TI,UR,ZG,ZH
 8564f440-5e4c-4283-8741-8496f8b49af4;CH;2027-12-31;;Public;DE Wiederherstellung der Republik,FR Restauration de la République,IT Restauro della Repubblica,EN Restoration of the Republic;GE
 207a6205-201a-442e-bd13-488ff1366fc7;CH;2028-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-801a1e38-c8dd-4263-ba12-4c318ae38f4f;CH;2028-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+801a1e38-c8dd-4263-ba12-4c318ae38f4f;CH;2028-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 1584b736-d930-42cc-9859-36ce567fa576;CH;2028-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 3532ca10-933e-4fc9-b4d1-203f4f550d42;CH;2028-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 823a9345-c680-442a-9bd6-5368e5722c03;CH;2028-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -282,18 +282,18 @@ ebe6cb86-1e3c-4d87-b519-990af4001a1e;CH;2028-03-19;;Public;DE Josephstag,FR Sain
 5503d579-b0d5-4607-b526-9c1850bf2b8e;CH;2028-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 6f438e26-997c-4e38-9cc7-a1cc10a0829f;CH;2028-04-06;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
 e81620e6-dab1-4f27-b987-9d62aecbf198;CH;2028-04-14;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-a90f0ed9-5973-4a8b-958e-d86b1abaa308;CH;2028-04-17;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
-d847d0c8-a04a-4da1-893b-70c2f005edf1;CH;2028-04-24;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+a90f0ed9-5973-4a8b-958e-d86b1abaa308;CH;2028-04-17;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+d847d0c8-a04a-4da1-893b-70c2f005edf1;CH;2028-04-24;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 68fb1fa2-2611-4eb2-aa12-ede199cf63a6;CH;2028-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 0feb5e2d-f9a8-44c6-8543-b047a8dae960;CH;2028-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 646394e3-baac-4953-bd12-87bc8a33c3ca;CH;2028-05-25;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-613f7a75-5ab1-42cc-b4aa-096572c5f44f;CH;2028-06-05;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+613f7a75-5ab1-42cc-b4aa-096572c5f44f;CH;2028-06-05;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 4d82eefd-ad7e-49f2-b6ca-8912d836230d;CH;2028-06-15;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 e8d8f5bf-0a8d-4771-8a4d-c83cc5807ce9;CH;2028-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;GR,TI
 1d3627b5-2350-4951-a860-b1b96dec1111;CH;2028-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 6ad1748c-d1b2-448f-a600-d61155bb31f8;CH;2028-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 95fa8c73-d598-4a1e-a092-bf03471d9155;CH;2028-09-07;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
-42d79f15-47be-4eff-bae8-9f798b5de1d8;CH;2028-09-11;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
+42d79f15-47be-4eff-bae8-9f798b5de1d8;CH;2028-09-11;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 c4795c1f-eee4-42d5-9a77-18fbfd9d34ee;CH;2028-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
 0aebe9a3-0802-4328-969b-5a6471c2f400;CH;2028-09-17;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 71288990-1f28-4a87-974d-4201f7f662a7;CH;2028-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
@@ -306,7 +306,7 @@ bd228290-b8c7-42bb-bf99-20f523bb019d;CH;2028-12-25;;Public;DE Weihnachten,FR No�
 cfb7223e-1e5c-4b45-a57a-8b3005b605f3;CH;2028-12-26;;Public;DE Stephanstag,FR Saint-Etienne,IT Giorno di Santo Stefano,EN St Stephen's Day;AG-AA,AG-BA,AG-BG,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AG-ZZ,AR,BE,BL,BS,FR,GL,GR,LU,OW,SG,SH,SO,SZ,TG,TI,UR,ZG,ZH
 310507e3-d142-462d-94d9-2ab22663ed54;CH;2028-12-31;;Public;DE Wiederherstellung der Republik,FR Restauration de la République,IT Restauro della Repubblica,EN Restoration of the Republic;GE
 fe995d45-30eb-4f7c-b91f-9fce5eb6c607;CH;2029-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-f171056b-bda4-4d40-912d-713677d4e7e0;CH;2029-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+f171056b-bda4-4d40-912d-713677d4e7e0;CH;2029-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 d3988efc-b8f4-4c28-831e-d8cc4e45b5c7;CH;2029-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 3cfff770-c1d0-43c5-83ba-2aa79cf2124f;CH;2029-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 d3b1d25c-42f2-49a5-be90-dc2d86b3dee6;CH;2029-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -315,19 +315,19 @@ deac08e7-2fdf-444a-a42a-7ce4f84ab087;CH;2029-02-05;;Public;DE Agathatag,FR Journ
 3cdd657f-5d7e-4700-801a-54cb42aabb92;CH;2029-03-19;;Public;DE Josephstag,FR Saint-Joseph,IT San Giuseppe,EN St Joseph's Day;NW,SZ,TI,UR,VS
 09ac6d4a-9691-4cbe-b0f6-67560696243d;CH;2029-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 11b62e79-165b-42b8-9422-6e391e26550a;CH;2029-03-30;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-e3262481-c1e5-42b9-ac24-95624a5cd2e6;CH;2029-04-02;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+e3262481-c1e5-42b9-ac24-95624a5cd2e6;CH;2029-04-02;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 cc2f0185-694d-40e4-95b2-7d871aad07f4;CH;2029-04-05;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
-f8627d91-89c2-4126-81a8-aae1ec1df07d;CH;2029-04-16;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+f8627d91-89c2-4126-81a8-aae1ec1df07d;CH;2029-04-16;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 da64fa37-e717-4393-bec6-cdeec49279d8;CH;2029-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 b26dd771-5830-44e5-bbc5-2c3b0a041768;CH;2029-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 66a8e734-0c21-48f2-99f6-6f5c67b56719;CH;2029-05-10;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-8ccb0bd4-f7bb-4f84-9fc7-880e8ee3dcb0;CH;2029-05-21;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+8ccb0bd4-f7bb-4f84-9fc7-880e8ee3dcb0;CH;2029-05-21;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 edcfb370-b7c7-4a77-8714-5d29623efad4;CH;2029-05-31;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 77cb5526-5848-4654-a245-38c14e910894;CH;2029-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;GR,TI
 660bc708-fa60-43e5-911c-5478e06e8716;CH;2029-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 c11b60be-b68e-4e3d-bcad-3fde6f5f65e2;CH;2029-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 959d904d-bab2-48d5-a253-c22313035ae9;CH;2029-09-06;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
-eb8e6ba8-aaf4-4bb9-ade1-83a8251bedbf;CH;2029-09-10;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
+eb8e6ba8-aaf4-4bb9-ade1-83a8251bedbf;CH;2029-09-10;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 8f3d6120-47b0-4c40-94a9-f3382172fbad;CH;2029-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
 3765c505-ec34-4eb3-8a7f-fdf3be334d9c;CH;2029-09-16;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 404e9910-d4e5-4a47-acc2-6fe8d72050fd;CH;2029-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
@@ -340,7 +340,7 @@ b95e06e6-d742-4db0-bbd9-0a8f0bac01f0;CH;2029-12-25;;Public;DE Weihnachten,FR No�
 63a126b4-d975-4e2c-bb8e-175686fdb9c0;CH;2029-12-26;;Public;DE Stephanstag,FR Saint-Etienne,IT Giorno di Santo Stefano,EN St Stephen's Day;AG-AA,AG-BA,AG-BG,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AG-ZZ,AI,AR,BL,BS,BE,FR,GL,GR,LU,OW,SG,SH,SZ,SO,TG,TI,UR,ZG,ZH
 55dc8db7-386c-4b30-94a6-cbea96ad39d8;CH;2029-12-31;;Public;DE Wiederherstellung der Republik,FR Restauration de la République,IT Restauro della Repubblica,EN Restoration of the Republic;GE
 177641f2-6c9f-4ac5-bbbf-007ee3e982a3;CH;2030-01-01;;Public;DE Neujahrstag,FR Nouvel an,IT Capodanno,EN New Year's Day;
-8609ff87-b389-444c-8751-e40cec78ce79;CH;2030-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,TG,VD
+8609ff87-b389-444c-8751-e40cec78ce79;CH;2030-01-02;;Public;DE Berchtoldstag,FR Saint-Berchtold,IT Santo Berchold,EN Berchtold's Day;AG-AA,AG-BA-BE,AG-BR,AG-KU,AG-LB,AG-ZF,AG-ZZ,BE,FR-LA-FR,FR-LA-GR,FR-LA-KE,FR-LA-ME,FR-LA-MN,FR-LA-MO,FR-LA-MR,FR-LA-RI,FR-LA-UL,JU,LU,TG,VD
 e407e40e-257d-4575-ac43-87211d9445a7;CH;2030-01-06;;Public;DE Dreikönigstag,FR Épiphanie,IT Epifania,EN Epiphany;SZ,TI,UR
 e50b8006-19d6-41f2-921b-b763c440c446;CH;2030-01-17;;Public;DE Antoniustag,FR Fête de Saint-Antoine,IT Festa di Sant'Antonio,EN St Anthony's Day;SZ-SZ-RT
 c72431c9-23fa-4667-bf63-07f4c5a8e896;CH;2030-01-21;;Public;DE Meinradstag,FR Journée de Meinrad,IT Giorno di Meinrad,EN Meinrad Day;SZ-ES
@@ -350,18 +350,18 @@ da0ce621-ed9a-4512-aa0e-0956525249d5;CH;2030-03-19;;Public;DE Josephstag,FR Sain
 27418630-5bc9-42b0-aa33-e235ef798954;CH;2030-03-21;;Public;DE Heiliger Benedikt,FR Saint Benoît,IT San Benedetto,EN St Benedict;OW-EN
 12f4d453-65c2-48a6-815f-4fd5d3c1a0e8;CH;2030-04-04;;Public;DE Näfelser Fahrt,FR Fahrtsfest,IT Fahrtsfest,EN Näfels Ride;GL
 14d6d7d6-ba4b-4e29-b7b6-aadfb653e827;CH;2030-04-19;;Public;DE Karfreitag,FR Vendredi saint,IT Venerdì Santo,EN Good Friday;AG,AR,AI,BL,BS,BE,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,SO,TG,UR,VD,ZG,ZH
-9b866921-2a8a-479c-ad92-77d4c0c44b4d;CH;2030-04-22;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
-da3090e5-d193-4ad3-93dc-9c22d7507220;CH;2030-04-29;;Local;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
+9b866921-2a8a-479c-ad92-77d4c0c44b4d;CH;2030-04-22;;Public;DE Ostermontag,FR Lundi de Pâques,IT Lunedì di Pasqua,EN Easter Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+da3090e5-d193-4ad3-93dc-9c22d7507220;CH;2030-04-29;;Public;DE Sechseläuten,FR Sechseläuten,IT Sechseläuten,EN Sechseläuten;ZH-ZH-ZH
 14bb1268-0c42-4e3f-a407-7d1f3d24f653;CH;2030-05-01;;Public;DE Heiliger Sigismund,FR Saint Sigismond,IT San Sigismondo,EN Saint Sigismund;SZ-SZ-MU
 0dfb2374-0be0-448d-9514-09275bcc72fe;CH;2030-05-01;;Public;DE Tag der Arbeit,FR Fête du Travail,IT Festa del lavoro,EN Labour Day;AG,BL,BS,FR,JU,NE,SH,SO,TI,TG,ZH
 d6dee2b1-7ae1-4c45-88e2-6ca5cfa4f06b;CH;2030-05-30;;Public;DE Auffahrt,FR Ascension,IT Ascensione,EN Ascension Day;
-80023696-3c9f-465b-9362-f3f95bc3bbb4;CH;2030-06-10;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
+80023696-3c9f-465b-9362-f3f95bc3bbb4;CH;2030-06-10;;Public;DE Pfingstmontag,FR Lundi de Pentecôte,IT Lunedì di Pentecoste,EN Pentecost Monday;AG-AA,AG-BA,AG-BR,AG-KU,AG-LB,AG-RF-KA,AG-RF-MA,AG-RF-MO,AG-RF-OL,AG-RF-RF,AG-RF-WA,AG-RF-ZE,AG-RF-ZU,AG-ZF,AI,AR,BE,BL,BS,FR,GE,GL,GR,JU,LU,NE,NW,OW,SG,SH,SZ,TG,TI,UR,VD,ZG,ZH
 80a476c8-b171-4447-b04c-dea4375bc020;CH;2030-06-20;;Public;DE Fronleichnam,FR Fête-Dieu,IT Corpus Domini,EN Corpus Christi;AG-BA-BA,AG-BA-BI,AG-BA-BL,AG-BA-EH,AG-BA-EN,AG-BA-FI,AG-BA-FR,AG-BA-GE,AG-BA-KI,AG-BA-KU,AG-BA-MA,AG-BA-ME,AG-BA-NH,AG-BA-NR,AG-BA-OR,AG-BA-OS,AG-BA-RE,AG-BA-SP,AG-BA-ST,AG-BA-UN,AG-BA-WE,AG-BA-WO,AG-BA-WR,AG-BA-WU,AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AG-ZZ,AI,FR,GR,JU,LU,NE,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 835e0abe-2c82-46db-b48f-2006e2006b0b;CH;2030-06-29;;Public;DE Peter und Paul,FR Saint-Pierre et Paul,IT Santi Pietro e Paolo,EN Saints Peter and Paul;GR,TI
 7438e55c-16f4-4ceb-8445-8d74a0f4454a;CH;2030-08-01;;Public;DE Bundesfeiertag,FR Fête nationale suisse,IT Festa nazionale,EN Independence Day;
 172019a0-f320-4d8d-9637-19866409c983;CH;2030-08-15;;Public;DE Mariä Himmelfahrt,FR Assomption,IT Assunzione,EN Assumption Day;AG-BG,AG-LA,AG-MU,AG-RF-HE,AG-RF-MU,AG-RF-OB,AG-RF-SU,AG-RF-ST,AG-RF-WE,AI,BL,FR,JU,LU,NW,OW,SO-DE,SO-GA,SO-GG,SO-LB,SO-OL,SO-SO,SO-TH,SO-TS,SO-WA,SZ,TI,UR,VS,ZG
 bc1f032e-acd1-4423-9217-f7db124582dd;CH;2030-09-05;;Public;DE Genfer Bettag,FR Jeûne genevois,IT Digiuno Ginevrino,EN Jeûne genevois;GE
-121c0812-4c74-4fac-9e1e-1ea62ec678de;CH;2030-09-09;;Local;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
+121c0812-4c74-4fac-9e1e-1ea62ec678de;CH;2030-09-09;;Public;DE Knabenschiessen,FR Knabenschiessen,IT Knabenschiessen,EN Knabenschiessen;ZH-ZH-ZH
 c8b22c19-427c-4d4d-973d-57c834a37385;CH;2030-09-14;;Public;DE Engelweihe,FR Consécration des anges,IT Consacrazione dell'angelo,EN Angel consecration;SZ-ES
 0e58386f-0b9e-4760-9ba2-38f09e019431;CH;2030-09-15;;Public;DE Eidgenössischer Dank-%2C Buss- und Bettag,FR Jeûne fédéral,IT Festa federale di ringraziamento,EN Federal Day of Thanksgiving%2C Repentance and Prayer;AG,BL,BS,BE,FR,GL,GR,LU,NE,NW,OW,SG,SH,SZ,TG,UR,VD,VS,ZG,ZH
 3624e569-cc87-4f6c-91bf-f60e255f3b54;CH;2030-09-22;;Public;DE Mauritiustag,FR Saint Maurice,IT San Maurizio,EN St. Mauritius Day;AI-AP,AI-GO,AI-SH,AI-SR
