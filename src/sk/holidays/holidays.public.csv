@@ -1,166 +1,166 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-2780215d-18ca-4d07-9108-f7af9a2aa95f;SK;2020-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-7c59f251-a1bd-4bc8-bde2-1613003b34da;SK;2020-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-c70573fc-289b-4ce1-8812-ab3e9f29a690;SK;2020-04-10;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-15be3888-0161-4aa9-8351-77e9196755a8;SK;2020-04-13;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-bc2b431b-31ae-4ce1-bfcf-fcf093e86d80;SK;2020-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-9e479b6e-cf93-46d4-8041-a695259faa9c;SK;2020-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-2f06618c-0497-403c-9152-a65b1cdbefe6;SK;2020-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-f265ed64-ce56-46d1-ab38-cacdad2efc67;SK;2020-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-316e6ea3-e8e3-4ef2-ab1b-9e0f010adfc2;SK;2020-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-0eaf4df1-5ecd-4f88-8286-6bc19cf3fbad;SK;2020-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-dc289e6f-6326-4ebb-9ab4-398666d2545f;SK;2020-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-66abaf52-3684-4763-bd1c-46a1b55e4c14;SK;2020-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-dec24f67-8c04-4178-9810-5a8d9e9fcf72;SK;2020-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-6c493405-82c2-4a34-8320-ea3f526f462a;SK;2020-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-3bd508a4-ab29-44f5-a04d-e1caa0f57b0d;SK;2020-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-cf0e0db4-0696-4002-97c8-2ad649d7c53f;SK;2021-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-aa7639b4-cbc1-4a6d-a94e-2774dbc95671;SK;2021-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-92b2e3af-f993-4af5-a9bc-ac82c40a7999;SK;2021-04-02;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-aa62b8ca-df24-4395-af2d-460e89c4f62f;SK;2021-04-05;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-914d89b8-ba99-4c10-8e4b-24e900cbad01;SK;2021-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-61602617-b8f7-4647-bed7-08e77cac813d;SK;2021-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-d4935c94-c989-40b7-b90a-95b982f1de01;SK;2021-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-33353d12-ea5e-4d9f-bcbd-2b27e14eaffb;SK;2021-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-ff606035-256d-4d20-9b53-911c8017074f;SK;2021-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-40ad23a6-a5dd-409e-a71f-c48d0a93bbe2;SK;2021-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-5e68e59b-4f4e-425d-80cb-0270c094e358;SK;2021-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-763c30f1-bae9-4366-828b-7f7355321f28;SK;2021-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-fe38978b-2961-40d8-a8c4-9273cec302ac;SK;2021-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-22c9289f-87d8-4fbe-934d-8bc318c7fdf9;SK;2021-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-0c9d4d0c-ca3d-48d5-8b9d-c47ea97cff90;SK;2021-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-6e22eee8-a4c5-48e8-9b2c-9b1403eb11d4;SK;2022-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-373ade0f-991e-4b75-8037-3fb04b51b1d5;SK;2022-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-b8a215f4-baa9-4362-9b69-460bf44b85fb;SK;2022-04-15;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-b5bb1cad-1da2-487f-9eff-87bcb90f65f4;SK;2022-04-18;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-876ae8f4-e834-4f08-a67f-c454b0d69476;SK;2022-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-a6a4b574-0881-4fb7-b873-8d3b0675bb04;SK;2022-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-5c59774f-9758-4fef-a9a8-de02b8c60e86;SK;2022-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-89123e49-8c89-4163-80be-c1f1f6d12b62;SK;2022-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-3277b63b-f026-4ca8-ac0e-06869cb51843;SK;2022-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-e0c45b2d-a2bf-4526-871f-86f6ab0d04f0;SK;2022-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-8d9085b0-5594-4f99-99a6-823fbf963a59;SK;2022-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-70d1dfa5-3530-4dc4-80a5-7136874c1b61;SK;2022-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-187d4e68-e391-4f80-a0db-4d96746dd1cf;SK;2022-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-d8d35a78-01c4-4204-8d2b-99b084fbd284;SK;2022-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-04684509-d404-432e-a72f-5da7f16c6cb7;SK;2022-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-096ae8a9-f136-427e-915b-54178635f2a1;SK;2023-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-d99801f1-ec63-4df6-92a6-c82adfe97fc3;SK;2023-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-1700a309-ffb1-4cad-8076-ca4b8a5ee669;SK;2023-04-07;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-e756e782-e557-4d26-9000-37105ba037ae;SK;2023-04-10;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-ed61617b-0e79-4c61-9f29-76fdc5989869;SK;2023-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-77a79300-9500-4e0c-9737-986fca05f098;SK;2023-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-5a7efb14-e559-4020-8875-046b9e4635c0;SK;2023-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-06af1371-f3a3-4ff1-a582-fe8c15e26224;SK;2023-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-4a2c57f3-3f1c-40b1-b9da-81d6113e5437;SK;2023-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-beebecaa-883a-484a-85c7-ef6524fc2a98;SK;2023-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-0c23f511-606f-4523-9000-4f0756a3c857;SK;2023-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-fd1de97f-f7c6-4d11-86fd-06184bd73a48;SK;2023-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-c0e624f3-2f5e-42e7-9468-0894c87138a2;SK;2023-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-557a1a13-a995-4958-879c-f717eddb5dc3;SK;2023-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-d6863a0c-5408-46d9-a911-a172c1c83902;SK;2023-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-789d0ef3-3379-4869-9e5b-6af552556fc3;SK;2024-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-d8210344-8702-4542-a175-1ace87cc4d4a;SK;2024-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-8d2a2fae-74a0-4c0a-9bbe-1fbdd9b5eee3;SK;2024-03-29;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-8f647c2d-88b4-4efe-bcb3-15c864effae7;SK;2024-04-01;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-d7c03e0f-51d4-40e3-a1fa-c56a9e3fad4d;SK;2024-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-5d3dae88-4f2b-47ee-8c5c-bb9c00bed0b5;SK;2024-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-1b8d6959-70a8-4887-b6c3-f72e82f68e11;SK;2024-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-e5963514-c3ac-445b-85cc-1a7bbe6eba5f;SK;2024-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-cb154038-9bc3-48e1-8d8b-815f8a42b979;SK;2024-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-fde90696-3be9-4f8d-ac43-99dcf3e4a90c;SK;2024-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-696d5409-1331-47a2-93f2-dc403857437e;SK;2024-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-6315b57d-2f10-4148-be6b-eb4a0b9e3522;SK;2024-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-0015fe9c-ab4a-4317-927b-634a7d147d94;SK;2024-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-256b25a3-823d-4f96-ae6c-f710c7cf81a9;SK;2024-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-15e05473-c8a9-4dc6-8808-8f4575b6313c;SK;2024-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-915a2e98-b466-4787-9429-ed1cebdeca32;SK;2025-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-7437cc54-3ffe-4df5-a386-7af30a2db2d8;SK;2025-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-bd7fd5a7-6836-4ef4-a7bb-e6f0d9230706;SK;2025-04-18;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-60aa831a-aa0e-4578-8bcf-d736bef59d5f;SK;2025-04-21;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-ffd83f25-8335-4c04-9816-ca29039048af;SK;2025-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-3c8d7a4f-392e-476c-a3c3-ddc0c05a3945;SK;2025-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-840d2788-d033-42d2-a780-6d23ebb98a5b;SK;2025-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-f23ce324-831c-4a18-98f0-a7c70002e98b;SK;2025-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-4579f462-03eb-4091-8f52-add39f02e478;SK;2025-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-0fdc5978-0478-49a4-b35f-c2781b7dfc4d;SK;2025-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-413cfbbb-df2f-442e-8201-57333c96458e;SK;2025-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-408bc6e9-c2a6-4228-b2c6-91153b7bbd04;SK;2025-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-40675b93-1f90-45b0-99d7-579e19dd122d;SK;2025-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-d3e65eb8-9dc1-475a-8647-2e9a043142a2;SK;2025-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-6cb73908-5832-4eec-9193-410b9b0cd021;SK;2025-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-5dfc5da6-8aa8-4ec5-92e2-5e59f95e9b38;SK;2026-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-5bf95653-2feb-4b0e-b92f-b8ff4fc5259b;SK;2026-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-8d2b2b55-f7d4-4977-bd66-668e91881e11;SK;2026-04-03;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-b41fcc98-755a-4d8e-a73c-671a5183cccf;SK;2026-04-06;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-6496b8b9-9b8f-436f-9854-2c5d4335ccfa;SK;2026-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-1d31ad93-8ac8-4be8-8580-83b179f44531;SK;2026-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-636fade1-4f71-46e4-8e0f-fb3e36430f29;SK;2026-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-afa16078-4a7e-44a4-bb25-2d99acee28fd;SK;2026-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-d2d764ae-266b-4b2f-a2a5-ac99ff6a43be;SK;2026-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-0956ed18-5513-45a1-8133-8754ec39adba;SK;2026-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-e4f69c6d-ab1c-4e5a-a78b-c560dea17136;SK;2026-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-4159b433-317f-444f-bf9c-37880e73ce0d;SK;2026-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-888fae9f-7ac0-4b23-9ea3-f35510a6ffbe;SK;2026-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-64ecfed7-aafd-4450-ac61-2cd7fce42f8d;SK;2026-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-343e6e8d-2735-4da7-a5a4-27ffe2deb93a;SK;2026-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-76621b0a-2078-49a7-815c-670a69a06b22;SK;2027-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-c7c87555-16fb-4997-b539-8bd7f310b779;SK;2027-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-373f6107-371d-41d4-875b-bc6642366279;SK;2027-03-26;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-2cef474c-86e1-4b6a-8847-47de3d69b7a0;SK;2027-03-29;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-6fb7a069-32a5-414e-abbc-92cf0b6a08b1;SK;2027-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-2a746689-8fb3-40c6-9c93-735adc6126e4;SK;2027-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-5abbbd2d-2db0-46b2-be54-7d09d0c0525e;SK;2027-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-5ed64fc5-dd7b-444e-b0f7-bf1c98cb83cc;SK;2027-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-e19b7abf-e99f-4aab-9b73-f9d1a96dc50f;SK;2027-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-1f9479bd-cd7c-41e6-aa8c-82570ca244b4;SK;2027-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-c7157d04-51d0-4fd6-9642-cbacef2e8c74;SK;2027-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-57295d19-638a-45ec-9942-ac6c23fb3199;SK;2027-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-72b7e762-8bfa-4368-8a54-50a8b06bcc2d;SK;2027-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-b57a2ca7-cc35-40c1-bc6c-a71f55bee44f;SK;2027-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-16bc8d16-a08b-41ea-b984-e6f85a65d346;SK;2027-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-39fbbd22-c30c-494a-982b-3673dc442370;SK;2028-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-91f3dfe4-a924-4c6c-8745-0ce790b3c146;SK;2028-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-4a031101-7d9c-4950-a253-3fbae91eb1b2;SK;2028-04-14;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-2340592e-c388-465a-adfa-2da1b7ff9382;SK;2028-04-17;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-37fbed06-0759-43a2-bbc4-8019503e6ad7;SK;2028-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-f3f0829b-64f6-4f63-83a5-7e2bba6d0d6c;SK;2028-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-1ccd5b80-eadc-4d08-b10e-6e453c81324e;SK;2028-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-645b80e5-65fe-46f6-b6b7-87f87a22b37a;SK;2028-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-9b8671bb-1f27-47c0-b0ac-e96436631c3b;SK;2028-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-2969feb2-715c-48a3-9fbc-2e91a1c2b384;SK;2028-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-034d8f00-ac8e-4b26-8567-66ec49c798a0;SK;2028-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-2f822aaf-7e34-4c48-af24-b34e657bbcdb;SK;2028-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-8e8e5944-de21-43cf-9493-8c208456db0e;SK;2028-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-b59d63f6-d2cd-4ebe-80c9-d0acc2a93aaa;SK;2028-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-a6b73cf5-f4fe-4bc9-8803-aeebbd48afd6;SK;2028-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-d792590b-1965-4a01-a76e-235b5abf691c;SK;2029-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-5fb4b806-612e-4886-922c-90c567d9763a;SK;2029-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-0d3c0f58-3124-4634-88df-9213f8f576e4;SK;2029-03-30;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-fe0d10d2-a75e-4d3a-b8e9-85795200c8e7;SK;2029-04-02;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-1ebd5423-ea9d-4a1f-9ac3-26f40d907c20;SK;2029-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-ad1e9c26-9d0f-489f-bf5c-f880500587e1;SK;2029-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-5d82d119-6ab6-4b01-b25a-190fc421bcfe;SK;2029-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-74e195ef-a263-473d-bf8c-d9643d9b9229;SK;2029-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-c01a2b2d-ca4b-4c74-9a10-38a31a95c2b7;SK;2029-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-dc6863da-6f0b-4bda-8d29-f6811b2344d6;SK;2029-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-be887862-4194-4b81-814a-02ebdae13834;SK;2029-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-82800251-113c-438d-b00f-0ad2c72ca810;SK;2029-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-23d0fd6b-8010-4c1a-8fbb-674442f97da3;SK;2029-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-3155574b-85b1-480d-9446-9118d3122bca;SK;2029-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-65a6ebf1-3187-4032-b328-e4b08772f84c;SK;2029-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-56c4b47f-a9c8-400e-b019-4ce4f3a06234;SK;2030-01-01;;Public;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
-15d6bbe6-4ed4-4f56-a7a8-1cc2953997b1;SK;2030-01-06;;Public;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
-b1641f6e-801e-415b-ae05-7cba5cbe9dfd;SK;2030-04-19;;Public;SK Veľký piatok,DE Karfreitag,EN Good Friday
-29bfb2bf-1e30-46d6-9bb5-c31a72703aee;SK;2030-04-22;;Public;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
-b339707e-05f9-4529-aa93-bf9542f92a61;SK;2030-05-01;;Public;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
-354b540a-0c73-460f-98cd-182f151d6e68;SK;2030-05-08;;Public;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
-ff74f13d-3491-4418-8d66-e79cc8a7fd58;SK;2030-07-05;;Public;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-d50b2b45-5eed-46ad-a067-ac15ebb356d8;SK;2030-08-29;;Public;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
-a4d61be1-49b6-40e5-96bc-77e38ef31b61;SK;2030-09-01;;Public;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
-d317267a-dff4-432e-9bac-2a21e4d85cfe;SK;2030-09-15;;Public;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
-38aefead-5740-4f98-bf1b-f2ce19146a70;SK;2030-11-01;;Public;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
-453bd175-1d23-46a4-87b5-73dbf9e1c671;SK;2030-11-17;;Public;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-2f43a5ef-dc4a-4557-a473-f444cc65a42e;SK;2030-12-24;;Public;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
-3b1671a2-ee7e-445c-b321-5b2cccbfbd51;SK;2030-12-25;;Public;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
-9b7acd7a-2cea-4433-af24-63acdbbc4216;SK;2030-12-26;;Public;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+2780215d-18ca-4d07-9108-f7af9a2aa95f;SK;2020-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+7c59f251-a1bd-4bc8-bde2-1613003b34da;SK;2020-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+c70573fc-289b-4ce1-8812-ab3e9f29a690;SK;2020-04-10;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+15be3888-0161-4aa9-8351-77e9196755a8;SK;2020-04-13;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+bc2b431b-31ae-4ce1-bfcf-fcf093e86d80;SK;2020-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+9e479b6e-cf93-46d4-8041-a695259faa9c;SK;2020-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+2f06618c-0497-403c-9152-a65b1cdbefe6;SK;2020-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+f265ed64-ce56-46d1-ab38-cacdad2efc67;SK;2020-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+316e6ea3-e8e3-4ef2-ab1b-9e0f010adfc2;SK;2020-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+0eaf4df1-5ecd-4f88-8286-6bc19cf3fbad;SK;2020-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+dc289e6f-6326-4ebb-9ab4-398666d2545f;SK;2020-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+66abaf52-3684-4763-bd1c-46a1b55e4c14;SK;2020-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+dec24f67-8c04-4178-9810-5a8d9e9fcf72;SK;2020-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+6c493405-82c2-4a34-8320-ea3f526f462a;SK;2020-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+3bd508a4-ab29-44f5-a04d-e1caa0f57b0d;SK;2020-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+cf0e0db4-0696-4002-97c8-2ad649d7c53f;SK;2021-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+aa7639b4-cbc1-4a6d-a94e-2774dbc95671;SK;2021-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+92b2e3af-f993-4af5-a9bc-ac82c40a7999;SK;2021-04-02;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+aa62b8ca-df24-4395-af2d-460e89c4f62f;SK;2021-04-05;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+914d89b8-ba99-4c10-8e4b-24e900cbad01;SK;2021-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+61602617-b8f7-4647-bed7-08e77cac813d;SK;2021-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+d4935c94-c989-40b7-b90a-95b982f1de01;SK;2021-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+33353d12-ea5e-4d9f-bcbd-2b27e14eaffb;SK;2021-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+ff606035-256d-4d20-9b53-911c8017074f;SK;2021-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+40ad23a6-a5dd-409e-a71f-c48d0a93bbe2;SK;2021-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+5e68e59b-4f4e-425d-80cb-0270c094e358;SK;2021-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+763c30f1-bae9-4366-828b-7f7355321f28;SK;2021-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+fe38978b-2961-40d8-a8c4-9273cec302ac;SK;2021-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+22c9289f-87d8-4fbe-934d-8bc318c7fdf9;SK;2021-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+0c9d4d0c-ca3d-48d5-8b9d-c47ea97cff90;SK;2021-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+6e22eee8-a4c5-48e8-9b2c-9b1403eb11d4;SK;2022-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+373ade0f-991e-4b75-8037-3fb04b51b1d5;SK;2022-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+b8a215f4-baa9-4362-9b69-460bf44b85fb;SK;2022-04-15;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+b5bb1cad-1da2-487f-9eff-87bcb90f65f4;SK;2022-04-18;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+876ae8f4-e834-4f08-a67f-c454b0d69476;SK;2022-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+a6a4b574-0881-4fb7-b873-8d3b0675bb04;SK;2022-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+5c59774f-9758-4fef-a9a8-de02b8c60e86;SK;2022-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+89123e49-8c89-4163-80be-c1f1f6d12b62;SK;2022-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+3277b63b-f026-4ca8-ac0e-06869cb51843;SK;2022-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+e0c45b2d-a2bf-4526-871f-86f6ab0d04f0;SK;2022-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+8d9085b0-5594-4f99-99a6-823fbf963a59;SK;2022-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+70d1dfa5-3530-4dc4-80a5-7136874c1b61;SK;2022-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+187d4e68-e391-4f80-a0db-4d96746dd1cf;SK;2022-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+d8d35a78-01c4-4204-8d2b-99b084fbd284;SK;2022-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+04684509-d404-432e-a72f-5da7f16c6cb7;SK;2022-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+096ae8a9-f136-427e-915b-54178635f2a1;SK;2023-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+d99801f1-ec63-4df6-92a6-c82adfe97fc3;SK;2023-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+1700a309-ffb1-4cad-8076-ca4b8a5ee669;SK;2023-04-07;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+e756e782-e557-4d26-9000-37105ba037ae;SK;2023-04-10;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+ed61617b-0e79-4c61-9f29-76fdc5989869;SK;2023-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+77a79300-9500-4e0c-9737-986fca05f098;SK;2023-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+5a7efb14-e559-4020-8875-046b9e4635c0;SK;2023-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+06af1371-f3a3-4ff1-a582-fe8c15e26224;SK;2023-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+4a2c57f3-3f1c-40b1-b9da-81d6113e5437;SK;2023-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+beebecaa-883a-484a-85c7-ef6524fc2a98;SK;2023-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+0c23f511-606f-4523-9000-4f0756a3c857;SK;2023-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+fd1de97f-f7c6-4d11-86fd-06184bd73a48;SK;2023-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+c0e624f3-2f5e-42e7-9468-0894c87138a2;SK;2023-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+557a1a13-a995-4958-879c-f717eddb5dc3;SK;2023-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+d6863a0c-5408-46d9-a911-a172c1c83902;SK;2023-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+789d0ef3-3379-4869-9e5b-6af552556fc3;SK;2024-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+d8210344-8702-4542-a175-1ace87cc4d4a;SK;2024-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+8d2a2fae-74a0-4c0a-9bbe-1fbdd9b5eee3;SK;2024-03-29;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+8f647c2d-88b4-4efe-bcb3-15c864effae7;SK;2024-04-01;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+d7c03e0f-51d4-40e3-a1fa-c56a9e3fad4d;SK;2024-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+5d3dae88-4f2b-47ee-8c5c-bb9c00bed0b5;SK;2024-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+1b8d6959-70a8-4887-b6c3-f72e82f68e11;SK;2024-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+e5963514-c3ac-445b-85cc-1a7bbe6eba5f;SK;2024-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+cb154038-9bc3-48e1-8d8b-815f8a42b979;SK;2024-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+fde90696-3be9-4f8d-ac43-99dcf3e4a90c;SK;2024-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+696d5409-1331-47a2-93f2-dc403857437e;SK;2024-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+6315b57d-2f10-4148-be6b-eb4a0b9e3522;SK;2024-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+0015fe9c-ab4a-4317-927b-634a7d147d94;SK;2024-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+256b25a3-823d-4f96-ae6c-f710c7cf81a9;SK;2024-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+15e05473-c8a9-4dc6-8808-8f4575b6313c;SK;2024-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+915a2e98-b466-4787-9429-ed1cebdeca32;SK;2025-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+7437cc54-3ffe-4df5-a386-7af30a2db2d8;SK;2025-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+bd7fd5a7-6836-4ef4-a7bb-e6f0d9230706;SK;2025-04-18;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+60aa831a-aa0e-4578-8bcf-d736bef59d5f;SK;2025-04-21;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+ffd83f25-8335-4c04-9816-ca29039048af;SK;2025-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+3c8d7a4f-392e-476c-a3c3-ddc0c05a3945;SK;2025-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+840d2788-d033-42d2-a780-6d23ebb98a5b;SK;2025-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+f23ce324-831c-4a18-98f0-a7c70002e98b;SK;2025-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+4579f462-03eb-4091-8f52-add39f02e478;SK;2025-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+0fdc5978-0478-49a4-b35f-c2781b7dfc4d;SK;2025-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+413cfbbb-df2f-442e-8201-57333c96458e;SK;2025-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+408bc6e9-c2a6-4228-b2c6-91153b7bbd04;SK;2025-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+40675b93-1f90-45b0-99d7-579e19dd122d;SK;2025-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+d3e65eb8-9dc1-475a-8647-2e9a043142a2;SK;2025-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+6cb73908-5832-4eec-9193-410b9b0cd021;SK;2025-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+5dfc5da6-8aa8-4ec5-92e2-5e59f95e9b38;SK;2026-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+5bf95653-2feb-4b0e-b92f-b8ff4fc5259b;SK;2026-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+8d2b2b55-f7d4-4977-bd66-668e91881e11;SK;2026-04-03;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+b41fcc98-755a-4d8e-a73c-671a5183cccf;SK;2026-04-06;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+6496b8b9-9b8f-436f-9854-2c5d4335ccfa;SK;2026-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+1d31ad93-8ac8-4be8-8580-83b179f44531;SK;2026-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+636fade1-4f71-46e4-8e0f-fb3e36430f29;SK;2026-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+afa16078-4a7e-44a4-bb25-2d99acee28fd;SK;2026-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+d2d764ae-266b-4b2f-a2a5-ac99ff6a43be;SK;2026-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+0956ed18-5513-45a1-8133-8754ec39adba;SK;2026-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+e4f69c6d-ab1c-4e5a-a78b-c560dea17136;SK;2026-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+4159b433-317f-444f-bf9c-37880e73ce0d;SK;2026-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+888fae9f-7ac0-4b23-9ea3-f35510a6ffbe;SK;2026-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+64ecfed7-aafd-4450-ac61-2cd7fce42f8d;SK;2026-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+343e6e8d-2735-4da7-a5a4-27ffe2deb93a;SK;2026-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+76621b0a-2078-49a7-815c-670a69a06b22;SK;2027-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+c7c87555-16fb-4997-b539-8bd7f310b779;SK;2027-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+373f6107-371d-41d4-875b-bc6642366279;SK;2027-03-26;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+2cef474c-86e1-4b6a-8847-47de3d69b7a0;SK;2027-03-29;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+6fb7a069-32a5-414e-abbc-92cf0b6a08b1;SK;2027-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+2a746689-8fb3-40c6-9c93-735adc6126e4;SK;2027-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+5abbbd2d-2db0-46b2-be54-7d09d0c0525e;SK;2027-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+5ed64fc5-dd7b-444e-b0f7-bf1c98cb83cc;SK;2027-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+e19b7abf-e99f-4aab-9b73-f9d1a96dc50f;SK;2027-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+1f9479bd-cd7c-41e6-aa8c-82570ca244b4;SK;2027-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+c7157d04-51d0-4fd6-9642-cbacef2e8c74;SK;2027-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+57295d19-638a-45ec-9942-ac6c23fb3199;SK;2027-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+72b7e762-8bfa-4368-8a54-50a8b06bcc2d;SK;2027-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+b57a2ca7-cc35-40c1-bc6c-a71f55bee44f;SK;2027-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+16bc8d16-a08b-41ea-b984-e6f85a65d346;SK;2027-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+39fbbd22-c30c-494a-982b-3673dc442370;SK;2028-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+91f3dfe4-a924-4c6c-8745-0ce790b3c146;SK;2028-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+4a031101-7d9c-4950-a253-3fbae91eb1b2;SK;2028-04-14;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+2340592e-c388-465a-adfa-2da1b7ff9382;SK;2028-04-17;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+37fbed06-0759-43a2-bbc4-8019503e6ad7;SK;2028-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+f3f0829b-64f6-4f63-83a5-7e2bba6d0d6c;SK;2028-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+1ccd5b80-eadc-4d08-b10e-6e453c81324e;SK;2028-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+645b80e5-65fe-46f6-b6b7-87f87a22b37a;SK;2028-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+9b8671bb-1f27-47c0-b0ac-e96436631c3b;SK;2028-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+2969feb2-715c-48a3-9fbc-2e91a1c2b384;SK;2028-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+034d8f00-ac8e-4b26-8567-66ec49c798a0;SK;2028-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+2f822aaf-7e34-4c48-af24-b34e657bbcdb;SK;2028-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+8e8e5944-de21-43cf-9493-8c208456db0e;SK;2028-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+b59d63f6-d2cd-4ebe-80c9-d0acc2a93aaa;SK;2028-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+a6b73cf5-f4fe-4bc9-8803-aeebbd48afd6;SK;2028-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+d792590b-1965-4a01-a76e-235b5abf691c;SK;2029-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+5fb4b806-612e-4886-922c-90c567d9763a;SK;2029-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+0d3c0f58-3124-4634-88df-9213f8f576e4;SK;2029-03-30;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+fe0d10d2-a75e-4d3a-b8e9-85795200c8e7;SK;2029-04-02;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+1ebd5423-ea9d-4a1f-9ac3-26f40d907c20;SK;2029-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+ad1e9c26-9d0f-489f-bf5c-f880500587e1;SK;2029-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+5d82d119-6ab6-4b01-b25a-190fc421bcfe;SK;2029-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+74e195ef-a263-473d-bf8c-d9643d9b9229;SK;2029-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+c01a2b2d-ca4b-4c74-9a10-38a31a95c2b7;SK;2029-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+dc6863da-6f0b-4bda-8d29-f6811b2344d6;SK;2029-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+be887862-4194-4b81-814a-02ebdae13834;SK;2029-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+82800251-113c-438d-b00f-0ad2c72ca810;SK;2029-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+23d0fd6b-8010-4c1a-8fbb-674442f97da3;SK;2029-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+3155574b-85b1-480d-9446-9118d3122bca;SK;2029-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+65a6ebf1-3187-4032-b328-e4b08772f84c;SK;2029-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+56c4b47f-a9c8-400e-b019-4ce4f3a06234;SK;2030-01-01;;Public;National;SK Deň vzniku Slovenskej republiky,DE Tag der Slowakischen Republik,EN Day of the Slovak Republic
+15d6bbe6-4ed4-4f56-a7a8-1cc2953997b1;SK;2030-01-06;;Public;National;SK Zjavenie Pána,DE Dreikönigstag,EN Epiphany
+b1641f6e-801e-415b-ae05-7cba5cbe9dfd;SK;2030-04-19;;Public;National;SK Veľký piatok,DE Karfreitag,EN Good Friday
+29bfb2bf-1e30-46d6-9bb5-c31a72703aee;SK;2030-04-22;;Public;National;SK Veľkonočný pondelok,DE Ostermontag,EN Easter Monday
+b339707e-05f9-4529-aa93-bf9542f92a61;SK;2030-05-01;;Public;National;SK Sviatok práce,DE Tag der Arbeit,EN Labour Day
+354b540a-0c73-460f-98cd-182f151d6e68;SK;2030-05-08;;Public;National;SK Deň víťazstva nad fašizmom,DE Tag des Sieges über den Faschismus,EN Day of Victory over fascism
+ff74f13d-3491-4418-8d66-e79cc8a7fd58;SK;2030-07-05;;Public;National;SK Sviatok svätého Cyrila a Metoda,DE Fest der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+d50b2b45-5eed-46ad-a067-ac15ebb356d8;SK;2030-08-29;;Public;National;SK Výročie Slovenského národného povstania,DE Jahrestag des Slowakischen Nationalaufstands,EN Slovak National Uprising anniversary
+a4d61be1-49b6-40e5-96bc-77e38ef31b61;SK;2030-09-01;;Public;National;SK Deň Ústavy Slovenskej republiky,DE Tag der Verfassung der Slowakischen Republik,EN Day of the Constitution of the Slovak Republic
+d317267a-dff4-432e-9bac-2a21e4d85cfe;SK;2030-09-15;;Public;National;SK Sedembolestná Panna Mária,DE Unserer lieben Frau von den sieben Schmerzen,EN Day of Our Lady of the Seven Sorrows
+38aefead-5740-4f98-bf1b-f2ce19146a70;SK;2030-11-01;;Public;National;SK Sviatok všetkých svätých,DE Allerheiligen,EN All Saints’ Day
+453bd175-1d23-46a4-87b5-73dbf9e1c671;SK;2030-11-17;;Public;National;SK Deň boja za slobodu a demokraciu,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+2f43a5ef-dc4a-4557-a473-f444cc65a42e;SK;2030-12-24;;Public;National;SK Štedrý deň,DE Heiligabend,EN Christmas Eve
+3b1671a2-ee7e-445c-b321-5b2cccbfbd51;SK;2030-12-25;;Public;National;SK Prvý sviatok vianočný,DE Erster Weihnachtsfeiertag,EN Christmas Day
+9b7acd7a-2cea-4433-af24-63acdbbc4216;SK;2030-12-26;;Public;National;SK Druhý sviatok vianočný,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day

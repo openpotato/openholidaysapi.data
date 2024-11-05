@@ -1,155 +1,155 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-6e2a37ed-4abc-4cba-b9d5-96649dfc0c08;AD;2020-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-e9874b92-098a-4f9d-89d3-e7d9c1fc1a02;AD;2020-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-8a3d1991-5123-46f7-8d96-cdfb8f4fbdbd;AD;2020-02-24;;Public;CA Carnaval,DE Karnevel,EN Carnival
-133f01ba-9e62-4448-89fe-617ff32a9410;AD;2020-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-6ee78b54-d350-4119-ad4f-d9ce21f99c79;AD;2020-04-10;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-6bb0fa6e-cef6-465f-97bf-21d1c3bace09;AD;2020-04-13;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-18badf4b-b644-4669-80c9-3af37945638d;AD;2020-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-f4975b49-2dd3-419a-8c7c-c9488f986640;AD;2020-06-01;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-f07ffe5d-6055-4503-a1d4-cb8f26282d72;AD;2020-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-23e44c12-f417-4450-ae90-ad4b122856eb;AD;2020-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-e90d5f1d-595b-40cd-a170-03705a87d38f;AD;2020-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-fc6107fe-1f85-4101-ad4b-a5cfa58b17b7;AD;2020-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-ffff9b7f-7acf-4294-bca1-4e5a24191c61;AD;2020-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-47a27020-e84e-41f9-9522-cdc28fd019cf;AD;2020-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
-10378e57-8fe1-4626-a082-7e6c3e03a9e7;AD;2021-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-a14818cd-39c6-4bba-8d40-9746e0591343;AD;2021-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-d10d6159-8b77-4ca3-8e79-2f4354d99ae5;AD;2021-02-15;;Public;CA Carnaval,DE Karnevel,EN Carnival
-fcd4e22a-86b9-47b4-9e13-f3b59e3fc590;AD;2021-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-b0132e61-dd77-4dfd-b03f-f67568339bbb;AD;2021-04-02;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-b6821e4f-b26e-4a4e-b7fa-ee332900fd93;AD;2021-04-05;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-90df6902-57e6-4538-925b-718657fc944b;AD;2021-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-e0b1aec7-08a0-4c02-ad6a-9e2acff68d1c;AD;2021-05-24;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-0d5b3afa-dc6a-45f8-8646-89263010f41b;AD;2021-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-eed1fdcf-7c8c-4d74-9736-4ba2fb192d7c;AD;2021-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-7ebbfd1a-96fe-416d-8063-cc9206c52a68;AD;2021-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-0ada06f1-5375-4220-87fa-b5809e9edc52;AD;2021-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-1350f47a-55d8-47de-ab2e-96cb528bf8ed;AD;2021-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-4b7efd7a-954a-4c7a-bcf4-1d3259a03981;AD;2021-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
-3bc2074b-71f0-4994-a996-ac60fed3e794;AD;2022-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-82b8625f-713d-4a8c-acae-5cc541021ebb;AD;2022-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-d38493e7-43f8-4b42-b2e6-73ea4e52e521;AD;2022-02-28;;Public;CA Carnaval,DE Karnevel,EN Carnival
-ed46339a-c553-4018-90f2-a245b398bd7a;AD;2022-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-b343f567-cb19-403a-ba10-04b6cdd5a2b2;AD;2022-04-15;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-c55fb4fb-5eb2-466d-b7b6-638f4522f675;AD;2022-04-18;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-bee0ba67-1347-4e3b-a4d9-3387f1e6694f;AD;2022-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-1167ba5c-1cfe-43c5-b616-5e0b9543fd4d;AD;2022-06-06;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-8fbac0de-3d7f-4fa6-a349-0f478eb8fd6a;AD;2022-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-ca813a34-2e6a-4eac-9dc1-dda1b8a603d2;AD;2022-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-69ab9693-7cd4-414b-ae08-47b3d060c597;AD;2022-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-fc214e69-c47c-4700-abd0-9ec1902e3585;AD;2022-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-40e915a6-4a4a-448b-8e9a-d361747b34ba;AD;2022-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-61422aea-53c2-431a-b022-5a179003d88c;AD;2022-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
-8e52fe82-c919-451b-92aa-f259be2c34c1;AD;2023-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-93e218a1-b3d2-4c60-9d46-cb5db58ce70b;AD;2023-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-e3649ec0-8a6f-4356-b2e3-7f1fa1121a06;AD;2023-02-20;;Public;CA Carnaval,DE Karnevel,EN Carnival
-2e0e0f6d-0fee-47b1-9bab-0612cb6e395f;AD;2023-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-74eb5a17-6367-4d9d-ad6e-7e5937535950;AD;2023-04-07;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-6f851e0f-045a-4faf-8272-c4904a94184d;AD;2023-04-10;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-bf2e6975-5b7d-4344-ba4a-24f83d276ce8;AD;2023-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-3fc497e5-e5c8-4011-a79e-ad264c486d1e;AD;2023-05-29;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-0dcc5257-457b-4ba1-9d93-b99333ed56b6;AD;2023-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-2bfab20c-70b4-4bfe-bfb2-05c55b359665;AD;2023-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-f8b3181f-ccef-4eeb-b13e-3164c1ee5841;AD;2023-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-fad4cae8-7c5f-4ec7-a19d-0b003be156f2;AD;2023-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-0b8134e5-ecba-43f8-a6c8-584f2a9ecc77;AD;2023-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-663bcdcb-c0e6-4872-9de9-6a05e60cf71d;AD;2023-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
-64edf70b-48d3-4e6e-9f45-9b4d7407384a;AD;2024-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-8642ee10-e37c-4311-9e3e-3195d3e3933a;AD;2024-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-2da3300c-6689-4cc6-a68d-61e46947cc9d;AD;2024-02-12;;Public;CA Carnaval,DE Karnevel,EN Carnival
-80d05edd-9254-48b9-a401-9a383fbba680;AD;2024-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-9c399656-0005-4cea-b44a-1f6ba4154d2b;AD;2024-03-29;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-76667ae1-8439-4ff2-8800-e969d4969d1d;AD;2024-04-01;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-d04852a3-51bb-40ab-b902-90bf3f8344f0;AD;2024-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-d4799a77-8cf0-4b3a-b954-c7718b71b06e;AD;2024-05-20;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-519b6ed3-bff4-428a-a64b-46b1f0c90c7c;AD;2024-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-2c254122-e5a3-4ec8-a77e-59c78d13f489;AD;2024-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-f8ee8427-7956-4e26-8796-447ac245d9b9;AD;2024-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-2ed7fac4-89f3-48e2-8812-550946ba5bf6;AD;2024-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-df4ebf7d-f133-40b9-9675-b1b9a86a06a4;AD;2024-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-8cb319fa-b7c8-4265-9ca3-eae729d9f288;AD;2024-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
-201e379b-01a0-4769-aace-30dea20a777f;AD;2025-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-ea1c680d-2537-4af2-8566-8dfa77774121;AD;2025-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-6ee1756c-e6f7-489e-b0b4-85f76131534d;AD;2025-03-03;;Public;CA Carnaval,DE Karnevel,EN Carnival
-c7f0109f-602e-4ada-8b1d-cb0b92cf98c4;AD;2025-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-5603a2c6-54df-46cc-8849-a306905c4669;AD;2025-04-18;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-47ff3a98-df45-485b-a711-f4840d6ec6db;AD;2025-04-21;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-235ad1a7-fb5b-4774-9f5c-a2d1127258ec;AD;2025-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-902329ce-a119-4db8-a580-17019d0dad6c;AD;2025-06-09;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-9d24e66c-9315-4eb9-8d7d-757b937980fb;AD;2025-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-98641548-17ae-412a-bb7e-06cfdf70bea9;AD;2025-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-bc24fc41-d416-494a-9537-37528ef82861;AD;2025-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-2139a788-fc76-4b3a-ad9e-f8271bcf0fe4;AD;2025-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-5455ad16-2848-498c-967c-243ac2c4f9c5;AD;2025-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-ebb0b43b-bb46-49d1-974c-f64217f9d8c4;AD;2025-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
-63c01fe7-a888-418a-859a-697682e2cf7e;AD;2026-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-f9098395-cda4-40a8-aced-7d6853133b38;AD;2026-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-d29c21c0-5a9e-432e-924c-935585ebfc49;AD;2026-02-16;;Public;CA Carnaval,DE Karnevel,EN Carnival
-41456cd4-71ad-4602-9eba-976728798b54;AD;2026-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-2c7dd144-af66-496b-95b5-61937b42582c;AD;2026-04-03;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-f1d403e7-b133-4d12-9cd2-a02482830211;AD;2026-04-06;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-1ab20a92-6c29-4cc9-ad2b-37276dd74146;AD;2026-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-78a3a5f5-3e4c-46d1-81e5-ffd9e63c4522;AD;2026-05-25;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-4248c173-1090-48b5-9fc2-9c9fb498dd74;AD;2026-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-b4fb581b-b7ba-4bb4-87de-2a20b95dddbe;AD;2026-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-223a7c99-6f2f-4906-931e-ecb29b317af6;AD;2026-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-0e97ce0d-b679-4aa5-9c56-64dd92125c72;AD;2026-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-0fd1e575-e981-43d4-b7d9-2c2a8c8a985f;AD;2026-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-f8474fc2-7817-4fe7-86a8-17a22d99b5ae;AD;2026-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
-d1887bdd-5d56-41d3-8d3f-fcb5525679f1;AD;2027-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-00289322-37d5-4011-aaa8-1b43011251f6;AD;2027-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-9246a70d-5758-4689-adfd-2fcfa1fc2c8c;AD;2027-02-08;;Public;CA Carnaval,DE Karnevel,EN Carnival
-b3f812ef-f20c-4e8a-8dae-873afd6a7622;AD;2027-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-84c3a3f5-9cbe-4d02-9730-d8fa779515bc;AD;2027-03-26;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-4895035c-c5f9-40e5-a832-e23643e48252;AD;2027-03-29;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-67dd6233-a82f-43d3-aa7b-13260f015dd5;AD;2027-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-ade50a59-791a-4ee6-91e2-40f1cbdb92bf;AD;2027-05-17;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-974970df-90e2-4507-b15e-a31a8721ebb8;AD;2027-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-3b46a176-3c2b-493a-bd03-4cbc2b0f2eb9;AD;2027-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-dcb5faf3-8f87-4e28-a784-d4daa6cd90d8;AD;2027-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-3baf60e6-4fe5-403e-b6ec-1cadf0698a45;AD;2027-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-3c9757d5-2d19-478f-9204-a4883e1e98db;AD;2027-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-4ebd05e0-0d7a-42d4-b8d5-9daefa5e81a8;AD;2027-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
-c38d343c-fa90-4f5b-8db4-7031a8857af7;AD;2028-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-2499dc99-bf0f-4b7c-9db5-0fbf5835a6a6;AD;2028-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-532db61c-19b4-4030-9433-5be42361a384;AD;2028-02-28;;Public;CA Carnaval,DE Karnevel,EN Carnival
-63da0054-06d2-41b4-8198-873b308a9419;AD;2028-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-0554a8f0-fb4b-47da-976c-09ea9611c45d;AD;2028-04-14;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-2cd39561-a789-46ba-a626-fd3793659be1;AD;2028-04-17;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-5f436301-dda9-449f-84b3-826864431617;AD;2028-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-af650d76-cea6-4c40-9689-11d94969ce56;AD;2028-06-05;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-b87ffc6c-48aa-4474-b77c-57a471fd7916;AD;2028-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-4f7220bc-b595-4c56-a847-8224a9b08aee;AD;2028-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-3170ab95-5564-4dac-bb24-b3e8b14ba8e9;AD;2028-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-d6002d9b-ebdc-40ac-8d7e-ac2606be81ff;AD;2028-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-807cfca0-4dd6-42dc-9378-af09ae668885;AD;2028-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-cc3ff9df-2754-4d86-ae73-8c56f09fe174;AD;2028-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
-a1e9e87d-0c64-4a90-973f-d072c391a254;AD;2029-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-6a458775-9304-4d93-a5b1-94d325e5e9f2;AD;2029-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-8c16509a-816e-436e-964a-51b4fd2ea3a3;AD;2029-02-12;;Public;CA Carnaval,DE Karnevel,EN Carnival
-7a6f9e02-8c04-4085-a454-77bbddd21d66;AD;2029-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-e6499d2c-bb00-4918-9d33-5ffa5035c284;AD;2029-03-30;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-8f28847c-72f0-4943-9d5e-736db3c52362;AD;2029-04-02;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-69c49e8d-a199-45c0-b35c-5a424efc61fd;AD;2029-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-3611e5db-7515-4a81-9857-2aae3ca5f87b;AD;2029-05-21;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-768d9c3a-94e7-4b4c-8d93-7dc25f06561d;AD;2029-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-3c70d451-8419-43b7-b270-159b8739fe7e;AD;2029-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-84e38f63-e5d2-44e8-9ae5-0e5afdea6cd2;AD;2029-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-5485317d-e775-4b2f-8a21-31da6cc048ab;AD;2029-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-13ec1326-9bae-4ee5-87ee-6840858ee762;AD;2029-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-dc22c483-b6c0-47a3-9486-65a62c16e2da;AD;2029-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
-9c7db889-63c7-406d-b5c8-35a555f6452b;AD;2030-01-01;;Public;CA Any nou,DE Neujahr,EN New Year's Day
-f337ee08-ec70-42ec-9985-50c6d0409960;AD;2030-01-06;;Public;CA Reis,DE Dreikönigsfest,EN Epiphany
-531e38df-bf20-49c7-971f-fb6d008ac0ff;AD;2030-03-04;;Public;CA Carnaval,DE Karnevel,EN Carnival
-c175c148-8c43-4d8b-9a93-39f858d7fc7c;AD;2030-03-14;;Public;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
-c5ba505c-443f-4a5c-b29b-c0cd1ad27347;AD;2030-04-19;;Public;CA Divendres Sant,DE Karfreitag,EN Good Friday
-287729b4-3582-4da7-91f0-29f754efd78b;AD;2030-04-22;;Public;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
-fa90496b-84ce-4c85-a5ad-96cb326e1cc4;AD;2030-05-01;;Public;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
-ab86eb06-e2ac-4e7b-89e5-5bc9ace61b3b;AD;2030-06-10;;Public;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
-e8077615-5735-4684-836d-188441911dbb;AD;2030-08-15;;Public;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
-299b7828-6cc5-49c5-9c49-c37ac5f91396;AD;2030-09-08;;Public;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
-bc0dbd08-effe-4e87-829b-2b1eb51400bb;AD;2030-11-01;;Public;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
-5d505293-0fd0-45d0-8b0b-3779469da2c9;AD;2030-12-08;;Public;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
-1031808d-6e25-4af1-a697-32dfe7b55f51;AD;2030-12-25;;Public;CA Nadal,DE Weihnachten,EN Christmas Day
-b5e83282-c54b-4431-a7c2-9f0bcc4ee771;AD;2030-12-26;;Public;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+6e2a37ed-4abc-4cba-b9d5-96649dfc0c08;AD;2020-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+e9874b92-098a-4f9d-89d3-e7d9c1fc1a02;AD;2020-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+8a3d1991-5123-46f7-8d96-cdfb8f4fbdbd;AD;2020-02-24;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+133f01ba-9e62-4448-89fe-617ff32a9410;AD;2020-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+6ee78b54-d350-4119-ad4f-d9ce21f99c79;AD;2020-04-10;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+6bb0fa6e-cef6-465f-97bf-21d1c3bace09;AD;2020-04-13;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+18badf4b-b644-4669-80c9-3af37945638d;AD;2020-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+f4975b49-2dd3-419a-8c7c-c9488f986640;AD;2020-06-01;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+f07ffe5d-6055-4503-a1d4-cb8f26282d72;AD;2020-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+23e44c12-f417-4450-ae90-ad4b122856eb;AD;2020-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+e90d5f1d-595b-40cd-a170-03705a87d38f;AD;2020-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+fc6107fe-1f85-4101-ad4b-a5cfa58b17b7;AD;2020-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+ffff9b7f-7acf-4294-bca1-4e5a24191c61;AD;2020-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+47a27020-e84e-41f9-9522-cdc28fd019cf;AD;2020-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+10378e57-8fe1-4626-a082-7e6c3e03a9e7;AD;2021-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+a14818cd-39c6-4bba-8d40-9746e0591343;AD;2021-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+d10d6159-8b77-4ca3-8e79-2f4354d99ae5;AD;2021-02-15;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+fcd4e22a-86b9-47b4-9e13-f3b59e3fc590;AD;2021-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+b0132e61-dd77-4dfd-b03f-f67568339bbb;AD;2021-04-02;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+b6821e4f-b26e-4a4e-b7fa-ee332900fd93;AD;2021-04-05;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+90df6902-57e6-4538-925b-718657fc944b;AD;2021-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+e0b1aec7-08a0-4c02-ad6a-9e2acff68d1c;AD;2021-05-24;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+0d5b3afa-dc6a-45f8-8646-89263010f41b;AD;2021-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+eed1fdcf-7c8c-4d74-9736-4ba2fb192d7c;AD;2021-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+7ebbfd1a-96fe-416d-8063-cc9206c52a68;AD;2021-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+0ada06f1-5375-4220-87fa-b5809e9edc52;AD;2021-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+1350f47a-55d8-47de-ab2e-96cb528bf8ed;AD;2021-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+4b7efd7a-954a-4c7a-bcf4-1d3259a03981;AD;2021-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+3bc2074b-71f0-4994-a996-ac60fed3e794;AD;2022-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+82b8625f-713d-4a8c-acae-5cc541021ebb;AD;2022-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+d38493e7-43f8-4b42-b2e6-73ea4e52e521;AD;2022-02-28;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+ed46339a-c553-4018-90f2-a245b398bd7a;AD;2022-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+b343f567-cb19-403a-ba10-04b6cdd5a2b2;AD;2022-04-15;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+c55fb4fb-5eb2-466d-b7b6-638f4522f675;AD;2022-04-18;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+bee0ba67-1347-4e3b-a4d9-3387f1e6694f;AD;2022-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+1167ba5c-1cfe-43c5-b616-5e0b9543fd4d;AD;2022-06-06;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+8fbac0de-3d7f-4fa6-a349-0f478eb8fd6a;AD;2022-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+ca813a34-2e6a-4eac-9dc1-dda1b8a603d2;AD;2022-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+69ab9693-7cd4-414b-ae08-47b3d060c597;AD;2022-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+fc214e69-c47c-4700-abd0-9ec1902e3585;AD;2022-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+40e915a6-4a4a-448b-8e9a-d361747b34ba;AD;2022-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+61422aea-53c2-431a-b022-5a179003d88c;AD;2022-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+8e52fe82-c919-451b-92aa-f259be2c34c1;AD;2023-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+93e218a1-b3d2-4c60-9d46-cb5db58ce70b;AD;2023-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+e3649ec0-8a6f-4356-b2e3-7f1fa1121a06;AD;2023-02-20;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+2e0e0f6d-0fee-47b1-9bab-0612cb6e395f;AD;2023-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+74eb5a17-6367-4d9d-ad6e-7e5937535950;AD;2023-04-07;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+6f851e0f-045a-4faf-8272-c4904a94184d;AD;2023-04-10;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+bf2e6975-5b7d-4344-ba4a-24f83d276ce8;AD;2023-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+3fc497e5-e5c8-4011-a79e-ad264c486d1e;AD;2023-05-29;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+0dcc5257-457b-4ba1-9d93-b99333ed56b6;AD;2023-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+2bfab20c-70b4-4bfe-bfb2-05c55b359665;AD;2023-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+f8b3181f-ccef-4eeb-b13e-3164c1ee5841;AD;2023-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+fad4cae8-7c5f-4ec7-a19d-0b003be156f2;AD;2023-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+0b8134e5-ecba-43f8-a6c8-584f2a9ecc77;AD;2023-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+663bcdcb-c0e6-4872-9de9-6a05e60cf71d;AD;2023-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+64edf70b-48d3-4e6e-9f45-9b4d7407384a;AD;2024-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+8642ee10-e37c-4311-9e3e-3195d3e3933a;AD;2024-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+2da3300c-6689-4cc6-a68d-61e46947cc9d;AD;2024-02-12;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+80d05edd-9254-48b9-a401-9a383fbba680;AD;2024-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+9c399656-0005-4cea-b44a-1f6ba4154d2b;AD;2024-03-29;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+76667ae1-8439-4ff2-8800-e969d4969d1d;AD;2024-04-01;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+d04852a3-51bb-40ab-b902-90bf3f8344f0;AD;2024-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+d4799a77-8cf0-4b3a-b954-c7718b71b06e;AD;2024-05-20;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+519b6ed3-bff4-428a-a64b-46b1f0c90c7c;AD;2024-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+2c254122-e5a3-4ec8-a77e-59c78d13f489;AD;2024-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+f8ee8427-7956-4e26-8796-447ac245d9b9;AD;2024-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+2ed7fac4-89f3-48e2-8812-550946ba5bf6;AD;2024-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+df4ebf7d-f133-40b9-9675-b1b9a86a06a4;AD;2024-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+8cb319fa-b7c8-4265-9ca3-eae729d9f288;AD;2024-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+201e379b-01a0-4769-aace-30dea20a777f;AD;2025-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+ea1c680d-2537-4af2-8566-8dfa77774121;AD;2025-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+6ee1756c-e6f7-489e-b0b4-85f76131534d;AD;2025-03-03;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+c7f0109f-602e-4ada-8b1d-cb0b92cf98c4;AD;2025-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+5603a2c6-54df-46cc-8849-a306905c4669;AD;2025-04-18;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+47ff3a98-df45-485b-a711-f4840d6ec6db;AD;2025-04-21;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+235ad1a7-fb5b-4774-9f5c-a2d1127258ec;AD;2025-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+902329ce-a119-4db8-a580-17019d0dad6c;AD;2025-06-09;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+9d24e66c-9315-4eb9-8d7d-757b937980fb;AD;2025-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+98641548-17ae-412a-bb7e-06cfdf70bea9;AD;2025-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+bc24fc41-d416-494a-9537-37528ef82861;AD;2025-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+2139a788-fc76-4b3a-ad9e-f8271bcf0fe4;AD;2025-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+5455ad16-2848-498c-967c-243ac2c4f9c5;AD;2025-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+ebb0b43b-bb46-49d1-974c-f64217f9d8c4;AD;2025-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+63c01fe7-a888-418a-859a-697682e2cf7e;AD;2026-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+f9098395-cda4-40a8-aced-7d6853133b38;AD;2026-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+d29c21c0-5a9e-432e-924c-935585ebfc49;AD;2026-02-16;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+41456cd4-71ad-4602-9eba-976728798b54;AD;2026-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+2c7dd144-af66-496b-95b5-61937b42582c;AD;2026-04-03;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+f1d403e7-b133-4d12-9cd2-a02482830211;AD;2026-04-06;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+1ab20a92-6c29-4cc9-ad2b-37276dd74146;AD;2026-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+78a3a5f5-3e4c-46d1-81e5-ffd9e63c4522;AD;2026-05-25;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+4248c173-1090-48b5-9fc2-9c9fb498dd74;AD;2026-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+b4fb581b-b7ba-4bb4-87de-2a20b95dddbe;AD;2026-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+223a7c99-6f2f-4906-931e-ecb29b317af6;AD;2026-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+0e97ce0d-b679-4aa5-9c56-64dd92125c72;AD;2026-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+0fd1e575-e981-43d4-b7d9-2c2a8c8a985f;AD;2026-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+f8474fc2-7817-4fe7-86a8-17a22d99b5ae;AD;2026-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+d1887bdd-5d56-41d3-8d3f-fcb5525679f1;AD;2027-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+00289322-37d5-4011-aaa8-1b43011251f6;AD;2027-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+9246a70d-5758-4689-adfd-2fcfa1fc2c8c;AD;2027-02-08;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+b3f812ef-f20c-4e8a-8dae-873afd6a7622;AD;2027-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+84c3a3f5-9cbe-4d02-9730-d8fa779515bc;AD;2027-03-26;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+4895035c-c5f9-40e5-a832-e23643e48252;AD;2027-03-29;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+67dd6233-a82f-43d3-aa7b-13260f015dd5;AD;2027-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+ade50a59-791a-4ee6-91e2-40f1cbdb92bf;AD;2027-05-17;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+974970df-90e2-4507-b15e-a31a8721ebb8;AD;2027-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+3b46a176-3c2b-493a-bd03-4cbc2b0f2eb9;AD;2027-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+dcb5faf3-8f87-4e28-a784-d4daa6cd90d8;AD;2027-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+3baf60e6-4fe5-403e-b6ec-1cadf0698a45;AD;2027-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+3c9757d5-2d19-478f-9204-a4883e1e98db;AD;2027-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+4ebd05e0-0d7a-42d4-b8d5-9daefa5e81a8;AD;2027-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+c38d343c-fa90-4f5b-8db4-7031a8857af7;AD;2028-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+2499dc99-bf0f-4b7c-9db5-0fbf5835a6a6;AD;2028-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+532db61c-19b4-4030-9433-5be42361a384;AD;2028-02-28;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+63da0054-06d2-41b4-8198-873b308a9419;AD;2028-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+0554a8f0-fb4b-47da-976c-09ea9611c45d;AD;2028-04-14;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+2cd39561-a789-46ba-a626-fd3793659be1;AD;2028-04-17;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+5f436301-dda9-449f-84b3-826864431617;AD;2028-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+af650d76-cea6-4c40-9689-11d94969ce56;AD;2028-06-05;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+b87ffc6c-48aa-4474-b77c-57a471fd7916;AD;2028-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+4f7220bc-b595-4c56-a847-8224a9b08aee;AD;2028-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+3170ab95-5564-4dac-bb24-b3e8b14ba8e9;AD;2028-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+d6002d9b-ebdc-40ac-8d7e-ac2606be81ff;AD;2028-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+807cfca0-4dd6-42dc-9378-af09ae668885;AD;2028-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+cc3ff9df-2754-4d86-ae73-8c56f09fe174;AD;2028-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+a1e9e87d-0c64-4a90-973f-d072c391a254;AD;2029-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+6a458775-9304-4d93-a5b1-94d325e5e9f2;AD;2029-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+8c16509a-816e-436e-964a-51b4fd2ea3a3;AD;2029-02-12;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+7a6f9e02-8c04-4085-a454-77bbddd21d66;AD;2029-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+e6499d2c-bb00-4918-9d33-5ffa5035c284;AD;2029-03-30;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+8f28847c-72f0-4943-9d5e-736db3c52362;AD;2029-04-02;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+69c49e8d-a199-45c0-b35c-5a424efc61fd;AD;2029-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+3611e5db-7515-4a81-9857-2aae3ca5f87b;AD;2029-05-21;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+768d9c3a-94e7-4b4c-8d93-7dc25f06561d;AD;2029-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+3c70d451-8419-43b7-b270-159b8739fe7e;AD;2029-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+84e38f63-e5d2-44e8-9ae5-0e5afdea6cd2;AD;2029-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+5485317d-e775-4b2f-8a21-31da6cc048ab;AD;2029-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+13ec1326-9bae-4ee5-87ee-6840858ee762;AD;2029-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+dc22c483-b6c0-47a3-9486-65a62c16e2da;AD;2029-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
+9c7db889-63c7-406d-b5c8-35a555f6452b;AD;2030-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
+f337ee08-ec70-42ec-9985-50c6d0409960;AD;2030-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
+531e38df-bf20-49c7-971f-fb6d008ac0ff;AD;2030-03-04;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+c175c148-8c43-4d8b-9a93-39f858d7fc7c;AD;2030-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
+c5ba505c-443f-4a5c-b29b-c0cd1ad27347;AD;2030-04-19;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
+287729b4-3582-4da7-91f0-29f754efd78b;AD;2030-04-22;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
+fa90496b-84ce-4c85-a5ad-96cb326e1cc4;AD;2030-05-01;;Public;National;CA Festa del Treball,DE Tag der Arbeit,EN Labour Day
+ab86eb06-e2ac-4e7b-89e5-5bc9ace61b3b;AD;2030-06-10;;Public;National;CA Dilluns de Pentecosta,DE Pfingstmontag,EN Pentecost Monday
+e8077615-5735-4684-836d-188441911dbb;AD;2030-08-15;;Public;National;CA Assumpció,DE Mariä Himmelfahrt,EN Assumption Day
+299b7828-6cc5-49c5-9c49-c37ac5f91396;AD;2030-09-08;;Public;National;CA Mare de Déu de Meritxell,DE Nationalfeiertag,EN National Holiday
+bc0dbd08-effe-4e87-829b-2b1eb51400bb;AD;2030-11-01;;Public;National;CA Tots Sants,DE Allerheiligen,EN All Saints' Day
+5d505293-0fd0-45d0-8b0b-3779469da2c9;AD;2030-12-08;;Public;National;CA Immaculada Concepció,DE Mariä Empfängnis,EN Immaculate Conception
+1031808d-6e25-4af1-a697-32dfe7b55f51;AD;2030-12-25;;Public;National;CA Nadal,DE Weihnachten,EN Christmas Day
+b5e83282-c54b-4431-a7c2-9f0bcc4ee771;AD;2030-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day

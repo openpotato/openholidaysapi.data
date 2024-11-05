@@ -1,155 +1,155 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-b03c433a-18ed-4e0b-b702-515eff6b1c07;CZ;2020-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-d71a2557-62ec-48eb-8800-de5f29bfd42a;CZ;2020-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-e3529abf-8331-4d7f-be1a-195ce82c5521;CZ;2020-04-10;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-2df4368e-1404-4477-a9a6-c0d27cebfa04;CZ;2020-04-13;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-770eea4f-b8a1-4f9c-941e-8e80ad9bf871;CZ;2020-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-2f5d9241-1f12-4e84-bef2-082d36ab277e;CZ;2020-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-5105fdf1-0177-4873-9e2b-aac731a68fff;CZ;2020-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-fd3251e8-4a3d-423c-801f-e085e3ed7b00;CZ;2020-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-018dcf6f-49b0-4029-8fab-d3a2f1ae8131;CZ;2020-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-0ad89e20-d61e-4f78-9247-10603380e1be;CZ;2020-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-5cde4838-3058-4aa9-9fe9-73f48d8d0bcd;CZ;2020-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-e7c03662-4e12-4d19-a869-513b03b62429;CZ;2020-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-0e45dac4-c2d5-44de-827a-fbfc22918db3;CZ;2020-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-4013bbe0-4206-4702-92f1-4c0ed0a6d3d9;CZ;2020-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-ca441634-8835-4f27-a704-9e44441b5756;CZ;2021-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-3f0d4581-3a0c-4653-99e7-854b94e84740;CZ;2021-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-44b24b95-4d25-4bcf-a531-731dab6dabe9;CZ;2021-04-02;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-3b0ee8cc-14f1-41e6-abb9-7920ae6b07de;CZ;2021-04-05;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-9aaf8a0e-6565-4ac1-b482-7e0349f4c646;CZ;2021-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-896561a3-7e8d-455c-a42b-31bab3d20c73;CZ;2021-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-5d6baf32-5582-494f-8061-7c8eb072d9ba;CZ;2021-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-39e94061-d61e-419d-85d1-229ec1a31909;CZ;2021-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-08ec3e9c-73de-4991-ad7c-df445bb55d96;CZ;2021-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-08b0585b-08a7-4e44-a6cc-7753ac693475;CZ;2021-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-db090a3c-cf39-476a-ba1a-0c894f1838ef;CZ;2021-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-e626ee07-f8cc-48c4-af93-86fa73a32f1b;CZ;2021-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-e93a63b9-09c4-4d51-84b8-ecda731faba5;CZ;2021-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-58503e8f-3bb7-478d-b06b-4ee31dd25199;CZ;2021-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-be400fb9-acc4-4d00-a558-a0bfb6f23de9;CZ;2022-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-c29f60ef-7de7-495f-924e-1dd447a979b4;CZ;2022-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-a51333c1-3f44-4626-b4c4-f4d7eaae8fa4;CZ;2022-04-15;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-6c7dbf49-b31d-495d-8c7a-04bae0473125;CZ;2022-04-18;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-1958794d-73d2-46f1-9b9c-814128d1dbf5;CZ;2022-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-ebcab81f-614b-4c06-b6f2-ba30b99685bc;CZ;2022-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-f1eb147a-7582-4140-8b7a-164fc4e4423e;CZ;2022-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-1065bd4d-b156-4f0e-a5ae-971cc236aa66;CZ;2022-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-a7766bd4-89d8-43af-9215-959ca17edbce;CZ;2022-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-15d6f4c4-51d1-4056-b02d-6e1079a492c8;CZ;2022-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-acd480a5-73bb-49bd-89ab-a23584eb679a;CZ;2022-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-554ea6b6-5814-4116-a759-d067990a2512;CZ;2022-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-3d49d0a2-8e89-4fa3-a8f1-9e07768979b6;CZ;2022-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-265776d0-b69f-4236-afd8-404524df5216;CZ;2022-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-d78b332a-54a8-4c24-b29a-f706d591d702;CZ;2023-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-04ae0542-9730-4f27-8885-134a6f251e40;CZ;2023-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-cde167a5-b06c-4366-ad82-4087cf43dfcc;CZ;2023-04-07;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-bad10753-5b83-4bf9-82c5-e7fe8b554521;CZ;2023-04-10;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-e3b54b2d-1f2e-42c4-ba75-70d74174bf32;CZ;2023-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-0e81f511-8385-42b6-8bb1-cac5ca5ec84e;CZ;2023-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-f5ee7a2c-ed3a-441b-b049-a279b7027bcb;CZ;2023-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-bbbc09e6-5bc1-4b1f-b63e-e78b3569cc59;CZ;2023-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-6c0db825-8d75-4fc9-ac8b-c9186fe69ae8;CZ;2023-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-46ff10d3-ca20-4034-be28-7546f13a62ae;CZ;2023-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-3280dfea-25f7-483f-9134-ae127d90e9f7;CZ;2023-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-660340dd-25b6-4815-b296-5e0fae278e9d;CZ;2023-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-4b8d9bf0-f5ad-4e51-a66b-085a39893d7f;CZ;2023-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-29552378-571a-4855-ae80-5069a3d36d4c;CZ;2023-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-cfa64b85-95f6-46cb-8d8c-3d802885b0fc;CZ;2024-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-57439d7d-d205-4873-8336-8f9069d4d322;CZ;2024-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-f7910522-8630-430f-952f-3ea22f635ea5;CZ;2024-03-29;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-2ec50e69-aff3-4624-9412-cc7335342c92;CZ;2024-04-01;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-d1532aab-2cfe-4f2f-b9ff-8947730fc5dd;CZ;2024-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-457081fb-4777-42e6-8bb3-ac1751d0162b;CZ;2024-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-ba2247c5-fce3-42ea-9d93-ad5d330886ed;CZ;2024-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-2a768b05-2e14-46c3-b69d-c6200c1f8d5d;CZ;2024-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-e8c654a1-e11d-4012-b572-a521f0d47321;CZ;2024-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-6aa38cfc-c7dc-42c1-b667-8e559bbfc4be;CZ;2024-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-4f39623d-0548-441a-8879-dd505ff63a3c;CZ;2024-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-555eea2e-396a-4b3f-a883-6e8874f4306f;CZ;2024-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-e91aede5-7dfb-4f94-a822-e1f452c13b70;CZ;2024-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-f8015cfa-183a-459f-84ce-b4167533c793;CZ;2024-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-8521c2eb-7191-4d15-94e9-6df3d4763e9b;CZ;2025-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-1d9d3f2f-00c1-4810-9966-acdac6692dde;CZ;2025-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-06d2510c-7219-45b7-90dc-914d7c16328d;CZ;2025-04-18;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-07cd58ba-79e8-48a5-a419-1c0010a7fc49;CZ;2025-04-21;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-d0488900-0cb3-414b-a3b5-f88b845c500e;CZ;2025-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-9fcc074c-3cd6-47f6-9a8c-7e4b8c5cfd4d;CZ;2025-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-feb49b3b-341e-4759-b2c5-46ac7d2d12ca;CZ;2025-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-0abee2c5-660f-4518-9073-1624642ad3f1;CZ;2025-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-1de31c5c-a9af-45af-a269-bcf8ab89d77f;CZ;2025-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-39c6781d-5eb1-4446-a889-828914e08478;CZ;2025-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-1a6b66cc-cacc-4dde-b185-7f965dcec5dc;CZ;2025-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-e1dbfe82-90f9-465f-8d1a-b37aac3ae538;CZ;2025-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-453b2f83-0b27-4f57-8aef-7698f5c19ae7;CZ;2025-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-6461123f-b5d4-464a-9aec-f7c32e7f3e7a;CZ;2025-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-eaa11346-d1c5-4b7d-a69e-abb1cde8bdcd;CZ;2026-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-8a4b3dcf-98e0-4fbf-ba5f-89e0ead33a4a;CZ;2026-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-9e271cee-c48b-4c8b-8139-3c8f25dbef31;CZ;2026-04-03;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-0fb4c9ff-c62e-4487-92be-848c1fdbd691;CZ;2026-04-06;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-1efe901c-b491-40db-a924-d6aec650d5ad;CZ;2026-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-fe81c1ec-9607-41dd-8a17-8648bc9993fa;CZ;2026-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-1f06ab44-fb7a-4fe1-b379-709eb429f4bd;CZ;2026-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-189e69d7-e2fa-4d05-9024-7b1f14697b70;CZ;2026-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-80ad8fef-fd6a-4533-9481-ef7cea34dfd3;CZ;2026-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-a6389fb6-20b8-4643-a76c-15a0665b582b;CZ;2026-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-aef6f2c9-704b-4e99-891d-af611417ac0a;CZ;2026-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-14871b68-af2f-4b02-9f19-7ac689cf1497;CZ;2026-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-dae4bd8a-d57a-47eb-8a18-68a6a03e3a5a;CZ;2026-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-e8b07646-d6a5-41d2-a490-d97d55eee008;CZ;2026-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-6830c46d-11d3-40c1-9064-fafd6c6504b6;CZ;2027-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-dba30933-6abc-480e-b8a7-47ea7414b5d5;CZ;2027-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-db60cd40-da92-448d-bb86-8f135e7f1318;CZ;2027-03-26;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-3ca3443a-e42e-4658-a4b1-059b0f1e090a;CZ;2027-03-29;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-99e71edc-12e1-4028-90c1-5d61f371baea;CZ;2027-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-c732578c-e37a-4d14-888d-0db49413de06;CZ;2027-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-96823e1e-3fee-44e0-96d7-73c0d73c855f;CZ;2027-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-d995df7e-ed7d-4887-92b0-7ddc43bf1a75;CZ;2027-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-4323ec2c-673a-44b6-b593-3cb70ee433bd;CZ;2027-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-7a5fceb8-c2de-4f11-92ab-1240f1979ec8;CZ;2027-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-a650f262-902e-4317-9f65-62dc99d16af5;CZ;2027-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-80ac590f-82ab-4c0a-8f58-27dc915391cb;CZ;2027-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-6b0ecfec-c1cc-46dc-8c5e-0f27d14d8fa2;CZ;2027-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-c7f46501-43ed-4880-9940-d2a9587dc96c;CZ;2027-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-9c8bcf1c-7f92-436b-9ff1-12094f150415;CZ;2028-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-d68a5973-75fd-4694-838a-ae291611c9f8;CZ;2028-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-98af3fe3-c7df-4bb8-a818-8ae0b52634de;CZ;2028-04-14;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-07d12f97-1507-4653-a27f-495a10882d5c;CZ;2028-04-17;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-fa0ce81b-bff1-4ae5-bb5c-2ba507ceb3e0;CZ;2028-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-38af183e-7c84-4f22-8e05-3418c319c8d3;CZ;2028-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-b82be5a1-2fe4-486c-8847-11989656014f;CZ;2028-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-e199810c-537f-4810-bbc3-d695c6ab5ab2;CZ;2028-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-6b887880-1097-49d6-aec6-08ac8e4e386f;CZ;2028-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-4baf6720-fcbc-4802-ae69-ecc13510e002;CZ;2028-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-ee31e6e3-6087-48f1-9f83-3f0653e1a6a2;CZ;2028-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-c8fa484c-3af5-4959-985c-38979c8fecaa;CZ;2028-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-0f3ee367-17fd-4111-90d0-07834ed02f80;CZ;2028-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-f28bf7eb-90ae-43f7-8f60-db7193118b8a;CZ;2028-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-a44d3917-025b-4844-a85e-770e150ecf6e;CZ;2029-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-09a5bd29-4edd-41fe-bb0a-c391c26055a4;CZ;2029-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-a3f5f6d2-e41e-4b3b-a50f-989dc5c559e0;CZ;2029-03-30;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-4730675a-5470-42ce-9488-a235f373d271;CZ;2029-04-02;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-16dbf70b-250f-4763-be8e-46b37a559798;CZ;2029-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-bfb2cf3d-f35c-4030-b7db-c18a3b1e0568;CZ;2029-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-11eb7243-4c91-4335-8254-ffb8f575c552;CZ;2029-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-c6413291-4d86-436c-8e92-dc56ba164990;CZ;2029-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-fccd3a06-28ac-42ea-b9d9-1cd4832536d1;CZ;2029-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-179618ee-2cf5-4186-b084-d9e66aa9fe6e;CZ;2029-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-05b75fe0-ec85-446b-ad17-460f7e6cfe0e;CZ;2029-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-41acf99d-31bc-43ea-a9c0-9961961b2dcf;CZ;2029-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-2d277b89-c3fd-42a9-a673-2237d7e15570;CZ;2029-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-c37f4f52-61b7-4090-a389-ecbaad8c6cc2;CZ;2029-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
-73be5ba4-86ef-4b90-bc32-8e48106c98b3;CZ;2030-01-01;;Public;CS Nový rok,DE Neujahr,EN New Year's Day
-3407d7e6-0f92-4116-a389-0ff508589c8b;CZ;2030-01-01;;Public;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
-e7856b24-b65d-43f0-8c14-37c57c9be136;CZ;2030-04-19;;Public;CS Velký pátek,DE Karfreitag,EN Good Friday
-c7629085-fbfa-4a2f-999a-3b334d34dbf3;CZ;2030-04-22;;Public;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
-dccaeae2-bc63-4b9f-ac1e-6a2a2c56aa95;CZ;2030-05-01;;Public;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
-492ade16-53bc-4335-a8e5-f1c56e9aaff9;CZ;2030-05-08;;Public;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
-a72f155c-320f-4d24-a0fa-b62aaaf55d1c;CZ;2030-07-05;;Public;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
-a901531e-67d9-497b-b96e-5a72787a60b0;CZ;2030-07-06;;Public;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
-f36121e9-adb8-44e2-8128-f7251870636b;CZ;2030-09-28;;Public;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
-a5cebcb9-3f6e-495d-b3c3-5df97be06b48;CZ;2030-10-28;;Public;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
-f5577ade-53fc-4730-9fa8-af699f800637;CZ;2030-11-17;;Public;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
-ec4a67e6-aa94-4ac2-b75e-7afd4f699aaa;CZ;2030-12-24;;Public;CS Štědrý den,DE Heiligabend,EN Christmas Eve
-059be1d7-f4e0-4441-ba28-21e6d0935da6;CZ;2030-12-25;;Public;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
-4c2ad95e-ba10-42ec-9557-f8f6a8e31770;CZ;2030-12-26;;Public;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+b03c433a-18ed-4e0b-b702-515eff6b1c07;CZ;2020-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+d71a2557-62ec-48eb-8800-de5f29bfd42a;CZ;2020-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+e3529abf-8331-4d7f-be1a-195ce82c5521;CZ;2020-04-10;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+2df4368e-1404-4477-a9a6-c0d27cebfa04;CZ;2020-04-13;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+770eea4f-b8a1-4f9c-941e-8e80ad9bf871;CZ;2020-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+2f5d9241-1f12-4e84-bef2-082d36ab277e;CZ;2020-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+5105fdf1-0177-4873-9e2b-aac731a68fff;CZ;2020-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+fd3251e8-4a3d-423c-801f-e085e3ed7b00;CZ;2020-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+018dcf6f-49b0-4029-8fab-d3a2f1ae8131;CZ;2020-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+0ad89e20-d61e-4f78-9247-10603380e1be;CZ;2020-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+5cde4838-3058-4aa9-9fe9-73f48d8d0bcd;CZ;2020-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+e7c03662-4e12-4d19-a869-513b03b62429;CZ;2020-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+0e45dac4-c2d5-44de-827a-fbfc22918db3;CZ;2020-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+4013bbe0-4206-4702-92f1-4c0ed0a6d3d9;CZ;2020-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+ca441634-8835-4f27-a704-9e44441b5756;CZ;2021-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+3f0d4581-3a0c-4653-99e7-854b94e84740;CZ;2021-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+44b24b95-4d25-4bcf-a531-731dab6dabe9;CZ;2021-04-02;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+3b0ee8cc-14f1-41e6-abb9-7920ae6b07de;CZ;2021-04-05;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+9aaf8a0e-6565-4ac1-b482-7e0349f4c646;CZ;2021-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+896561a3-7e8d-455c-a42b-31bab3d20c73;CZ;2021-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+5d6baf32-5582-494f-8061-7c8eb072d9ba;CZ;2021-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+39e94061-d61e-419d-85d1-229ec1a31909;CZ;2021-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+08ec3e9c-73de-4991-ad7c-df445bb55d96;CZ;2021-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+08b0585b-08a7-4e44-a6cc-7753ac693475;CZ;2021-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+db090a3c-cf39-476a-ba1a-0c894f1838ef;CZ;2021-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+e626ee07-f8cc-48c4-af93-86fa73a32f1b;CZ;2021-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+e93a63b9-09c4-4d51-84b8-ecda731faba5;CZ;2021-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+58503e8f-3bb7-478d-b06b-4ee31dd25199;CZ;2021-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+be400fb9-acc4-4d00-a558-a0bfb6f23de9;CZ;2022-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+c29f60ef-7de7-495f-924e-1dd447a979b4;CZ;2022-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+a51333c1-3f44-4626-b4c4-f4d7eaae8fa4;CZ;2022-04-15;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+6c7dbf49-b31d-495d-8c7a-04bae0473125;CZ;2022-04-18;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+1958794d-73d2-46f1-9b9c-814128d1dbf5;CZ;2022-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+ebcab81f-614b-4c06-b6f2-ba30b99685bc;CZ;2022-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+f1eb147a-7582-4140-8b7a-164fc4e4423e;CZ;2022-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+1065bd4d-b156-4f0e-a5ae-971cc236aa66;CZ;2022-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+a7766bd4-89d8-43af-9215-959ca17edbce;CZ;2022-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+15d6f4c4-51d1-4056-b02d-6e1079a492c8;CZ;2022-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+acd480a5-73bb-49bd-89ab-a23584eb679a;CZ;2022-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+554ea6b6-5814-4116-a759-d067990a2512;CZ;2022-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+3d49d0a2-8e89-4fa3-a8f1-9e07768979b6;CZ;2022-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+265776d0-b69f-4236-afd8-404524df5216;CZ;2022-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+d78b332a-54a8-4c24-b29a-f706d591d702;CZ;2023-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+04ae0542-9730-4f27-8885-134a6f251e40;CZ;2023-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+cde167a5-b06c-4366-ad82-4087cf43dfcc;CZ;2023-04-07;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+bad10753-5b83-4bf9-82c5-e7fe8b554521;CZ;2023-04-10;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+e3b54b2d-1f2e-42c4-ba75-70d74174bf32;CZ;2023-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+0e81f511-8385-42b6-8bb1-cac5ca5ec84e;CZ;2023-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+f5ee7a2c-ed3a-441b-b049-a279b7027bcb;CZ;2023-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+bbbc09e6-5bc1-4b1f-b63e-e78b3569cc59;CZ;2023-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+6c0db825-8d75-4fc9-ac8b-c9186fe69ae8;CZ;2023-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+46ff10d3-ca20-4034-be28-7546f13a62ae;CZ;2023-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+3280dfea-25f7-483f-9134-ae127d90e9f7;CZ;2023-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+660340dd-25b6-4815-b296-5e0fae278e9d;CZ;2023-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+4b8d9bf0-f5ad-4e51-a66b-085a39893d7f;CZ;2023-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+29552378-571a-4855-ae80-5069a3d36d4c;CZ;2023-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+cfa64b85-95f6-46cb-8d8c-3d802885b0fc;CZ;2024-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+57439d7d-d205-4873-8336-8f9069d4d322;CZ;2024-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+f7910522-8630-430f-952f-3ea22f635ea5;CZ;2024-03-29;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+2ec50e69-aff3-4624-9412-cc7335342c92;CZ;2024-04-01;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+d1532aab-2cfe-4f2f-b9ff-8947730fc5dd;CZ;2024-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+457081fb-4777-42e6-8bb3-ac1751d0162b;CZ;2024-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+ba2247c5-fce3-42ea-9d93-ad5d330886ed;CZ;2024-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+2a768b05-2e14-46c3-b69d-c6200c1f8d5d;CZ;2024-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+e8c654a1-e11d-4012-b572-a521f0d47321;CZ;2024-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+6aa38cfc-c7dc-42c1-b667-8e559bbfc4be;CZ;2024-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+4f39623d-0548-441a-8879-dd505ff63a3c;CZ;2024-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+555eea2e-396a-4b3f-a883-6e8874f4306f;CZ;2024-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+e91aede5-7dfb-4f94-a822-e1f452c13b70;CZ;2024-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+f8015cfa-183a-459f-84ce-b4167533c793;CZ;2024-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+8521c2eb-7191-4d15-94e9-6df3d4763e9b;CZ;2025-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+1d9d3f2f-00c1-4810-9966-acdac6692dde;CZ;2025-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+06d2510c-7219-45b7-90dc-914d7c16328d;CZ;2025-04-18;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+07cd58ba-79e8-48a5-a419-1c0010a7fc49;CZ;2025-04-21;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+d0488900-0cb3-414b-a3b5-f88b845c500e;CZ;2025-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+9fcc074c-3cd6-47f6-9a8c-7e4b8c5cfd4d;CZ;2025-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+feb49b3b-341e-4759-b2c5-46ac7d2d12ca;CZ;2025-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+0abee2c5-660f-4518-9073-1624642ad3f1;CZ;2025-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+1de31c5c-a9af-45af-a269-bcf8ab89d77f;CZ;2025-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+39c6781d-5eb1-4446-a889-828914e08478;CZ;2025-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+1a6b66cc-cacc-4dde-b185-7f965dcec5dc;CZ;2025-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+e1dbfe82-90f9-465f-8d1a-b37aac3ae538;CZ;2025-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+453b2f83-0b27-4f57-8aef-7698f5c19ae7;CZ;2025-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+6461123f-b5d4-464a-9aec-f7c32e7f3e7a;CZ;2025-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+eaa11346-d1c5-4b7d-a69e-abb1cde8bdcd;CZ;2026-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+8a4b3dcf-98e0-4fbf-ba5f-89e0ead33a4a;CZ;2026-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+9e271cee-c48b-4c8b-8139-3c8f25dbef31;CZ;2026-04-03;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+0fb4c9ff-c62e-4487-92be-848c1fdbd691;CZ;2026-04-06;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+1efe901c-b491-40db-a924-d6aec650d5ad;CZ;2026-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+fe81c1ec-9607-41dd-8a17-8648bc9993fa;CZ;2026-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+1f06ab44-fb7a-4fe1-b379-709eb429f4bd;CZ;2026-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+189e69d7-e2fa-4d05-9024-7b1f14697b70;CZ;2026-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+80ad8fef-fd6a-4533-9481-ef7cea34dfd3;CZ;2026-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+a6389fb6-20b8-4643-a76c-15a0665b582b;CZ;2026-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+aef6f2c9-704b-4e99-891d-af611417ac0a;CZ;2026-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+14871b68-af2f-4b02-9f19-7ac689cf1497;CZ;2026-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+dae4bd8a-d57a-47eb-8a18-68a6a03e3a5a;CZ;2026-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+e8b07646-d6a5-41d2-a490-d97d55eee008;CZ;2026-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+6830c46d-11d3-40c1-9064-fafd6c6504b6;CZ;2027-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+dba30933-6abc-480e-b8a7-47ea7414b5d5;CZ;2027-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+db60cd40-da92-448d-bb86-8f135e7f1318;CZ;2027-03-26;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+3ca3443a-e42e-4658-a4b1-059b0f1e090a;CZ;2027-03-29;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+99e71edc-12e1-4028-90c1-5d61f371baea;CZ;2027-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+c732578c-e37a-4d14-888d-0db49413de06;CZ;2027-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+96823e1e-3fee-44e0-96d7-73c0d73c855f;CZ;2027-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+d995df7e-ed7d-4887-92b0-7ddc43bf1a75;CZ;2027-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+4323ec2c-673a-44b6-b593-3cb70ee433bd;CZ;2027-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+7a5fceb8-c2de-4f11-92ab-1240f1979ec8;CZ;2027-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+a650f262-902e-4317-9f65-62dc99d16af5;CZ;2027-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+80ac590f-82ab-4c0a-8f58-27dc915391cb;CZ;2027-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+6b0ecfec-c1cc-46dc-8c5e-0f27d14d8fa2;CZ;2027-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+c7f46501-43ed-4880-9940-d2a9587dc96c;CZ;2027-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+9c8bcf1c-7f92-436b-9ff1-12094f150415;CZ;2028-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+d68a5973-75fd-4694-838a-ae291611c9f8;CZ;2028-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+98af3fe3-c7df-4bb8-a818-8ae0b52634de;CZ;2028-04-14;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+07d12f97-1507-4653-a27f-495a10882d5c;CZ;2028-04-17;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+fa0ce81b-bff1-4ae5-bb5c-2ba507ceb3e0;CZ;2028-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+38af183e-7c84-4f22-8e05-3418c319c8d3;CZ;2028-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+b82be5a1-2fe4-486c-8847-11989656014f;CZ;2028-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+e199810c-537f-4810-bbc3-d695c6ab5ab2;CZ;2028-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+6b887880-1097-49d6-aec6-08ac8e4e386f;CZ;2028-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+4baf6720-fcbc-4802-ae69-ecc13510e002;CZ;2028-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+ee31e6e3-6087-48f1-9f83-3f0653e1a6a2;CZ;2028-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+c8fa484c-3af5-4959-985c-38979c8fecaa;CZ;2028-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+0f3ee367-17fd-4111-90d0-07834ed02f80;CZ;2028-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+f28bf7eb-90ae-43f7-8f60-db7193118b8a;CZ;2028-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+a44d3917-025b-4844-a85e-770e150ecf6e;CZ;2029-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+09a5bd29-4edd-41fe-bb0a-c391c26055a4;CZ;2029-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+a3f5f6d2-e41e-4b3b-a50f-989dc5c559e0;CZ;2029-03-30;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+4730675a-5470-42ce-9488-a235f373d271;CZ;2029-04-02;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+16dbf70b-250f-4763-be8e-46b37a559798;CZ;2029-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+bfb2cf3d-f35c-4030-b7db-c18a3b1e0568;CZ;2029-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+11eb7243-4c91-4335-8254-ffb8f575c552;CZ;2029-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+c6413291-4d86-436c-8e92-dc56ba164990;CZ;2029-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+fccd3a06-28ac-42ea-b9d9-1cd4832536d1;CZ;2029-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+179618ee-2cf5-4186-b084-d9e66aa9fe6e;CZ;2029-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+05b75fe0-ec85-446b-ad17-460f7e6cfe0e;CZ;2029-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+41acf99d-31bc-43ea-a9c0-9961961b2dcf;CZ;2029-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+2d277b89-c3fd-42a9-a673-2237d7e15570;CZ;2029-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+c37f4f52-61b7-4090-a389-ecbaad8c6cc2;CZ;2029-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day
+73be5ba4-86ef-4b90-bc32-8e48106c98b3;CZ;2030-01-01;;Public;National;CS Nový rok,DE Neujahr,EN New Year's Day
+3407d7e6-0f92-4116-a389-0ff508589c8b;CZ;2030-01-01;;Public;National;CS Den obnovy samostatného českého státu,DE Tag der Wiederherstellung des unabhängigen tschechischen Staates,EN Day of the Restoration of the Independent Czech State
+e7856b24-b65d-43f0-8c14-37c57c9be136;CZ;2030-04-19;;Public;National;CS Velký pátek,DE Karfreitag,EN Good Friday
+c7629085-fbfa-4a2f-999a-3b334d34dbf3;CZ;2030-04-22;;Public;National;CS Velikonoční pondělí,DE Ostermontag,EN Easter Monday
+dccaeae2-bc63-4b9f-ac1e-6a2a2c56aa95;CZ;2030-05-01;;Public;National;CS Svátek práce,DE Tag der Arbeit,EN Labour Day
+492ade16-53bc-4335-a8e5-f1c56e9aaff9;CZ;2030-05-08;;Public;National;CS Den vítězství,DE Tag des Sieges,EN Liberation Day
+a72f155c-320f-4d24-a0fa-b62aaaf55d1c;CZ;2030-07-05;;Public;National;CS Den slovanských věrozvěstů Cyrila a Metoděje,DE Tag der Heiligen Kyrill und Methodius,EN St. Cyril and Methodius Day
+a901531e-67d9-497b-b96e-5a72787a60b0;CZ;2030-07-06;;Public;National;CS Den upálení mistra Jana Husa,DE Tag der Verbrennung von Jan Hus,EN Day of the Burning of Jan Hus
+f36121e9-adb8-44e2-8128-f7251870636b;CZ;2030-09-28;;Public;National;CS Den české státnosti,DE Tag der tschechischen Staatlichkeit,EN Czech Statehood Day
+a5cebcb9-3f6e-495d-b3c3-5df97be06b48;CZ;2030-10-28;;Public;National;CS Den vzniku samostatného československého státu,DE Unabhängigkeitstag,EN Independence Day
+f5577ade-53fc-4730-9fa8-af699f800637;CZ;2030-11-17;;Public;National;CS Den boje za svobodu a demokracii a Mezinárodní den studentstva,DE Tag des Kampfes für Freiheit und Demokratie,EN Day of Struggle for Freedom and Democracy
+ec4a67e6-aa94-4ac2-b75e-7afd4f699aaa;CZ;2030-12-24;;Public;National;CS Štědrý den,DE Heiligabend,EN Christmas Eve
+059be1d7-f4e0-4441-ba28-21e6d0935da6;CZ;2030-12-25;;Public;National;CS 1. svátek vánoční,DE Erster Weihnachtsfeiertag,EN Christmas Day
+4c2ad95e-ba10-42ec-9557-f8f6a8e31770;CZ;2030-12-26;;Public;National;CS 2. svátek vánoční,DE Zweiter Weihnachtsfeiertag,EN Second Christmas Day

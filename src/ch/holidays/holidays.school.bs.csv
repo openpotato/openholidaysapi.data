@@ -1,31 +1,78 @@
-﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
-8a60345e-5b2f-4ee5-86e4-32c8d16184d6;CH;2020-02-22;2020-03-08;School;DE Sport,FR Sport,IT Sport,EN Sport;BS;
-d0cf8d8f-f88b-456b-a01d-e4b09fcc95a4;CH;2020-04-04;2020-04-19;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BS;
-20e16478-81e8-400a-acc8-3a864bc8092a;CH;2020-06-27;2020-08-09;School;DE Sommer,FR Été,IT Estate,EN Summer;BS;
-73b09b53-18ec-474e-ac1e-2729e4327dff;CH;2020-09-26;2020-10-11;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BS;
-2a7419fc-4014-49ce-9d6e-3460c4682869;CH;2020-12-19;2021-01-03;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BS;
-2b9b234b-b5af-424f-98ad-b568aca18c01;CH;2021-02-13;2021-02-28;School;DE Sport,FR Sport,IT Sport,EN Sport;BS;
-a525e4b3-2338-45bb-a5a5-54bdf76090ee;CH;2021-03-27;2021-04-11;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BS;
-a23a305c-e720-4167-adca-1bb9210335f6;CH;2021-07-03;2021-08-15;School;DE Sommer,FR Été,IT Estate,EN Summer;BS;
-8b64d0fa-95a0-4903-b80d-f1dfa4b2ac54;CH;2021-10-02;2021-10-17;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BS;
-f9f5eed0-0e2f-4c27-b9ff-c9bbc27085c1;CH;2021-12-18;2022-01-02;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BS;
-32b3a681-7c8b-406b-b395-c6318e46671c;CH;2022-02-26;2022-03-13;School;DE Sport,FR Sport,IT Sport,EN Sport;BS;
-58f9ecb2-7d5e-4fe9-90dc-8893cfffc0fa;CH;2022-04-09;2022-04-24;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BS;
-b65282e9-9b2f-4467-83fe-f112f13346c1;CH;2022-07-02;2022-08-14;School;DE Sommer,FR Été,IT Estate,EN Summer;BS;
-95f55fb6-f24f-4ab5-999d-1800b3342fad;CH;2022-10-01;2022-10-16;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BS;
-08a48f7b-26de-4117-9701-d1ecaffd28d6;CH;2022-12-24;2023-01-08;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BS;
-9c21b6c3-924c-4834-99d9-3a261e65553f;CH;2023-02-18;2023-03-05;School;DE Sport,FR Sport,IT Sport,EN Sport;BS;
-d0373984-4a2a-438d-8dbf-03bc4619b628;CH;2023-04-01;2023-04-16;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BS;
-856229fe-2dd6-42c2-a68c-1dfbc9258115;CH;2023-07-01;2023-08-13;School;DE Sommer,FR Été,IT Estate,EN Summer;BS;
-78c239df-e783-47c0-9d15-1453e2e477fa;CH;2023-09-30;2023-10-15;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BS;
-9f00dfe6-8272-4c8c-bd9f-e568b829feff;CH;2023-12-23;2024-01-07;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BS;
-5ed95a2c-d644-4dd4-a9dd-884412b9c9e5;CH;2024-02-10;2024-02-25;School;DE Sport,FR Sport,IT Sport,EN Sport;BS;
-26ba2cc7-46f4-48b3-843a-b6d7f2fed5e2;CH;2024-03-23;2024-04-07;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BS;
-8dec4a83-d7b2-443b-8c3b-f5a7f36069e6;CH;2024-06-29;2024-08-11;School;DE Sommer,FR Été,IT Estate,EN Summer;BS;
-61f84e5b-6644-4a58-a143-aef2db927c27;CH;2024-09-28;2024-10-13;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BS;
-aa868352-5ec9-46c4-bf40-f0a36834279f;CH;2024-12-21;2025-01-05;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BS;
-9775f5cc-7586-4303-a855-d0670771fd1c;CH;2025-03-01;2025-03-16;School;DE Sport,FR Sport,IT Sport,EN Sport;BS;
-3cfad6aa-5764-473c-a021-36830c724310;CH;2025-04-12;2025-04-27;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BS;
-a74edbd1-95cf-4fb0-83aa-8ed107307f51;CH;2025-06-28;2025-08-09;School;DE Sommer,FR Été,IT Estate,EN Summer;BS;
-305782ab-2858-4f88-9fff-d53e2494095f;CH;2025-09-27;2025-10-12;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BS;
-f3041827-fa5f-4469-9938-cadadae1718e;CH;2025-12-20;2026-01-05;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BS;
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+7898d905-78c6-43fd-9d09-f9efc29748c8;CH;2019-12-21;2020-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+8a60345e-5b2f-4ee5-86e4-32c8d16184d6;CH;2020-02-22;2020-03-08;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+d0cf8d8f-f88b-456b-a01d-e4b09fcc95a4;CH;2020-04-04;2020-04-19;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+735a2c4c-3e05-4eb8-b6d6-6fcc3cab6be6;CH;2020-05-22;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+20e16478-81e8-400a-acc8-3a864bc8092a;CH;2020-06-27;2020-08-09;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+73b09b53-18ec-474e-ac1e-2729e4327dff;CH;2020-09-26;2020-10-11;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+2a7419fc-4014-49ce-9d6e-3460c4682869;CH;2020-12-19;2021-01-03;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+2b9b234b-b5af-424f-98ad-b568aca18c01;CH;2021-02-13;2021-02-28;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+a525e4b3-2338-45bb-a5a5-54bdf76090ee;CH;2021-03-27;2021-04-11;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+4154dbf3-6441-4c74-9425-b13336f91de4;CH;2021-05-14;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+a23a305c-e720-4167-adca-1bb9210335f6;CH;2021-07-03;2021-08-15;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+8b64d0fa-95a0-4903-b80d-f1dfa4b2ac54;CH;2021-10-02;2021-10-17;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+f9f5eed0-0e2f-4c27-b9ff-c9bbc27085c1;CH;2021-12-18;2022-01-02;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+32b3a681-7c8b-406b-b395-c6318e46671c;CH;2022-02-26;2022-03-13;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+58f9ecb2-7d5e-4fe9-90dc-8893cfffc0fa;CH;2022-04-09;2022-04-24;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+6734f79c-d6dd-4864-987f-37d1100a6886;CH;2022-05-27;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+b65282e9-9b2f-4467-83fe-f112f13346c1;CH;2022-07-02;2022-08-14;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+95f55fb6-f24f-4ab5-999d-1800b3342fad;CH;2022-10-01;2022-10-16;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+08a48f7b-26de-4117-9701-d1ecaffd28d6;CH;2022-12-24;2023-01-08;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+9c21b6c3-924c-4834-99d9-3a261e65553f;CH;2023-02-18;2023-03-05;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+d0373984-4a2a-438d-8dbf-03bc4619b628;CH;2023-04-01;2023-04-16;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+da0b3d7e-564b-4231-a4af-742a6ddc97ec;CH;2023-05-19;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+856229fe-2dd6-42c2-a68c-1dfbc9258115;CH;2023-07-01;2023-08-13;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+78c239df-e783-47c0-9d15-1453e2e477fa;CH;2023-09-30;2023-10-15;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+9f00dfe6-8272-4c8c-bd9f-e568b829feff;CH;2023-12-23;2024-01-07;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+5ed95a2c-d644-4dd4-a9dd-884412b9c9e5;CH;2024-02-10;2024-02-25;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+26ba2cc7-46f4-48b3-843a-b6d7f2fed5e2;CH;2024-03-23;2024-04-07;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+6009458a-3a4f-45d1-8048-509f001f93b7;CH;2024-05-10;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+8dec4a83-d7b2-443b-8c3b-f5a7f36069e6;CH;2024-06-29;2024-08-11;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+61f84e5b-6644-4a58-a143-aef2db927c27;CH;2024-09-28;2024-10-13;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+aa868352-5ec9-46c4-bf40-f0a36834279f;CH;2024-12-21;2025-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+744349b2-4a18-4116-b872-442c85475ee2;CH;2025-03-01;2025-03-16;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+a4c523fb-26da-4b7c-bea5-85dd71bb0e81;CH;2025-04-12;2025-04-27;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+13662ff5-d68f-4729-9e4b-8de05424a39e;CH;2025-05-30;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+da770c53-61bb-4e58-ac6e-b03af97323ed;CH;2025-06-28;2025-08-10;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+15e97eb0-d1cb-4ec5-a406-608dc09ac8ea;CH;2025-09-27;2025-10-12;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+9345f780-89dd-4b94-acf6-d35600b3a6cc;CH;2025-12-20;2026-01-04;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+f1292a3c-9a98-497b-98a5-d523ceb5f625;CH;2026-02-14;2026-03-01;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+47579d1b-ef3f-441a-b600-8189d2b84e6e;CH;2026-03-28;2026-04-12;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+6de6468b-7ec2-4732-8569-d775363a5b55;CH;2026-05-25;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+e4f54d97-e10c-4b51-8671-19a93acad2c5;CH;2026-06-27;2026-08-09;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+f0a004e2-f9e1-4466-865a-fee98cbc3c39;CH;2026-09-26;2026-10-11;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+a3699296-0858-4ee8-81ba-f225e76b0a6d;CH;2026-12-19;2027-01-03;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+7f12b557-4c2a-41c0-9cc6-e7facbe61910;CH;2027-02-06;2027-02-21;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+051b2fda-fe15-49dd-81bc-f2b896a452a4;CH;2027-03-20;2027-04-04;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+d47effdf-1fad-489e-b68a-6f2bef6aa515;CH;2027-05-07;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+9cb4b76e-ef7c-483f-9204-1899df507342;CH;2027-07-03;2027-08-15;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+dc00cf0f-8136-4700-b7d9-6e196374e3ea;CH;2027-10-02;2027-10-17;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+9b133183-b434-4753-8687-9b5ac9d40ed8;CH;2027-12-18;2028-01-02;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+b809438f-3546-402d-868d-bd743ef87c65;CH;2028-02-16;2028-03-12;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+285d7590-77b1-42d2-878c-87db8d77feec;CH;2028-04-08;2028-04-23;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+05075135-41c6-4cfd-a514-4f8419babf6c;CH;2028-06-26;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+ceaedda7-df56-41ac-91ec-cbc857ac44d4;CH;2028-07-01;2028-08-13;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+cf6766d1-0464-42f3-a8a7-575031c94288;CH;2028-09-30;2028-10-15;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+9db7541a-7c91-4723-8c94-4115a7e95589;CH;2028-12-23;2029-01-07;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+f851571d-d4b5-4f94-8ffa-6a2cf471ef13;CH;2029-02-10;2029-02-25;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+59716211-2d74-4214-9bbb-ac1b967b85c0;CH;2029-03-24;2029-04-08;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+74c51030-d4f9-434d-ad89-d58b91326599;CH;2029-05-11;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+4b2ecca8-87e0-4e82-a245-d51e8822f23d;CH;2029-06-30;2029-08-12;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+55929bc5-ea39-4fe5-a861-0c79db5d3df4;CH;2029-09-29;2029-10-14;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+ad27d2e0-5062-4ad6-b3bf-4d1cc3168495;CH;2029-12-22;2030-01-06;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+8979914a-e91e-4cc3-9ed4-14dade2796e3;CH;2030-03-02;2030-03-17;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+746c962f-56ca-413b-aab1-897294994ab0;CH;2030-04-13;2030-04-28;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+df27bbb1-14ab-4198-825e-7a7886c18e12;CH;2030-05-31;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+06a533f1-f7fa-4351-a0c2-5194e73b5472;CH;2030-06-29;2030-08-11;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+32d824a8-828c-4ba6-b5a6-343effb8f1c8;CH;2030-09-28;2030-10-13;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+90fdf82b-7124-4bb8-a7fd-297437f5a98e;CH;2030-12-21;2031-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+f9e76bab-d0d7-4cba-bf7f-3ee3a6a2f3d3;CH;2031-02-22;2031-03-09;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+0b5c4f51-02db-4194-b980-a6ee3f3f4c82;CH;2031-04-05;2031-04-20;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+55ae7a39-03e6-4652-ad74-21a62a49b44f;CH;2031-05-23;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+697ac99c-27dd-490b-b8f9-32f7923a0a02;CH;2031-06-28;2031-08-10;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS
+bba1d298-2400-4f12-85ef-8200e1339a7f;CH;2031-09-27;2031-10-12;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BS
+48498d05-29f1-4174-bb02-cc16b651f6dd;CH;2031-12-20;2032-01-04;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BS
+ad237631-09cf-4cad-a3a6-e3f2791caf10;CH;2032-02-07;2032-02-22;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BS
+15ba3e1b-efeb-4fb6-a109-6b0d65dc5e85;CH;2032-03-20;2032-04-04;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BS
+11fc87e2-77f4-4241-8413-b8ce283cab8e;CH;2032-05-07;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BS
+8bce7dcd-cfaa-47fb-ba21-2961c05fe5bd;CH;2032-06-26;2032-08-08;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BS

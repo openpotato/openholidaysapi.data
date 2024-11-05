@@ -1,16 +1,19 @@
-﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
-845bea61-4544-4826-9734-7950fa062b8f;ES;2019-12-24;2020-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
-040057c6-3766-4b91-b1ba-7aad90772535;ES;2020-04-06;2020-04-10;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
-176ea684-a380-4a19-97cc-b41b2919d32e;ES;2020-06-24;2020-09-06;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;MC
-070db57d-9d92-4439-a663-ccf953e2df7a;ES;2020-12-24;2021-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
-81938a85-b367-424f-9f3c-676da5dbf6e2;ES;2021-03-29;2021-04-02;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
-c83cce6e-b5bf-4ee0-aa18-29a33f0a7b52;ES;2021-06-24;2021-09-06;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;MC
-dd561749-d1c1-403e-a17e-58cfea26d608;ES;2021-12-24;2022-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
-39ad865d-c96b-4d5f-91da-0c68cf37107f;ES;2022-04-11;2022-04-15;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
-a298bbe6-654d-4d97-b55e-2d3c744b0daf;ES;2022-06-24;2022-09-07;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;MC
-ff5034e6-1827-412a-9000-cdec26953a21;ES;2022-12-24;2023-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
-d67af498-90c6-4402-a0d0-1de81fb9e1db;ES;2023-04-03;2023-04-07;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
-7d218e47-e094-4e6d-99fc-da7fbf8cc4bf;ES;2023-06-24;2023-09-06;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;MC
-c5269637-1087-42f8-a4e3-360ad21a5810;ES;2023-12-24;2024-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
-c4e0dabf-a04a-41f0-9ae4-c5bb1f1c1c04;ES;2024-03-25;2024-04-01;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
-adcc18ee-e202-4eff-97ab-0452df2ec915;ES;2024-06-19;;EndOfLessons;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;MC
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+845bea61-4544-4826-9734-7950fa062b8f;ES;2019-12-24;2020-01-06;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
+040057c6-3766-4b91-b1ba-7aad90772535;ES;2020-04-06;2020-04-10;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
+176ea684-a380-4a19-97cc-b41b2919d32e;ES;2020-06-24;2020-09-06;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;MC
+070db57d-9d92-4439-a663-ccf953e2df7a;ES;2020-12-24;2021-01-06;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
+81938a85-b367-424f-9f3c-676da5dbf6e2;ES;2021-03-29;2021-04-02;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
+c83cce6e-b5bf-4ee0-aa18-29a33f0a7b52;ES;2021-06-24;2021-09-06;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;MC
+dd561749-d1c1-403e-a17e-58cfea26d608;ES;2021-12-24;2022-01-06;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
+39ad865d-c96b-4d5f-91da-0c68cf37107f;ES;2022-04-11;2022-04-15;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
+a298bbe6-654d-4d97-b55e-2d3c744b0daf;ES;2022-06-24;2022-09-07;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;MC
+ff5034e6-1827-412a-9000-cdec26953a21;ES;2022-12-24;2023-01-06;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
+d67af498-90c6-4402-a0d0-1de81fb9e1db;ES;2023-04-03;2023-04-07;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
+7d218e47-e094-4e6d-99fc-da7fbf8cc4bf;ES;2023-06-24;2023-09-06;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;MC
+c5269637-1087-42f8-a4e3-360ad21a5810;ES;2023-12-24;2024-01-06;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
+c4e0dabf-a04a-41f0-9ae4-c5bb1f1c1c04;ES;2024-03-25;2024-04-01;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
+adcc18ee-e202-4eff-97ab-0452df2ec915;ES;2024-06-20;2024-09-08;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;MC
+f80c6fbf-fef7-4370-86f0-66b7b8e2aa49;ES;2024-12-24;2025-01-06;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;MC
+eada98ca-0129-40e1-92f6-f396899f62f0;ES;2025-04-14;2025-04-21;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;MC
+a2f2e2a5-a5d0-40f9-a77c-949955394533;ES;2054-06-24;;EndOfLessons;Regional;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;MC

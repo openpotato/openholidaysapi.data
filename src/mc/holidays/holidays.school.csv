@@ -1,44 +1,44 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-29828389-14f2-4a04-abc9-7fa7cf304d9e;MC;2019-12-21;2020-01-05;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
-5001171a-2491-44df-a9db-716a86eb91b0;MC;2020-02-15;2020-03-01;School;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
-74a0412c-ffd1-41e8-bb4e-859a2d752c65;MC;2020-04-11;2020-04-26;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
-ec1a2931-ad1f-411e-95c4-09d60fb57502;MC;2022-05-08;;School;FR Grand Prix historique,DE Historischer Grand Prix,EN Historic Grand Prix
-52bd9783-fc39-45df-b383-c68f2857bd0c;MC;2020-05-21;2020-05-24;School;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
-d409a499-5e6d-4dc0-8221-2931b906eec8;MC;2020-06-27;2020-09-06;School;FR Vacances d’été,DE Sommerferien,EN Summer holidays
-c77c4bf9-3231-4208-a47b-38be432f673c;MC;2020-10-22;2020-11-02;School;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
-081bddfc-5bd1-45b6-88a5-d8ab6a103b5b;MC;2020-12-19;2021-01-03;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
-7cb76a43-7286-4830-b044-26fe921b34eb;MC;2021-02-20;2021-03-07;School;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
-93c18229-caf5-41c5-a029-c58aaf5a6b5e;MC;2021-04-10;2021-04-25;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
-d6b71ba8-059b-48a0-bc22-9cbd754150f6;MC;2021-05-15;2021-05-24;School;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
-dea77e72-591f-417e-87ee-93ae6352d0a5;MC;2021-07-01;2021-09-05;School;FR Vacances d’été,DE Sommerferien,EN Summer holidays
-3516ff99-0680-44f1-9274-280b2708221b;MC;2021-10-28;2021-11-07;School;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
-66359ae6-6f6e-4bb9-86c9-2ba8775e976c;MC;2021-12-18;2022-01-02;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
-96934cfc-ccee-414d-a5e6-4e8d63ff1717;MC;2022-02-05;2022-02-20;School;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
-28d30a8a-6b7c-403d-8843-30a6cc5d8029;MC;2022-04-09;2022-04-24;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
-e4a79832-969a-4565-82a1-ad63159b3f7f;MC;2022-05-13;2022-05-15;School;FR Grand Prix historique,DE Historischer Grand Prix,EN Historic Grand Prix
-6f190e32-8d05-4eb8-a9ca-0ef8cc0bfe9f;MC;2022-05-26;2022-05-29;School;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
-1eb21abb-a3ee-4589-b0a8-98f720991b41;MC;2022-07-02;2022-09-04;School;FR Vacances d’été,DE Sommerferien,EN Summer holidays
-58c57ce9-5381-4899-9fdd-b7f0232b7d1c;MC;2022-10-22;2022-11-02;School;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
-4c23fd02-8b11-495d-9ccb-750fde88d99d;MC;2022-12-17;2023-01-02;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
-53006bf4-156d-4f4b-85ce-7b62da7fd7c9;MC;2023-02-11;2023-02-26;School;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
-df9e00a3-c6d9-4ee9-9375-948a45f5bcf9;MC;2023-04-15;2023-05-01;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
-dd869316-3e02-4ebc-b38c-9f4ee9024321;MC;2023-05-25;2023-05-29;School;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
-68845b09-9947-4340-9ff6-aab92df4ddbe;MC;2023-07-01;2023-09-10;School;FR Vacances d’été,DE Sommerferien,EN Summer holidays
-110e20a4-bba2-434d-9f50-ac66d1e06f49;MC;2023-10-21;2023-11-01;School;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
-a830d46c-f8c8-41fd-b732-f5b127d74cd2;MC;2023-12-23;2024-01-07;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
-c410ec60-6219-4934-8524-eb2315b3efe7;MC;2024-02-24;2024-03-10;School;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
-9184daf9-395c-4a9f-917a-ae9b652bc368;MC;2024-04-20;2024-05-05;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
-52f8ea36-f55e-451b-8dc8-7b3e63f9de23;MC;2024-05-23;2024-05-26;School;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
-6d71d7ae-62f1-4764-a849-f1ec0f8ab11e;MC;2024-06-29;2024-09-08;School;FR Vacances d’été,DE Sommerferien,EN Summer holidays
-530ad86a-eac4-4ffb-91b0-b7ccd779dc15;MC;2024-10-24;2024-11-03;School;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
-0290330a-1b7c-4f5b-a366-6a0ec281643b;MC;2024-12-21;2025-01-05;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
-a22fd357-6cfa-4560-bd98-69d4c2c4f18e;MC;2025-02-08;2025-02-23;School;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
-ca107136-8472-49e7-af91-283c86e8628a;MC;2025-04-05;2025-04-21;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
-dc2176f9-726e-4507-965b-b5e39674c639;MC;2025-05-22;2025-05-25;School;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
-58a0781e-646b-46f9-b2f2-ffc14e2b8f46;MC;2025-06-28;2025-09-07;School;FR Vacances d’été,DE Sommerferien,EN Summer holidays
-03dd458c-f967-4d40-9125-ce0920fd90a6;MC;2025-10-23;2025-11-02;School;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
-60d3057c-daca-43e3-85b4-191515530ce2;MC;2025-12-20;2026-01-04;School;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
-198056e4-dfa9-4119-bf4f-2d447bbfedaa;MC;2026-02-14;2026-03-01;School;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
-4bc8ab5c-27d6-4ae2-8606-d8642c263d25;MC;2026-04-11;2026-04-26;School;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
-f58d47c5-aa5e-4bfd-8b82-f07c14cbf8f3;MC;2026-05-21;2026-05-25;School;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
-aac3eb71-f9a9-4bb9-bac2-b874b217de75;MC;2026-06-27;2026-09-06;School;FR Vacances d’été,DE Sommerferien,EN Summer holidays
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+29828389-14f2-4a04-abc9-7fa7cf304d9e;MC;2019-12-21;2020-01-05;School;National;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
+5001171a-2491-44df-a9db-716a86eb91b0;MC;2020-02-15;2020-03-01;School;National;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
+74a0412c-ffd1-41e8-bb4e-859a2d752c65;MC;2020-04-11;2020-04-26;School;National;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
+ec1a2931-ad1f-411e-95c4-09d60fb57502;MC;2022-05-08;;School;National;FR Grand Prix historique,DE Historischer Grand Prix,EN Historic Grand Prix
+52bd9783-fc39-45df-b383-c68f2857bd0c;MC;2020-05-21;2020-05-24;School;National;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
+d409a499-5e6d-4dc0-8221-2931b906eec8;MC;2020-06-27;2020-09-06;School;National;FR Vacances d’été,DE Sommerferien,EN Summer holidays
+c77c4bf9-3231-4208-a47b-38be432f673c;MC;2020-10-22;2020-11-02;School;National;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
+081bddfc-5bd1-45b6-88a5-d8ab6a103b5b;MC;2020-12-19;2021-01-03;School;National;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
+7cb76a43-7286-4830-b044-26fe921b34eb;MC;2021-02-20;2021-03-07;School;National;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
+93c18229-caf5-41c5-a029-c58aaf5a6b5e;MC;2021-04-10;2021-04-25;School;National;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
+d6b71ba8-059b-48a0-bc22-9cbd754150f6;MC;2021-05-15;2021-05-24;School;National;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
+dea77e72-591f-417e-87ee-93ae6352d0a5;MC;2021-07-01;2021-09-05;School;National;FR Vacances d’été,DE Sommerferien,EN Summer holidays
+3516ff99-0680-44f1-9274-280b2708221b;MC;2021-10-28;2021-11-07;School;National;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
+66359ae6-6f6e-4bb9-86c9-2ba8775e976c;MC;2021-12-18;2022-01-02;School;National;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
+96934cfc-ccee-414d-a5e6-4e8d63ff1717;MC;2022-02-05;2022-02-20;School;National;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
+28d30a8a-6b7c-403d-8843-30a6cc5d8029;MC;2022-04-09;2022-04-24;School;National;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
+e4a79832-969a-4565-82a1-ad63159b3f7f;MC;2022-05-13;2022-05-15;School;National;FR Grand Prix historique,DE Historischer Grand Prix,EN Historic Grand Prix
+6f190e32-8d05-4eb8-a9ca-0ef8cc0bfe9f;MC;2022-05-26;2022-05-29;School;National;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
+1eb21abb-a3ee-4589-b0a8-98f720991b41;MC;2022-07-02;2022-09-04;School;National;FR Vacances d’été,DE Sommerferien,EN Summer holidays
+58c57ce9-5381-4899-9fdd-b7f0232b7d1c;MC;2022-10-22;2022-11-02;School;National;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
+4c23fd02-8b11-495d-9ccb-750fde88d99d;MC;2022-12-17;2023-01-02;School;National;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
+53006bf4-156d-4f4b-85ce-7b62da7fd7c9;MC;2023-02-11;2023-02-26;School;National;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
+df9e00a3-c6d9-4ee9-9375-948a45f5bcf9;MC;2023-04-15;2023-05-01;School;National;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
+dd869316-3e02-4ebc-b38c-9f4ee9024321;MC;2023-05-25;2023-05-29;School;National;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
+68845b09-9947-4340-9ff6-aab92df4ddbe;MC;2023-07-01;2023-09-10;School;National;FR Vacances d’été,DE Sommerferien,EN Summer holidays
+110e20a4-bba2-434d-9f50-ac66d1e06f49;MC;2023-10-21;2023-11-01;School;National;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
+a830d46c-f8c8-41fd-b732-f5b127d74cd2;MC;2023-12-23;2024-01-07;School;National;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
+c410ec60-6219-4934-8524-eb2315b3efe7;MC;2024-02-24;2024-03-10;School;National;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
+9184daf9-395c-4a9f-917a-ae9b652bc368;MC;2024-04-20;2024-05-05;School;National;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
+52f8ea36-f55e-451b-8dc8-7b3e63f9de23;MC;2024-05-23;2024-05-26;School;National;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
+6d71d7ae-62f1-4764-a849-f1ec0f8ab11e;MC;2024-06-29;2024-09-08;School;National;FR Vacances d’été,DE Sommerferien,EN Summer holidays
+530ad86a-eac4-4ffb-91b0-b7ccd779dc15;MC;2024-10-24;2024-11-03;School;National;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
+0290330a-1b7c-4f5b-a366-6a0ec281643b;MC;2024-12-21;2025-01-05;School;National;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
+a22fd357-6cfa-4560-bd98-69d4c2c4f18e;MC;2025-02-08;2025-02-23;School;National;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
+ca107136-8472-49e7-af91-283c86e8628a;MC;2025-04-05;2025-04-21;School;National;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
+dc2176f9-726e-4507-965b-b5e39674c639;MC;2025-05-22;2025-05-25;School;National;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
+58a0781e-646b-46f9-b2f2-ffc14e2b8f46;MC;2025-06-28;2025-09-07;School;National;FR Vacances d’été,DE Sommerferien,EN Summer holidays
+03dd458c-f967-4d40-9125-ce0920fd90a6;MC;2025-10-23;2025-11-02;School;National;FR Vacances de la Toussaint,DE Ferien zu Allerheiligen,EN All Saint's Day holiday
+60d3057c-daca-43e3-85b4-191515530ce2;MC;2025-12-20;2026-01-04;School;National;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas holidays
+198056e4-dfa9-4119-bf4f-2d447bbfedaa;MC;2026-02-14;2026-03-01;School;National;FR Vacances d’hiver,DE Winterferien,EN Winter half-term-holidays
+4bc8ab5c-27d6-4ae2-8606-d8642c263d25;MC;2026-04-11;2026-04-26;School;National;FR Vacances de printemps,DE Frühjahrsferien,EN Spring half-term-holidays
+f58d47c5-aa5e-4bfd-8b82-f07c14cbf8f3;MC;2026-05-21;2026-05-25;School;National;FR Grand Prix de Formule 1 et Pentecôte,DE Grand Prix und Pfingstmontag,EN Grand Prix and Whit Monday
+aac3eb71-f9a9-4bb9-bac2-b874b217de75;MC;2026-06-27;2026-09-06;School;National;FR Vacances d’été,DE Sommerferien,EN Summer holidays

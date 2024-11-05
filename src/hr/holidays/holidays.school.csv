@@ -1,33 +1,33 @@
-﻿Id;Country;StartDate;EndDate;Type;Name;Comment
-8a7375cf-0340-49a9-88d0-2ec310fad116;HR;2019-12-23;2020-01-10;School;HR Zimski odmor,DE Winterferien,EN Winter holidays;HR Opcija I i III za raspodjelu praznika,EN Option I and III for the distribution of holidays,DE Option I und III für die Verteilung der Feiertage
-a38c2a6f-04b3-43cf-a70e-6b8baaab3c94;HR;2019-12-23;2020-01-03;School;HR Zimski odmor,DE Winterferien,EN Winter holidays;HR Opcija II za raspodjelu praznika,EN Option II for the distribution of holidays,DE Option II für die Verteilung der Feiertage
-556a8554-b857-4c83-b933-d276c40482df;HR;2019-12-23;2020-01-03;School;HR Zimski odmor (prvi dio),DE Winterferien (1. Teil),EN Winter holidays (first part);HR Opcija IV za raspodjelu praznika,EN Option IV for the distribution of holidays,DE Option IV für die Verteilung der Feiertage
-6b2ee43d-d99d-486e-8c5e-0288a6a3ea10;HR;2020-02-24;2020-02-28;School;HR Zimski odmor (drugi dio),DE Winterferien (2. Teil),EN Winter holidays (second part);HR Opcija IV za raspodjelu praznika,EN Option IV for the distribution of holidays,DE Option IV für die Verteilung der Feiertage
-5ff84527-54e2-4336-b81b-7823594b9b83;HR;2020-04-10;2020-04-17;School;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;HR Opcija I i II za raspodjelu praznika,EN Option I and II for the distribution of holidays,DE Option I und II für die Verteilung der Feiertage
-51563360-633d-4584-b763-bf32a5fee851;HR;2020-04-09;2020-04-10;School;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;HR Opcija III i IV za raspodjelu praznika,EN Option III and IV for the distribution of holidays,DE Option III und IV für die Verteilung der Feiertage
-54b657cb-4dc0-492d-9abc-22eefc2edf6d;HR;2020-06-18;2020-09-06;School;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
-07f2ada8-96e8-419f-8719-3cd3ba5c8a9e;HR;2020-11-02;2020-11-03;School;HR Jesenski odmor,DE Herbstferien,EN Autumn holidays;
-7d6dad7e-5d04-46e5-a814-b050c9ef2da7;HR;2020-12-24;2021-01-08;School;HR Zimski odmor (prvi dio),DE Winterferien (Teil 1),EN Winter holidays (part 2);
-7e11859c-2d29-4175-8751-86e1c8b6905f;HR;2021-02-23;2021-02-26;School;HR Zimski odmor (drugi dio),DE Winterferien (Teil 2),EN Winter holidays (part 2);
-5c087e97-1788-4892-aebd-e732bf27cb08;HR;2021-04-02;2021-04-09;School;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;
-e7ac8f53-8638-441e-914d-afb555cdb24c;HR;2021-06-21;2021-09-05;School;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
-a7ac47f9-eb0a-4766-a8a4-1d29aba04f89;HR;2021-11-02;2021-11-03;School;HR Jesenski odmor,DE Herbstferien,EN Autumn holidays;
-c5b344a2-acf6-4e0c-a73d-826d61541f9c;HR;2021-12-24;2022-01-07;School;HR Zimski odmor (prvi dio),DE Winterferien (Teil 1),EN Winter holidays (part 2);
-b16f7a27-e530-4be2-a417-63fbec2940b9;HR;2022-02-21;2022-02-25;School;HR Zimski odmor (drugi dio),DE Winterferien (Teil 2),EN Winter holidays (part 2);
-d35b882c-97c6-4f40-97ec-935072bb36cf;HR;2022-04-14;2022-04-22;School;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;
-d3f448e9-0451-4c17-a931-1a86560034b5;HR;2022-06-23;2022-09-04;School;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
-fdf8eed0-08b4-48d6-a81a-b662d8e83da1;HR;2022-10-31;2022-11-01;School;HR Jesenski odmor,DE Herbstferien,EN Autumn holidays;
-0ebd234f-1da8-4f83-abbd-088792073423;HR;2022-12-27;2023-01-05;School;HR Zimski odmor (prvi dio),DE Winterferien (Teil 1),EN Winter holidays (part 2);
-093cbc08-02f3-45e3-ba2c-bcf143c418f5;HR;2023-02-20;2023-02-24;School;HR Zimski odmor (drugi dio),DE Winterferien (Teil 2),EN Winter holidays (part 2);
-d5d12065-03ec-4a20-a743-8721b1fa7d50;HR;2023-04-06;2023-04-14;School;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;
-1b3a55c3-b0d3-4903-9b5e-f31f0cfa12b1;HR;2023-06-23;2023-09-03;School;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
-4e24de34-b24f-4c50-a35c-5566bd74f3d0;HR;2023-10-30;2023-11-01;School;HR Jesenski odmor,DE Herbstferien,EN Autumn holidays;
-218f18da-0bcc-4a24-a413-a4f3efce4895;HR;2023-12-27;2024-01-05;School;HR Zimski odmor (prvi dio),DE Winterferien (Teil 1),EN Winter holidays (part 2);
-bb56c393-1536-4bb9-8d64-a39164015ca5;HR;2024-02-19;2024-02-23;School;HR Zimski odmor (drugi dio),DE Winterferien (Teil 2),EN Winter holidays (part 2);
-f25a586d-3c70-4c95-8d91-9ff04e31452d;HR;2024-03-28;2024-04-05;School;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;
-68af71cf-d1df-4250-b90e-0e618c9aaef2;HR;2024-06-24;2024-09-01;School;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
-c24118ce-64bc-4514-b67f-fd5051a6feba;HR;2024-10-31;2024-11-01;School;HR Jesenski odmor,DE Herbstferien,EN Autumn holidays;
-eda431ee-3212-4dbe-8473-aecc2bd66d04;HR;2024-12-23;2025-01-06;School;HR Zimski odmor (prvi dio),DE Winterferien (Teil 1),EN Winter holidays (part 2);
-b33ee7f1-bcf7-4a90-95e9-7bb6d2fe090c;HR;2025-02-24;2025-02-28;School;HR Zimski odmor (drugi dio),DE Winterferien (Teil 2),EN Winter holidays (part 2);
-88df1262-9bd5-41c0-804f-b91fea1caaf8;HR;2025-04-17;2025-04-25;School;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;
-74931481-9e8c-4f0e-b94b-9e64ebae9d3a;HR;2025-06-19;2025-08-31;School;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Comment
+8a7375cf-0340-49a9-88d0-2ec310fad116;HR;2019-12-23;2020-01-10;School;National;HR Zimski odmor,DE Winterferien,EN Winter holidays;HR Opcija I i III za raspodjelu praznika,EN Option I and III for the distribution of holidays,DE Option I und III für die Verteilung der Feiertage
+a38c2a6f-04b3-43cf-a70e-6b8baaab3c94;HR;2019-12-23;2020-01-03;School;National;HR Zimski odmor,DE Winterferien,EN Winter holidays;HR Opcija II za raspodjelu praznika,EN Option II for the distribution of holidays,DE Option II für die Verteilung der Feiertage
+556a8554-b857-4c83-b933-d276c40482df;HR;2019-12-23;2020-01-03;School;National;HR Zimski odmor (prvi dio),DE Winterferien (1. Teil),EN Winter holidays (first part);HR Opcija IV za raspodjelu praznika,EN Option IV for the distribution of holidays,DE Option IV für die Verteilung der Feiertage
+6b2ee43d-d99d-486e-8c5e-0288a6a3ea10;HR;2020-02-24;2020-02-28;School;National;HR Zimski odmor (drugi dio),DE Winterferien (2. Teil),EN Winter holidays (second part);HR Opcija IV za raspodjelu praznika,EN Option IV for the distribution of holidays,DE Option IV für die Verteilung der Feiertage
+5ff84527-54e2-4336-b81b-7823594b9b83;HR;2020-04-10;2020-04-17;School;National;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;HR Opcija I i II za raspodjelu praznika,EN Option I and II for the distribution of holidays,DE Option I und II für die Verteilung der Feiertage
+51563360-633d-4584-b763-bf32a5fee851;HR;2020-04-09;2020-04-10;School;National;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;HR Opcija III i IV za raspodjelu praznika,EN Option III and IV for the distribution of holidays,DE Option III und IV für die Verteilung der Feiertage
+54b657cb-4dc0-492d-9abc-22eefc2edf6d;HR;2020-06-18;2020-09-06;School;National;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
+07f2ada8-96e8-419f-8719-3cd3ba5c8a9e;HR;2020-11-02;2020-11-03;School;National;HR Jesenski odmor,DE Herbstferien,EN Autumn holidays;
+7d6dad7e-5d04-46e5-a814-b050c9ef2da7;HR;2020-12-24;2021-01-08;School;National;HR Zimski odmor (prvi dio),DE Winterferien (Teil 1),EN Winter holidays (part 2);
+7e11859c-2d29-4175-8751-86e1c8b6905f;HR;2021-02-23;2021-02-26;School;National;HR Zimski odmor (drugi dio),DE Winterferien (Teil 2),EN Winter holidays (part 2);
+5c087e97-1788-4892-aebd-e732bf27cb08;HR;2021-04-02;2021-04-09;School;National;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;
+e7ac8f53-8638-441e-914d-afb555cdb24c;HR;2021-06-21;2021-09-05;School;National;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
+a7ac47f9-eb0a-4766-a8a4-1d29aba04f89;HR;2021-11-02;2021-11-03;School;National;HR Jesenski odmor,DE Herbstferien,EN Autumn holidays;
+c5b344a2-acf6-4e0c-a73d-826d61541f9c;HR;2021-12-24;2022-01-07;School;National;HR Zimski odmor (prvi dio),DE Winterferien (Teil 1),EN Winter holidays (part 2);
+b16f7a27-e530-4be2-a417-63fbec2940b9;HR;2022-02-21;2022-02-25;School;National;HR Zimski odmor (drugi dio),DE Winterferien (Teil 2),EN Winter holidays (part 2);
+d35b882c-97c6-4f40-97ec-935072bb36cf;HR;2022-04-14;2022-04-22;School;National;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;
+d3f448e9-0451-4c17-a931-1a86560034b5;HR;2022-06-23;2022-09-04;School;National;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
+fdf8eed0-08b4-48d6-a81a-b662d8e83da1;HR;2022-10-31;2022-11-01;School;National;HR Jesenski odmor,DE Herbstferien,EN Autumn holidays;
+0ebd234f-1da8-4f83-abbd-088792073423;HR;2022-12-27;2023-01-05;School;National;HR Zimski odmor (prvi dio),DE Winterferien (Teil 1),EN Winter holidays (part 2);
+093cbc08-02f3-45e3-ba2c-bcf143c418f5;HR;2023-02-20;2023-02-24;School;National;HR Zimski odmor (drugi dio),DE Winterferien (Teil 2),EN Winter holidays (part 2);
+d5d12065-03ec-4a20-a743-8721b1fa7d50;HR;2023-04-06;2023-04-14;School;National;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;
+1b3a55c3-b0d3-4903-9b5e-f31f0cfa12b1;HR;2023-06-23;2023-09-03;School;National;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
+4e24de34-b24f-4c50-a35c-5566bd74f3d0;HR;2023-10-30;2023-11-01;School;National;HR Jesenski odmor,DE Herbstferien,EN Autumn holidays;
+218f18da-0bcc-4a24-a413-a4f3efce4895;HR;2023-12-27;2024-01-05;School;National;HR Zimski odmor (prvi dio),DE Winterferien (Teil 1),EN Winter holidays (part 2);
+bb56c393-1536-4bb9-8d64-a39164015ca5;HR;2024-02-19;2024-02-23;School;National;HR Zimski odmor (drugi dio),DE Winterferien (Teil 2),EN Winter holidays (part 2);
+f25a586d-3c70-4c95-8d91-9ff04e31452d;HR;2024-03-28;2024-04-05;School;National;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;
+68af71cf-d1df-4250-b90e-0e618c9aaef2;HR;2024-06-24;2024-09-01;School;National;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;
+c24118ce-64bc-4514-b67f-fd5051a6feba;HR;2024-10-31;2024-11-01;School;National;HR Jesenski odmor,DE Herbstferien,EN Autumn holidays;
+eda431ee-3212-4dbe-8473-aecc2bd66d04;HR;2024-12-23;2025-01-06;School;National;HR Zimski odmor (prvi dio),DE Winterferien (Teil 1),EN Winter holidays (part 2);
+b33ee7f1-bcf7-4a90-95e9-7bb6d2fe090c;HR;2025-02-24;2025-02-28;School;National;HR Zimski odmor (drugi dio),DE Winterferien (Teil 2),EN Winter holidays (part 2);
+88df1262-9bd5-41c0-804f-b91fea1caaf8;HR;2025-04-17;2025-04-25;School;National;HR Proljetni odmor,DE Frühlingsferien,EN Spring holidays;
+74931481-9e8c-4f0e-b94b-9e64ebae9d3a;HR;2025-06-19;2025-08-31;School;National;HR Ljetni odmor,DE Sommerferien,EN Summer holidays;

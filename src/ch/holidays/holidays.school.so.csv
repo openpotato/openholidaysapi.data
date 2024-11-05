@@ -1,31 +1,60 @@
-﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
-8f580c2d-2cb6-4708-82d8-3e1b4dfa633b;CH;2020-02-01;2020-02-16;School;DE Sport,FR Sport,IT Sport,EN Sport;SO;DE Mittel- und Berufsschulen
-9823a9d8-a9f0-4ef5-83a7-f52b322b563e;CH;2020-04-04;2020-04-19;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;SO;DE Mittel- und Berufsschulen
-d2475eba-08d8-41cd-adea-b0044d47925a;CH;2020-07-04;2020-08-09;School;DE Sommer,FR Été,IT Estate,EN Summer;SO;DE Mittel- und Berufsschulen
-d0a1b280-1b41-4617-b119-566cfded2c7b;CH;2020-09-26;2020-10-18;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;SO;DE Mittel- und Berufsschulen
-8955f0a9-97d0-4fa8-8276-fcac61401521;CH;2020-12-19;2021-01-03;School;DE Winter,FR Noël,IT Inverno,EN Christmas;SO;DE Mittel- und Berufsschulen
-6e631c4c-3675-49dc-a680-573baf39c99d;CH;2021-02-06;2021-02-21;School;DE Sport,FR Sport,IT Sport,EN Sport;SO;DE Mittel- und Berufsschulen
-69c329a9-7764-40cf-baa3-7d93ab33748b;CH;2021-04-10;2021-04-25;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;SO;DE Mittel- und Berufsschulen
-b890853d-be6a-40cd-a44b-db49573ecb9e;CH;2021-07-10;2021-08-15;School;DE Sommer,FR Été,IT Estate,EN Summer;SO;DE Mittel- und Berufsschulen
-165ed5cb-9a5e-4bb9-91ac-d4247a6d5dff;CH;2021-10-02;2021-10-24;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;SO;DE Mittel- und Berufsschulen
-b4ca2744-2f18-4458-ba42-a1bcd1929dc9;CH;2021-12-25;2022-01-09;School;DE Winter,FR Noël,IT Inverno,EN Christmas;SO;DE Mittel- und Berufsschulen
-66a622ca-6427-447a-b4d6-f15648d4ca9d;CH;2022-02-05;2022-02-20;School;DE Sport,FR Sport,IT Sport,EN Sport;SO;DE Mittel- und Berufsschulen
-a1bfd38b-b6df-433f-9891-0cec51f31b94;CH;2022-04-09;2022-04-24;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;SO;DE Mittel- und Berufsschulen
-9184224e-96de-45f3-98c7-e968f3dfd465;CH;2022-07-09;2022-08-15;School;DE Sommer,FR Été,IT Estate,EN Summer;SO;DE Mittel- und Berufsschulen
-5b956b42-ecbd-4f7f-b413-e38173f59fdc;CH;2022-10-01;2022-10-23;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;SO;DE Mittel- und Berufsschulen
-79c0dec0-7c2d-405a-b1c5-362367051ac1;CH;2022-12-24;2023-01-08;School;DE Winter,FR Noël,IT Inverno,EN Christmas;SO;DE Mittel- und Berufsschulen
-253be433-e1d1-442a-a808-4e88c2cc9839;CH;2023-02-04;2023-02-19;School;DE Sport,FR Sport,IT Sport,EN Sport;SO;DE Mittel- und Berufsschulen
-815ea111-0e4e-4245-903d-e0b5d50f8c42;CH;2023-04-07;2023-04-23;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;SO;DE Mittel- und Berufsschulen
-ef2c5683-eed9-422d-b1fb-16cb9267805f;CH;2023-07-08;2023-08-15;School;DE Sommer,FR Été,IT Estate,EN Summer;SO;DE Mittel- und Berufsschulen
-b5be41c6-29ce-4674-9ab6-106203ba550e;CH;2023-09-30;2023-10-22;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;SO;DE Mittel- und Berufsschulen
-4dbee1a7-dd96-4128-a611-81f893d19920;CH;2023-12-23;2024-01-07;School;DE Winter,FR Noël,IT Inverno,EN Christmas;SO;DE Mittel- und Berufsschulen
-7e528ad7-e5b0-4d9c-827e-10d006ee44a4;CH;2024-02-03;2024-02-18;School;DE Sport,FR Sport,IT Sport,EN Sport;SO;DE Mittel- und Berufsschulen
-752e5903-d72f-49fd-abea-aef879602ca4;CH;2024-04-06;2024-04-21;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;SO;DE Mittel- und Berufsschulen
-01d2d30f-45ab-4746-a8a1-c53d68d1cb5a;CH;2024-07-06;2024-08-11;School;DE Sommer,FR Été,IT Estate,EN Summer;SO;DE Mittel- und Berufsschulen
-1f2d0f1c-2212-46f6-8708-bdc7c8079df3;CH;2024-09-28;2024-10-20;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;SO;DE Mittel- und Berufsschulen
-bcf04faa-bcf6-489e-b49d-442aac6a7d1e;CH;2024-12-21;2025-01-05;School;DE Winter,FR Noël,IT Inverno,EN Christmas;SO;DE Mittel- und Berufsschulen
-5612839e-3565-4d8e-8019-4efb0710b7f2;CH;2025-03-01;2025-03-16;School;DE Sport,FR Sport,IT Sport,EN Sport;SO;DE Mittel- und Berufsschulen
-31e2325e-7027-438f-b141-ce05d07f71e1;CH;2025-04-12;2025-04-27;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;SO;DE Mittel- und Berufsschulen
-524f7469-845f-4001-a315-6f7e712e5230;CH;2025-07-05;2025-08-10;School;DE Sommer,FR Été,IT Estate,EN Summer;SO;DE Mittel- und Berufsschulen
-02e34a6c-e464-422d-b88b-2833a4c8606b;CH;2025-09-27;2025-10-12;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;SO;DE Mittel- und Berufsschulen
-fbe999af-1cce-4775-b94c-83f4414ea7b0;CH;2025-12-20;2026-01-04;School;DE Winter,FR Noël,IT Inverno,EN Christmas;SO;DE Mittel- und Berufsschulen
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
+15468f31-0dbb-4049-a226-bae23c3cc822;CH;2019-12-23;2020-01-03;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+8f580c2d-2cb6-4708-82d8-3e1b4dfa633b;CH;2020-02-03;2020-02-14;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+9823a9d8-a9f0-4ef5-83a7-f52b322b563e;CH;2020-04-06;2020-04-17;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+d2475eba-08d8-41cd-adea-b0044d47925a;CH;2020-07-06;2020-08-07;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+d0a1b280-1b41-4617-b119-566cfded2c7b;CH;2020-09-28;2020-10-16;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+8955f0a9-97d0-4fa8-8276-fcac61401521;CH;2020-12-21;2021-01-01;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+6e631c4c-3675-49dc-a680-573baf39c99d;CH;2021-02-08;2021-02-19;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+69c329a9-7764-40cf-baa3-7d93ab33748b;CH;2021-04-12;2021-04-23;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+b890853d-be6a-40cd-a44b-db49573ecb9e;CH;2021-07-10;2021-08-15;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+165ed5cb-9a5e-4bb9-91ac-d4247a6d5dff;CH;2021-10-04;2021-10-22;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+b4ca2744-2f18-4458-ba42-a1bcd1929dc9;CH;2021-12-27;2022-01-07;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+66a622ca-6427-447a-b4d6-f15648d4ca9d;CH;2022-02-07;2022-02-18;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+a1bfd38b-b6df-433f-9891-0cec51f31b94;CH;2022-04-11;2022-04-22;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+9184224e-96de-45f3-98c7-e968f3dfd465;CH;2022-07-11;2022-08-12;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+5b956b42-ecbd-4f7f-b413-e38173f59fdc;CH;2022-10-03;2022-10-21;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+79c0dec0-7c2d-405a-b1c5-362367051ac1;CH;2022-12-26;2023-01-06;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+253be433-e1d1-442a-a808-4e88c2cc9839;CH;2023-02-06;2023-02-17;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+815ea111-0e4e-4245-903d-e0b5d50f8c42;CH;2023-04-10;2023-04-21;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+ef2c5683-eed9-422d-b1fb-16cb9267805f;CH;2023-07-10;2023-08-15;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+b5be41c6-29ce-4674-9ab6-106203ba550e;CH;2023-10-02;2023-10-20;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+4dbee1a7-dd96-4128-a611-81f893d19920;CH;2023-12-25;2024-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+7e528ad7-e5b0-4d9c-827e-10d006ee44a4;CH;2024-02-05;2024-02-16;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+752e5903-d72f-49fd-abea-aef879602ca4;CH;2024-04-08;2024-04-19;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+01d2d30f-45ab-4746-a8a1-c53d68d1cb5a;CH;2024-07-08;2024-08-09;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+1f2d0f1c-2212-46f6-8708-bdc7c8079df3;CH;2024-09-30;2024-10-18;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+bcf04faa-bcf6-489e-b49d-442aac6a7d1e;CH;2024-12-23;2025-01-03;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+8368c902-869f-4a56-ac8f-cd1a38c5527a;CH;2025-02-03;2025-02-14;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+e541f9df-9b6e-4206-9d8f-5d89019f4f83;CH;2025-04-07;2025-04-21;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+25e1aec4-566f-4057-a0d0-81e545e7f024;CH;2025-07-07;2025-08-08;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+6125d8e1-7c10-4066-b829-04af112bd792;CH;2025-09-29;2025-10-17;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+e632928c-671f-4de3-bd44-8a73909412e4;CH;2025-12-22;2026-01-02;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+15abafd2-a296-483c-8194-8ec93a96ed7a;CH;2026-02-02;2026-02-13;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+602b7062-b5c0-46b4-9a0f-004b698e06c0;CH;2026-04-06;2026-04-17;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+624eae3c-259d-4b00-9c95-a6866e67a426;CH;2026-07-06;2026-08-07;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+b4069583-c222-4745-92ca-fdbb70a7a120;CH;2026-09-28;2026-10-16;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+18980831-7f7f-4750-900f-7d0948d47cc9;CH;2026-12-21;2027-01-01;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+773664ae-f6fe-4a6d-824e-b2c9d8a85469;CH;2027-02-08;2027-02-19;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+053cab99-e7b5-42de-a094-c02c1bc533ec;CH;2027-04-02;2027-04-23;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+f03a2c72-117b-450a-8854-1ff793eecb2b;CH;2027-07-12;2027-08-13;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+46d78c62-6f66-44ce-bbf0-f9368c09b7c7;CH;2027-10-04;2027-10-22;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+5eb43c99-6d01-4b4c-adf1-0f82235d9191;CH;2027-12-27;2028-01-07;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+b3f9b6ce-df7e-4706-b04b-2b01873c608d;CH;2028-02-07;2028-02-18;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+6462123b-fc09-4a19-b11f-68014010a04c;CH;2028-04-10;2028-04-21;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+3fcf83b4-4154-4b1a-b1ec-04d0ee95ffd3;CH;2028-07-10;2028-08-11;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+74b0c4a5-d7f0-4e72-b282-c7833c9d5d00;CH;2028-10-02;2028-10-20;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+5f0c423b-df30-4514-922b-ad43e8900650;CH;2028-12-25;2029-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+e7f67fe9-1ead-451e-a1d7-86361eb002fb;CH;2029-02-05;2029-02-16;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+cb4dab6c-4090-49fe-a9b5-617bbc881b54;CH;2029-04-09;2029-04-20;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+4bc8dde4-9e12-4bb1-b727-d208794d444b;CH;2029-07-09;2029-08-10;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+a3b4158c-e039-4d1c-9120-d5082e4cf5bf;CH;2029-10-01;2029-10-19;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+1fa6fb58-4ff7-4d16-b64f-23d378ede037;CH;2029-12-24;2030-01-04;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+80f9623b-3bf0-4937-bc2f-f2a52318a8f7;CH;2030-02-04;2030-02-15;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+8680b8cc-60a8-4ce8-a427-a9c331bdefd9;CH;2030-04-08;2030-04-22;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+8f90a2a6-9fe8-4844-97f4-e95be08b57cc;CH;2030-07-08;2030-08-09;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+de9a32e3-662b-4276-ae2e-cc8dbabf9bef;CH;2030-09-30;2030-10-18;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+b3474400-6aaa-48c0-b609-f8a022af96a8;CH;2030-12-23;2031-01-03;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+83500c20-3790-4085-bcd9-594901a775a7;CH;2031-02-03;2031-02-14;School;Regional;DE Winterferien,FR Semaine de relâche hivernale,IT Pausa invernale,EN Winter break;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+c56cff95-3386-4f18-9a8b-e4f4481dde1d;CH;2031-04-07;2031-04-18;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools
+7b224dad-ae0a-49c9-a0c0-47032f9d12d4;CH;2031-07-07;2031-08-08;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;SO;DE Mittel- und Berufsschulen,EN secondary and vocational schools

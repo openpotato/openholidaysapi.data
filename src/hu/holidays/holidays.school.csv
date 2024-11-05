@@ -1,24 +1,24 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-2ff881f1-e764-4d0a-babd-4cc6b8107d2a;HU;2019-12-23;2020-01-05;School;HU Téli szünet,DE Winterferien,EN Winter holidays
-4e0e8be3-b16c-48c1-bd12-ff0893a3c72e;HU;2020-04-09;2020-04-14;School;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
-ff34faa6-1cf7-4291-a831-6118013abec0;HU;2020-06-16;2020-08-31;School;HU Nyári szünet,DE Sommerferien,EN Summer holidays
-a176280f-2b7c-4111-a022-407b659c1ed5;HU;2020-10-22;2020-11-01;School;HU Őszi szünet,DE Herbstferien,EN Autumn holidays
-6b8661ba-2c22-4bf3-b4da-b430011c5874;HU;2020-12-18;2021-01-03;School;HU Téli szünet,DE Winterferien,EN Winter holidays
-b8adc8b6-47e9-4ab5-8621-de8f9979d104;HU;2021-03-31;2021-04-06;School;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
-38178113-ee08-4033-8984-a5219b9b0b94;HU;2021-06-16;2021-08-31;School;HU Nyári szünet,DE Sommerferien,EN Summer holidays
-d8258242-3939-4325-a5b9-276a8fc5f10b;HU;2021-10-23;2021-11-01;School;HU Őszi szünet,DE Herbstferien,EN Autumn holidays
-fa6c158c-76fb-4a68-a915-9d40421b1372;HU;2021-12-22;2022-01-02;School;HU Téli szünet,DE Winterferien,EN Winter holidays
-3fd979ce-bf44-4315-99ed-a365bf21bbb3;HU;2022-04-14;2022-04-19;School;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
-5067f2f4-e5f1-4e96-9024-d32524f48ba6;HU;2022-06-16;2022-08-31;School;HU Nyári szünet,DE Sommerferien,EN Summer holidays
-e6f8d939-1928-47cc-ad15-39bdb69ec31a;HU;2022-10-29;2022-11-06;School;HU Őszi szünet,HU Őszi szünet,DE Herbstferien,EN Autumn holidays
-36e18fd7-e083-4558-8aa5-829b22d2d71e;HU;2022-12-22;2023-01-08;School;HU Téli szünet,DE Winterferien,EN Winter holidays
-d3463306-6579-497f-80b4-fb94f82b7d9f;HU;2023-04-06;2023-04-11;School;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
-c174b9d2-a517-4802-a77d-47bfa5c1e2d7;HU;2023-06-16;2023-08-31;School;HU Nyári szünet,DE Sommerferien,EN Summer holidays
-bb228a39-6f8e-4e05-ad75-d4dee584f2fb;HU;2023-10-28;2023-11-05;School;HU Őszi szünet,HU Őszi szünet,DE Herbstferien,EN Autumn holidays
-a5fbd6d2-fc07-40c1-8cf0-46c53d760e72;HU;2023-12-21;2024-01-07;School;HU Téli szünet,DE Winterferien,EN Winter holidays
-282a79a9-0f10-4fbd-8a4c-6fcf7a4f8438;HU;2024-03-29;2024-04-07;School;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
-46c335dd-adbd-47f6-b072-552315f1e60c;HU;2024-06-16;2024-08-31;School;HU Nyári szünet,DE Sommerferien,EN Summer holidays
-50717e9c-550d-4cf6-9b57-0453b7ba7f4c;HU;2024-10-26;2024-11-03;School;HU Őszi szünet,HU Őszi szünet,DE Herbstferien,EN Autumn holidays
-daafd022-246e-4f72-a707-a6e009c18a2f;HU;2024-12-21;2025-01-05;School;HU Téli szünet,DE Winterferien,EN Winter holidays
-61e6e409-d0b4-4904-9694-862e28b22f17;HU;2025-04-17;2025-04-27;School;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
-fa783bdf-d5be-4a0a-bdab-98c3c4170225;HU;2025-06-21;2025-08-31;School;HU Nyári szünet,DE Sommerferien,EN Summer holidays
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+2ff881f1-e764-4d0a-babd-4cc6b8107d2a;HU;2019-12-23;2020-01-05;School;National;HU Téli szünet,DE Winterferien,EN Winter holidays
+4e0e8be3-b16c-48c1-bd12-ff0893a3c72e;HU;2020-04-09;2020-04-14;School;National;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
+ff34faa6-1cf7-4291-a831-6118013abec0;HU;2020-06-16;2020-08-31;School;National;HU Nyári szünet,DE Sommerferien,EN Summer holidays
+a176280f-2b7c-4111-a022-407b659c1ed5;HU;2020-10-22;2020-11-01;School;National;HU Őszi szünet,DE Herbstferien,EN Autumn holidays
+6b8661ba-2c22-4bf3-b4da-b430011c5874;HU;2020-12-18;2021-01-03;School;National;HU Téli szünet,DE Winterferien,EN Winter holidays
+b8adc8b6-47e9-4ab5-8621-de8f9979d104;HU;2021-03-31;2021-04-06;School;National;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
+38178113-ee08-4033-8984-a5219b9b0b94;HU;2021-06-16;2021-08-31;School;National;HU Nyári szünet,DE Sommerferien,EN Summer holidays
+d8258242-3939-4325-a5b9-276a8fc5f10b;HU;2021-10-23;2021-11-01;School;National;HU Őszi szünet,DE Herbstferien,EN Autumn holidays
+fa6c158c-76fb-4a68-a915-9d40421b1372;HU;2021-12-22;2022-01-02;School;National;HU Téli szünet,DE Winterferien,EN Winter holidays
+3fd979ce-bf44-4315-99ed-a365bf21bbb3;HU;2022-04-14;2022-04-19;School;National;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
+5067f2f4-e5f1-4e96-9024-d32524f48ba6;HU;2022-06-16;2022-08-31;School;National;HU Nyári szünet,DE Sommerferien,EN Summer holidays
+e6f8d939-1928-47cc-ad15-39bdb69ec31a;HU;2022-10-29;2022-11-06;School;National;HU Őszi szünet,HU Őszi szünet,DE Herbstferien,EN Autumn holidays
+36e18fd7-e083-4558-8aa5-829b22d2d71e;HU;2022-12-22;2023-01-08;School;National;HU Téli szünet,DE Winterferien,EN Winter holidays
+d3463306-6579-497f-80b4-fb94f82b7d9f;HU;2023-04-06;2023-04-11;School;National;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
+c174b9d2-a517-4802-a77d-47bfa5c1e2d7;HU;2023-06-16;2023-08-31;School;National;HU Nyári szünet,DE Sommerferien,EN Summer holidays
+bb228a39-6f8e-4e05-ad75-d4dee584f2fb;HU;2023-10-28;2023-11-05;School;National;HU Őszi szünet,HU Őszi szünet,DE Herbstferien,EN Autumn holidays
+a5fbd6d2-fc07-40c1-8cf0-46c53d760e72;HU;2023-12-21;2024-01-07;School;National;HU Téli szünet,DE Winterferien,EN Winter holidays
+282a79a9-0f10-4fbd-8a4c-6fcf7a4f8438;HU;2024-03-29;2024-04-07;School;National;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
+46c335dd-adbd-47f6-b072-552315f1e60c;HU;2024-06-16;2024-08-31;School;National;HU Nyári szünet,DE Sommerferien,EN Summer holidays
+50717e9c-550d-4cf6-9b57-0453b7ba7f4c;HU;2024-10-26;2024-11-03;School;National;HU Őszi szünet,HU Őszi szünet,DE Herbstferien,EN Autumn holidays
+daafd022-246e-4f72-a707-a6e009c18a2f;HU;2024-12-21;2025-01-05;School;National;HU Téli szünet,DE Winterferien,EN Winter holidays
+61e6e409-d0b4-4904-9694-862e28b22f17;HU;2025-04-17;2025-04-27;School;National;HU Tavaszi szünet,DE Frühlingsferien,EN Spring holidays
+fa783bdf-d5be-4a0a-bdab-98c3c4170225;HU;2025-06-21;2025-08-31;School;National;HU Nyári szünet,DE Sommerferien,EN Summer holidays

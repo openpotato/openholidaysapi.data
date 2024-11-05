@@ -1,42 +1,42 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-02127af6-9f7f-450a-a015-6ff3312352ff;MT;2019-12-23;2020-01-06;School;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
-82801e76-b979-4e8f-ad27-b94ee82374ab;MT;2020-02-24;2020-02-25;School;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
-27327392-c090-4aa7-b396-45687553db0a;MT;2020-04-08;2020-04-15;School;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
-21aaa3e6-b227-4c15-b8b6-d7b9816bfd0c;MT;2020-04-16;2020-04-17;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-31501b56-551d-465e-bdc5-60d2b7efed6e;MT;2020-06-29;2020-09-29;School;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
-6768825f-5ed6-4191-bf61-247fd1e0e1ca;MT;2020-11-02;2020-11-04;School;MT Btajjel ta' nofs it-terminu,EN Mid-Term holidays,DE Semesterferien
-55f0d8c5-e0e6-4555-8b24-b9482d0b53a2;MT;2020-12-23;2021-01-06;School;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
-57e2979d-30b9-4aeb-9d10-6b110b752e6b;MT;2021-02-15;2021-02-17;School;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
-5ec37813-8dd0-4562-a492-39c6e383be55;MT;2021-03-31;2021-04-07;School;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
-861ab323-1093-401e-b846-3fae03aa0a5a;MT;2021-04-08;2021-04-09;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-9e1f811c-e589-48eb-8b95-b65408c3ad41;MT;2021-06-29;2021-09-28;School;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
-1cd27584-10ce-4b6c-9374-1a74d97385aa;MT;2021-11-01;2021-11-03;School;MT Btajjel ta' nofs it-terminu,EN Mid-Term holidays,DE Semesterferien
-8e14001c-3f42-4245-bc88-1629e79b0e82;MT;2021-12-23;2022-01-06;School;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
-07d6425f-0d0d-406b-86dd-6ed2a2552023;MT;2022-02-28;2022-03-02;School;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
-099166c0-ad57-42dd-aeca-fa0c88d04c2a;MT;2022-04-13;2022-04-20;School;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
-df9d43d7-78a4-4d78-9f97-e2264a2d3855;MT;2022-04-21;2022-04-22;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-6c720b5e-b3fc-4f6b-8a0c-292be78a7099;MT;2022-05-02;;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-c7510cd4-b8ef-415b-b909-28f0f537046d;MT;2022-06-30;2022-09-27;School;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
-8d89dad6-09df-4b17-9687-b1655d540b40;MT;2022-10-31;2022-11-02;School;MT Btajjel ta' nofs it-terminu,EN Mid-Term holidays,DE Semesterferien
-430edd02-2e55-4c93-9a5a-fd28d675818f;MT;2022-12-23;2023-01-06;School;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
-ba5a1f42-2a87-4ffc-bb56-65601b18c70a;MT;2023-02-20;2023-02-21;School;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
-d7456af4-4f7c-4763-866e-7a350f1f8e09;MT;2023-04-05;2023-04-12;School;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
-5648edae-5253-4f7c-9a5e-140d72e74b98;MT;2023-04-13;2023-04-14;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-945bbd13-05a9-440a-aada-b920367e2a82;MT;2023-06-28;2023-09-26;School;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
-75fcb2e6-3fa6-4714-95c1-155e26415279;MT;2023-11-01;2023-11-03;School;MT Btajjel ta' nofs it-terminu,EN Mid-Term holidays,DE Semesterferien
-3646f52b-3be1-43ba-83bb-f3071f9b60f6;MT;2023-12-23;2024-01-06;School;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
-4bdd860c-2e8f-4842-8305-68ec270d1391;MT;2024-02-12;2024-02-14;School;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
-d6fc6962-1c1f-4594-af95-63b227800997;MT;2024-03-27;2024-04-03;School;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
-cdeabbf0-1433-4d0a-ba94-eed214710e0f;MT;2024-04-04;2024-04-05;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-5433ab5e-b2f3-4b7c-ba79-9b46fd4d6349;MT;2024-05-31;;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-e0d49f41-c75c-47a9-a6e9-ff7dede4984d;MT;2024-06-28;2024-09-24;School;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
-961bbe60-2575-42b2-a93b-3d586d49f576;MT;2024-11-01;2024-11-05;School;MT Btajjel ta' nofs it-terminu,EN Mid-Term holidays,DE Semesterferien
-62cd4e5e-2273-470e-be12-b34220e5c1c4;MT;2024-11-06;;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-702756e6-38c8-4274-a6ac-216c02574d43;MT;2024-12-12;;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-9ef87e2e-c15e-4689-8daa-3005beca505f;MT;2024-12-23;2025-01-06;School;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
-1f2a2adc-1114-4480-95b6-205a8d46eaea;MT;2025-03-01;2025-03-04;School;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
-5561989f-ce00-4715-b2f9-42c295ef01ec;MT;2025-03-05;;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-fc020370-ef1a-475e-8878-8fbc06b295a6;MT;2025-04-16;2025-04-23;School;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
-b51910ff-e3e4-47d7-95d9-e4aaad164b4c;MT;2025-04-24;2025-04-25;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-f5843aa0-4c64-434a-a3ba-d3aacbb4b850;MT;2025-05-30;;School;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
-50fe06d0-6f43-4ccf-a2eb-0cc0ec5a384d;MT;2025-06-27;2025-09-23;School;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+02127af6-9f7f-450a-a015-6ff3312352ff;MT;2019-12-23;2020-01-06;School;National;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
+82801e76-b979-4e8f-ad27-b94ee82374ab;MT;2020-02-24;2020-02-25;School;National;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
+27327392-c090-4aa7-b396-45687553db0a;MT;2020-04-08;2020-04-15;School;National;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
+21aaa3e6-b227-4c15-b8b6-d7b9816bfd0c;MT;2020-04-16;2020-04-17;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+31501b56-551d-465e-bdc5-60d2b7efed6e;MT;2020-06-29;2020-09-29;School;National;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
+6768825f-5ed6-4191-bf61-247fd1e0e1ca;MT;2020-11-02;2020-11-04;School;National;MT Btajjel ta' nofs it-terminu,EN Mid-Term holidays,DE Semesterferien
+55f0d8c5-e0e6-4555-8b24-b9482d0b53a2;MT;2020-12-23;2021-01-06;School;National;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
+57e2979d-30b9-4aeb-9d10-6b110b752e6b;MT;2021-02-15;2021-02-17;School;National;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
+5ec37813-8dd0-4562-a492-39c6e383be55;MT;2021-03-31;2021-04-07;School;National;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
+861ab323-1093-401e-b846-3fae03aa0a5a;MT;2021-04-08;2021-04-09;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+9e1f811c-e589-48eb-8b95-b65408c3ad41;MT;2021-06-29;2021-09-28;School;National;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
+1cd27584-10ce-4b6c-9374-1a74d97385aa;MT;2021-11-01;2021-11-03;School;National;MT Btajjel ta' nofs it-terminu,EN Mid-Term holidays,DE Semesterferien
+8e14001c-3f42-4245-bc88-1629e79b0e82;MT;2021-12-23;2022-01-06;School;National;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
+07d6425f-0d0d-406b-86dd-6ed2a2552023;MT;2022-02-28;2022-03-02;School;National;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
+099166c0-ad57-42dd-aeca-fa0c88d04c2a;MT;2022-04-13;2022-04-20;School;National;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
+df9d43d7-78a4-4d78-9f97-e2264a2d3855;MT;2022-04-21;2022-04-22;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+6c720b5e-b3fc-4f6b-8a0c-292be78a7099;MT;2022-05-02;;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+c7510cd4-b8ef-415b-b909-28f0f537046d;MT;2022-06-30;2022-09-27;School;National;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
+8d89dad6-09df-4b17-9687-b1655d540b40;MT;2022-10-31;2022-11-02;School;National;MT Btajjel ta' nofs it-terminu,EN Mid-Term holidays,DE Semesterferien
+430edd02-2e55-4c93-9a5a-fd28d675818f;MT;2022-12-23;2023-01-06;School;National;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
+ba5a1f42-2a87-4ffc-bb56-65601b18c70a;MT;2023-02-20;2023-02-21;School;National;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
+d7456af4-4f7c-4763-866e-7a350f1f8e09;MT;2023-04-05;2023-04-12;School;National;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
+5648edae-5253-4f7c-9a5e-140d72e74b98;MT;2023-04-13;2023-04-14;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+945bbd13-05a9-440a-aada-b920367e2a82;MT;2023-06-28;2023-09-26;School;National;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
+75fcb2e6-3fa6-4714-95c1-155e26415279;MT;2023-11-01;2023-11-03;School;National;MT Btajjel ta' nofs it-terminu,EN Mid-Term holidays,DE Semesterferien
+3646f52b-3be1-43ba-83bb-f3071f9b60f6;MT;2023-12-23;2024-01-06;School;National;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
+4bdd860c-2e8f-4842-8305-68ec270d1391;MT;2024-02-12;2024-02-14;School;National;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
+d6fc6962-1c1f-4594-af95-63b227800997;MT;2024-03-27;2024-04-03;School;National;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
+cdeabbf0-1433-4d0a-ba94-eed214710e0f;MT;2024-04-04;2024-04-05;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+5433ab5e-b2f3-4b7c-ba79-9b46fd4d6349;MT;2024-05-31;;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+e0d49f41-c75c-47a9-a6e9-ff7dede4984d;MT;2024-06-28;2024-09-24;School;National;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien
+961bbe60-2575-42b2-a93b-3d586d49f576;MT;2024-11-01;2024-11-05;School;National;MT Btajjel ta' nofs it-terminu,EN Mid-Term holidays,DE Semesterferien
+62cd4e5e-2273-470e-be12-b34220e5c1c4;MT;2024-11-06;;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+702756e6-38c8-4274-a6ac-216c02574d43;MT;2024-12-12;;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+9ef87e2e-c15e-4689-8daa-3005beca505f;MT;2024-12-23;2025-01-06;School;National;MT Vaganzi tal-Milied,EN Christmas holidays,DE Weihnachtsferien
+1f2a2adc-1114-4480-95b6-205a8d46eaea;MT;2025-03-01;2025-03-04;School;National;MT Festi tal-Karnival,EN Carnival holidays,DE Karnevalsferien
+5561989f-ce00-4715-b2f9-42c295ef01ec;MT;2025-03-05;;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+fc020370-ef1a-475e-8878-8fbc06b295a6;MT;2025-04-16;2025-04-23;School;National;MT Vaganzi tal-Għid,EN Easter holidays,DE Osterferien
+b51910ff-e3e4-47d7-95d9-e4aaad164b4c;MT;2025-04-24;2025-04-25;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+f5843aa0-4c64-434a-a3ba-d3aacbb4b850;MT;2025-05-30;;School;National;MT Kumpens għall-vaganzi fi tmiem il-ġimgħa,EN Compensation for holidays at weekends,DE Entschädigung für Feiertage an Wochenenden
+50fe06d0-6f43-4ccf-a2eb-0cc0ec5a384d;MT;2025-06-27;2025-09-23;School;National;MT Vaganzi tas-sajf,EN Summer holidays,DE Sommerferien

@@ -1,144 +1,144 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-4db4b984-9de1-4ece-92c0-5d1941da3709;AT;2020-01-01;;Public;DE Neujahr,EN New Year's Day
-27792ba0-ce59-43d9-a2ac-937fe7a1739a;AT;2020-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-76fda190-a48a-4380-87c8-b11c363c2832;AT;2020-04-13;;Public;DE Ostermontag,EN Easter Monday
-8b9d71ac-0b94-4cde-95eb-4facacb8b39c;AT;2020-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-f08cb0b9-e874-46c7-adb5-b91055b51ba5;AT;2020-05-21;;Public;DE Christi Himmelfahrt,EN Ascension Day
-3c638954-82ed-475b-be09-51b1da5e9329;AT;2020-06-01;;Public;DE Pfingstmontag,EN Pentecost Monday
-7cb84d17-1028-41c9-bca0-7706677383b4;AT;2020-06-11;;Public;DE Fronleichnam,EN Corpus Christi
-360ab63b-b076-4885-9a6a-f0df71cd2462;AT;2020-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-cd16b6f6-be1e-425d-8def-5a03542b94dd;AT;2020-10-26;;Public;DE Nationalfeiertag,EN National Day
-ef2e38e7-fddd-4d4a-a085-5979da6ef9f9;AT;2020-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-0da4df5b-3e58-4d6e-a562-13a60ccd3050;AT;2020-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-d3f57a19-215f-46a5-b4cf-e62a0e5987fb;AT;2020-12-25;;Public;DE Christtag,EN Christmas Day
-80cf49a5-765c-4610-a242-f13ce086389e;AT;2020-12-26;;Public;DE Stefanitag,EN St Stephen's Day
-6ca451d3-5d88-435e-b674-37fd72a2f17e;AT;2021-01-01;;Public;DE Neujahr,EN New Year's Day
-9badbb6f-bb3d-47a0-a9ba-33a9152cac05;AT;2021-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-da4bf2b0-8655-4e83-a042-43f20e5bcb15;AT;2021-04-05;;Public;DE Ostermontag,EN Easter Monday
-c59321eb-b3f0-4c8d-8741-89a469b7a0a7;AT;2021-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-ab8f614b-288f-4692-ae6d-3d6d921e3fbb;AT;2021-05-13;;Public;DE Christi Himmelfahrt,EN Ascension Day
-6ddffc41-02b3-498d-ba10-3fce099aedd7;AT;2021-05-24;;Public;DE Pfingstmontag,EN Pentecost Monday
-d23f88bf-a386-47e0-b8a1-5742bc90caeb;AT;2021-06-03;;Public;DE Fronleichnam,EN Corpus Christi
-997052b6-d730-426f-83d4-a7350b7af3ce;AT;2021-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-552fd3bc-58cb-4490-a1f5-46ee42987ab1;AT;2021-10-26;;Public;DE Nationalfeiertag,EN National Day
-a3f50483-cb5a-4f0f-96e2-80a9b7da0791;AT;2021-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-8e8b6a82-a5a9-47aa-a1b0-eb2b7b45232b;AT;2021-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-5547451e-7b57-43fb-bdc2-72089ae5b946;AT;2021-12-25;;Public;DE Christtag,EN Christmas Day
-6442856e-0953-41de-8f42-745b35d36bc5;AT;2021-12-26;;Public;DE Stefanitag,EN St Stephen's Day
-dbe5d6a7-2526-4029-b6d6-9d56736c6d33;AT;2022-01-01;;Public;DE Neujahr,EN New Year's Day
-5c12a37d-81f2-4b82-abc0-c7568fec2be4;AT;2022-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-1763752a-b476-433b-b7b8-37f912d78a64;AT;2022-04-18;;Public;DE Ostermontag,EN Easter Monday
-9e08ca01-025d-4612-8a69-938dd7b6a855;AT;2022-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-91d693c6-0596-4d6c-ae97-c81e66f9d6cf;AT;2022-05-26;;Public;DE Christi Himmelfahrt,EN Ascension Day
-ba0ce895-d52f-42dd-8598-a97b8b02ea9f;AT;2022-06-06;;Public;DE Pfingstmontag,EN Pentecost Monday
-cf2cde9c-d96e-49cd-9a78-fcde7d712618;AT;2022-06-16;;Public;DE Fronleichnam,EN Corpus Christi
-9f6e2a31-191b-413e-8f65-82586089aaf6;AT;2022-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-3ae3d351-6887-4580-b376-949af2e573ff;AT;2022-10-26;;Public;DE Nationalfeiertag,EN National Day
-8b13a4fe-0ec5-490a-9ada-f92dc2a1af37;AT;2022-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-fac63448-d230-4a44-bde0-450763c685a8;AT;2022-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-c9a97f7d-696c-47e8-b72e-d36586d0b35c;AT;2022-12-25;;Public;DE Christtag,EN Christmas Day
-0620e029-2342-4bcf-b2f3-4b63220e5d5c;AT;2022-12-26;;Public;DE Stefanitag,EN St Stephen's Day
-13f3463d-9e9f-4605-aeab-f4d9733d7bd7;AT;2023-01-01;;Public;DE Neujahr,EN New Year's Day
-89cba73b-bb5d-44dd-b6ef-bead84113a54;AT;2023-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-d7ae58b2-52dc-49ee-a28b-d7e466373b46;AT;2023-04-10;;Public;DE Ostermontag,EN Easter Monday
-4f311896-f8c4-4a51-8ae7-9c44cce3aebd;AT;2023-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-edfb9aa1-d3d4-4254-8193-fbb5a3b128fe;AT;2023-05-18;;Public;DE Christi Himmelfahrt,EN Ascension Day
-75752dda-09d2-49b1-8a32-1f58d5a6ba98;AT;2023-05-29;;Public;DE Pfingstmontag,EN Pentecost Monday
-b8ab997a-3d53-4dd7-8ae9-70cfddd4a9b3;AT;2023-06-08;;Public;DE Fronleichnam,EN Corpus Christi
-df81ac6e-9121-45a3-9f8f-140a10e6d8af;AT;2023-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-d3f24660-4d65-4eed-aedb-8dc999a4689f;AT;2023-10-26;;Public;DE Nationalfeiertag,EN National Day
-bb943eee-7ee6-4db4-9068-9c25cde7df48;AT;2023-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-0e060c5c-4452-4f5d-b5a1-9fc78fcf601e;AT;2023-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-25f24e1d-6b6e-4595-bca0-d71fb09e93aa;AT;2023-12-25;;Public;DE Christtag,EN Christmas Day
-343be03f-a32d-493d-8738-121c81d6a740;AT;2023-12-26;;Public;DE Stefanitag,EN St Stephen's Day
-459b6476-390b-47d9-a7a3-b8ab6981c89c;AT;2024-01-01;;Public;DE Neujahr,EN New Year's Day
-1fdcabcf-d0e5-4292-9c50-269212ae816f;AT;2024-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-0af5ed5b-82b2-4dec-a9b1-ce7afb43ce70;AT;2024-04-01;;Public;DE Ostermontag,EN Easter Monday
-0c4e6080-f370-48e8-b5bc-dd4e6c63afa8;AT;2024-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-3bbc4bc2-bd41-4106-a53e-b0f94feb3250;AT;2024-05-09;;Public;DE Christi Himmelfahrt,EN Ascension Day
-24ec3138-a2ec-4a8c-ac5a-e9965335708f;AT;2024-05-20;;Public;DE Pfingstmontag,EN Pentecost Monday
-4686e78e-48ee-49c5-9ee8-9993ec090af8;AT;2024-05-30;;Public;DE Fronleichnam,EN Corpus Christi
-07b5eebb-086e-4a39-80e2-863998e3222a;AT;2024-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-2dab52d5-5616-48ec-951d-0487b327379c;AT;2024-10-26;;Public;DE Nationalfeiertag,EN National Day
-d5911302-7987-429c-bfdc-7b35a9c220f2;AT;2024-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-f201d2b8-94c8-4bdb-89b4-f771082a48e7;AT;2024-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-16643be7-3aba-43db-a97c-51b90ab399c6;AT;2024-12-25;;Public;DE Christtag,EN Christmas Day
-0ff5182c-0823-4ddf-a0cd-866316059862;AT;2024-12-26;;Public;DE Stefanitag,EN St Stephen's Day
-cef22e93-5c4c-4642-a747-977488669701;AT;2025-01-01;;Public;DE Neujahr,EN New Year's Day
-00ecd3bc-36e1-41fa-a63f-87bd77205857;AT;2025-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-bd8dc862-9256-4024-a23e-0420acb32436;AT;2025-04-21;;Public;DE Ostermontag,EN Easter Monday
-9f0c8a7c-8a0f-4c6e-b0dc-69c8b1bde915;AT;2025-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-78a625ae-df4a-4603-a05b-4368c1c2484e;AT;2025-05-29;;Public;DE Christi Himmelfahrt,EN Ascension Day
-1989b6e5-0894-4be7-a4e0-a682cc63d638;AT;2025-06-09;;Public;DE Pfingstmontag,EN Pentecost Monday
-596ab61d-6ce7-42a0-9b7f-437e7dcdcbcc;AT;2025-06-19;;Public;DE Fronleichnam,EN Corpus Christi
-b2e2683d-2965-482a-8a62-83f72d4bcd0f;AT;2025-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-15309af7-875d-4487-bbf0-39c0aaba45af;AT;2025-10-26;;Public;DE Nationalfeiertag,EN National Day
-13545866-19b2-4a20-8e8a-b4281bf66426;AT;2025-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-8453792b-0a4a-4b34-ba8d-4e0d0f870473;AT;2025-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-2ad705aa-662e-4c5c-8652-5632aa3e3a73;AT;2025-12-25;;Public;DE Christtag,EN Christmas Day
-c3759a9f-3547-46d7-a816-cf105b579d5b;AT;2025-12-26;;Public;DE Stefanitag,EN St Stephen's Day
-efbb30b0-dc2b-4811-be55-55f735ef327a;AT;2026-01-01;;Public;DE Neujahr,EN New Year's Day
-ff1fffac-8032-49a7-b832-4027b2355a81;AT;2026-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-7da0e458-e6cd-4ec1-841b-a4a3eab0156a;AT;2026-04-06;;Public;DE Ostermontag,EN Easter Monday
-c46e6270-bac3-440d-a9e6-6084fdfec89e;AT;2026-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-dde92072-c4dc-4f81-8ed2-080f008a80ec;AT;2026-05-14;;Public;DE Christi Himmelfahrt,EN Ascension Day
-64af6bc9-4b84-4dd5-9b34-71ffefd8fc1c;AT;2026-05-25;;Public;DE Pfingstmontag,EN Pentecost Monday
-8cf41544-6f99-4aa3-8cda-46f7482d787f;AT;2026-06-04;;Public;DE Fronleichnam,EN Corpus Christi
-56d36bde-6797-44b6-8ae5-bc88976a777d;AT;2026-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-51bc60e0-0af3-4472-8914-b91e523f2fde;AT;2026-10-26;;Public;DE Nationalfeiertag,EN National Day
-7ac1b0bc-b055-4ab2-8475-bb7372df3209;AT;2026-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-013361c4-75d8-44e8-87d6-557aa7cd789f;AT;2026-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-c2d59f2d-d1bf-42b5-bb2b-6fb9ed915025;AT;2026-12-25;;Public;DE Christtag,EN Christmas Day
-f4d2c08f-98f5-42fc-b538-1197f90d2291;AT;2026-12-26;;Public;DE Stefanitag,EN St Stephen's Day
-a8827fbc-587a-48b6-8fc9-25a1c9cf2f25;AT;2027-01-01;;Public;DE Neujahr,EN New Year's Day
-886497b4-fac6-4ba5-a125-5dc21722866c;AT;2027-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-24aeeb53-cf6c-4dff-a037-a9e1b8e1dd17;AT;2027-03-29;;Public;DE Ostermontag,EN Easter Monday
-36b1b0be-724d-48d6-859a-38a172d6d2d4;AT;2027-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-ac4284ad-3206-48cb-8210-3cabf0066c80;AT;2027-05-06;;Public;DE Christi Himmelfahrt,EN Ascension Day
-7330c90c-2d91-4890-bdd8-9e629123a078;AT;2027-05-17;;Public;DE Pfingstmontag,EN Pentecost Monday
-fffe381b-c3e8-49a7-8f4e-7e82f66e4542;AT;2027-05-27;;Public;DE Fronleichnam,EN Corpus Christi
-bbcfd76e-2f2a-4242-a8e9-45dc605f560c;AT;2027-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-4a4acee4-50a5-4922-88ed-96b061dcadbe;AT;2027-10-26;;Public;DE Nationalfeiertag,EN National Day
-4ec3e240-f7ee-45ac-a5d0-72150dce4f0d;AT;2027-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-99c0bb93-f225-4820-80b0-db7987075a11;AT;2027-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-8ceee611-65b7-44c5-b845-a53a6186c452;AT;2027-12-25;;Public;DE Christtag,EN Christmas Day
-4a0be396-7658-4848-bc48-fcd4eac80f1b;AT;2027-12-26;;Public;DE Stefanitag,EN St Stephen's Day
-59758ad8-eb61-4599-bbc4-917b5c4bc2b5;AT;2028-01-01;;Public;DE Neujahr,EN New Year's Day
-ae3701d5-fb44-48c6-ad43-af11f6d7f28c;AT;2028-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-cdf42f63-7d62-49bb-a9c7-87d66e5fb778;AT;2028-04-17;;Public;DE Ostermontag,EN Easter Monday
-d755232c-843f-44e0-8cfd-959fe1bb2452;AT;2028-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-85fc8798-0593-4c13-a393-49cac7297359;AT;2028-05-25;;Public;DE Christi Himmelfahrt,EN Ascension Day
-5b3c2676-b05d-4284-9897-6d55a47fc270;AT;2028-06-05;;Public;DE Pfingstmontag,EN Pentecost Monday
-5301b9e6-d3e3-400d-912a-e3922e50fc34;AT;2028-06-15;;Public;DE Fronleichnam,EN Corpus Christi
-ec561351-67c1-4c7e-a8fe-1e9754f37ae6;AT;2028-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-a66d2f14-7e4b-4c4f-94e7-ed19892cd849;AT;2028-10-26;;Public;DE Nationalfeiertag,EN National Day
-539a9088-16f5-4e41-b6b1-56030cf542c1;AT;2028-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-6f02f473-7fcf-48ab-9376-a269786f0cb4;AT;2028-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-dd9e297f-57c5-4fb6-8d39-4b4a5c576a6d;AT;2028-12-25;;Public;DE Christtag,EN Christmas Day
-02a3f49f-40d7-4317-a9d0-8de51e1ca344;AT;2028-12-26;;Public;DE Stefanitag,EN St Stephen's Day
-8b5980ef-1895-4007-8963-6cf6d80eedb6;AT;2029-01-01;;Public;DE Neujahr,EN New Year's Day
-dba076d1-2bfb-43b3-8f3f-ccfe90ea2116;AT;2029-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-1f2cebbf-3bd0-4b8d-9758-78540a0b9a9b;AT;2029-04-02;;Public;DE Ostermontag,EN Easter Monday
-e3a97a87-3785-486c-8753-9f3db71e6c86;AT;2029-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-e5b913cf-ae23-47d1-8ca5-db0b4aa37281;AT;2029-05-10;;Public;DE Christi Himmelfahrt,EN Ascension Day
-350cdf4e-e7f5-4316-9bd6-2fce21df16d0;AT;2029-05-21;;Public;DE Pfingstmontag,EN Pentecost Monday
-341d5ea1-af6d-4d77-8748-a8d65cedf73a;AT;2029-05-31;;Public;DE Fronleichnam,EN Corpus Christi
-b9770e9c-57bf-459e-8c7a-3b3378826446;AT;2029-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-820fcecf-f610-44e5-89f2-aea6ecc35d9c;AT;2029-10-26;;Public;DE Nationalfeiertag,EN National Day
-f3b8073e-540b-4244-b4f5-92fd2c5a6641;AT;2029-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-69034948-bdaf-4cbe-83d8-6dc1efe710de;AT;2029-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-4405ef3e-8b81-4446-97f0-11e835482e3b;AT;2029-12-25;;Public;DE Christtag,EN Christmas Day
-bfb0cedd-3fb2-42b2-a001-d42457ce8150;AT;2029-12-26;;Public;DE Stefanitag,EN St Stephen's Day
-cd297bb0-ea0b-4c44-b7e8-30e3bc046bf6;AT;2030-01-01;;Public;DE Neujahr,EN New Year's Day
-686a107e-b106-4e73-b781-3bf8844b99ed;AT;2030-01-06;;Public;DE Heilige drei Könige,EN Epiphany
-1f272d35-e422-42d2-a963-394ab19d6219;AT;2030-04-22;;Public;DE Ostermontag,EN Easter Monday
-9d13ba8b-8d90-4e0b-8ccd-90a63bf2eba0;AT;2030-05-01;;Public;DE Staatsfeiertag,EN Labour Day
-a590193e-2b39-47f3-9430-3b69d467b1b8;AT;2030-05-30;;Public;DE Christi Himmelfahrt,EN Ascension Day
-63395ce1-b8e6-4c18-97be-0f328d23e1f9;AT;2030-06-10;;Public;DE Pfingstmontag,EN Pentecost Monday
-cbeb29ef-1fb5-4dae-9531-883ff03219f2;AT;2030-06-20;;Public;DE Fronleichnam,EN Corpus Christi
-c025d0af-824f-483b-9f7f-3f6f82471961;AT;2030-08-15;;Public;DE Mariä Himmelfahrt,EN Assumption Day
-0f495b90-73e3-4f11-9676-84bf278150dd;AT;2030-10-26;;Public;DE Nationalfeiertag,EN National Day
-862a9350-978e-470a-9d28-78f966526d0d;AT;2030-11-01;;Public;DE Allerheiligen,EN All Saints' Day
-639ed7d1-0daf-4dcd-ba35-73d57acae85a;AT;2030-12-08;;Public;DE Mariä Empfängnis,EN Immaculate Conception
-e12921d6-3abb-4cac-86a3-dd65a21dffc0;AT;2030-12-25;;Public;DE Christtag,EN Christmas Day
-a9dc7408-605b-4f2d-acac-8ce6421d1932;AT;2030-12-26;;Public;DE Stefanitag,EN St Stephen's Day
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+4db4b984-9de1-4ece-92c0-5d1941da3709;AT;2020-01-01;;Public;National;DE Neujahr,EN New Year's Day
+27792ba0-ce59-43d9-a2ac-937fe7a1739a;AT;2020-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+76fda190-a48a-4380-87c8-b11c363c2832;AT;2020-04-13;;Public;National;DE Ostermontag,EN Easter Monday
+8b9d71ac-0b94-4cde-95eb-4facacb8b39c;AT;2020-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+f08cb0b9-e874-46c7-adb5-b91055b51ba5;AT;2020-05-21;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+3c638954-82ed-475b-be09-51b1da5e9329;AT;2020-06-01;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+7cb84d17-1028-41c9-bca0-7706677383b4;AT;2020-06-11;;Public;National;DE Fronleichnam,EN Corpus Christi
+360ab63b-b076-4885-9a6a-f0df71cd2462;AT;2020-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+cd16b6f6-be1e-425d-8def-5a03542b94dd;AT;2020-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+ef2e38e7-fddd-4d4a-a085-5979da6ef9f9;AT;2020-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+0da4df5b-3e58-4d6e-a562-13a60ccd3050;AT;2020-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+d3f57a19-215f-46a5-b4cf-e62a0e5987fb;AT;2020-12-25;;Public;National;DE Christtag,EN Christmas Day
+80cf49a5-765c-4610-a242-f13ce086389e;AT;2020-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
+6ca451d3-5d88-435e-b674-37fd72a2f17e;AT;2021-01-01;;Public;National;DE Neujahr,EN New Year's Day
+9badbb6f-bb3d-47a0-a9ba-33a9152cac05;AT;2021-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+da4bf2b0-8655-4e83-a042-43f20e5bcb15;AT;2021-04-05;;Public;National;DE Ostermontag,EN Easter Monday
+c59321eb-b3f0-4c8d-8741-89a469b7a0a7;AT;2021-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+ab8f614b-288f-4692-ae6d-3d6d921e3fbb;AT;2021-05-13;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+6ddffc41-02b3-498d-ba10-3fce099aedd7;AT;2021-05-24;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+d23f88bf-a386-47e0-b8a1-5742bc90caeb;AT;2021-06-03;;Public;National;DE Fronleichnam,EN Corpus Christi
+997052b6-d730-426f-83d4-a7350b7af3ce;AT;2021-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+552fd3bc-58cb-4490-a1f5-46ee42987ab1;AT;2021-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+a3f50483-cb5a-4f0f-96e2-80a9b7da0791;AT;2021-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+8e8b6a82-a5a9-47aa-a1b0-eb2b7b45232b;AT;2021-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+5547451e-7b57-43fb-bdc2-72089ae5b946;AT;2021-12-25;;Public;National;DE Christtag,EN Christmas Day
+6442856e-0953-41de-8f42-745b35d36bc5;AT;2021-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
+dbe5d6a7-2526-4029-b6d6-9d56736c6d33;AT;2022-01-01;;Public;National;DE Neujahr,EN New Year's Day
+5c12a37d-81f2-4b82-abc0-c7568fec2be4;AT;2022-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+1763752a-b476-433b-b7b8-37f912d78a64;AT;2022-04-18;;Public;National;DE Ostermontag,EN Easter Monday
+9e08ca01-025d-4612-8a69-938dd7b6a855;AT;2022-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+91d693c6-0596-4d6c-ae97-c81e66f9d6cf;AT;2022-05-26;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+ba0ce895-d52f-42dd-8598-a97b8b02ea9f;AT;2022-06-06;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+cf2cde9c-d96e-49cd-9a78-fcde7d712618;AT;2022-06-16;;Public;National;DE Fronleichnam,EN Corpus Christi
+9f6e2a31-191b-413e-8f65-82586089aaf6;AT;2022-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+3ae3d351-6887-4580-b376-949af2e573ff;AT;2022-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+8b13a4fe-0ec5-490a-9ada-f92dc2a1af37;AT;2022-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+fac63448-d230-4a44-bde0-450763c685a8;AT;2022-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+c9a97f7d-696c-47e8-b72e-d36586d0b35c;AT;2022-12-25;;Public;National;DE Christtag,EN Christmas Day
+0620e029-2342-4bcf-b2f3-4b63220e5d5c;AT;2022-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
+13f3463d-9e9f-4605-aeab-f4d9733d7bd7;AT;2023-01-01;;Public;National;DE Neujahr,EN New Year's Day
+89cba73b-bb5d-44dd-b6ef-bead84113a54;AT;2023-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+d7ae58b2-52dc-49ee-a28b-d7e466373b46;AT;2023-04-10;;Public;National;DE Ostermontag,EN Easter Monday
+4f311896-f8c4-4a51-8ae7-9c44cce3aebd;AT;2023-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+edfb9aa1-d3d4-4254-8193-fbb5a3b128fe;AT;2023-05-18;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+75752dda-09d2-49b1-8a32-1f58d5a6ba98;AT;2023-05-29;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+b8ab997a-3d53-4dd7-8ae9-70cfddd4a9b3;AT;2023-06-08;;Public;National;DE Fronleichnam,EN Corpus Christi
+df81ac6e-9121-45a3-9f8f-140a10e6d8af;AT;2023-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+d3f24660-4d65-4eed-aedb-8dc999a4689f;AT;2023-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+bb943eee-7ee6-4db4-9068-9c25cde7df48;AT;2023-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+0e060c5c-4452-4f5d-b5a1-9fc78fcf601e;AT;2023-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+25f24e1d-6b6e-4595-bca0-d71fb09e93aa;AT;2023-12-25;;Public;National;DE Christtag,EN Christmas Day
+343be03f-a32d-493d-8738-121c81d6a740;AT;2023-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
+459b6476-390b-47d9-a7a3-b8ab6981c89c;AT;2024-01-01;;Public;National;DE Neujahr,EN New Year's Day
+1fdcabcf-d0e5-4292-9c50-269212ae816f;AT;2024-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+0af5ed5b-82b2-4dec-a9b1-ce7afb43ce70;AT;2024-04-01;;Public;National;DE Ostermontag,EN Easter Monday
+0c4e6080-f370-48e8-b5bc-dd4e6c63afa8;AT;2024-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+3bbc4bc2-bd41-4106-a53e-b0f94feb3250;AT;2024-05-09;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+24ec3138-a2ec-4a8c-ac5a-e9965335708f;AT;2024-05-20;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+4686e78e-48ee-49c5-9ee8-9993ec090af8;AT;2024-05-30;;Public;National;DE Fronleichnam,EN Corpus Christi
+07b5eebb-086e-4a39-80e2-863998e3222a;AT;2024-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+2dab52d5-5616-48ec-951d-0487b327379c;AT;2024-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+d5911302-7987-429c-bfdc-7b35a9c220f2;AT;2024-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+f201d2b8-94c8-4bdb-89b4-f771082a48e7;AT;2024-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+16643be7-3aba-43db-a97c-51b90ab399c6;AT;2024-12-25;;Public;National;DE Christtag,EN Christmas Day
+0ff5182c-0823-4ddf-a0cd-866316059862;AT;2024-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
+cef22e93-5c4c-4642-a747-977488669701;AT;2025-01-01;;Public;National;DE Neujahr,EN New Year's Day
+00ecd3bc-36e1-41fa-a63f-87bd77205857;AT;2025-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+bd8dc862-9256-4024-a23e-0420acb32436;AT;2025-04-21;;Public;National;DE Ostermontag,EN Easter Monday
+9f0c8a7c-8a0f-4c6e-b0dc-69c8b1bde915;AT;2025-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+78a625ae-df4a-4603-a05b-4368c1c2484e;AT;2025-05-29;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+1989b6e5-0894-4be7-a4e0-a682cc63d638;AT;2025-06-09;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+596ab61d-6ce7-42a0-9b7f-437e7dcdcbcc;AT;2025-06-19;;Public;National;DE Fronleichnam,EN Corpus Christi
+b2e2683d-2965-482a-8a62-83f72d4bcd0f;AT;2025-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+15309af7-875d-4487-bbf0-39c0aaba45af;AT;2025-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+13545866-19b2-4a20-8e8a-b4281bf66426;AT;2025-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+8453792b-0a4a-4b34-ba8d-4e0d0f870473;AT;2025-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+2ad705aa-662e-4c5c-8652-5632aa3e3a73;AT;2025-12-25;;Public;National;DE Christtag,EN Christmas Day
+c3759a9f-3547-46d7-a816-cf105b579d5b;AT;2025-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
+efbb30b0-dc2b-4811-be55-55f735ef327a;AT;2026-01-01;;Public;National;DE Neujahr,EN New Year's Day
+ff1fffac-8032-49a7-b832-4027b2355a81;AT;2026-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+7da0e458-e6cd-4ec1-841b-a4a3eab0156a;AT;2026-04-06;;Public;National;DE Ostermontag,EN Easter Monday
+c46e6270-bac3-440d-a9e6-6084fdfec89e;AT;2026-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+dde92072-c4dc-4f81-8ed2-080f008a80ec;AT;2026-05-14;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+64af6bc9-4b84-4dd5-9b34-71ffefd8fc1c;AT;2026-05-25;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+8cf41544-6f99-4aa3-8cda-46f7482d787f;AT;2026-06-04;;Public;National;DE Fronleichnam,EN Corpus Christi
+56d36bde-6797-44b6-8ae5-bc88976a777d;AT;2026-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+51bc60e0-0af3-4472-8914-b91e523f2fde;AT;2026-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+7ac1b0bc-b055-4ab2-8475-bb7372df3209;AT;2026-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+013361c4-75d8-44e8-87d6-557aa7cd789f;AT;2026-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+c2d59f2d-d1bf-42b5-bb2b-6fb9ed915025;AT;2026-12-25;;Public;National;DE Christtag,EN Christmas Day
+f4d2c08f-98f5-42fc-b538-1197f90d2291;AT;2026-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
+a8827fbc-587a-48b6-8fc9-25a1c9cf2f25;AT;2027-01-01;;Public;National;DE Neujahr,EN New Year's Day
+886497b4-fac6-4ba5-a125-5dc21722866c;AT;2027-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+24aeeb53-cf6c-4dff-a037-a9e1b8e1dd17;AT;2027-03-29;;Public;National;DE Ostermontag,EN Easter Monday
+36b1b0be-724d-48d6-859a-38a172d6d2d4;AT;2027-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+ac4284ad-3206-48cb-8210-3cabf0066c80;AT;2027-05-06;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+7330c90c-2d91-4890-bdd8-9e629123a078;AT;2027-05-17;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+fffe381b-c3e8-49a7-8f4e-7e82f66e4542;AT;2027-05-27;;Public;National;DE Fronleichnam,EN Corpus Christi
+bbcfd76e-2f2a-4242-a8e9-45dc605f560c;AT;2027-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+4a4acee4-50a5-4922-88ed-96b061dcadbe;AT;2027-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+4ec3e240-f7ee-45ac-a5d0-72150dce4f0d;AT;2027-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+99c0bb93-f225-4820-80b0-db7987075a11;AT;2027-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+8ceee611-65b7-44c5-b845-a53a6186c452;AT;2027-12-25;;Public;National;DE Christtag,EN Christmas Day
+4a0be396-7658-4848-bc48-fcd4eac80f1b;AT;2027-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
+59758ad8-eb61-4599-bbc4-917b5c4bc2b5;AT;2028-01-01;;Public;National;DE Neujahr,EN New Year's Day
+ae3701d5-fb44-48c6-ad43-af11f6d7f28c;AT;2028-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+cdf42f63-7d62-49bb-a9c7-87d66e5fb778;AT;2028-04-17;;Public;National;DE Ostermontag,EN Easter Monday
+d755232c-843f-44e0-8cfd-959fe1bb2452;AT;2028-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+85fc8798-0593-4c13-a393-49cac7297359;AT;2028-05-25;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+5b3c2676-b05d-4284-9897-6d55a47fc270;AT;2028-06-05;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+5301b9e6-d3e3-400d-912a-e3922e50fc34;AT;2028-06-15;;Public;National;DE Fronleichnam,EN Corpus Christi
+ec561351-67c1-4c7e-a8fe-1e9754f37ae6;AT;2028-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+a66d2f14-7e4b-4c4f-94e7-ed19892cd849;AT;2028-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+539a9088-16f5-4e41-b6b1-56030cf542c1;AT;2028-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+6f02f473-7fcf-48ab-9376-a269786f0cb4;AT;2028-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+dd9e297f-57c5-4fb6-8d39-4b4a5c576a6d;AT;2028-12-25;;Public;National;DE Christtag,EN Christmas Day
+02a3f49f-40d7-4317-a9d0-8de51e1ca344;AT;2028-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
+8b5980ef-1895-4007-8963-6cf6d80eedb6;AT;2029-01-01;;Public;National;DE Neujahr,EN New Year's Day
+dba076d1-2bfb-43b3-8f3f-ccfe90ea2116;AT;2029-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+1f2cebbf-3bd0-4b8d-9758-78540a0b9a9b;AT;2029-04-02;;Public;National;DE Ostermontag,EN Easter Monday
+e3a97a87-3785-486c-8753-9f3db71e6c86;AT;2029-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+e5b913cf-ae23-47d1-8ca5-db0b4aa37281;AT;2029-05-10;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+350cdf4e-e7f5-4316-9bd6-2fce21df16d0;AT;2029-05-21;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+341d5ea1-af6d-4d77-8748-a8d65cedf73a;AT;2029-05-31;;Public;National;DE Fronleichnam,EN Corpus Christi
+b9770e9c-57bf-459e-8c7a-3b3378826446;AT;2029-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+820fcecf-f610-44e5-89f2-aea6ecc35d9c;AT;2029-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+f3b8073e-540b-4244-b4f5-92fd2c5a6641;AT;2029-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+69034948-bdaf-4cbe-83d8-6dc1efe710de;AT;2029-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+4405ef3e-8b81-4446-97f0-11e835482e3b;AT;2029-12-25;;Public;National;DE Christtag,EN Christmas Day
+bfb0cedd-3fb2-42b2-a001-d42457ce8150;AT;2029-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
+cd297bb0-ea0b-4c44-b7e8-30e3bc046bf6;AT;2030-01-01;;Public;National;DE Neujahr,EN New Year's Day
+686a107e-b106-4e73-b781-3bf8844b99ed;AT;2030-01-06;;Public;National;DE Heilige drei Könige,EN Epiphany
+1f272d35-e422-42d2-a963-394ab19d6219;AT;2030-04-22;;Public;National;DE Ostermontag,EN Easter Monday
+9d13ba8b-8d90-4e0b-8ccd-90a63bf2eba0;AT;2030-05-01;;Public;National;DE Staatsfeiertag,EN Labour Day
+a590193e-2b39-47f3-9430-3b69d467b1b8;AT;2030-05-30;;Public;National;DE Christi Himmelfahrt,EN Ascension Day
+63395ce1-b8e6-4c18-97be-0f328d23e1f9;AT;2030-06-10;;Public;National;DE Pfingstmontag,EN Pentecost Monday
+cbeb29ef-1fb5-4dae-9531-883ff03219f2;AT;2030-06-20;;Public;National;DE Fronleichnam,EN Corpus Christi
+c025d0af-824f-483b-9f7f-3f6f82471961;AT;2030-08-15;;Public;National;DE Mariä Himmelfahrt,EN Assumption Day
+0f495b90-73e3-4f11-9676-84bf278150dd;AT;2030-10-26;;Public;National;DE Nationalfeiertag,EN National Day
+862a9350-978e-470a-9d28-78f966526d0d;AT;2030-11-01;;Public;National;DE Allerheiligen,EN All Saints' Day
+639ed7d1-0daf-4dcd-ba35-73d57acae85a;AT;2030-12-08;;Public;National;DE Mariä Empfängnis,EN Immaculate Conception
+e12921d6-3abb-4cac-86a3-dd65a21dffc0;AT;2030-12-25;;Public;National;DE Christtag,EN Christmas Day
+a9dc7408-605b-4f2d-acac-8ce6421d1932;AT;2030-12-26;;Public;National;DE Stefanitag,EN St Stephen's Day
