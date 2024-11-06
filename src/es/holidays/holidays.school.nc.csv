@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comments
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
 1e0ae574-d24e-456c-ae72-0a0e6846ecbe;ES;2019-12-21;2020-01-07;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;NC;
 74714cdb-78ca-4aae-9539-9a716bd65f5c;ES;2020-04-09;2020-04-19;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;NC;
 c611c81d-2c22-4f6c-856d-2dfd0610a726;ES;2020-06-20;2020-09-08;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;NC;

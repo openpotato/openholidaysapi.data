@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Comments
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Comment
 b8513c57-8ef5-4cf5-a3ba-efc950cf655b;PT;2019-12-18;2020-01-03;School;National;PT Férias de Natal,EN Christmas holidays,DE Weihnachtsferien;
 282bacc1-7569-4898-881f-ca9aeb976c0d;PT;2020-02-24;2020-02-26;School;National;PT Férias de Carnaval,EN Carnival holidays,DE Karnevalsferien;
 1b74a41b-a482-448f-a67c-111bb5daf0e8;PT;2020-03-30;2020-04-13;School;National;PT Férias de Páscoa,EN Easter holidays,DE Osterferien;
