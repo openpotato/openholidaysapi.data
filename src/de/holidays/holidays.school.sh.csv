@@ -1,4 +1,51 @@
 ﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+c4edf8bc-c7b6-4632-8b31-1dc25f10283b;DE;2010-07-12;2010-08-21;School;Regional;DE Sommerferien,EN Summer Holidays;SH
+1921257f-bcaa-45bb-b5b4-116dd9577f81;DE;2010-10-11;2010-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
+42e6dd86-d602-4833-a1e9-b71db688aa35;DE;2010-12-23;2011-01-07;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
+6043d298-e5ff-4fdb-b2d2-4c60d116fe9b;DE;2011-04-15;2011-04-30;School;Regional;DE Osterferien,EN Easter Holidays;SH
+3568a3a1-8a51-46f8-8459-8deb23bf7590;DE;2011-06-03;2011-06-04;School;Regional;DE Himmelfahrt,EN Ascension;SH
+2dce7697-3122-446f-ac82-31e1cb657a44;DE;2011-07-04;2011-08-13;School;Regional;DE Sommerferien,EN Summer Holidays;SH
+f27506ec-61d3-4c83-8be1-48611808c06a;DE;2011-10-10;2011-10-22;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
+8e09bd28-84ea-44e6-b38d-df0eb59e464b;DE;2011-12-23;2012-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
+663f4b63-d9d2-4779-9c13-4c73e4739232;DE;2012-03-30;2012-04-13;School;Regional;DE Osterferien,EN Easter Holidays;SH
+214edd72-25f8-4da9-a929-f9161d6c7f2c;DE;2012-05-18;;School;Regional;DE Himmelfahrt,EN Ascension;SH
+9561a530-b719-4f7d-aa6c-04cc37f38619;DE;2012-06-25;2012-08-04;School;Regional;DE Sommerferien,EN Summer Holidays;SH
+7896864c-818e-4edf-9703-23c6b081b024;DE;2012-10-04;2012-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
+3f9e233b-6fe8-4932-be9e-e854c41781c8;DE;2012-12-24;2013-01-05;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
+c16a07b6-6ed3-44b1-924b-f304a7946dc7;DE;2013-03-25;2013-04-09;School;Regional;DE Osterferien,EN Easter Holidays;SH
+adbb3c87-0bd7-4ff5-bdd5-e255b52f595e;DE;2013-05-10;;School;Regional;DE Himmelfahrt,EN Ascension;SH
+8980cb51-7847-4fbe-ba23-1321a52a1495;DE;2013-06-24;2013-08-03;School;Regional;DE Sommerferien,EN Summer Holidays;SH
+651f66fc-3942-411c-883b-038a3ad37ed5;DE;2013-10-04;2013-10-18;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
+e8161754-bb85-4297-97c3-4a33d0c905ba;DE;2013-12-23;2014-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
+eeeb9216-b720-4e6a-957b-57285c857ebc;DE;2014-04-16;2014-05-02;School;Regional;DE Osterferien,EN Easter Holidays;SH
+ebae1ca9-9328-4226-839d-803531b5be63;DE;2014-05-30;;School;Regional;DE Himmelfahrt,EN Ascension;SH
+27d93c7e-8c4f-428a-8e03-d03693a05860;DE;2014-07-14;2014-08-23;School;Regional;DE Sommerferien,EN Summer Holidays;SH
+0b38421b-88db-478f-bb24-9c2240efd6fe;DE;2014-10-13;2014-10-25;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
+08f62d5d-30f0-4fb7-8fc6-ef971b28deaa;DE;2014-12-22;2015-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
+d015e345-b59d-43b5-8d53-e95fe773289a;DE;2015-04-01;2015-04-17;School;Regional;DE Osterferien,EN Easter Holidays;SH
+92c89a40-c93e-4f73-bcb0-a4ee4b105d40;DE;2015-05-15;;School;Regional;DE Himmelfahrt,EN Ascension;SH
+9278be82-c1f3-4d1f-bd99-ee56fbb8a71a;DE;2015-07-20;2015-08-29;School;Regional;DE Sommerferien,EN Summer Holidays;SH
+6c68a976-ac69-49e7-b113-37d06115c7ff;DE;2015-10-19;2015-10-31;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
+bd9590cf-1755-4ab2-9de4-d785d2cd7cb0;DE;2015-12-21;2016-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
+546a3919-9eb6-4102-a634-20abcd2ca04e;DE;2016-03-24;2016-04-09;School;Regional;DE Osterferien,EN Easter Holidays;SH
+ba4d83e7-5b00-4ca4-abb3-6d4ef88dda3c;DE;2016-05-06;;School;Regional;DE Himmelfahrt,EN Ascension;SH
+d4b7c513-3157-4441-a7f3-ca1614ccc29b;DE;2016-07-25;2016-09-03;School;Regional;DE Sommerferien,EN Summer Holidays;SH
+01f31162-6f4d-4a62-a086-7c5defcfc4da;DE;2016-10-17;2016-10-29;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
+10e04190-304c-4692-9465-0e9ec57b5a07;DE;2016-12-23;2017-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
+27b19f09-0ce5-4ad0-95cb-d430332ae78f;DE;2017-04-07;2017-04-21;School;Regional;DE Osterferien,EN Easter Holidays;SH
+3b851f74-5f71-41d6-8d48-1d741c39705a;DE;2017-05-26;;School;Regional;DE Himmelfahrt,EN Ascension;SH
+59af0b3c-a0e2-45f3-a18e-ebafafb43a2d;DE;2017-07-24;2017-09-02;School;Regional;DE Sommerferien,EN Summer Holidays;SH
+97b3edf0-00ab-4d93-a6ad-3c08fcaec3bd;DE;2017-10-16;2017-10-27;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
+720bcdff-5945-4521-ae75-40459e57a20b;DE;2017-12-21;2018-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
+29b6c5dc-6a5b-4bd5-a5be-fa4d652434d3;DE;2018-03-29;2018-04-13;School;Regional;DE Osterferien,EN Easter Holidays;SH
+64a97424-0681-4ac9-a504-98081a3f91ca;DE;2018-05-11;;School;Regional;DE Himmelfahrt,EN Ascension;SH
+c3041d35-d9bd-4a27-9b86-0742ba684677;DE;2018-07-09;2018-08-18;School;Regional;DE Sommerferien,EN Summer Holidays;SH
+d0888857-d75d-40d8-a4f8-1426ec61a225;DE;2018-10-01;2018-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
+ef29ea0d-8cb1-4ea6-b86d-1461ce9f1b12;DE;2018-12-21;2019-01-04;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
+214b5a1e-3b8d-477a-a887-c66e2a163cbb;DE;2019-04-04;2019-04-18;School;Regional;DE Osterferien,EN Easter Holidays;SH
+b7ddfd5f-6fa6-4de0-b168-0cce8a1de228;DE;2019-05-31;;School;Regional;DE Himmelfahrt,EN Ascension;SH
+232f0b9d-467f-4ccb-86f6-ffa35eef44ae;DE;2019-07-01;2019-08-10;School;Regional;DE Sommerferien,EN Summer Holidays;SH
+b4eeffc5-6a9f-4c1e-a344-9f7b6bbe348f;DE;2019-10-04;2019-10-18;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
 2028646a-607c-4ecf-b33a-852e455cc729;DE;2019-12-23;2020-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
 113d6e8d-70c5-4371-8ed1-6014080065b2;DE;2020-03-30;2020-04-17;School;Regional;DE Osterferien,EN Easter Holidays;SH
 a4a3e9ac-578e-435e-8b6a-6d3bdcf39608;DE;2020-05-22;;School;Regional;DE Himmelfahrt,EN Ascension;SH
