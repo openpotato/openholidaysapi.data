@@ -1,144 +1,144 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
-20937e1a-f364-4a16-b1e6-900892e51ec3;PL;2020-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-8ed37e36-f622-4231-b0bd-1cc18fe89bd8;PL;2020-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-73e3c457-adc3-4c77-9498-c3e8b5688c9e;PL;2020-04-12;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-4f6ca75e-8022-4ef0-bfe6-874474a4622f;PL;2020-04-13;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-d126e8f1-3d9a-4c41-a013-c5be6423e078;PL;2020-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-45a9a01e-3b36-4e69-958f-a34b1f60f0be;PL;2020-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-16542dc4-0450-458e-8538-746035b23cbc;PL;2020-05-31;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-1a0bb8c7-3f5e-4051-aece-87a0a35d31e2;PL;2020-06-11;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-8b48c90a-4c9d-45aa-abf3-b0625d775243;PL;2020-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-c3603339-33e8-467d-a4d0-840bf01715ae;PL;2020-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-a96bc379-842c-42e1-96d2-a6c39f8b2b4d;PL;2020-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-a7b866ea-a034-4415-bc8b-ab1873b4d7dd;PL;2020-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-57ae68bf-b940-4363-bf67-802b3f82896d;PL;2020-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-770a025b-3402-484e-8e0a-7a67f7bb386b;PL;2021-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-8995c51d-cbc3-46d1-98a6-dd16b747cb7b;PL;2021-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-00b55ead-d7a5-4c88-8d24-dc85faf660de;PL;2021-04-04;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-e8172e79-a947-4825-a686-ed07ac39cf89;PL;2021-04-05;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-913014f8-91b6-4db5-8e64-915c24e9f147;PL;2021-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-17c7bff2-fdf7-4c6e-907f-509496081c94;PL;2021-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-608d4a05-2afc-4723-b230-74e3fa56c64b;PL;2021-05-23;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-1e46a2b4-e830-4480-a37b-8982fa0c6fd3;PL;2021-06-03;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-b50cf884-5752-44d2-957b-bf59a1891ef4;PL;2021-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-ae081164-146b-4c17-bf5d-4b78e4fa5518;PL;2021-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-aa491c2b-a9ec-4829-a6c1-3302a89ff332;PL;2021-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-88b7b5e9-338e-4710-ab42-8d05ab489407;PL;2021-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-e7689c9c-7e98-4b8d-9434-685d1e31e1fd;PL;2021-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-d52fb264-e949-4db5-ba20-57a9e40b2f2c;PL;2022-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-b624a3fc-1b57-4f67-9ab7-4caaaba1bb73;PL;2022-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-d4692a02-51fa-42c7-aa7a-7f8db16cca58;PL;2022-04-17;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-948754d1-aa77-463b-8605-157cd034200f;PL;2022-04-18;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-95cfefdc-2ac8-45d8-92a2-8cbf45167643;PL;2022-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-01490c97-773a-40ec-b53e-528acd4e6413;PL;2022-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-d1bd6e94-53cf-46b3-8663-d731586d619c;PL;2022-06-05;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-194f3a83-10ed-4db3-8879-289c52a3a85e;PL;2022-06-16;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-53dd3dbd-ce73-4a3e-9020-1f323c5e537d;PL;2022-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-619c2638-9994-4549-9b2d-88122c079d05;PL;2022-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-ca479b3a-7ec4-42ae-ac85-87a5b50da0bc;PL;2022-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-e377aca2-d046-4813-a09b-43bc3475289f;PL;2022-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-6df3ccf5-efd2-4be6-9ee6-45722f0ff135;PL;2022-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-9522a4c2-da21-4d04-a056-92d8694ffc0a;PL;2023-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-a598c823-bbfa-4950-9bf2-86484a1b181b;PL;2023-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-f68070d4-038c-41fa-936b-4b31bcaa36bd;PL;2023-04-09;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-ffa1352b-076f-4ebf-bd4b-ac94d7f9f272;PL;2023-04-10;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-9b341280-2c69-46fa-9491-6629ca756be9;PL;2023-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-b22b4113-b65a-4b06-a793-eb6e4eab9aab;PL;2023-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-688783a5-65ca-4dc5-b4db-fa93bc0201ad;PL;2023-05-28;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-55ef10bc-4a17-4171-8412-3253e725f58c;PL;2023-06-08;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-dbbb1b7c-9008-4921-ba71-1c29638937e4;PL;2023-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-40b1d5c7-b976-40ee-a872-8d4fed5be8bc;PL;2023-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-72cee06b-c376-48c5-a0da-7f091e4ec2ba;PL;2023-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-a18e7f48-26b7-4f1d-a463-fad5593c0505;PL;2023-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-e3967507-0b1c-4b08-a6db-28de0faee1a7;PL;2023-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-a9b29578-37e1-4ae8-a553-ae064c984228;PL;2024-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-c843fa24-541d-4ee8-8e53-2902534fe536;PL;2024-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-2c671968-f33b-4b50-a9c4-6d054d87ed82;PL;2024-03-31;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-57151112-bec7-4313-8599-9a115b83dd2a;PL;2024-04-01;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-229f86ac-36ea-41f6-96e1-07e1a026004e;PL;2024-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-ba75183e-18bc-4839-9430-7282faedd649;PL;2024-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-e4463384-dcf4-42ce-b1cc-ff5839d21d00;PL;2024-05-19;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-1e8cdde8-6fe9-4c49-b49e-d5e8998719a8;PL;2024-05-30;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-90ab0136-47bb-4b0d-9c7d-29e800514923;PL;2024-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-0fcfbee0-7d47-4254-b8da-4ef476f92724;PL;2024-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-f99f0d3d-2012-45ab-9c1a-2af643dc7d86;PL;2024-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-bf326918-eaae-45b4-801f-805487b8c7d0;PL;2024-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-8efb0856-ea26-49b2-915e-3b9e41c95dab;PL;2024-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-fff57559-d4b3-417d-8094-d8c29c2eea1e;PL;2025-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-c5dd54bd-057b-4975-9014-9c76f79a92a0;PL;2025-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-186f4a63-a587-4939-be15-b2e433b75c7c;PL;2025-04-20;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-c053556e-4a6a-49f1-9c09-5de751e1fbf9;PL;2025-04-21;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-ba5e31e4-3f4a-47cd-84fc-a428d496ae82;PL;2025-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-22da3934-57d2-4e76-90a6-87c20b5e605e;PL;2025-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-04fd6bb8-4db4-47c7-bfff-2d66955d1455;PL;2025-06-08;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-f7ce670d-7fe5-49ae-b589-2a34ecbe263e;PL;2025-06-19;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-affa912a-69f0-40c7-bd54-0d40221d3608;PL;2025-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-2cf85626-28c3-435d-bd03-9151a5d27eb6;PL;2025-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-cec00b5a-d3d6-4e79-9ec2-75b9f78f2c18;PL;2025-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-e1cc1566-6056-4994-baf6-11b6f775074f;PL;2025-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-7378c83a-9fde-4829-b6ec-dd7e4c80125e;PL;2025-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-db812f37-e1e3-4e12-a787-984a19ce480b;PL;2026-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-a59baaa8-1aca-42f5-b029-73e92ddb6cde;PL;2026-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-4e222eda-0112-412a-a694-4521c5ac4aed;PL;2026-04-05;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-2f4711b8-2edd-4136-a6ee-52f46c633a2f;PL;2026-04-06;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-9cef5596-5b75-43bc-91a1-264c0b2a6d09;PL;2026-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-26aac8fe-797f-4cd1-8eab-c5778aab6f80;PL;2026-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-554709ce-051a-41b8-9d5c-ad8efb80d2dc;PL;2026-05-24;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-9865abcc-83c1-405e-ba4b-561502502d53;PL;2026-06-04;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-ea4e43ea-a326-43fa-8e39-e51ec2b85ac5;PL;2026-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-0e65fa49-ca82-43ee-bd44-9b8cfedf8ec0;PL;2026-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-1f9568e1-1f9a-4aec-8dd3-f5be6155031b;PL;2026-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-205423a7-f6d3-418f-8e11-b28382e550a4;PL;2026-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-2d419bad-922f-40ab-892e-de89e9919fbc;PL;2026-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-0cbe1dd4-7ae7-4381-bb8a-106546949767;PL;2027-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-7daa2be5-a725-4935-a6f5-64ba85708a43;PL;2027-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-6b62243e-3d95-4fce-aa05-bf1913ed675a;PL;2027-03-28;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-cecbf2ca-bdd9-4c2b-b9e4-7ca0514c9e72;PL;2027-03-29;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-0605ad3b-2b78-4012-89ac-76b0c07a45fc;PL;2027-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-5c8962b6-1c6b-4f25-8a2f-c8355fe602f2;PL;2027-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-9679be12-0dc0-4ca7-8ef0-52ff5814268c;PL;2027-05-16;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-c8e318e2-1a2d-4ca8-bc27-7b4f38870112;PL;2027-05-27;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-3a9ff887-5ace-4fff-96bf-30c1740ddd38;PL;2027-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-031242f1-4e89-4902-a7b6-ecae8f224d2e;PL;2027-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-cbced817-9da9-47e8-8f75-55c851ffcd4b;PL;2027-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-c8250f85-0a49-4f74-82c9-9a2ce0fc3cb3;PL;2027-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-9ea40dd8-4ccf-4ebb-8dd0-f0665f928b62;PL;2027-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-aac1134b-6eb9-4651-bd34-e8de0e7c52bf;PL;2028-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-99f3ae70-d13f-460b-91bb-8b065179e305;PL;2028-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-1d4c9aa8-4412-42b4-8188-3fb8973c560c;PL;2028-04-16;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-213bd5c7-7e87-43b0-9bf6-466e4ea9e010;PL;2028-04-17;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-fafe739a-96dc-4bc1-9030-b75116db134f;PL;2028-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-457aceef-dbfc-44b9-a14c-813d8fb004bb;PL;2028-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-fcbe7b4a-b260-46f6-bafd-ad1ace9c1666;PL;2028-06-04;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-96f7f40d-a3fc-439b-b76d-04004cbdf6ad;PL;2028-06-15;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-44e1b8c5-0390-4527-bf4a-dfd1d9c48f45;PL;2028-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-6c843412-de2c-4528-899d-78c001b22c4a;PL;2028-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-6ea5e190-22a1-4e00-b004-ed336bee1100;PL;2028-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-245e462f-bc1d-4328-b8cb-faf502dba8fe;PL;2028-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-0c7cf6f5-de8f-4fc7-b99e-1764ae578808;PL;2028-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-cfd168db-6ccf-4cd1-b02c-ba6da36e8640;PL;2029-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-09f214bf-effc-4f04-9651-baebd1363097;PL;2029-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-822e1e2a-940b-4d24-8963-4880c4bc6782;PL;2029-04-01;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-7547ef71-aee7-43e0-8051-b55fabdbdf11;PL;2029-04-02;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-6622b128-ebdb-4482-9c93-053a76d57578;PL;2029-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-05739d6e-c0fa-4d94-b88a-eb837e5ccccf;PL;2029-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-c7e27c11-e45e-4a33-8a11-8fdc7633db76;PL;2029-05-20;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-53552b5a-838d-4f69-bb9c-c2e7671112b1;PL;2029-05-31;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-9eada9f1-d12d-487a-8fd2-6e92d870909c;PL;2029-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-516ab379-8b6e-4f36-ad2e-77691f1d45bc;PL;2029-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-8b92b184-6187-4309-9d05-c5863b777343;PL;2029-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-69c8d850-60a1-4c9e-a4ff-42f01f7f5362;PL;2029-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-a9aa198b-5c41-4515-b50e-18368c8a6440;PL;2029-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-bf8d2eab-0457-4630-a33c-a1cfc5a5cdcd;PL;2030-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-d621448a-fe03-46b7-9f94-07872c59064a;PL;2030-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-898206b3-4306-406b-acfd-1e5cc156cc62;PL;2030-04-21;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-c596bb0d-e64e-4e9a-9e2d-2c88a3fe5ad3;PL;2030-04-22;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-7808d8ba-1ad4-44fb-b08c-d0b5cc1e0c25;PL;2030-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-cfec7210-5756-4729-8765-ec9b0f2288dc;PL;2030-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-c2dc3257-a2ab-4fb4-9b0f-b8338c604ae6;PL;2030-06-09;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-d885aa26-40ad-4287-84ff-f6b3169ce573;PL;2030-06-20;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-6426c6c4-107d-4672-ad07-f57e3e7cd3f3;PL;2030-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-4fc52add-42a1-44a8-b60c-9322667ebba7;PL;2030-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-a7fe88de-ac39-417d-897b-48eba037fa34;PL;2030-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-3f2028a6-68cd-4b78-ad43-db0edd84fb21;PL;2030-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
-d299182d-fb5a-4e45-afa4-3778aeae3e65;PL;2030-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas;DS,KP,LB,LD,LU,MA,MZ,OP,PD,PK,PM,SK,SL,WN,WP,ZP
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+20937e1a-f364-4a16-b1e6-900892e51ec3;PL;2020-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+8ed37e36-f622-4231-b0bd-1cc18fe89bd8;PL;2020-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+73e3c457-adc3-4c77-9498-c3e8b5688c9e;PL;2020-04-12;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+4f6ca75e-8022-4ef0-bfe6-874474a4622f;PL;2020-04-13;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+d126e8f1-3d9a-4c41-a013-c5be6423e078;PL;2020-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+45a9a01e-3b36-4e69-958f-a34b1f60f0be;PL;2020-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+16542dc4-0450-458e-8538-746035b23cbc;PL;2020-05-31;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+1a0bb8c7-3f5e-4051-aece-87a0a35d31e2;PL;2020-06-11;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+8b48c90a-4c9d-45aa-abf3-b0625d775243;PL;2020-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+c3603339-33e8-467d-a4d0-840bf01715ae;PL;2020-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+a96bc379-842c-42e1-96d2-a6c39f8b2b4d;PL;2020-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+a7b866ea-a034-4415-bc8b-ab1873b4d7dd;PL;2020-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+57ae68bf-b940-4363-bf67-802b3f82896d;PL;2020-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
+770a025b-3402-484e-8e0a-7a67f7bb386b;PL;2021-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+8995c51d-cbc3-46d1-98a6-dd16b747cb7b;PL;2021-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+00b55ead-d7a5-4c88-8d24-dc85faf660de;PL;2021-04-04;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+e8172e79-a947-4825-a686-ed07ac39cf89;PL;2021-04-05;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+913014f8-91b6-4db5-8e64-915c24e9f147;PL;2021-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+17c7bff2-fdf7-4c6e-907f-509496081c94;PL;2021-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+608d4a05-2afc-4723-b230-74e3fa56c64b;PL;2021-05-23;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+1e46a2b4-e830-4480-a37b-8982fa0c6fd3;PL;2021-06-03;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+b50cf884-5752-44d2-957b-bf59a1891ef4;PL;2021-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+ae081164-146b-4c17-bf5d-4b78e4fa5518;PL;2021-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+aa491c2b-a9ec-4829-a6c1-3302a89ff332;PL;2021-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+88b7b5e9-338e-4710-ab42-8d05ab489407;PL;2021-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+e7689c9c-7e98-4b8d-9434-685d1e31e1fd;PL;2021-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
+d52fb264-e949-4db5-ba20-57a9e40b2f2c;PL;2022-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+b624a3fc-1b57-4f67-9ab7-4caaaba1bb73;PL;2022-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+d4692a02-51fa-42c7-aa7a-7f8db16cca58;PL;2022-04-17;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+948754d1-aa77-463b-8605-157cd034200f;PL;2022-04-18;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+95cfefdc-2ac8-45d8-92a2-8cbf45167643;PL;2022-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+01490c97-773a-40ec-b53e-528acd4e6413;PL;2022-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+d1bd6e94-53cf-46b3-8663-d731586d619c;PL;2022-06-05;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+194f3a83-10ed-4db3-8879-289c52a3a85e;PL;2022-06-16;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+53dd3dbd-ce73-4a3e-9020-1f323c5e537d;PL;2022-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+619c2638-9994-4549-9b2d-88122c079d05;PL;2022-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+ca479b3a-7ec4-42ae-ac85-87a5b50da0bc;PL;2022-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+e377aca2-d046-4813-a09b-43bc3475289f;PL;2022-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+6df3ccf5-efd2-4be6-9ee6-45722f0ff135;PL;2022-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
+9522a4c2-da21-4d04-a056-92d8694ffc0a;PL;2023-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+a598c823-bbfa-4950-9bf2-86484a1b181b;PL;2023-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+f68070d4-038c-41fa-936b-4b31bcaa36bd;PL;2023-04-09;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+ffa1352b-076f-4ebf-bd4b-ac94d7f9f272;PL;2023-04-10;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+9b341280-2c69-46fa-9491-6629ca756be9;PL;2023-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+b22b4113-b65a-4b06-a793-eb6e4eab9aab;PL;2023-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+688783a5-65ca-4dc5-b4db-fa93bc0201ad;PL;2023-05-28;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+55ef10bc-4a17-4171-8412-3253e725f58c;PL;2023-06-08;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+dbbb1b7c-9008-4921-ba71-1c29638937e4;PL;2023-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+40b1d5c7-b976-40ee-a872-8d4fed5be8bc;PL;2023-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+72cee06b-c376-48c5-a0da-7f091e4ec2ba;PL;2023-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+a18e7f48-26b7-4f1d-a463-fad5593c0505;PL;2023-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+e3967507-0b1c-4b08-a6db-28de0faee1a7;PL;2023-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
+a9b29578-37e1-4ae8-a553-ae064c984228;PL;2024-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+c843fa24-541d-4ee8-8e53-2902534fe536;PL;2024-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+2c671968-f33b-4b50-a9c4-6d054d87ed82;PL;2024-03-31;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+57151112-bec7-4313-8599-9a115b83dd2a;PL;2024-04-01;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+229f86ac-36ea-41f6-96e1-07e1a026004e;PL;2024-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+ba75183e-18bc-4839-9430-7282faedd649;PL;2024-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+e4463384-dcf4-42ce-b1cc-ff5839d21d00;PL;2024-05-19;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+1e8cdde8-6fe9-4c49-b49e-d5e8998719a8;PL;2024-05-30;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+90ab0136-47bb-4b0d-9c7d-29e800514923;PL;2024-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+0fcfbee0-7d47-4254-b8da-4ef476f92724;PL;2024-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+f99f0d3d-2012-45ab-9c1a-2af643dc7d86;PL;2024-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+bf326918-eaae-45b4-801f-805487b8c7d0;PL;2024-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+8efb0856-ea26-49b2-915e-3b9e41c95dab;PL;2024-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
+fff57559-d4b3-417d-8094-d8c29c2eea1e;PL;2025-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+c5dd54bd-057b-4975-9014-9c76f79a92a0;PL;2025-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+186f4a63-a587-4939-be15-b2e433b75c7c;PL;2025-04-20;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+c053556e-4a6a-49f1-9c09-5de751e1fbf9;PL;2025-04-21;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+ba5e31e4-3f4a-47cd-84fc-a428d496ae82;PL;2025-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+22da3934-57d2-4e76-90a6-87c20b5e605e;PL;2025-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+04fd6bb8-4db4-47c7-bfff-2d66955d1455;PL;2025-06-08;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+f7ce670d-7fe5-49ae-b589-2a34ecbe263e;PL;2025-06-19;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+affa912a-69f0-40c7-bd54-0d40221d3608;PL;2025-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+2cf85626-28c3-435d-bd03-9151a5d27eb6;PL;2025-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+cec00b5a-d3d6-4e79-9ec2-75b9f78f2c18;PL;2025-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+e1cc1566-6056-4994-baf6-11b6f775074f;PL;2025-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+7378c83a-9fde-4829-b6ec-dd7e4c80125e;PL;2025-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
+db812f37-e1e3-4e12-a787-984a19ce480b;PL;2026-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+a59baaa8-1aca-42f5-b029-73e92ddb6cde;PL;2026-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+4e222eda-0112-412a-a694-4521c5ac4aed;PL;2026-04-05;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+2f4711b8-2edd-4136-a6ee-52f46c633a2f;PL;2026-04-06;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+9cef5596-5b75-43bc-91a1-264c0b2a6d09;PL;2026-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+26aac8fe-797f-4cd1-8eab-c5778aab6f80;PL;2026-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+554709ce-051a-41b8-9d5c-ad8efb80d2dc;PL;2026-05-24;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+9865abcc-83c1-405e-ba4b-561502502d53;PL;2026-06-04;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+ea4e43ea-a326-43fa-8e39-e51ec2b85ac5;PL;2026-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+0e65fa49-ca82-43ee-bd44-9b8cfedf8ec0;PL;2026-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+1f9568e1-1f9a-4aec-8dd3-f5be6155031b;PL;2026-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+205423a7-f6d3-418f-8e11-b28382e550a4;PL;2026-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+2d419bad-922f-40ab-892e-de89e9919fbc;PL;2026-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
+0cbe1dd4-7ae7-4381-bb8a-106546949767;PL;2027-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+7daa2be5-a725-4935-a6f5-64ba85708a43;PL;2027-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+6b62243e-3d95-4fce-aa05-bf1913ed675a;PL;2027-03-28;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+cecbf2ca-bdd9-4c2b-b9e4-7ca0514c9e72;PL;2027-03-29;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+0605ad3b-2b78-4012-89ac-76b0c07a45fc;PL;2027-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+5c8962b6-1c6b-4f25-8a2f-c8355fe602f2;PL;2027-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+9679be12-0dc0-4ca7-8ef0-52ff5814268c;PL;2027-05-16;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+c8e318e2-1a2d-4ca8-bc27-7b4f38870112;PL;2027-05-27;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+3a9ff887-5ace-4fff-96bf-30c1740ddd38;PL;2027-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+031242f1-4e89-4902-a7b6-ecae8f224d2e;PL;2027-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+cbced817-9da9-47e8-8f75-55c851ffcd4b;PL;2027-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+c8250f85-0a49-4f74-82c9-9a2ce0fc3cb3;PL;2027-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+9ea40dd8-4ccf-4ebb-8dd0-f0665f928b62;PL;2027-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
+aac1134b-6eb9-4651-bd34-e8de0e7c52bf;PL;2028-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+99f3ae70-d13f-460b-91bb-8b065179e305;PL;2028-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+1d4c9aa8-4412-42b4-8188-3fb8973c560c;PL;2028-04-16;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+213bd5c7-7e87-43b0-9bf6-466e4ea9e010;PL;2028-04-17;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+fafe739a-96dc-4bc1-9030-b75116db134f;PL;2028-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+457aceef-dbfc-44b9-a14c-813d8fb004bb;PL;2028-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+fcbe7b4a-b260-46f6-bafd-ad1ace9c1666;PL;2028-06-04;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+96f7f40d-a3fc-439b-b76d-04004cbdf6ad;PL;2028-06-15;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+44e1b8c5-0390-4527-bf4a-dfd1d9c48f45;PL;2028-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+6c843412-de2c-4528-899d-78c001b22c4a;PL;2028-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+6ea5e190-22a1-4e00-b004-ed336bee1100;PL;2028-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+245e462f-bc1d-4328-b8cb-faf502dba8fe;PL;2028-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+0c7cf6f5-de8f-4fc7-b99e-1764ae578808;PL;2028-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
+cfd168db-6ccf-4cd1-b02c-ba6da36e8640;PL;2029-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+09f214bf-effc-4f04-9651-baebd1363097;PL;2029-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+822e1e2a-940b-4d24-8963-4880c4bc6782;PL;2029-04-01;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+7547ef71-aee7-43e0-8051-b55fabdbdf11;PL;2029-04-02;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+6622b128-ebdb-4482-9c93-053a76d57578;PL;2029-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+05739d6e-c0fa-4d94-b88a-eb837e5ccccf;PL;2029-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+c7e27c11-e45e-4a33-8a11-8fdc7633db76;PL;2029-05-20;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+53552b5a-838d-4f69-bb9c-c2e7671112b1;PL;2029-05-31;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+9eada9f1-d12d-487a-8fd2-6e92d870909c;PL;2029-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+516ab379-8b6e-4f36-ad2e-77691f1d45bc;PL;2029-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+8b92b184-6187-4309-9d05-c5863b777343;PL;2029-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+69c8d850-60a1-4c9e-a4ff-42f01f7f5362;PL;2029-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+a9aa198b-5c41-4515-b50e-18368c8a6440;PL;2029-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
+bf8d2eab-0457-4630-a33c-a1cfc5a5cdcd;PL;2030-01-01;;Public;National;PL Nowy Rok,DE Neujahr,EN New Year's Day
+d621448a-fe03-46b7-9f94-07872c59064a;PL;2030-01-06;;Public;National;PL Święto Trzech Króli,DE Heilige Drei Könige,EN Epiphany
+898206b3-4306-406b-acfd-1e5cc156cc62;PL;2030-04-21;;Public;National;PL Wielkanoc,DE Ostersonntag,EN Easter Sunday
+c596bb0d-e64e-4e9a-9e2d-2c88a3fe5ad3;PL;2030-04-22;;Public;National;PL Drugi Dzień Wielkanocy,DE Ostermontag,EN Easter Monday
+7808d8ba-1ad4-44fb-b08c-d0b5cc1e0c25;PL;2030-05-01;;Public;National;PL Święto Pracy,DE Tag der Arbeit,EN Labour Day
+cfec7210-5756-4729-8765-ec9b0f2288dc;PL;2030-05-03;;Public;National;PL Święto Narodowe Trzeciego Maja,DE Nationalfeiertag,EN Constitution Day
+c2dc3257-a2ab-4fb4-9b0f-b8338c604ae6;PL;2030-06-09;;Public;National;PL Zielone Świątki,DE Pfingsten,EN Pentecost
+d885aa26-40ad-4287-84ff-f6b3169ce573;PL;2030-06-20;;Public;National;PL Boże Ciało,DE Fronleichnam,EN Corpus Christi
+6426c6c4-107d-4672-ad07-f57e3e7cd3f3;PL;2030-08-15;;Public;National;PL Wniebowzięcie Najświętszej Maryi Panny,DE Mariä Himmelfahrt,EN Assumption Day
+4fc52add-42a1-44a8-b60c-9322667ebba7;PL;2030-11-01;;Public;National;PL Wszystkich Świętych,DE Allerheiligen,EN All Saints' Day
+a7fe88de-ac39-417d-897b-48eba037fa34;PL;2030-11-11;;Public;National;PL Narodowe Święto Niepodległości,DE Nationaler Unabhängigkeitstag,EN Independence Day
+3f2028a6-68cd-4b78-ad43-db0edd84fb21;PL;2030-12-25;;Public;National;PL Boże Narodzenie,DE Weihnachten,EN Christmas Day
+d299182d-fb5a-4e45-afa4-3778aeae3e65;PL;2030-12-26;;Public;National;PL Drugi Dzień Bożego Narodzenia,DE Zweiter Weihnachtsfeiertag,EN 2nd Day of Christmas
