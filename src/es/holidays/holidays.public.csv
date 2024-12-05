@@ -255,6 +255,7 @@ d55fcd95-149c-48a2-b779-0ee71bfab7e1;ES;2025-05-30;;Public;Regional;ES Día de C
 97e08be2-01d4-45a3-aa9c-29cc73ad6538;ES;2025-05-31;;Public;Regional;ES Día de Castilla-La Mancha,CA Dia de Castella-la Manxa,EN Regional Holiday in Castilla-La Mancha,DE Regionaler Feiertag in Kastilien-La Mancha;CM
 d94dd43d-92c5-4976-97a5-d75719714aa9;ES;2025-06-06;;Public;Regional;ES Fiesta del Sacrificio (Eid al-Adha),CA Festa del Sacrifici (Eid al-Adha),DE Opferfest (Eid al-Adha),EN Feast of Sacrifice (Eid al-Adha);CE,ML
 ef17b897-fd30-4c5e-981c-8d6c66e38101;ES;2025-06-09;;Public;Regional;ES Día de La Rioja,CA Dia de La Rioja,EN Regional Holiday in La Rioja ,DE Regionaler Feiertag in La Rioja;RI
+72da2df3-38e5-4831-aa60-1dad5ae2af32;ES;2025-06-09;;Public;Regional;ES Día de la Región de Murcia,CA Dia de la Regió de Múrcia,EN Regional Holiday in Murcia,DE Regionaler Feiertag in Murcia;MC
 b333ab78-fa3f-40d5-ad36-3fc9adb8708a;ES;2025-06-13;;Public;Local;ES San Antonio,CA Sant Antoni,EN St Anthony,DE St. Antonius;CE
 4e4479c3-9478-4336-be46-dfbe53dbb224;ES;2025-06-17;;Public;Regional;ES Fiesta del Sacrificio (Eid al-Adha),CA Festa del Sacrifici (Eid al-Adha),DE Opferfest (Eid al-Adha),EN Feast of Sacrifice (Eid al-Adha);CE,ML
 142da05b-db8b-472a-bb4e-57b3fe962dfa;ES;2025-06-19;;Public;Regional;ES Corpus Christi,CA Corpus Christi,EN Corpus Christi,DE Fronleichnam;CM
@@ -278,7 +279,7 @@ db4ebbc7-9754-4590-b76f-77c3ba099b94;ES;2025-09-19;;Public;Local;ES Nuestra Señ
 b1ce24aa-e2d0-49aa-a2b9-89185bf5fd3c;ES;2025-10-06;;Public;Local;ES Nuestra Señora de Guadalupe,CA La nostra Senyora de Guadalupe;CN-SC-LG
 b15ae718-a273-4577-b84b-042507779df6;ES;2025-10-09;;Public;Regional;ES Día de la Comunitat Valenciana,CA Dia de la Comunitat Valenciana,EN Regional Holiday in Valencia,DE Regionaler Feiertag in Valencia;VC
 f3a25de3-5f9d-4178-9337-84f84a6048ed;ES;2025-10-12;;Public;National;ES Fiesta Nacional de España,CA Diada Nacional d'Espanya,EN Spanish National Day,DE Spanischer Nationalfeiertag;
-e179a546-025e-4861-b53c-81153e6a567b;ES;2025-10-13;;Public;Regional;ES Lunes siguiente al Fiesta Nacional de España,CA Dilluns següent al Diada Nacional d'Espanya,EN Monday following the Spanish National Day,DE Montag nach dem Spanischen Nationalfeiertag;AN,AR
+e179a546-025e-4861-b53c-81153e6a567b;ES;2025-10-13;;Public;Regional;ES Lunes siguiente al Fiesta Nacional de España,CA Dilluns següent al Diada Nacional d'Espanya,EN Monday following the Spanish National Day,DE Montag nach dem Spanischen Nationalfeiertag;AN,AR,AS
 185789bd-0d89-4ff5-84e4-c9f256726feb;ES;2025-11-01;;Public;National;ES Todos los Santos,CA Tots Sants,EN All Saints' Day,DE Allerheiligen;
 1f2fde8f-2328-4479-9497-fa76be44aa96;ES;2025-12-03;;Public;Local;ES San Francisco Javier,CA Sant Francesc Xavier,EN San Francisco Javier,DE San Francisco Javier;NC
 a580c034-b388-4267-9566-47280dcf8f00;ES;2025-12-06;;Public;National;ES Día de la Constitución Española,CA Dia de la Constitució Espanyola,EN Constitution Day,DE Tag der spanischen Verfassung;
