@@ -1,7 +1,7 @@
 ﻿IsoCode;Name
 BE;EN Belarusian,BE беларускі,DE Belarussisch
 BG;EN Bulgarian,BG Български,DE Bulgarisch
-CA;EN Catalan,CA Català,ES Catalán,DE Katalanisch	
+CA;EN Catalan,CA Català,ES Catalán,DE Katalanisch
 CS;EN Czech,CS Česky,DE Tschechisch
 DE;EN German,DE Deutsch
 EN;EN English,DE Englisch
@@ -24,6 +24,7 @@ PT;EN Portuguese,PT Português,DE Portugiesisch
 RM;EN Romansh,RM Rumantsch,DE Rätoromanisch
 RO;EN Romanian,RO Limba română,DE Rumänisch
 RU;EN Russian,RU Русский,DE Russisch
+SV;EN Swedish,SV Svenska,DE Schwedisch
 SK;EN Slovak,SK Slovenský,DE Slowakisch
 SL;EN Slovenian,SL Slovenski,DE Slowenisch
 SQ;EN Albanian,SQ shqip,DE Albanisch

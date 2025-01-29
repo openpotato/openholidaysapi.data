@@ -1,0 +1,22 @@
+﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
+SE;SE-AB;SE-AB;AB;SV län,EN county;SV Stockholms,EN Stockholm;SV;
+SE;SE-AC;SE-BE;BE;SV län,EN county;SV Västerbottens,EN Västerbotten;SV;
+SE;SE-BD;SE-BW;BW;SV län,EN county;SV Norrbottens,EN Norrbotten;SV;
+SE;SE-C;SE-C;C;SV län,EN county;SV Uppsala,EN Uppsala;SV;
+SE;SE-D;SE-D;D;SV län,EN county;SV Södermanlands,EN Södermanland;SV;
+SE;SE-E;SE-E;E;SV län,EN county;SV Östergötlands,EN Östergötland;SV;
+SE;SE-F;SE-F;F;SV län,EN county;SV Jönköpings,EN Jönköping;SV;
+SE;SE-G;SE-G;G;SV län,EN county;SV Kronobergs,EN Kronoberg;SV;
+SE;SE-H;SE-H;H;SV län,EN county;SV Kalmar,EN Kalmar;SV;
+SE;SE-I;SE-I;I;SV län,EN county;SV Gotlands,EN Gotland;SV;
+SE;SE-K;SE-K;K;SV län,EN county;SV Blekinge,EN Blekinge;SV;
+SE;SE-M;SE-M;M;SV län,EN county;SV Skåne,EN Skåne;SV;
+SE;SE-N;SE-N;N;SV län,EN county;SV Hallands,EN Halland;SV;
+SE;SE-O;SE-O;O;SV län,EN county;SV Västra Götalands,EN Västra Götaland;SV;
+SE;SE-S;SE-S;S;SV län,EN county;SV Värmlands,EN Värmland;SV;
+SE;SE-T;SE-T;T;SV län,EN county;SV Örebro,EN Örebro;SV;
+SE;SE-U;SE-U;U;SV län,EN county;SV Västmanlands,EN Västmanland;SV;
+SE;SE-W;SE-W;W;SV län,EN county;SV Dalarnas,EN Dalarna;SV;
+SE;SE-X;SE-X;X;SV län,EN county;SV Gävleborgs,EN Gävleborg;SV;
+SE;SE-Y;SE-Y;Y;SV län,EN county;SV Västernorrlands,EN Västernorrland;SV;
+SE;SE-Z;SE-Z;Z;SV län,EN county;SV Jämtlands ,EN Jämtland;SV;
