@@ -1,144 +1,144 @@
 ﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
-aa01b665-0a9f-48c0-a655-9853fb4eb5af;SE;2020-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-57a6f1e9-0757-4ff5-a49d-6d72a2124f51;SE;2020-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-0b4f9c8e-d3ea-44ec-8fe4-61711c2aeeb5;SE;2020-04-10;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-909d932c-5eff-4dce-890d-421529ed1016;SE;2020-04-12;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-123a2c9c-490e-4bbf-8153-4d97191e5cc6;SE;2020-04-13;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-5e6600f0-3058-4966-8dde-77ae1303ab48;SE;2020-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-bbecf665-5693-4f0f-b34d-961c028ff9bd;SE;2020-05-21;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-86643225-a750-4490-92f1-22b0810f8e77;SE;2020-05-31;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-be8bd581-2075-4d27-95af-cf6c49f40e24;SE;2020-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-45d03d84-a89e-499f-8795-1b9feaa22709;SE;2020-06-20;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-2ad2b2bd-756e-4f2e-9e20-4a906fba3583;SE;2020-10-31;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-4cacf042-6b34-4146-b539-671d6e9ce181;SE;2020-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-2ee6b5d5-1ab9-42b1-9fcd-3ea71961447d;SE;2020-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
-1d393028-f860-4187-b8be-a762e61f97c8;SE;2021-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-08f8504c-9a54-47c5-aff1-f248f0621c11;SE;2021-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-edb8df36-f978-4aca-af0e-b2d1627fd3be;SE;2021-04-02;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-ad14072d-ef72-4e50-82e7-f91e7e892f5e;SE;2021-04-04;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-7cc0aa80-b9c8-4118-a8cf-a93560412a66;SE;2021-04-05;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-100eacfe-2f77-4aab-b215-5505254f0e3f;SE;2021-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-76e881ec-cab6-48c4-982a-fb1251a57c26;SE;2021-05-13;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-27c1f864-d7f9-4327-a672-7a92d347ccdc;SE;2021-05-23;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-003257b6-565a-45b4-9051-6b0551240ec3;SE;2021-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-56f65cef-83a9-48cd-9a1a-e1c9d5afe720;SE;2021-06-26;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-8e0c888f-0034-4f9e-af0f-8bc72d8563ab;SE;2021-11-06;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-e48bd623-1216-48be-a1c6-aedfca3a1432;SE;2021-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-3825e080-51b3-4532-9856-6ab69cd33372;SE;2021-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
-c2d193d2-e3cf-45a5-aae5-2845823b3f5e;SE;2022-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-c184b0ae-15c8-49b1-8294-e15ffd6f7209;SE;2022-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-8f2f79c9-b221-411b-a08d-a51ec403012f;SE;2022-04-15;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-7ba7be25-f1d7-42d7-ab05-e4dcd640d71c;SE;2022-04-17;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-8cd6d773-50e6-4bb2-a379-014aa56daed3;SE;2022-04-18;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-8db3819f-14e7-4150-9073-c47ceacb5619;SE;2022-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-a0e4fbb6-6db4-4a92-9c71-740c42295855;SE;2022-05-26;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-a1f7bb14-5dd3-4067-b0d2-d91666463957;SE;2022-06-05;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-be21f81b-de01-4414-b37c-f259e5d035ba;SE;2022-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-a94b3657-e444-4783-a332-c0a4a43d8c1d;SE;2022-06-25;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-b4154126-a4b1-4a06-a71c-49adb0ea31c9;SE;2022-11-05;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-14d26645-1277-446e-af28-9c1d71e03f57;SE;2022-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-084a9194-fc9a-4b8e-a4b5-c5c445294462;SE;2022-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
-6b82a526-711f-4a41-b68b-b68ddb3bdc8c;SE;2023-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-78389eca-8f9c-4e90-889b-17eb2c40c5ab;SE;2023-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-4e51dab5-c2c4-4e06-a417-4a866b8faebb;SE;2023-04-07;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-eb83d587-e44a-48c6-bd9e-0f1340808f8d;SE;2023-04-09;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-66a3da32-8493-4147-88ec-00afe89f7447;SE;2023-04-10;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-d75433ff-4587-40ea-b32a-eedf47d22b28;SE;2023-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-f237bb04-483f-4ff4-84e4-e101cbed4ec7;SE;2023-05-18;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-dadb4436-68c6-4656-a21b-4f76c1c7c74c;SE;2023-05-28;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-9f4a01f2-8499-4370-8272-abc1a2571c5c;SE;2023-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-1172baf6-dc73-48d6-ae28-8ca72d7823be;SE;2023-06-24;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-7fa9d08a-31d2-46df-8cdc-b42b22010efa;SE;2023-11-04;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-0c8899b0-6daa-4393-af7b-4bcb14836d09;SE;2023-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-01ade76a-82e5-4a52-8648-050f538f31de;SE;2023-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
-d303dbcd-1e73-46b5-adfe-42053ef0a095;SE;2024-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-2621d001-e6e3-4a4c-9578-4c247aa5902d;SE;2024-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-a082b311-21c5-4d1c-83da-b952838fee57;SE;2024-03-29;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-b950d1e9-b19e-4f79-b7fe-467cecde8e0a;SE;2024-03-31;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-810f017b-65ca-47d3-9328-83ba411e6f85;SE;2024-04-01;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-d00454d5-afbe-420f-ab30-1a77d49a7d0d;SE;2024-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-f3594532-6568-44eb-8cbf-07a9e0fee312;SE;2024-05-09;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-f3d20b09-fa5d-4784-af34-ef3107640b95;SE;2024-05-19;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-5def3009-653d-4cb5-a698-32a06b0f62b1;SE;2024-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-c83ba6b3-531f-4e27-ba69-0f20ec3194b3;SE;2024-06-22;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-b43307a3-c467-4971-8544-1bad19874240;SE;2024-11-02;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-a45c7b75-eb71-47b9-adbb-dd8631f9ccd0;SE;2024-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-94d55d12-7f13-4270-853b-dc4f5f01765e;SE;2024-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
-61ba2496-1aaa-4a4f-b9d5-4fd4e54a20d6;SE;2025-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-340ef90d-3d10-4be2-b059-1a74f7d73e99;SE;2025-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-a9dd2888-8ea8-4730-9a78-b6dee4dd4011;SE;2025-04-18;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-90e1d903-8ec0-4965-8b3c-fbb1ec826f73;SE;2025-04-20;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-3cce529e-831b-4f01-b228-60382c89b7ff;SE;2025-04-21;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-78403552-e5bb-4ee9-9c24-352380279a8f;SE;2025-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-f9c7a8ea-795f-4f5a-bd30-72951f0bef53;SE;2025-05-29;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-6f232c9f-30cd-4df1-bd11-2e60f02a7904;SE;2025-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-4a526565-0b6c-4df5-9f2c-0c690afce2c0;SE;2025-06-08;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-c957e41e-4e5b-452b-a1fa-265a429cb45c;SE;2025-06-21;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-a782e52d-52c7-42ca-8b0e-30a2db6fa991;SE;2025-11-01;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-12c674c3-9286-4864-ae5a-e5335ceeed0b;SE;2025-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-0409eac2-c135-4473-93fe-b4390a0a90cf;SE;2025-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
-a25bab03-df30-45ed-97f5-b734dd3fd3c5;SE;2026-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-78dc72e3-97c1-41ae-bbb3-ac52f21f7e94;SE;2026-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-cf363fbc-55df-465c-a322-c146a660522e;SE;2026-04-03;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-ba6d376a-201d-4d0d-abfe-2ecd321f2571;SE;2026-04-05;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-ffb9746f-9740-42d2-a846-34e33ff9aac8;SE;2026-04-06;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-92cd3125-9b09-4f80-ab3d-719fc041a1b8;SE;2026-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-8de790ae-4db2-4293-b82a-74403e2dc368;SE;2026-05-14;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-7ba894e6-d895-4dc1-93ee-adf613845b51;SE;2026-05-24;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-6320f58a-d61c-481a-82b2-df04da6898b9;SE;2026-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-a08e2933-331e-49a7-80e1-2bf3ce6d2436;SE;2026-06-20;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-36d76fab-9828-415c-b273-5d4a61f69c7d;SE;2026-10-31;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-c01c27f5-b7f8-4b33-8d51-04a580dcbbd8;SE;2026-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-72510eea-ee7e-44e4-a466-77d8efd1e18a;SE;2026-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
-986bcf7f-6452-443b-888e-c0a0b2f03124;SE;2027-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-a3332b09-6c0a-4083-87c0-d317d32bfcc5;SE;2027-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-4cc91f7b-14a6-44a8-b07c-04abfc848a8e;SE;2027-03-26;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-e0662704-0f04-48df-a65f-8ece89f34e79;SE;2027-03-28;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-395a4540-7ee6-490a-95eb-65d18206a765;SE;2027-03-29;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-aa21ee2f-2cd3-4de4-84b3-c697992a31fd;SE;2027-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-bf29018c-f339-4685-990c-d489ddafaa74;SE;2027-05-06;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-bc342aa1-8448-4f87-bb5c-a4db4ef38346;SE;2027-05-16;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-980ce671-010e-40e0-94fd-14630b4abf09;SE;2027-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-e8eed3b7-3f3b-4393-81da-799785442815;SE;2027-06-26;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-496da2be-539c-430e-86a9-995f0b4b99c2;SE;2027-11-06;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-91482391-7f1b-4355-98a5-99badbe02c95;SE;2027-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-9621b072-eff2-416b-ad3b-3289f0ad801a;SE;2027-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
-bbf25532-c027-4f20-b6dc-0fcd3901e30c;SE;2028-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-8002f740-a0e5-49d0-9c63-120815a4205a;SE;2028-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-1f8dd264-ec74-46b7-847c-dfe67d37b4e3;SE;2028-04-14;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-c6b3093a-dd83-463d-b5ca-06ccf2ac9be4;SE;2028-04-16;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-4dd83191-5848-4a1c-be7e-ee6fba02a973;SE;2028-04-17;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-40de8852-de19-46ce-a3b8-4be6130f3f8c;SE;2028-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-26e5bf51-25b7-4f24-8625-c19d43f07fcf;SE;2028-05-25;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-6c634040-d6b4-464b-91c8-a1df41b45ef7;SE;2028-06-04;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-4103ec4a-006a-468f-b703-b162764765b2;SE;2028-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-3fed9f05-19f1-49db-9eab-f297ba02a158;SE;2028-06-24;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-1b31fed9-f1c0-47a6-8e52-bb47935b2f65;SE;2028-11-04;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-102283b9-0956-40f4-83ff-e065eb3538c9;SE;2028-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-617dd41c-5602-426d-9b8f-74e6a43f3a20;SE;2028-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
-8d51e50c-0c70-407b-8d39-6bfa9a7cf2a6;SE;2029-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-0a52b3d3-f3c5-4bf8-8911-574e9a9c6f73;SE;2029-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-e0bd5003-1e48-4a5c-a441-d1114c4ce002;SE;2029-03-30;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-47ec5455-d1c3-4fd0-8ae1-a78940e63fce;SE;2029-04-01;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-ab3144f9-ac3a-47db-9ff2-c6d60f262f0a;SE;2029-04-02;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-5df8394e-f362-49f4-8349-c0f08efe89a2;SE;2029-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-d9b00a90-d596-4e0c-84fa-109460d56730;SE;2029-05-10;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-cbfa42a7-5e4d-4d9e-96d1-0c80a8c5ad05;SE;2029-05-20;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-c922d9d7-a95a-43e3-afca-21d48d254653;SE;2029-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-1f140760-2740-4fe5-9be8-840555ef3283;SE;2029-06-23;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-bf348995-2539-4eda-98f3-8d52e31ba9cc;SE;2029-11-03;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-ae4be02d-ab3d-41da-837f-56fc41e5396b;SE;2029-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-b8daa394-ca9e-4889-b915-e685b4ec3d01;SE;2029-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
-6d75f2ff-f006-43eb-a8ba-ee5344260472;SE;2030-01-01;;Public;National;SE Nyårsdagen,DE Neujahr,EN New Year's Day
-d92f77b3-b890-411c-bb9c-c129e83d06b2;SE;2030-01-06;;Public;National;SE Trettondedag jul,DE Dreikönigsfest,EN Epiphany
-afa0404d-476c-4258-b51c-4b7ae073381c;SE;2030-04-19;;Public;National;SE Långfredagen,DE Karfreitag,EN Good Friday
-ba107902-1bea-47b3-bdb7-58b24e0c65e6;SE;2030-04-21;;Public;National;SE Påskdagen,DE Ostersonntag,EN Easter Sunday
-3a259fbf-a89c-4dd4-8120-5efd9435f72c;SE;2030-04-22;;Public;National;SE Annandag påsk,DE Ostermontag,EN Easter Monday
-82ffd5cf-f2b2-48e5-aa2b-6448a470ec68;SE;2030-05-01;;Public;National;SE Första maj,DE Tag der Arbeit,EN Labour Day
-17bc1797-834d-4256-840c-b8dde5871213;SE;2030-05-30;;Public;National;SE Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
-05acb477-5e40-4043-9f6c-dd2a1594079d;SE;2030-06-06;;Public;National;SE Nationaldagen,DE Nationalfeiertag,EN National Day
-7c5a3666-1683-4447-93ad-750f6baf6701;SE;2030-06-09;;Public;National;SE Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
-0a14c75f-8879-4b60-afa4-5bc5d8c0fdf9;SE;2030-06-22;;Public;National;SE Midsommardagen,DE Mittsommer,EN Midsummer Day
-34150790-4320-404d-9837-4423a6a5e05b;SE;2030-11-02;;Public;National;SE Alla helgons dag,DE Allerheiligen,EN All Saints' Day
-27fa3639-d34c-4511-90ba-8edf73f4a144;SE;2030-12-25;;Public;National;SE Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
-f8816e74-55a3-48cf-87db-4a6b37123d22;SE;2030-12-26;;Public;National;SE Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+aa01b665-0a9f-48c0-a655-9853fb4eb5af;SE;2020-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+57a6f1e9-0757-4ff5-a49d-6d72a2124f51;SE;2020-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+0b4f9c8e-d3ea-44ec-8fe4-61711c2aeeb5;SE;2020-04-10;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+909d932c-5eff-4dce-890d-421529ed1016;SE;2020-04-12;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+123a2c9c-490e-4bbf-8153-4d97191e5cc6;SE;2020-04-13;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+5e6600f0-3058-4966-8dde-77ae1303ab48;SE;2020-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+bbecf665-5693-4f0f-b34d-961c028ff9bd;SE;2020-05-21;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+86643225-a750-4490-92f1-22b0810f8e77;SE;2020-05-31;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+be8bd581-2075-4d27-95af-cf6c49f40e24;SE;2020-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+45d03d84-a89e-499f-8795-1b9feaa22709;SE;2020-06-20;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+2ad2b2bd-756e-4f2e-9e20-4a906fba3583;SE;2020-10-31;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+4cacf042-6b34-4146-b539-671d6e9ce181;SE;2020-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+2ee6b5d5-1ab9-42b1-9fcd-3ea71961447d;SE;2020-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+1d393028-f860-4187-b8be-a762e61f97c8;SE;2021-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+08f8504c-9a54-47c5-aff1-f248f0621c11;SE;2021-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+edb8df36-f978-4aca-af0e-b2d1627fd3be;SE;2021-04-02;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+ad14072d-ef72-4e50-82e7-f91e7e892f5e;SE;2021-04-04;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+7cc0aa80-b9c8-4118-a8cf-a93560412a66;SE;2021-04-05;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+100eacfe-2f77-4aab-b215-5505254f0e3f;SE;2021-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+76e881ec-cab6-48c4-982a-fb1251a57c26;SE;2021-05-13;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+27c1f864-d7f9-4327-a672-7a92d347ccdc;SE;2021-05-23;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+003257b6-565a-45b4-9051-6b0551240ec3;SE;2021-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+56f65cef-83a9-48cd-9a1a-e1c9d5afe720;SE;2021-06-26;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+8e0c888f-0034-4f9e-af0f-8bc72d8563ab;SE;2021-11-06;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+e48bd623-1216-48be-a1c6-aedfca3a1432;SE;2021-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+3825e080-51b3-4532-9856-6ab69cd33372;SE;2021-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+c2d193d2-e3cf-45a5-aae5-2845823b3f5e;SE;2022-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+c184b0ae-15c8-49b1-8294-e15ffd6f7209;SE;2022-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+8f2f79c9-b221-411b-a08d-a51ec403012f;SE;2022-04-15;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+7ba7be25-f1d7-42d7-ab05-e4dcd640d71c;SE;2022-04-17;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+8cd6d773-50e6-4bb2-a379-014aa56daed3;SE;2022-04-18;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+8db3819f-14e7-4150-9073-c47ceacb5619;SE;2022-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+a0e4fbb6-6db4-4a92-9c71-740c42295855;SE;2022-05-26;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+a1f7bb14-5dd3-4067-b0d2-d91666463957;SE;2022-06-05;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+be21f81b-de01-4414-b37c-f259e5d035ba;SE;2022-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+a94b3657-e444-4783-a332-c0a4a43d8c1d;SE;2022-06-25;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+b4154126-a4b1-4a06-a71c-49adb0ea31c9;SE;2022-11-05;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+14d26645-1277-446e-af28-9c1d71e03f57;SE;2022-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+084a9194-fc9a-4b8e-a4b5-c5c445294462;SE;2022-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+6b82a526-711f-4a41-b68b-b68ddb3bdc8c;SE;2023-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+78389eca-8f9c-4e90-889b-17eb2c40c5ab;SE;2023-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+4e51dab5-c2c4-4e06-a417-4a866b8faebb;SE;2023-04-07;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+eb83d587-e44a-48c6-bd9e-0f1340808f8d;SE;2023-04-09;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+66a3da32-8493-4147-88ec-00afe89f7447;SE;2023-04-10;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+d75433ff-4587-40ea-b32a-eedf47d22b28;SE;2023-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+f237bb04-483f-4ff4-84e4-e101cbed4ec7;SE;2023-05-18;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+dadb4436-68c6-4656-a21b-4f76c1c7c74c;SE;2023-05-28;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+9f4a01f2-8499-4370-8272-abc1a2571c5c;SE;2023-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+1172baf6-dc73-48d6-ae28-8ca72d7823be;SE;2023-06-24;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+7fa9d08a-31d2-46df-8cdc-b42b22010efa;SE;2023-11-04;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+0c8899b0-6daa-4393-af7b-4bcb14836d09;SE;2023-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+01ade76a-82e5-4a52-8648-050f538f31de;SE;2023-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+d303dbcd-1e73-46b5-adfe-42053ef0a095;SE;2024-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+2621d001-e6e3-4a4c-9578-4c247aa5902d;SE;2024-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+a082b311-21c5-4d1c-83da-b952838fee57;SE;2024-03-29;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+b950d1e9-b19e-4f79-b7fe-467cecde8e0a;SE;2024-03-31;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+810f017b-65ca-47d3-9328-83ba411e6f85;SE;2024-04-01;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+d00454d5-afbe-420f-ab30-1a77d49a7d0d;SE;2024-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+f3594532-6568-44eb-8cbf-07a9e0fee312;SE;2024-05-09;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+f3d20b09-fa5d-4784-af34-ef3107640b95;SE;2024-05-19;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+5def3009-653d-4cb5-a698-32a06b0f62b1;SE;2024-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+c83ba6b3-531f-4e27-ba69-0f20ec3194b3;SE;2024-06-22;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+b43307a3-c467-4971-8544-1bad19874240;SE;2024-11-02;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+a45c7b75-eb71-47b9-adbb-dd8631f9ccd0;SE;2024-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+94d55d12-7f13-4270-853b-dc4f5f01765e;SE;2024-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+61ba2496-1aaa-4a4f-b9d5-4fd4e54a20d6;SE;2025-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+340ef90d-3d10-4be2-b059-1a74f7d73e99;SE;2025-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+a9dd2888-8ea8-4730-9a78-b6dee4dd4011;SE;2025-04-18;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+90e1d903-8ec0-4965-8b3c-fbb1ec826f73;SE;2025-04-20;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+3cce529e-831b-4f01-b228-60382c89b7ff;SE;2025-04-21;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+78403552-e5bb-4ee9-9c24-352380279a8f;SE;2025-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+f9c7a8ea-795f-4f5a-bd30-72951f0bef53;SE;2025-05-29;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+6f232c9f-30cd-4df1-bd11-2e60f02a7904;SE;2025-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+4a526565-0b6c-4df5-9f2c-0c690afce2c0;SE;2025-06-08;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+c957e41e-4e5b-452b-a1fa-265a429cb45c;SE;2025-06-21;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+a782e52d-52c7-42ca-8b0e-30a2db6fa991;SE;2025-11-01;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+12c674c3-9286-4864-ae5a-e5335ceeed0b;SE;2025-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+0409eac2-c135-4473-93fe-b4390a0a90cf;SE;2025-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+a25bab03-df30-45ed-97f5-b734dd3fd3c5;SE;2026-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+78dc72e3-97c1-41ae-bbb3-ac52f21f7e94;SE;2026-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+cf363fbc-55df-465c-a322-c146a660522e;SE;2026-04-03;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+ba6d376a-201d-4d0d-abfe-2ecd321f2571;SE;2026-04-05;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+ffb9746f-9740-42d2-a846-34e33ff9aac8;SE;2026-04-06;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+92cd3125-9b09-4f80-ab3d-719fc041a1b8;SE;2026-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+8de790ae-4db2-4293-b82a-74403e2dc368;SE;2026-05-14;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+7ba894e6-d895-4dc1-93ee-adf613845b51;SE;2026-05-24;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+6320f58a-d61c-481a-82b2-df04da6898b9;SE;2026-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+a08e2933-331e-49a7-80e1-2bf3ce6d2436;SE;2026-06-20;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+36d76fab-9828-415c-b273-5d4a61f69c7d;SE;2026-10-31;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+c01c27f5-b7f8-4b33-8d51-04a580dcbbd8;SE;2026-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+72510eea-ee7e-44e4-a466-77d8efd1e18a;SE;2026-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+986bcf7f-6452-443b-888e-c0a0b2f03124;SE;2027-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+a3332b09-6c0a-4083-87c0-d317d32bfcc5;SE;2027-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+4cc91f7b-14a6-44a8-b07c-04abfc848a8e;SE;2027-03-26;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+e0662704-0f04-48df-a65f-8ece89f34e79;SE;2027-03-28;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+395a4540-7ee6-490a-95eb-65d18206a765;SE;2027-03-29;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+aa21ee2f-2cd3-4de4-84b3-c697992a31fd;SE;2027-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+bf29018c-f339-4685-990c-d489ddafaa74;SE;2027-05-06;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+bc342aa1-8448-4f87-bb5c-a4db4ef38346;SE;2027-05-16;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+980ce671-010e-40e0-94fd-14630b4abf09;SE;2027-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+e8eed3b7-3f3b-4393-81da-799785442815;SE;2027-06-26;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+496da2be-539c-430e-86a9-995f0b4b99c2;SE;2027-11-06;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+91482391-7f1b-4355-98a5-99badbe02c95;SE;2027-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+9621b072-eff2-416b-ad3b-3289f0ad801a;SE;2027-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+bbf25532-c027-4f20-b6dc-0fcd3901e30c;SE;2028-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+8002f740-a0e5-49d0-9c63-120815a4205a;SE;2028-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+1f8dd264-ec74-46b7-847c-dfe67d37b4e3;SE;2028-04-14;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+c6b3093a-dd83-463d-b5ca-06ccf2ac9be4;SE;2028-04-16;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+4dd83191-5848-4a1c-be7e-ee6fba02a973;SE;2028-04-17;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+40de8852-de19-46ce-a3b8-4be6130f3f8c;SE;2028-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+26e5bf51-25b7-4f24-8625-c19d43f07fcf;SE;2028-05-25;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+6c634040-d6b4-464b-91c8-a1df41b45ef7;SE;2028-06-04;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+4103ec4a-006a-468f-b703-b162764765b2;SE;2028-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+3fed9f05-19f1-49db-9eab-f297ba02a158;SE;2028-06-24;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+1b31fed9-f1c0-47a6-8e52-bb47935b2f65;SE;2028-11-04;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+102283b9-0956-40f4-83ff-e065eb3538c9;SE;2028-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+617dd41c-5602-426d-9b8f-74e6a43f3a20;SE;2028-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+8d51e50c-0c70-407b-8d39-6bfa9a7cf2a6;SE;2029-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+0a52b3d3-f3c5-4bf8-8911-574e9a9c6f73;SE;2029-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+e0bd5003-1e48-4a5c-a441-d1114c4ce002;SE;2029-03-30;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+47ec5455-d1c3-4fd0-8ae1-a78940e63fce;SE;2029-04-01;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+ab3144f9-ac3a-47db-9ff2-c6d60f262f0a;SE;2029-04-02;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+5df8394e-f362-49f4-8349-c0f08efe89a2;SE;2029-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+d9b00a90-d596-4e0c-84fa-109460d56730;SE;2029-05-10;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+cbfa42a7-5e4d-4d9e-96d1-0c80a8c5ad05;SE;2029-05-20;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+c922d9d7-a95a-43e3-afca-21d48d254653;SE;2029-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+1f140760-2740-4fe5-9be8-840555ef3283;SE;2029-06-23;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+bf348995-2539-4eda-98f3-8d52e31ba9cc;SE;2029-11-03;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+ae4be02d-ab3d-41da-837f-56fc41e5396b;SE;2029-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+b8daa394-ca9e-4889-b915-e685b4ec3d01;SE;2029-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
+6d75f2ff-f006-43eb-a8ba-ee5344260472;SE;2030-01-01;;Public;National;SV Nyårsdagen,DE Neujahr,EN New Year's Day
+d92f77b3-b890-411c-bb9c-c129e83d06b2;SE;2030-01-06;;Public;National;SV Trettondedag jul,DE Dreikönigsfest,EN Epiphany
+afa0404d-476c-4258-b51c-4b7ae073381c;SE;2030-04-19;;Public;National;SV Långfredagen,DE Karfreitag,EN Good Friday
+ba107902-1bea-47b3-bdb7-58b24e0c65e6;SE;2030-04-21;;Public;National;SV Påskdagen,DE Ostersonntag,EN Easter Sunday
+3a259fbf-a89c-4dd4-8120-5efd9435f72c;SE;2030-04-22;;Public;National;SV Annandag påsk,DE Ostermontag,EN Easter Monday
+82ffd5cf-f2b2-48e5-aa2b-6448a470ec68;SE;2030-05-01;;Public;National;SV Första maj,DE Tag der Arbeit,EN Labour Day
+17bc1797-834d-4256-840c-b8dde5871213;SE;2030-05-30;;Public;National;SV Kristi himmelsfärds dag,DE Himmelfahrt,EN Ascension Day
+05acb477-5e40-4043-9f6c-dd2a1594079d;SE;2030-06-06;;Public;National;SV Nationaldagen,DE Nationalfeiertag,EN National Day
+7c5a3666-1683-4447-93ad-750f6baf6701;SE;2030-06-09;;Public;National;SV Pingstdagen,DE Pfingstsonntag,EN Whit Sunday
+0a14c75f-8879-4b60-afa4-5bc5d8c0fdf9;SE;2030-06-22;;Public;National;SV Midsommardagen,DE Mittsommer,EN Midsummer Day
+34150790-4320-404d-9837-4423a6a5e05b;SE;2030-11-02;;Public;National;SV Alla helgons dag,DE Allerheiligen,EN All Saints' Day
+27fa3639-d34c-4511-90ba-8edf73f4a144;SE;2030-12-25;;Public;National;SV Juldagen,DE 1. Weihnachtsfeiertag,EN Christmas Day
+f8816e74-55a3-48cf-87db-4a6b37123d22;SE;2030-12-26;;Public;National;SV Annandag jul,DE 2. Weihnachtsfeiertag,EN Boxing Day
