@@ -21,6 +21,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Lithuania (public holidays and school holidays from 2020)
 + Luxembourg (public holidays and school holidays from 2020)
 + Malta (public holidays and school holidays from 2020)
++ Mexico (public holidays and school holidays from 2025, Initial data from [@kassi](https://github.com/kassi))
 + Moldova (public holidays and school holidays from 2020)
 + Monaco (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
