@@ -1,0 +1,91 @@
+Id;Country;StartDate;EndDate;Type;RegionalScope;TemporalScope;Name
+0ddd7a33-7d3d-4649-af23-97bd79b0f25e;BR;2020-01-01;;Public;National;;PT Confraternização Universal,EN New Year's Day,DE Neujahrstag
+304c0615-b58c-4b60-af79-eb13191fd013;BR;2020-02-24;2020-02-25;Optional;National;;PT Carnaval,EN Carnival,DE Karneval
+0a572ccf-6605-435a-9c3d-43e0f83f4824;BR;2020-02-26;;Optional;National;;PT Quarta-Feira de Cinzas,EN Ash Wednesday,DE Aschermittwoch 
+379a999e-f14a-4532-b641-516938cf41f7;BR;2020-04-10;;Public;National;;PT Paixão de Cristo,EN Good Friday,DE Karfreitag
+f6e53895-dd47-4069-878e-df4ae67e52d0;BR;2020-04-21;;Public;National;;PT Dia de Tiradentes,EN Tiradentes Day,DE Tag des Tiradentes
+d51c7856-7677-4703-bd66-346dc82b1c1c;BR;2020-05-01;;Public;National;;PT Dia Mundial do Trabalho,EN Labour Day,DE Tag der Arbeit
+afc780f4-a1c6-4129-90c4-403332480ebd;BR;2020-06-11;;Optional;National;;PT Corpus Christi,EN Corpus Christi,DE Fronleichnam 
+ae34947b-bec6-4433-b8ea-c0fadd3e6b88;BR;2020-09-07;;Public;National;;PT Independência do Brasil,EN Independence Day,DE Unabhängigkeitstag
+54739058-236d-45f5-a82d-a8169ef9fedb;BR;2020-10-12;;Public;National;;PT Nossa Senhora Aparecida,EN Our Lady of Aparecida,DE Erscheinung der Gottesmutter Maria
+88249713-3ad0-478b-8113-b05194d7da41;BR;2020-10-28;;Optional;National;;PT Dia do Servidor Público federal,EN Federal Civil Servants Day,DE Tag des Bundesbeamten
+e119326e-fd2c-43c6-a9f5-e07b414f13a0;BR;2020-11-02;;Public;National;;PT Finados,EN All Souls,DE Allerseelen
+ca355d3f-ad2b-4022-aa7b-17932281e2eb;BR;2020-11-15;;Public;National;;PT Proclamação da República,EN Proclamation of the Republic,DE Ausrufung der Republik
+fca53b30-9ecf-4beb-876e-7293df28cf1f;BR;2020-12-24;;Optional;National;HalfDay;PT Véspera do Natal,EN Christmas Eve,DE Heiligabend
+e5b768d5-644a-47d7-b540-1b04d075af6a;BR;2020-12-25;;Public;National;;PT Natal,EN Christmas,DE Weihnachten
+cb1f1782-c963-47bf-a9bf-76b31d7fc03f;BR;2020-12-31;;Optional;National;HalfDay;PT Véspera do Ano Novo,EN New Year's Eve,DE Silvester
+fa0d0759-5474-4c76-8e12-fbd7dc5f2389;BR;2021-01-01;;Public;National;;PT Confraternização Universal,EN New Year's Day,DE Neujahrstag
+637f456b-6f83-4a52-b53c-be164e35149a;BR;2021-02-15;2021-02-16;Optional;National;;PT Carnaval,EN Carnival,DE Karneval
+613f4510-4335-4a99-8e93-bd178da0fee1;BR;2021-02-17;;Optional;National;;PT Quarta-Feira de Cinzas,EN Ash Wednesday,DE Aschermittwoch 
+e17f51f0-f8a6-447c-90ef-90434cce9f94;BR;2021-04-02;;Public;National;;PT Paixão de Cristo,EN Good Friday,DE Karfreitag
+ab4a288d-561a-4f28-93b9-232ba4fdb428;BR;2021-04-21;;Public;National;;PT Dia de Tiradentes,EN Tiradentes Day,DE Tag des Tiradentes
+46a6a043-9d05-48fa-bc90-8561adc41fe7;BR;2021-05-01;;Public;National;;PT Dia Mundial do Trabalho,EN Labour Day,DE Tag der Arbeit
+979db93c-3f7b-4ada-b203-5e75d9e9e213;BR;2021-06-03;;Optional;National;;PT Corpus Christi,EN Corpus Christi,DE Fronleichnam 
+c54fa665-eb57-4b4f-ae33-35b98232e909;BR;2021-09-07;;Public;National;;PT Independência do Brasil,EN Independence Day,DE Unabhängigkeitstag
+c06588fc-0b74-444f-9cb5-ef5468872098;BR;2021-10-12;;Public;National;;PT Nossa Senhora Aparecida,EN Our Lady of Aparecida,DE Erscheinung der Gottesmutter Maria
+949a3c96-5a13-42b2-9d6d-06e66aa97749;BR;2021-10-28;;Optional;National;;PT Dia do Servidor Público federal,EN Federal Civil Servants Day,DE Tag des Bundesbeamten
+2b932554-cac1-401c-ae5c-f8bb8acf43d0;BR;2021-11-02;;Public;National;;PT Finados,EN All Souls,DE Allerseelen
+0027a8f6-ddab-4218-9ada-22aa67f02d09;BR;2021-11-15;;Public;National;;PT Proclamação da República,EN Proclamation of the Republic,DE Ausrufung der Republik
+e3899afc-8b6f-4806-8aad-af44edbcd394;BR;2021-12-24;;Optional;National;HalfDay;PT Véspera do Natal,EN Christmas Eve,DE Heiligabend
+1647ab02-7738-4435-a08a-f78ea6ec5242;BR;2021-12-25;;Public;National;;PT Natal,EN Christmas,DE Weihnachten
+4246bb63-3720-4fa9-bef9-2576537c65e5;BR;2021-12-31;;Optional;National;HalfDay;PT Véspera do Ano Novo,EN New Year's Eve,DE Silvester
+a6bc9985-e669-4faf-b6a2-657b27d5328a;BR;2022-01-01;;Public;National;;PT Confraternização Universal,EN New Year's Day,DE Neujahrstag
+898838e0-aab6-4083-9b8b-766c413966f3;BR;2022-02-28;2022-03-01;Optional;National;;PT Carnaval,EN Carnival,DE Karneval
+a142a54b-0803-4baa-9787-aebfad3800d8;BR;2022-03-02;;Optional;National;;PT Quarta-Feira de Cinzas,EN Ash Wednesday,DE Aschermittwoch 
+75364522-116f-43a9-aa1d-1e92c94f6b53;BR;2022-04-15;;Public;National;;PT Paixão de Cristo,EN Good Friday,DE Karfreitag
+9edd1673-4572-4de5-a442-7141ed1945da;BR;2022-04-21;;Public;National;;PT Dia de Tiradentes,EN Tiradentes Day,DE Tag des Tiradentes
+743a0d71-2d16-41d7-96be-13588434301b;BR;2022-05-01;;Public;National;;PT Dia Mundial do Trabalho,EN Labour Day,DE Tag der Arbeit
+7b3469ae-2d2f-4c95-a7a3-4c3ccbb0520b;BR;2022-06-16;;Optional;National;;PT Corpus Christi,EN Corpus Christi,DE Fronleichnam 
+e714a138-f927-45de-a728-c045997cdc34;BR;2022-09-07;;Public;National;;PT Independência do Brasil,EN Independence Day,DE Unabhängigkeitstag
+28147c99-cba4-4002-992f-052d1aecb7b3;BR;2022-10-12;;Public;National;;PT Nossa Senhora Aparecida,EN Our Lady of Aparecida,DE Erscheinung der Gottesmutter Maria
+14e88b14-1828-4451-8d0f-51a8bf48aacb;BR;2022-10-28;;Optional;National;;PT Dia do Servidor Público federal,EN Federal Civil Servants Day,DE Tag des Bundesbeamten
+db1705ec-df56-4c20-8c9b-04662a7e3be1;BR;2022-11-02;;Public;National;;PT Finados,EN All Souls,DE Allerseelen
+15868354-0147-4366-ac17-2bbca48e78c6;BR;2022-11-15;;Public;National;;PT Proclamação da República,EN Proclamation of the Republic,DE Ausrufung der Republik
+8f3279ff-c4ed-40aa-b01a-0a13784f3c28;BR;2022-12-25;;Public;National;;PT Natal,EN Christmas,DE Weihnachten
+611e2a30-d774-46e2-8019-123ebb65c9fd;BR;2023-01-01;;Public;National;;PT Confraternização Universal,EN New Year's Day,DE Neujahrstag
+fdf2ca0d-9b82-46fd-831a-98b44e7cd397;BR;2023-02-20;2023-02-21;Optional;National;;PT Carnaval,EN Carnival,DE Karneval
+82f1b76e-f47e-45d0-af22-93f60ba67460;BR;2023-02-22;;Optional;National;;PT Quarta-Feira de Cinzas,EN Ash Wednesday,DE Aschermittwoch 
+df44691e-b2a6-4b12-b449-b5bc7f78d1b7;BR;2023-04-07;;Public;National;;PT Paixão de Cristo,EN Good Friday,DE Karfreitag
+0c827aaf-7e5d-402a-9243-3560e87b90b6;BR;2023-04-21;;Public;National;;PT Dia de Tiradentes,EN Tiradentes Day,DE Tag des Tiradentes
+f216ad8a-7074-4484-9bd3-c60e63fe6b5e;BR;2023-05-01;;Public;National;;PT Dia Mundial do Trabalho,EN Labour Day,DE Tag der Arbeit
+838d7d64-b78f-4c8a-b2c3-617bf24a664a;BR;2023-06-08;;Optional;National;;PT Corpus Christi,EN Corpus Christi,DE Fronleichnam 
+9f0a9709-7f11-423e-8db7-c350319ef106;BR;2023-09-07;;Public;National;;PT Independência do Brasil,EN Independence Day,DE Unabhängigkeitstag
+1c6f270e-c579-4e92-b7c1-161e9d9d40ec;BR;2023-10-12;;Public;National;;PT Nossa Senhora Aparecida,EN Our Lady of Aparecida,DE Erscheinung der Gottesmutter Maria
+db8976a7-53e8-4b3c-8bc3-95d368c01b53;BR;2023-10-28;;Optional;National;;PT Dia do Servidor Público federal,EN Federal Civil Servants Day,DE Tag des Bundesbeamten
+6307d859-a46d-43c6-a0e8-72b31bebd0da;BR;2023-11-02;;Public;National;;PT Finados,EN All Souls,DE Allerseelen
+95cbd3c8-fdc5-4566-a856-00a4670c7a51;BR;2023-11-15;;Public;National;;PT Proclamação da República,EN Proclamation of the Republic,DE Ausrufung der Republik
+d7577b00-ca35-4cfe-bcb2-b84a81204b9f;BR;2023-12-25;;Public;National;;PT Natal,EN Christmas,DE Weihnachten
+706457fc-e9a3-4325-9c4b-4fdb8d4d9fdf;BR;2024-01-01;;Public;National;;PT Confraternização Universal,EN New Year's Day,DE Neujahrstag
+2afc2f3f-d4a0-450f-b8d1-b3623ac15219;BR;2024-02-12;2024-02-13;Optional;National;;PT Carnaval,EN Carnival,DE Karneval
+d0d230b8-c553-458e-83a7-e6a65cae7831;BR;2024-02-14;;Optional;National;;PT Quarta-Feira de Cinzas,EN Ash Wednesday,DE Aschermittwoch 
+a4a901e2-7fda-4ef1-a7b4-fcc4768372f2;BR;2024-03-29;;Public;National;;PT Paixão de Cristo,EN Good Friday,DE Karfreitag
+7f4d8f12-f33b-4fb8-8e3c-1af3422c9fba;BR;2024-04-21;;Public;National;;PT Dia de Tiradentes,EN Tiradentes Day,DE Tag des Tiradentes
+24256296-f43f-4412-8850-a89ad0d7aa28;BR;2024-05-01;;Public;National;;PT Dia Mundial do Trabalho,EN Labour Day,DE Tag der Arbeit
+07ee67f5-fbf1-4f40-86e2-4f6320de1aad;BR;2024-05-30;;Optional;National;;PT Corpus Christi,EN Corpus Christi,DE Fronleichnam 
+9e005170-98c4-434b-8ab9-ceff1cbeac1d;BR;2024-05-31;;Optional;National;;PT Ponto facultativo,EN Optional Holiday,DE Optionaler Feiertag
+55e85a20-fb09-4542-ae9a-4588d57a1f0b;BR;2024-09-07;;Public;National;;PT Independência do Brasil,EN Independence Day,DE Unabhängigkeitstag
+3f2ad241-d0f8-4f0e-8a16-f9fd9a686fff;BR;2024-10-12;;Public;National;;PT Nossa Senhora Aparecida,EN Our Lady of Aparecida,DE Erscheinung der Gottesmutter Maria
+5616ecb2-a76f-4cf3-a027-462daef4215b;BR;2024-10-28;;Optional;National;;PT Dia do Servidor Público federal,EN Federal Civil Servants Day,DE Tag des Bundesbeamten
+dd842a86-1f58-4a8b-ad6a-7ef3fb5773ff;BR;2024-11-02;;Public;National;;PT Finados,EN All Souls,DE Allerseelen
+60f8b40b-f70a-4248-aa58-3bd406abe65c;BR;2024-11-15;;Public;National;;PT Proclamação da República,EN Proclamation of the Republic,DE Ausrufung der Republik
+344b2fb4-7571-4d45-80b0-57482b49b93c;BR;2024-11-20;;Public;National;;PT Dia Nacional de Zumbi e da Consciência Negra,EN National Black Awareness Day,DE Gedenktag an Schwarze
+03cbd528-61bc-4087-b77d-8ac3c3c00e30;BR;2024-12-24;;Optional;National;HalfDay;PT Véspera do Natal,EN Christmas Eve,DE Heiligabend
+644c068e-0792-4909-9427-03ac9f633bc7;BR;2024-12-25;;Public;National;;PT Natal,EN Christmas,DE Weihnachten
+fbf5c9b8-bc08-454a-9e80-d14e96da2b5e;BR;2024-12-31;;Optional;National;HalfDay;PT Véspera do Ano Novo,EN New Year's Eve,DE Silvester
+2bc40f7b-b683-43ee-9ccb-12321b02c65a;BR;2025-01-01;;Public;National;;PT Confraternização Universal,EN New Year's Day,DE Neujahrstag
+135509ae-51bf-4feb-bd6f-710e7810bef9;BR;2025-03-03;2025-03-04;Optional;National;;PT Carnaval,EN Carnival,DE Karneval
+7e15a5c3-6311-4b2a-91aa-bf22a422995b;BR;2025-03-05;;Optional;National;;PT Quarta-Feira de Cinzas,EN Ash Wednesday,DE Aschermittwoch 
+da0ce1c0-78ba-4f27-9d52-35fe76abe96e;BR;2025-04-18;;Public;National;;PT Paixão de Cristo,EN Good Friday,DE Karfreitag
+61b41464-5eb2-4b4f-8b80-61a505c5457a;BR;2025-04-21;;Public;National;;PT Dia de Tiradentes,EN Tiradentes Day,DE Tag des Tiradentes
+ed950fd6-e239-42db-bf26-caa13c0c57ff;BR;2025-05-01;;Public;National;;PT Dia Mundial do Trabalho,EN Labour Day,DE Tag der Arbeit
+c35b6263-e54a-4468-b75a-9f89491cff20;BR;2025-06-19;;Optional;National;;PT Corpus Christi,EN Corpus Christi,DE Fronleichnam 
+06809e00-cdcf-4da5-9547-df980d00c01c;BR;2025-06-20;;Optional;National;;PT Ponto facultativo,EN Optional Holiday,DE Optionaler Feiertag
+f6ef5b34-cd09-4874-8e74-cc4a221b2250;BR;2025-09-07;;Public;National;;PT Independência do Brasil,EN Independence Day,DE Unabhängigkeitstag
+fa704fd1-3421-4c77-88c8-ed32dca195f6;BR;2025-10-12;;Public;National;;PT Nossa Senhora Aparecida,EN Our Lady of Aparecida,DE Erscheinung der Gottesmutter Maria
+45397013-1d41-48c9-9926-8dda2d1eafec;BR;2025-10-28;;Optional;National;;PT Dia do Servidor Público federal,EN Federal Civil Servants Day,DE Tag des Bundesbeamten
+e2635dd6-ee11-4798-83d9-c1323d24dd50;BR;2025-11-02;;Public;National;;PT Finados,EN All Souls,DE Allerseelen
+eaaa1860-e9c1-47f3-897f-adb41a919d99;BR;2025-11-15;;Public;National;;PT Proclamação da República,EN Proclamation of the Republic,DE Ausrufung der Republik
+80212138-0232-4d2e-b51a-00d8f2dbf66e;BR;2025-11-20;;Public;National;;PT Dia Nacional de Zumbi e da Consciência Negra,EN National Black Awareness Day,DE Gedenktag an Schwarze
+611d7a1c-39d0-48df-a68a-12beed890689;BR;2025-12-24;;Optional;National;HalfDay;PT Véspera do Natal,EN Christmas Eve,DE Heiligabend
+a5bc4f0e-7cea-4c0f-ab85-05078b2613f2;BR;2025-12-25;;Public;National;;PT Natal,EN Christmas,DE Weihnachten
+f9aef840-954b-461c-91bc-a056612a5be4;BR;2025-12-31;;Optional;National;HalfDay;PT Véspera do Ano Novo,EN New Year's Eve,DE Silvester
