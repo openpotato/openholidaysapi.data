@@ -3,6 +3,7 @@ BE;EN Belarusian,BE беларускі,DE Belarussisch
 BG;EN Bulgarian,BG Български,DE Bulgarisch
 CA;EN Catalan,CA Català,ES Catalán,DE Katalanisch
 CS;EN Czech,CS Česky,DE Tschechisch
+CY;EN Welsh,CY Cymraeg,DE Walisisch
 DE;EN German,DE Deutsch
 EN;EN English,DE Englisch
 ES;EN Spanish,ES Español,DE Spanisch
@@ -10,6 +11,7 @@ ET;EN Estonian,ET Eesti,DE Estnisch
 EU;EN Basque,EU Euskara,ES Euskera,DE Baskisch
 FR;EN French,FR français,DE Französisch
 GA;EN Irish,GA Gaeilge,DE Irisch
+GD;EN Scottish Gaelic,GD Gàidhlig,DE Schottisch-Gälisch
 GL;EN Galician,GL Galego,ES Gallego,DE Galicisch
 HR;EN Croatian,HR Hrvatska,DE Kroatisch
 HU;EN Hungarian,HU Magyarország,DE Ungarisch
@@ -29,3 +31,4 @@ SK;EN Slovak,SK Slovenský,DE Slowakisch
 SL;EN Slovenian,SL Slovenski,DE Slowenisch
 SQ;EN Albanian,SQ shqip,DE Albanisch
 SR;EN Serbian,SR српски,DE Serbisch
+SCO;EN Scots,SCO Scots,DE Schottisch
