@@ -1,26 +1,31 @@
-﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
-65144fb0-5f4d-42f8-b656-018093434eb7;CH;2020-02-21;2020-03-01;School;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (25.01.2020-02.02.2020)
-94000dac-2c28-4fc5-a9af-762e259b0202;CH;2020-04-04;2020-04-19;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
-98789744-6b32-4108-b727-59bcb0c0e783;CH;2020-07-04;2020-08-16;School;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (04.07.2020-09.08.2020)
-d5e0407a-12d7-4062-9d5f-2ef1355b2040;CH;2020-10-03;2020-10-18;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;DE Ausnahmeregelung für Bezirk Oberegg (26.09.2020-18.10.2020)
-7e5abd2d-2638-4fb1-864a-441722b107d4;CH;2020-12-19;2021-01-03;School;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;
-78f10b19-4a15-4f1f-87b6-0d38248b3537;CH;2021-02-12;2021-02-21;School;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (30.01.2021-07.02.2021)
-6f8e0eee-229b-46a6-92af-439617f20f2c;CH;2021-04-10;2021-04-25;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
-6bd5e6bc-7175-4cb1-b5ad-a0b6860cd0e8;CH;2021-07-03;2021-08-15;School;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (10.07.2021-15.08.2021)
-325d8ccf-b3d2-4400-8246-3cca83f5fd40;CH;2021-10-09;2021-10-24;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;DE Ausnahmeregelung für Bezirk Oberegg (02.10.2021-24.10.2021)
-0d7d16cc-2686-463c-b62a-9c04055383af;CH;2021-12-18;2022-01-02;School;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;
-bc586129-43ce-493b-b786-d6452c9ff0bc;CH;2022-02-25;2022-03-06;School;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (29.01.2022-06.02.2022)
-5fa97efd-2e73-43cf-898d-ed063974a42b;CH;2022-04-09;2022-04-24;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
-5807b455-7b0a-47e1-8fe1-8afe316ddec0;CH;2022-07-02;2022-08-15;School;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (09.07.2022-15.08.2022)
-919500b6-322d-4e3a-9e43-ff7a6b150e99;CH;2022-10-08;2022-10-23;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;DE Ausnahmeregelung für Bezirk Oberegg (01.10.2022-23.10.2022)
-4491bdee-cec5-47dd-8136-953aab29a165;CH;2022-12-24;2023-01-08;School;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;
-794b5c64-633f-456f-bc01-f2375783ebc0;CH;2023-02-17;2023-02-26;School;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (28.01.2023-05.02.2023)
-20d84ebe-b36b-4dc9-96db-769359428e91;CH;2023-04-07;2023-04-23;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
-c01988b6-6956-4862-8255-2afdef621e58;CH;2023-07-01;2023-08-13;School;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (08.07.2023-13.08.2023)
-5c408ca7-3aab-4e3d-8fbc-28dcd0b8b7a7;CH;2023-10-07;2023-10-22;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;DE Ausnahmeregelung für Bezirk Oberegg (30.09.2023-22.10.2023)
-fad7fb2d-3a1f-4504-84a4-1f8f030c817c;CH;2023-12-23;2024-01-07;School;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;
-afd27e93-d643-431f-9117-1ab87ffa0e3c;CH;2024-02-09;2024-02-18;School;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (27.01.2024-04.02.2024)
-11d97b75-2ecb-4c3e-8811-02f0141acd6f;CH;2024-04-06;2024-04-21;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
-6b663ec2-19cc-4ea4-837a-988297860549;CH;2024-06-29;2024-08-11;School;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (06.07.2024-11.08.2024)
-e2cb4aaf-6168-46b1-a002-f0358b88b054;CH;2024-10-05;2024-10-20;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;DE Ausnahmeregelung für Bezirk Oberegg (28.09.2024-20.10.2024)
-c25680c9-88d5-42da-a512-c9e9c6e3d07b;CH;2024-12-21;2025-01-05;School;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
+65144fb0-5f4d-42f8-b656-018093434eb7;CH;2020-02-21;2020-03-01;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (25.01.2020-02.02.2020)
+94000dac-2c28-4fc5-a9af-762e259b0202;CH;2020-04-04;2020-04-19;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
+98789744-6b32-4108-b727-59bcb0c0e783;CH;2020-07-04;2020-08-16;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (04.07.2020-09.08.2020)
+d5e0407a-12d7-4062-9d5f-2ef1355b2040;CH;2020-10-03;2020-10-18;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;DE Ausnahmeregelung für Bezirk Oberegg (26.09.2020-18.10.2020)
+7e5abd2d-2638-4fb1-864a-441722b107d4;CH;2020-12-19;2021-01-03;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;
+78f10b19-4a15-4f1f-87b6-0d38248b3537;CH;2021-02-12;2021-02-21;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (30.01.2021-07.02.2021)
+6f8e0eee-229b-46a6-92af-439617f20f2c;CH;2021-04-10;2021-04-25;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
+6bd5e6bc-7175-4cb1-b5ad-a0b6860cd0e8;CH;2021-07-03;2021-08-15;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (10.07.2021-15.08.2021)
+325d8ccf-b3d2-4400-8246-3cca83f5fd40;CH;2021-10-09;2021-10-24;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;DE Ausnahmeregelung für Bezirk Oberegg (02.10.2021-24.10.2021)
+0d7d16cc-2686-463c-b62a-9c04055383af;CH;2021-12-18;2022-01-02;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;
+bc586129-43ce-493b-b786-d6452c9ff0bc;CH;2022-02-25;2022-03-06;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (29.01.2022-06.02.2022)
+5fa97efd-2e73-43cf-898d-ed063974a42b;CH;2022-04-09;2022-04-24;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
+5807b455-7b0a-47e1-8fe1-8afe316ddec0;CH;2022-07-02;2022-08-15;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (09.07.2022-15.08.2022)
+919500b6-322d-4e3a-9e43-ff7a6b150e99;CH;2022-10-08;2022-10-23;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;DE Ausnahmeregelung für Bezirk Oberegg (01.10.2022-23.10.2022)
+4491bdee-cec5-47dd-8136-953aab29a165;CH;2022-12-24;2023-01-08;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;
+794b5c64-633f-456f-bc01-f2375783ebc0;CH;2023-02-17;2023-02-26;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (28.01.2023-05.02.2023)
+20d84ebe-b36b-4dc9-96db-769359428e91;CH;2023-04-07;2023-04-23;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
+c01988b6-6956-4862-8255-2afdef621e58;CH;2023-07-01;2023-08-13;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (08.07.2023-13.08.2023)
+5c408ca7-3aab-4e3d-8fbc-28dcd0b8b7a7;CH;2023-10-07;2023-10-22;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;DE Ausnahmeregelung für Bezirk Oberegg (30.09.2023-22.10.2023)
+fad7fb2d-3a1f-4504-84a4-1f8f030c817c;CH;2023-12-23;2024-01-07;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;
+afd27e93-d643-431f-9117-1ab87ffa0e3c;CH;2024-02-09;2024-02-18;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;AI;DE Ausnahmeregelung für Bezirk Oberegg (27.01.2024-04.02.2024)
+11d97b75-2ecb-4c3e-8811-02f0141acd6f;CH;2024-04-06;2024-04-21;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
+6b663ec2-19cc-4ea4-837a-988297860549;CH;2024-06-29;2024-08-11;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;AI;DE Ausnahmeregelung für Bezirk Oberegg (06.07.2024-11.08.2024)
+e2cb4aaf-6168-46b1-a002-f0358b88b054;CH;2024-10-05;2024-10-20;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;DE Ausnahmeregelung für Bezirk Oberegg (28.09.2024-20.10.2024)
+c25680c9-88d5-42da-a512-c9e9c6e3d07b;CH;2024-12-21;2025-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;
+b5d32926-96b3-466a-be03-d74a66380a4c;CH;2025-02-22;2025-02-28;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;AI;
+6c5c1ccd-b85d-42b4-b4b1-fa9d2b27e7c2;CH;2025-04-05;2025-04-20;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;AI;
+d4fa3cfb-7859-4c13-a001-47f82bb7eb3a;CH;2025-07-05;2025-08-17;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;AI;
+549c7c0f-9be3-4934-a7cc-4343a3140cef;CH;2025-10-04;2025-10-19;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;AI;
+36e81c83-e559-4866-85ba-3fb670fdf88a;CH;2025-12-20;2026-01-04;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;AI;

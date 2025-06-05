@@ -1,287 +1,287 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-d36ac5bb-2876-46d3-93c2-2b944a28f165;VA;2020-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-9530b6c4-7b8f-4a57-ae5c-b84a5f292fed;VA;2020-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-5dec2c3c-0d91-4d9d-b6f4-693e405e3ef3;VA;2020-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-1216665d-a1bb-486e-a4e8-b98db0072994;VA;2020-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-512ceb32-4ce6-4ea1-a183-c3e1b146ced5;VA;2020-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-2bf21895-1cd2-4b96-913c-864370c1e711;VA;2020-04-09;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-86f70428-5ed4-49cf-8ccb-c09d1247f42f;VA;2020-04-10;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-86399c3d-5c42-4414-a9cc-24cd15d3c1a9;VA;2020-04-11;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-7da7bf98-a4c1-478e-9e76-2a32b3750bd9;VA;2020-04-12;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-9ee3c31e-cee4-4a8a-8889-53409a0eb353;VA;2020-04-13;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-c3013e5a-b847-4328-8433-2c1619faf020;VA;2020-04-14;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-7c013dc6-9211-4ae4-b67e-905eacb7cca1;VA;2020-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-7ecba843-6a45-4184-b2db-51c7865517b3;VA;2020-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-9e7a5648-de38-4d5e-8481-5a95b0503b89;VA;2020-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-aa253f7a-f807-43f9-a109-89dbaee7c65d;VA;2020-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-9aef767f-1061-49cc-9735-7b5805458cb4;VA;2020-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-b96f5e7b-9150-4886-850a-cd48081f2924;VA;2020-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-6d6b1ef0-b100-49ec-96c8-1019eb51f8fc;VA;2020-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-3de534dd-0606-4740-aa3d-19bd147c2cd1;VA;2020-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-aba18a3f-9c19-4ad9-8153-dea7f0a6612a;VA;2020-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-932a935f-d7c4-4a57-bb2a-cc874149b1c9;VA;2020-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-b0f75848-4d18-421f-8522-e508a705e720;VA;2020-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-3c8d2195-74e4-48e8-a296-491c611fd977;VA;2020-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-c0867e65-06b5-4338-8561-fcfb03171330;VA;2020-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-aedfc6ec-2e33-4176-b453-ac53c0acdd0b;VA;2020-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-c26662ad-8399-4385-8081-f19d5499637f;VA;2020-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
-fe5ce0b0-1458-42e7-a1b7-1ac2b15b5ff3;VA;2021-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-a0267d51-2d8b-4e90-9f69-a8a30e09fbeb;VA;2021-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-90abc996-c085-4b0d-8770-734073dcb262;VA;2021-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-fb22c1d9-2e90-4598-9034-32a8bc7b5846;VA;2021-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-31d58e2d-2f5c-4130-b3e9-2f660c209f13;VA;2021-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-358317b4-85a4-4834-9373-c69b178ff9cc;VA;2021-04-01;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-3e69d948-c89c-4ca3-bbd1-7ba57defe1c1;VA;2021-04-02;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-e3e2bdf2-b98d-4919-8e2e-281686aca61f;VA;2021-04-03;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-a30a67f8-2a6a-4a12-b313-f5e1c91ab9de;VA;2021-04-04;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-fa4bb87c-dfe6-4fe8-9805-8464d6e0cebd;VA;2021-04-05;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-6c16dbe0-488f-4fd9-b62f-9feac207e778;VA;2021-04-06;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-c0945b2f-4ae7-4237-ad53-66f8c127ca0c;VA;2021-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-d4841b5b-7b10-46b9-84cf-8c64d64b3414;VA;2021-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-e40ad11d-e0c4-48dd-89cb-ab9c91e2cc7c;VA;2021-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-b9cf7be4-d362-42f6-93e4-94025f72ae24;VA;2021-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-0a49a4ac-eb8c-44e7-89c7-cd95dff5cf35;VA;2021-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-526fc4ff-3c99-4a5c-bf07-432755374977;VA;2021-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-c9322e71-e8c7-4edc-b0d1-c84887224bf6;VA;2021-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-1e80c0a6-3e93-4def-96d4-f3c689976b48;VA;2021-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-d8555841-5130-4f18-b938-c07cfdefa549;VA;2021-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-54d09568-7924-4710-a1d9-8b84079969bc;VA;2021-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-09d849de-3aa6-4a8b-9eb7-af47c30ae332;VA;2021-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-9855ae3d-d832-49df-8cce-fc4bdf24b796;VA;2021-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-46d00b8a-8fa5-4b5f-9c3b-9e8852a45416;VA;2021-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-c394a25f-569e-4cbc-a33f-c0172afeb659;VA;2021-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-be707f76-03e3-4c7d-9e31-bc549ba59e71;VA;2021-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
-fcea7f49-5456-452a-b7ca-bd7f19338e66;VA;2022-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-abb4e08e-a05b-4bc8-8b8a-c4e28c1b36f8;VA;2022-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-431c00ed-a8f3-4314-a271-08b039de0916;VA;2022-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-9196dc74-02c1-4aea-81d4-aca58df3187e;VA;2022-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-9d3eae3e-1c22-4da0-89f2-ba33c4fa799b;VA;2022-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-e6177d92-4860-45d0-a4b4-98c00b7531a2;VA;2022-04-14;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-5d5d41c3-9e79-4e12-a7e7-3a2b0ee3ef14;VA;2022-04-15;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-1cd5eba8-c251-4b82-9512-cc8f149e7e46;VA;2022-04-16;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-16e02f77-ff21-48a8-abf8-4d1acf4d5c8a;VA;2022-04-17;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-868f0c81-58e1-445b-884d-e2dfee76a001;VA;2022-04-18;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-f74ac90c-f475-450c-b4e9-5f867b2d8069;VA;2022-04-19;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-e91edd5d-4498-4492-a166-eb9f32499e06;VA;2022-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-67db4e08-ad56-4c36-a908-b081c8b0e244;VA;2022-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-fe8f7581-b1f5-4c9b-8396-41a2062d5108;VA;2022-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-b6303585-9e59-4d33-85b8-8bba6679a3ec;VA;2022-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-a366aeb7-d593-4d2e-a5fd-56ec469497c4;VA;2022-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-7e906767-a92c-4820-80f3-45bedbcaad82;VA;2022-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-f93bca84-e5e5-4544-92f6-c2ebd83d254d;VA;2022-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-f06cca96-9b11-4bc4-b283-81410b29314c;VA;2022-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-a9b80573-57bf-4990-8053-83a2ebb28f85;VA;2022-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-380019f2-4be6-4da1-84fb-b04330685290;VA;2022-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-7f169401-07ad-4bd8-ab3a-a02b8b680df8;VA;2022-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-f58f7f27-1975-4557-9f59-4f07d9575984;VA;2022-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-806d58c6-07af-42c1-8967-909944ff6491;VA;2022-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-3df4d43a-9564-484e-8b07-42befcaf3fab;VA;2022-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-a21ca080-a26e-4145-aa9f-95a7d26d0cb6;VA;2022-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
-d0437b00-cce3-49a8-8d7e-35b9446a2a72;VA;2023-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-d976ff90-e8b6-41dc-940c-350ae765839a;VA;2023-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-8e0ee4bf-79af-4cb2-b812-d068e547def5;VA;2023-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-b8138e3f-54dd-469a-be3f-1e373d939a73;VA;2023-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-797307b0-03b9-4bdf-9a1d-3f1f01773b32;VA;2023-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-6dad14c7-22fd-404e-9805-8281572ee036;VA;2023-04-06;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-af50eb4f-eb3b-4f67-81c1-2c0928f2b936;VA;2023-04-07;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-d233e5c1-84d0-4b1b-b6c1-6d0fdfe47d43;VA;2023-04-08;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-723ad107-7025-41e5-b49b-774ecb06ea84;VA;2023-04-09;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-f5fcd17d-7d95-486c-a72e-496a51050127;VA;2023-04-10;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-096ae219-23e5-4f03-80bd-826b542a7c13;VA;2023-04-11;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-4118c2f4-4090-444f-96c0-6624b7f238f8;VA;2023-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-a052670e-8c22-47cf-9804-c8ab378f8cd7;VA;2023-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-b5c4069d-8a8d-4039-854e-f26c70191b38;VA;2023-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-9d1c74bd-1867-4f0b-8fd1-da14acaa0239;VA;2023-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-ec43fe21-2c59-48b5-92f0-75677982e4ed;VA;2023-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-4af6ed0f-8b9d-426c-83d2-732bde382c7f;VA;2023-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-caa51c1f-6eb5-4045-a7a6-0ad279b74971;VA;2023-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-7fd39c59-7676-4e0d-97d1-18fbca9e8897;VA;2023-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-1cfb91dd-2216-4895-aba3-1120b42aa7e9;VA;2023-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-d949633f-37c9-474b-9f69-b56a1e1e1d3e;VA;2023-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-4b1f856e-4824-448a-bd66-56e149be28c2;VA;2023-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-38ea4de4-0fc7-4f76-ae49-223ac3d46aff;VA;2023-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-9aeb2927-dc88-42db-9b5e-4defa51106b5;VA;2023-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-55e1ead9-7ec1-451d-8461-c4f6118ae86f;VA;2023-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-0fcc85c2-7864-4c6b-8b34-23e9781a100b;VA;2023-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
-aa1884b7-0a03-4607-9919-c3fa19a6de1b;VA;2024-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-fdef74a0-6a69-4d97-8710-6a1564a33faa;VA;2024-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-04b22870-c320-4981-baf1-23a1f41b6912;VA;2024-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-1fd2c028-9eb9-41e4-a3e5-f7e1de884d85;VA;2024-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-febeb107-250a-478d-af5f-9f7e58f6949b;VA;2024-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-b93a093b-30db-4236-b940-e26ef587618a;VA;2024-03-28;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-dad76d11-4258-46c7-af47-e2e5edf44dba;VA;2024-03-29;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-9c6a8814-1ced-4b2a-a47f-ff88e39141eb;VA;2024-03-30;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-10deb046-4504-4b67-a1e7-93e197afefe4;VA;2024-03-31;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-b43c6a6d-241b-47bf-af9b-183384fca1c5;VA;2024-04-01;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-363a6269-582a-4648-80f5-937d0ee5b67b;VA;2024-04-02;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-5b1970da-3ad3-4433-9e77-fd99552bdb64;VA;2024-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-5747791e-6d26-4e8e-bf22-b0db21f0ecf3;VA;2024-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-736d2967-9c84-46dc-956b-f1fdb5942caa;VA;2024-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-be44b07c-59b1-492b-b4ec-b66c660cda59;VA;2024-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-24042c05-be2a-496f-8a50-ded71bf0816e;VA;2024-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-f080354a-e7cd-4082-ace8-36d3612d9459;VA;2024-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-4458c0b2-9482-420a-8706-6a8ded2d78c1;VA;2024-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-11a6e796-dba2-4a2e-92a9-576791bbcef1;VA;2024-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-c7886439-444b-447f-8efe-48aa85f140b4;VA;2024-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-215c20cc-626e-458f-b718-20ef3e7c741e;VA;2024-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-a3d9ff97-cc22-4f72-b957-34749b4594a1;VA;2024-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-969326b8-2c44-49de-9cd3-2005cc08cc73;VA;2024-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-8379e530-5887-45cb-aa64-c19c8521599d;VA;2024-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-eea527c5-b486-4763-8b0b-085e9f1eb53c;VA;2024-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-1e4dac5b-840c-465b-8689-1969429eabf6;VA;2024-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
-c4c61b53-3aea-4b7b-9b9c-a5956b98c833;VA;2025-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-56cbc1be-c2bc-41dc-af5a-c0542dec12d8;VA;2025-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-8554126b-ba93-4a0d-b4c4-bf721e4bd2d6;VA;2025-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-b63bc13a-8097-4233-9336-2abfea2db7ff;VA;2025-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-2b53d5f5-c725-41f0-ba79-487585818f1f;VA;2025-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-569b5b24-a45f-4f76-8fc9-44c19db37c06;VA;2025-04-21;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-50c9a247-2acb-447d-a40a-4fdae706f61d;VA;2025-04-22;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-41c9859b-f1f6-425b-a724-1432e256506d;VA;2025-04-23;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-339cb84e-0a6c-4b01-91b3-3a7e654a30a8;VA;2025-04-24;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-e2eb8183-65a2-4ec3-8afb-842e43a9f470;VA;2025-04-25;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-e4932438-6cec-4263-b818-d582c920ee9e;VA;2025-04-26;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-e6764695-2d95-4803-b622-3dc188493cf6;VA;2025-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-2dfe51b6-e707-40f6-a261-1e98bbba0708;VA;2025-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-c8ba5da1-97ea-432c-8dc9-61cf9c51e3e0;VA;2025-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-c9accd21-e395-4f9b-8ccd-4f86fad4c156;VA;2025-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-da892337-5817-47e5-8295-a3ce9a8f84ef;VA;2025-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-bc50f257-4dbd-4dd2-882e-f9f13b6d8482;VA;2025-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-39ba7efc-f576-480d-baac-6ba9acf3536f;VA;2025-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-9943e848-240c-4943-80a2-06fc7ac7ea16;VA;2025-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-c15ab3bf-84b8-4b75-896b-d0f7d048a17c;VA;2025-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-5cd6edf0-f55a-4977-9e30-da1b6de49910;VA;2025-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-e1b648a4-7828-45c4-b6a1-ef11d1ec6785;VA;2025-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-36df59f9-b7ab-4670-b8e4-972ba4b451d0;VA;2025-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-1a617ede-f16c-434b-b9ee-06e0070f890c;VA;2025-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-3d959d97-ce25-45ec-8c92-f09f0b642a1a;VA;2025-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-bf8a9a94-f816-43ba-9e89-2537e6b41164;VA;2025-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
-e814ddbc-1157-4325-8df1-265720374181;VA;2026-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-c5752496-2d25-415a-9baa-0d5c568c6f1e;VA;2026-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-cd0c7632-bbf4-4119-9cf5-722646e44794;VA;2026-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-4e548905-67fb-48c5-94c3-e7b7d1d9ea10;VA;2026-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-579f61bb-d525-4007-a8e4-e551a230752f;VA;2026-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-152d1467-c8b4-408a-be26-bf33cba6781e;VA;2026-04-02;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-8c0a7ae0-baee-4363-be0c-6b186b91446e;VA;2026-04-03;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-4be625eb-9db9-45b7-a3d4-a02477b1b042;VA;2026-04-04;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-142819b1-0654-47e0-aef2-42af6b31e800;VA;2026-04-05;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-260d7d4c-9b62-4fb4-91ab-f364b4491106;VA;2026-04-06;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-ac9c73c1-d2bc-44f3-9f33-4a34747202f5;VA;2026-04-07;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-d78962e3-6ce3-428e-83fb-5faa76e3f3e1;VA;2026-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-6c54789e-3ada-44aa-8b04-c0bd87393c10;VA;2026-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-363cf8c7-836f-4882-bf86-28cb50f0c8a8;VA;2026-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-1c7098d0-2396-4882-9896-bc1d277aa9f5;VA;2026-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-4bab316e-5cf2-4e52-8e91-9f37eca99959;VA;2026-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-d1d69dca-2972-45b4-b594-5211f72975db;VA;2026-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-3b71a06b-abb3-4ba9-9e90-fe44644adb91;VA;2026-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-c2c836ed-e5a4-4ef7-b864-213f7b0e0dca;VA;2026-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-73cf0cca-df81-4cbc-be0d-c87c7841bd83;VA;2026-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-639d2bef-dc7b-4aba-ab57-3b2a2e116cd8;VA;2026-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-0b7155ad-0a01-48fb-a632-8bd096f36d51;VA;2026-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-d56dfbd1-41e1-4f98-b5e4-dc3a394f8ced;VA;2026-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-88fb0800-8da2-4dde-b546-0fb5353be039;VA;2026-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-bd002e45-da72-403c-8e12-0b468ad13b98;VA;2026-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-0e6d45d6-aa89-4097-90a5-0ff49ab48bf8;VA;2026-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
-45e981a6-e6e1-4776-983d-1471d574fdbf;VA;2027-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-ee41cd92-b487-488f-aa22-c0ccff9ac44f;VA;2027-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-f582a918-c5da-43dd-8fdc-cf4d3a3d7a4a;VA;2027-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-f5a2ed2e-9b9c-4515-9174-145eeeeed295;VA;2027-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-6314790b-d04c-4423-9624-86bded0800ac;VA;2027-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-b1f83c2c-4e3e-4d0a-8414-4da095b99127;VA;2027-03-25;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-a3757f07-81aa-42d7-a22d-26ab2c343674;VA;2027-03-26;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-1c2ee16e-8712-470e-8895-6c3918b7371d;VA;2027-03-27;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-6874a927-50c3-4ff3-9dfa-759b3199cd38;VA;2027-03-28;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-6d4dbdfc-fd95-4cdf-a8ae-cee0cef2e2d4;VA;2027-03-29;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-0f70fe71-75a1-497a-9761-5b8b2569f07e;VA;2027-03-30;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-345a9363-b990-478b-979b-d3c45433f396;VA;2027-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-1bd3800e-ef56-4c8e-939f-fd6860228a9c;VA;2027-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-72ec724f-3ed3-48fd-b208-f963660d420b;VA;2027-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-ac3dea7a-8733-4f97-9aa5-d99c758c979f;VA;2027-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-62f77ba3-086b-47b0-ab47-0ce12311d02e;VA;2027-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-1d85a4a3-60e7-4d89-a6a5-a69cc6b8759f;VA;2027-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-c2beb2aa-de9d-45bf-ad64-93b130ced88f;VA;2027-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-50467382-e8e0-40e7-a143-646365a57313;VA;2027-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-4c4a2ee3-0cfd-40c8-86db-7075804e37e5;VA;2027-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-4b1e4675-2f23-4a03-b76a-7a09f0d2ed07;VA;2027-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-6e186966-0137-4787-9de2-74e0836f0a35;VA;2027-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-c2ac8383-79d8-4ace-a026-aa2cdc4a9042;VA;2027-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-ca92c578-f1a0-4e97-bba0-c155a43e6c90;VA;2027-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-23f1aaa0-83f4-4d13-ac29-0c32c2c2773c;VA;2027-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-0bcbb714-8d69-4a1d-9901-920fb0fb6081;VA;2027-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
-691b22ae-5cf0-4ba5-8855-f523c1c939f9;VA;2028-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-38776da4-ac24-4187-ad0e-107005a34bf1;VA;2028-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-fb503f33-3c4e-4f66-84c4-58ce76fe50b0;VA;2028-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-119fbb7b-2c57-4483-80fe-7332829c33bd;VA;2028-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-5b3a71d9-85a1-449a-99a6-13d8d9513ac8;VA;2028-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-fbed2c07-4d4d-4b4b-a13a-8ba3b2e36d45;VA;2028-04-13;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-70a677fa-569c-498d-9061-86f29530b055;VA;2028-04-14;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-c3abb1e9-d4e2-4d93-b683-8c4e93405d93;VA;2028-04-15;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-587e9bff-a6e8-4c2d-bf1c-bcd212c84725;VA;2028-04-16;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-60bc71fd-92a1-4f9a-94d5-b2eaf76b69f9;VA;2028-04-17;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-4d3d7098-6d50-4b64-aaae-c0375190f59c;VA;2028-04-18;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-cab3b261-9ddf-4226-a814-80684544a4e9;VA;2028-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-adf458b2-fb44-4b6a-a5ef-af5a7403296a;VA;2028-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-860eb81b-9355-418f-9cfb-bdfc349c2556;VA;2028-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-010c8241-660c-4631-b11a-875c902c07c3;VA;2028-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-183d1761-0383-44a9-9f4e-a3d8cb622139;VA;2028-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-a0285667-df28-461f-a166-4cd39e40caeb;VA;2028-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-f383a905-3958-4ea4-ac5e-ac1bff5dcf7e;VA;2028-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-325783d8-590f-4167-965a-8468d73de5ff;VA;2028-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-f7a75069-f729-4bcd-ad30-fc43ab02cb56;VA;2028-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-cf74ebcd-d271-45b9-9bfa-a9530e271fe9;VA;2028-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-3ae8140e-ac38-462c-be6a-0fccb3bc34e7;VA;2028-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-857f1c9f-b2fc-40b4-8f3b-f0e481dd7075;VA;2028-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-b6a4fce4-5887-4d69-bd97-29f6fd5f653f;VA;2028-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-4b68cd91-cd49-49af-ac02-b9ba24802199;VA;2028-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-aa344950-d562-403c-a333-fc2a8c4eeb11;VA;2028-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
-45656a80-5387-417d-b0fe-bdd5609c399c;VA;2029-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-eba27144-4f49-403e-859d-51e76af8a1bb;VA;2029-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-5ab8910c-fe70-4f4c-ba38-73d8b8952c18;VA;2029-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-38e18283-cbae-4a36-8930-95c309eb1f77;VA;2029-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-411ddef2-ab4d-470e-8347-e1340676dd11;VA;2029-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-8827a701-0826-4e79-924a-af17d0723b56;VA;2029-03-29;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-a241abe3-1b20-499c-b86c-4b81ca00d022;VA;2029-03-30;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-705c5503-97b7-48d7-9b42-090141b7d6ac;VA;2029-03-31;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-5b70fe4d-09e6-459e-a703-9e0cfa9235f7;VA;2029-04-01;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-82dcdc06-b246-4284-9f64-1cc28229c5f1;VA;2029-04-02;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-7719e820-d49a-4517-88b2-b2a6d8ace9ee;VA;2029-04-03;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-874b4793-027f-44c6-b085-73e4071419cd;VA;2029-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-ffd9fd0d-b1cd-47b2-ae89-0a3570d3468f;VA;2029-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-616895ba-971a-4460-bb39-dc157184d9b6;VA;2029-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-2309d4b2-8051-419a-89c5-2a61284d1cc3;VA;2029-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-09c5e745-1bd7-4358-9ef8-aff6adbf87f8;VA;2029-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-b87e6b17-95b3-4e8d-876d-8d79833320d8;VA;2029-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-0e1c16c4-8e87-4567-9bd0-a9dc37b11f8b;VA;2029-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-2c895c9d-a9e6-44bc-baaf-3a8d8d9d58e5;VA;2029-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-c20adb1d-687d-411c-9d72-8ae5cb7934fb;VA;2029-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-e4c53a65-3423-4b02-8f93-29659bf487bf;VA;2029-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-25ae7937-f9ca-4eb3-90da-c120b9f5ed2c;VA;2029-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-4766c380-4ee6-4186-b462-379dcb5bc674;VA;2029-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-f40e1c88-0881-40ca-91d0-e5fc32e0741d;VA;2029-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-f31b1cf2-5019-44cb-b021-d9b8e0a448cf;VA;2029-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-f5c7fce5-ac81-4fc1-abb6-764ebdf67c9f;VA;2029-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
-2482bf8a-6837-4893-8c69-758e6b0006d9;VA;2030-01-01;;Public;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
-b2e1eb35-9f2c-406a-9188-1d583fa559cc;VA;2030-01-06;;Public;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
-59759693-18eb-426e-8a37-fde06b4d958f;VA;2030-02-11;;Public;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
-c64604de-4f3e-4912-9916-9716c7f430e4;VA;2030-03-13;;Public;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
-122d98a4-a5be-4139-a3c5-2da9efcc5954;VA;2030-03-19;;Public;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
-5be2ca1e-8e40-4808-9d2c-74d4283fb2f6;VA;2030-04-18;;Public;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
-a485a2ef-62ee-4d5d-9180-46a596d85c7c;VA;2030-04-19;;Public;IT Venerdì santo,EN Good Friday,DE Karfreitag
-5b53f3a8-424f-47a2-ad17-c45d786019eb;VA;2030-04-20;;Public;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
-1f93a27f-62cb-4abe-ba06-2f1f90f9b189;VA;2030-04-21;;Public;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
-ccee7b32-0776-46af-aa5d-5f4d3001685e;VA;2030-04-22;;Public;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
-7bed724a-1dbd-4621-899a-e9ccdb356ec4;VA;2030-04-23;;Public;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
-833463a1-9ff7-4824-b728-81a63a4d4df8;VA;2030-04-23;;Public;IT Onomastico del Santo Padre,EN Saint George,DE Georgstag
-50c83678-75bf-4935-91fd-19dd1ae365ef;VA;2030-05-01;;Public;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
-1c1210a3-5adb-4fe4-8e37-0e668de559f5;VA;2030-06-29;;Public;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
-e1608f31-d64b-42e1-833e-87935192acf8;VA;2030-08-14;;Public;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
-2ce6d58d-ba6f-4173-b5e1-407d8d0abc14;VA;2030-08-15;;Public;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
-298b99f4-b1ea-476e-858e-adb77089a2fc;VA;2030-08-16;;Public;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
-82122f77-94f3-4375-a003-24780634f468;VA;2030-09-08;;Public;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
-00893fc4-1565-41c3-8f69-ea06e9c321cf;VA;2030-11-01;;Public;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
-6b170078-dbef-4c41-aef4-c8bc4cd99080;VA;2030-11-02;;Public;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
-897d5556-cc55-4b68-b6ea-869b30781910;VA;2030-12-08;;Public;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
-b8d28960-1409-4fa6-9cc7-889eba065abe;VA;2030-12-24;;Public;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
-708738fe-5fc0-4c2b-b937-48cc9223157e;VA;2030-12-25;;Public;IT Natale,EN Christmas Day,DE Weihnachten
-a0b9d5a3-1464-4c2c-af9d-6d4543da5509;VA;2030-12-26;;Public;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
-bec6572e-b193-4f2b-b18e-eb1b9ee2f9db;VA;2030-12-27;;Public;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
-d57f5fd1-1f81-4521-acfd-030579bb0cef;VA;2030-12-26;;Public;IT Silvestro,EN New Year's Eve,DE Sylvester
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+d36ac5bb-2876-46d3-93c2-2b944a28f165;VA;2020-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+9530b6c4-7b8f-4a57-ae5c-b84a5f292fed;VA;2020-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+5dec2c3c-0d91-4d9d-b6f4-693e405e3ef3;VA;2020-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+1216665d-a1bb-486e-a4e8-b98db0072994;VA;2020-03-13;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
+512ceb32-4ce6-4ea1-a183-c3e1b146ced5;VA;2020-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+2bf21895-1cd2-4b96-913c-864370c1e711;VA;2020-04-09;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+86f70428-5ed4-49cf-8ccb-c09d1247f42f;VA;2020-04-10;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+86399c3d-5c42-4414-a9cc-24cd15d3c1a9;VA;2020-04-11;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+7da7bf98-a4c1-478e-9e76-2a32b3750bd9;VA;2020-04-12;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+9ee3c31e-cee4-4a8a-8889-53409a0eb353;VA;2020-04-13;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+c3013e5a-b847-4328-8433-2c1619faf020;VA;2020-04-14;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+7c013dc6-9211-4ae4-b67e-905eacb7cca1;VA;2020-04-23;;Public;National;IT Onomastico del Santo Padre,EN Saint George's Day,DE Georgstag
+7ecba843-6a45-4184-b2db-51c7865517b3;VA;2020-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+9e7a5648-de38-4d5e-8481-5a95b0503b89;VA;2020-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+aa253f7a-f807-43f9-a109-89dbaee7c65d;VA;2020-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+9aef767f-1061-49cc-9735-7b5805458cb4;VA;2020-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+b96f5e7b-9150-4886-850a-cd48081f2924;VA;2020-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+6d6b1ef0-b100-49ec-96c8-1019eb51f8fc;VA;2020-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+3de534dd-0606-4740-aa3d-19bd147c2cd1;VA;2020-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+aba18a3f-9c19-4ad9-8153-dea7f0a6612a;VA;2020-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+932a935f-d7c4-4a57-bb2a-cc874149b1c9;VA;2020-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+b0f75848-4d18-421f-8522-e508a705e720;VA;2020-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+3c8d2195-74e4-48e8-a296-491c611fd977;VA;2020-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+c0867e65-06b5-4338-8561-fcfb03171330;VA;2020-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+c26662ad-8399-4385-8081-f19d5499637f;VA;2020-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+aedfc6ec-2e33-4176-b453-ac53c0acdd0b;VA;2020-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
+fe5ce0b0-1458-42e7-a1b7-1ac2b15b5ff3;VA;2021-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+a0267d51-2d8b-4e90-9f69-a8a30e09fbeb;VA;2021-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+90abc996-c085-4b0d-8770-734073dcb262;VA;2021-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+fb22c1d9-2e90-4598-9034-32a8bc7b5846;VA;2021-03-13;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
+31d58e2d-2f5c-4130-b3e9-2f660c209f13;VA;2021-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+358317b4-85a4-4834-9373-c69b178ff9cc;VA;2021-04-01;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+3e69d948-c89c-4ca3-bbd1-7ba57defe1c1;VA;2021-04-02;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+e3e2bdf2-b98d-4919-8e2e-281686aca61f;VA;2021-04-03;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+a30a67f8-2a6a-4a12-b313-f5e1c91ab9de;VA;2021-04-04;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+fa4bb87c-dfe6-4fe8-9805-8464d6e0cebd;VA;2021-04-05;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+6c16dbe0-488f-4fd9-b62f-9feac207e778;VA;2021-04-06;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+c0945b2f-4ae7-4237-ad53-66f8c127ca0c;VA;2021-04-23;;Public;National;IT Onomastico del Santo Padre,EN Saint George's Day,DE Georgstag
+d4841b5b-7b10-46b9-84cf-8c64d64b3414;VA;2021-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+e40ad11d-e0c4-48dd-89cb-ab9c91e2cc7c;VA;2021-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+b9cf7be4-d362-42f6-93e4-94025f72ae24;VA;2021-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+0a49a4ac-eb8c-44e7-89c7-cd95dff5cf35;VA;2021-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+526fc4ff-3c99-4a5c-bf07-432755374977;VA;2021-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+c9322e71-e8c7-4edc-b0d1-c84887224bf6;VA;2021-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+1e80c0a6-3e93-4def-96d4-f3c689976b48;VA;2021-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+d8555841-5130-4f18-b938-c07cfdefa549;VA;2021-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+54d09568-7924-4710-a1d9-8b84079969bc;VA;2021-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+09d849de-3aa6-4a8b-9eb7-af47c30ae332;VA;2021-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+9855ae3d-d832-49df-8cce-fc4bdf24b796;VA;2021-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+46d00b8a-8fa5-4b5f-9c3b-9e8852a45416;VA;2021-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+be707f76-03e3-4c7d-9e31-bc549ba59e71;VA;2021-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+c394a25f-569e-4cbc-a33f-c0172afeb659;VA;2021-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
+fcea7f49-5456-452a-b7ca-bd7f19338e66;VA;2022-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+abb4e08e-a05b-4bc8-8b8a-c4e28c1b36f8;VA;2022-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+431c00ed-a8f3-4314-a271-08b039de0916;VA;2022-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+9196dc74-02c1-4aea-81d4-aca58df3187e;VA;2022-03-13;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
+9d3eae3e-1c22-4da0-89f2-ba33c4fa799b;VA;2022-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+e6177d92-4860-45d0-a4b4-98c00b7531a2;VA;2022-04-14;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+5d5d41c3-9e79-4e12-a7e7-3a2b0ee3ef14;VA;2022-04-15;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+1cd5eba8-c251-4b82-9512-cc8f149e7e46;VA;2022-04-16;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+16e02f77-ff21-48a8-abf8-4d1acf4d5c8a;VA;2022-04-17;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+868f0c81-58e1-445b-884d-e2dfee76a001;VA;2022-04-18;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+f74ac90c-f475-450c-b4e9-5f867b2d8069;VA;2022-04-19;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+e91edd5d-4498-4492-a166-eb9f32499e06;VA;2022-04-23;;Public;National;IT Onomastico del Santo Padre,EN Saint George's Day,DE Georgstag
+67db4e08-ad56-4c36-a908-b081c8b0e244;VA;2022-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+fe8f7581-b1f5-4c9b-8396-41a2062d5108;VA;2022-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+b6303585-9e59-4d33-85b8-8bba6679a3ec;VA;2022-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+a366aeb7-d593-4d2e-a5fd-56ec469497c4;VA;2022-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+7e906767-a92c-4820-80f3-45bedbcaad82;VA;2022-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+f93bca84-e5e5-4544-92f6-c2ebd83d254d;VA;2022-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+f06cca96-9b11-4bc4-b283-81410b29314c;VA;2022-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+a9b80573-57bf-4990-8053-83a2ebb28f85;VA;2022-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+380019f2-4be6-4da1-84fb-b04330685290;VA;2022-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+7f169401-07ad-4bd8-ab3a-a02b8b680df8;VA;2022-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+f58f7f27-1975-4557-9f59-4f07d9575984;VA;2022-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+806d58c6-07af-42c1-8967-909944ff6491;VA;2022-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+a21ca080-a26e-4145-aa9f-95a7d26d0cb6;VA;2022-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+3df4d43a-9564-484e-8b07-42befcaf3fab;VA;2022-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
+d0437b00-cce3-49a8-8d7e-35b9446a2a72;VA;2023-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+d976ff90-e8b6-41dc-940c-350ae765839a;VA;2023-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+8e0ee4bf-79af-4cb2-b812-d068e547def5;VA;2023-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+b8138e3f-54dd-469a-be3f-1e373d939a73;VA;2023-03-13;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
+797307b0-03b9-4bdf-9a1d-3f1f01773b32;VA;2023-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+6dad14c7-22fd-404e-9805-8281572ee036;VA;2023-04-06;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+af50eb4f-eb3b-4f67-81c1-2c0928f2b936;VA;2023-04-07;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+d233e5c1-84d0-4b1b-b6c1-6d0fdfe47d43;VA;2023-04-08;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+723ad107-7025-41e5-b49b-774ecb06ea84;VA;2023-04-09;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+f5fcd17d-7d95-486c-a72e-496a51050127;VA;2023-04-10;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+096ae219-23e5-4f03-80bd-826b542a7c13;VA;2023-04-11;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+4118c2f4-4090-444f-96c0-6624b7f238f8;VA;2023-04-23;;Public;National;IT Onomastico del Santo Padre,EN Saint George's Day,DE Georgstag
+a052670e-8c22-47cf-9804-c8ab378f8cd7;VA;2023-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+b5c4069d-8a8d-4039-854e-f26c70191b38;VA;2023-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+9d1c74bd-1867-4f0b-8fd1-da14acaa0239;VA;2023-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+ec43fe21-2c59-48b5-92f0-75677982e4ed;VA;2023-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+4af6ed0f-8b9d-426c-83d2-732bde382c7f;VA;2023-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+caa51c1f-6eb5-4045-a7a6-0ad279b74971;VA;2023-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+7fd39c59-7676-4e0d-97d1-18fbca9e8897;VA;2023-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+1cfb91dd-2216-4895-aba3-1120b42aa7e9;VA;2023-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+d949633f-37c9-474b-9f69-b56a1e1e1d3e;VA;2023-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+4b1f856e-4824-448a-bd66-56e149be28c2;VA;2023-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+38ea4de4-0fc7-4f76-ae49-223ac3d46aff;VA;2023-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+9aeb2927-dc88-42db-9b5e-4defa51106b5;VA;2023-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+0fcc85c2-7864-4c6b-8b34-23e9781a100b;VA;2023-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+55e1ead9-7ec1-451d-8461-c4f6118ae86f;VA;2023-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
+aa1884b7-0a03-4607-9919-c3fa19a6de1b;VA;2024-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+fdef74a0-6a69-4d97-8710-6a1564a33faa;VA;2024-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+04b22870-c320-4981-baf1-23a1f41b6912;VA;2024-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+1fd2c028-9eb9-41e4-a3e5-f7e1de884d85;VA;2024-03-13;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
+febeb107-250a-478d-af5f-9f7e58f6949b;VA;2024-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+b93a093b-30db-4236-b940-e26ef587618a;VA;2024-03-28;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+dad76d11-4258-46c7-af47-e2e5edf44dba;VA;2024-03-29;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+9c6a8814-1ced-4b2a-a47f-ff88e39141eb;VA;2024-03-30;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+10deb046-4504-4b67-a1e7-93e197afefe4;VA;2024-03-31;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+b43c6a6d-241b-47bf-af9b-183384fca1c5;VA;2024-04-01;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+363a6269-582a-4648-80f5-937d0ee5b67b;VA;2024-04-02;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+5b1970da-3ad3-4433-9e77-fd99552bdb64;VA;2024-04-23;;Public;National;IT Onomastico del Santo Padre,EN Saint George's Day,DE Georgstag
+5747791e-6d26-4e8e-bf22-b0db21f0ecf3;VA;2024-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+736d2967-9c84-46dc-956b-f1fdb5942caa;VA;2024-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+be44b07c-59b1-492b-b4ec-b66c660cda59;VA;2024-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+24042c05-be2a-496f-8a50-ded71bf0816e;VA;2024-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+f080354a-e7cd-4082-ace8-36d3612d9459;VA;2024-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+4458c0b2-9482-420a-8706-6a8ded2d78c1;VA;2024-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+11a6e796-dba2-4a2e-92a9-576791bbcef1;VA;2024-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+c7886439-444b-447f-8efe-48aa85f140b4;VA;2024-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+215c20cc-626e-458f-b718-20ef3e7c741e;VA;2024-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+a3d9ff97-cc22-4f72-b957-34749b4594a1;VA;2024-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+969326b8-2c44-49de-9cd3-2005cc08cc73;VA;2024-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+8379e530-5887-45cb-aa64-c19c8521599d;VA;2024-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+1e4dac5b-840c-465b-8689-1969429eabf6;VA;2024-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+eea527c5-b486-4763-8b0b-085e9f1eb53c;VA;2024-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
+c4c61b53-3aea-4b7b-9b9c-a5956b98c833;VA;2025-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+56cbc1be-c2bc-41dc-af5a-c0542dec12d8;VA;2025-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+8554126b-ba93-4a0d-b4c4-bf721e4bd2d6;VA;2025-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+b63bc13a-8097-4233-9336-2abfea2db7ff;VA;2025-03-13;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Francis,DE Jahrestag der Amtseinführung von Papst Franziskus
+2b53d5f5-c725-41f0-ba79-487585818f1f;VA;2025-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+569b5b24-a45f-4f76-8fc9-44c19db37c06;VA;2025-04-21;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+50c9a247-2acb-447d-a40a-4fdae706f61d;VA;2025-04-22;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+e6764695-2d95-4803-b622-3dc188493cf6;VA;2025-04-23;;Public;National;IT Onomastico del Santo Padre,EN Saint George's Day,DE Georgstag
+41c9859b-f1f6-425b-a724-1432e256506d;VA;2025-04-23;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+339cb84e-0a6c-4b01-91b3-3a7e654a30a8;VA;2025-04-24;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+e2eb8183-65a2-4ec3-8afb-842e43a9f470;VA;2025-04-25;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+e4932438-6cec-4263-b818-d582c920ee9e;VA;2025-04-26;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+2dfe51b6-e707-40f6-a261-1e98bbba0708;VA;2025-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+c8ba5da1-97ea-432c-8dc9-61cf9c51e3e0;VA;2025-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+c9accd21-e395-4f9b-8ccd-4f86fad4c156;VA;2025-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+da892337-5817-47e5-8295-a3ce9a8f84ef;VA;2025-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+bc50f257-4dbd-4dd2-882e-f9f13b6d8482;VA;2025-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+39ba7efc-f576-480d-baac-6ba9acf3536f;VA;2025-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+9943e848-240c-4943-80a2-06fc7ac7ea16;VA;2025-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+c15ab3bf-84b8-4b75-896b-d0f7d048a17c;VA;2025-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+5cd6edf0-f55a-4977-9e30-da1b6de49910;VA;2025-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+e1b648a4-7828-45c4-b6a1-ef11d1ec6785;VA;2025-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+36df59f9-b7ab-4670-b8e4-972ba4b451d0;VA;2025-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+1a617ede-f16c-434b-b9ee-06e0070f890c;VA;2025-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+bf8a9a94-f816-43ba-9e89-2537e6b41164;VA;2025-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+3d959d97-ce25-45ec-8c92-f09f0b642a1a;VA;2025-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
+e814ddbc-1157-4325-8df1-265720374181;VA;2026-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+c5752496-2d25-415a-9baa-0d5c568c6f1e;VA;2026-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+cd0c7632-bbf4-4119-9cf5-722646e44794;VA;2026-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+579f61bb-d525-4007-a8e4-e551a230752f;VA;2026-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+152d1467-c8b4-408a-be26-bf33cba6781e;VA;2026-04-02;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+8c0a7ae0-baee-4363-be0c-6b186b91446e;VA;2026-04-03;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+4be625eb-9db9-45b7-a3d4-a02477b1b042;VA;2026-04-04;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+142819b1-0654-47e0-aef2-42af6b31e800;VA;2026-04-05;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+260d7d4c-9b62-4fb4-91ab-f364b4491106;VA;2026-04-06;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+ac9c73c1-d2bc-44f3-9f33-4a34747202f5;VA;2026-04-07;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+6c54789e-3ada-44aa-8b04-c0bd87393c10;VA;2026-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+4e548905-67fb-48c5-94c3-e7b7d1d9ea10;VA;2026-05-08;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Leo XIV,DE Jahrestag der Amtseinführung von Papst Leo XIV
+363cf8c7-836f-4882-bf86-28cb50f0c8a8;VA;2026-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+1c7098d0-2396-4882-9896-bc1d277aa9f5;VA;2026-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+4bab316e-5cf2-4e52-8e91-9f37eca99959;VA;2026-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+d1d69dca-2972-45b4-b594-5211f72975db;VA;2026-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+3b71a06b-abb3-4ba9-9e90-fe44644adb91;VA;2026-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+d78962e3-6ce3-428e-83fb-5faa76e3f3e1;VA;2026-09-17;;Public;National;IT Onomastico del Santo Padre,EN Saint Robert Bellarmine's Day,DE Tag des Heiligen Robert Bellarmine
+c2c836ed-e5a4-4ef7-b864-213f7b0e0dca;VA;2026-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+73cf0cca-df81-4cbc-be0d-c87c7841bd83;VA;2026-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+639d2bef-dc7b-4aba-ab57-3b2a2e116cd8;VA;2026-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+0b7155ad-0a01-48fb-a632-8bd096f36d51;VA;2026-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+d56dfbd1-41e1-4f98-b5e4-dc3a394f8ced;VA;2026-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+88fb0800-8da2-4dde-b546-0fb5353be039;VA;2026-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+0e6d45d6-aa89-4097-90a5-0ff49ab48bf8;VA;2026-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+bd002e45-da72-403c-8e12-0b468ad13b98;VA;2026-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
+45e981a6-e6e1-4776-983d-1471d574fdbf;VA;2027-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+ee41cd92-b487-488f-aa22-c0ccff9ac44f;VA;2027-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+f582a918-c5da-43dd-8fdc-cf4d3a3d7a4a;VA;2027-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+6314790b-d04c-4423-9624-86bded0800ac;VA;2027-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+b1f83c2c-4e3e-4d0a-8414-4da095b99127;VA;2027-03-25;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+a3757f07-81aa-42d7-a22d-26ab2c343674;VA;2027-03-26;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+1c2ee16e-8712-470e-8895-6c3918b7371d;VA;2027-03-27;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+6874a927-50c3-4ff3-9dfa-759b3199cd38;VA;2027-03-28;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+6d4dbdfc-fd95-4cdf-a8ae-cee0cef2e2d4;VA;2027-03-29;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+0f70fe71-75a1-497a-9761-5b8b2569f07e;VA;2027-03-30;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+1bd3800e-ef56-4c8e-939f-fd6860228a9c;VA;2027-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+f5a2ed2e-9b9c-4515-9174-145eeeeed295;VA;2027-05-08;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Leo XIV,DE Jahrestag der Amtseinführung von Papst Leo XIV
+72ec724f-3ed3-48fd-b208-f963660d420b;VA;2027-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+ac3dea7a-8733-4f97-9aa5-d99c758c979f;VA;2027-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+62f77ba3-086b-47b0-ab47-0ce12311d02e;VA;2027-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+1d85a4a3-60e7-4d89-a6a5-a69cc6b8759f;VA;2027-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+c2beb2aa-de9d-45bf-ad64-93b130ced88f;VA;2027-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+345a9363-b990-478b-979b-d3c45433f396;VA;2027-09-17;;Public;National;IT Onomastico del Santo Padre,EN Saint Robert Bellarmine's Day,DE Tag des Heiligen Robert Bellarmine
+50467382-e8e0-40e7-a143-646365a57313;VA;2027-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+4c4a2ee3-0cfd-40c8-86db-7075804e37e5;VA;2027-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+4b1e4675-2f23-4a03-b76a-7a09f0d2ed07;VA;2027-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+6e186966-0137-4787-9de2-74e0836f0a35;VA;2027-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+c2ac8383-79d8-4ace-a026-aa2cdc4a9042;VA;2027-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+ca92c578-f1a0-4e97-bba0-c155a43e6c90;VA;2027-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+0bcbb714-8d69-4a1d-9901-920fb0fb6081;VA;2027-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+23f1aaa0-83f4-4d13-ac29-0c32c2c2773c;VA;2027-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
+691b22ae-5cf0-4ba5-8855-f523c1c939f9;VA;2028-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+38776da4-ac24-4187-ad0e-107005a34bf1;VA;2028-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+fb503f33-3c4e-4f66-84c4-58ce76fe50b0;VA;2028-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+5b3a71d9-85a1-449a-99a6-13d8d9513ac8;VA;2028-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+fbed2c07-4d4d-4b4b-a13a-8ba3b2e36d45;VA;2028-04-13;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+70a677fa-569c-498d-9061-86f29530b055;VA;2028-04-14;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+c3abb1e9-d4e2-4d93-b683-8c4e93405d93;VA;2028-04-15;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+587e9bff-a6e8-4c2d-bf1c-bcd212c84725;VA;2028-04-16;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+60bc71fd-92a1-4f9a-94d5-b2eaf76b69f9;VA;2028-04-17;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+4d3d7098-6d50-4b64-aaae-c0375190f59c;VA;2028-04-18;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+adf458b2-fb44-4b6a-a5ef-af5a7403296a;VA;2028-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+119fbb7b-2c57-4483-80fe-7332829c33bd;VA;2028-05-08;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Leo XIV,DE Jahrestag der Amtseinführung von Papst Leo XIV
+860eb81b-9355-418f-9cfb-bdfc349c2556;VA;2028-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+010c8241-660c-4631-b11a-875c902c07c3;VA;2028-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+183d1761-0383-44a9-9f4e-a3d8cb622139;VA;2028-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+a0285667-df28-461f-a166-4cd39e40caeb;VA;2028-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+f383a905-3958-4ea4-ac5e-ac1bff5dcf7e;VA;2028-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+cab3b261-9ddf-4226-a814-80684544a4e9;VA;2028-09-17;;Public;National;IT Onomastico del Santo Padre,EN Saint Robert Bellarmine's Day,DE Tag des Heiligen Robert Bellarmine
+325783d8-590f-4167-965a-8468d73de5ff;VA;2028-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+f7a75069-f729-4bcd-ad30-fc43ab02cb56;VA;2028-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+cf74ebcd-d271-45b9-9bfa-a9530e271fe9;VA;2028-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+3ae8140e-ac38-462c-be6a-0fccb3bc34e7;VA;2028-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+857f1c9f-b2fc-40b4-8f3b-f0e481dd7075;VA;2028-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+b6a4fce4-5887-4d69-bd97-29f6fd5f653f;VA;2028-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+aa344950-d562-403c-a333-fc2a8c4eeb11;VA;2028-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+4b68cd91-cd49-49af-ac02-b9ba24802199;VA;2028-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
+45656a80-5387-417d-b0fe-bdd5609c399c;VA;2029-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+eba27144-4f49-403e-859d-51e76af8a1bb;VA;2029-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+5ab8910c-fe70-4f4c-ba38-73d8b8952c18;VA;2029-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+411ddef2-ab4d-470e-8347-e1340676dd11;VA;2029-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+8827a701-0826-4e79-924a-af17d0723b56;VA;2029-03-29;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+a241abe3-1b20-499c-b86c-4b81ca00d022;VA;2029-03-30;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+705c5503-97b7-48d7-9b42-090141b7d6ac;VA;2029-03-31;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+5b70fe4d-09e6-459e-a703-9e0cfa9235f7;VA;2029-04-01;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+82dcdc06-b246-4284-9f64-1cc28229c5f1;VA;2029-04-02;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+7719e820-d49a-4517-88b2-b2a6d8ace9ee;VA;2029-04-03;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+ffd9fd0d-b1cd-47b2-ae89-0a3570d3468f;VA;2029-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+38e18283-cbae-4a36-8930-95c309eb1f77;VA;2029-05-08;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Leo XIV,DE Jahrestag der Amtseinführung von Papst Leo XIV
+616895ba-971a-4460-bb39-dc157184d9b6;VA;2029-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+2309d4b2-8051-419a-89c5-2a61284d1cc3;VA;2029-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+09c5e745-1bd7-4358-9ef8-aff6adbf87f8;VA;2029-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+b87e6b17-95b3-4e8d-876d-8d79833320d8;VA;2029-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+0e1c16c4-8e87-4567-9bd0-a9dc37b11f8b;VA;2029-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+874b4793-027f-44c6-b085-73e4071419cd;VA;2029-09-17;;Public;National;IT Onomastico del Santo Padre,EN Saint Robert Bellarmine's Day,DE Tag des Heiligen Robert Bellarmine
+2c895c9d-a9e6-44bc-baaf-3a8d8d9d58e5;VA;2029-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+c20adb1d-687d-411c-9d72-8ae5cb7934fb;VA;2029-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+e4c53a65-3423-4b02-8f93-29659bf487bf;VA;2029-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+25ae7937-f9ca-4eb3-90da-c120b9f5ed2c;VA;2029-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+4766c380-4ee6-4186-b462-379dcb5bc674;VA;2029-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+f40e1c88-0881-40ca-91d0-e5fc32e0741d;VA;2029-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+f5c7fce5-ac81-4fc1-abb6-764ebdf67c9f;VA;2029-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+f31b1cf2-5019-44cb-b021-d9b8e0a448cf;VA;2029-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist
+2482bf8a-6837-4893-8c69-758e6b0006d9;VA;2030-01-01;;Public;National;IT Maria Santissima Madre di Dio,EN Solemnity of Mary%2C Mother of God,DE Heilige Maria%2C Mutter Gottes
+b2e1eb35-9f2c-406a-9188-1d583fa559cc;VA;2030-01-06;;Public;National;IT Epifania del Signore,EN Epiphany,DE Heilige Drei Könige
+59759693-18eb-426e-8a37-fde06b4d958f;VA;2030-02-11;;Public;National;IT Anniversario della istituzione dello Stato della Città del Vaticano,EN Anniversary of the foundation of Vatican City,DE Jahrestag der Gründung der Vatikanstadt
+122d98a4-a5be-4139-a3c5-2da9efcc5954;VA;2030-03-19;;Public;National;IT San Giuseppe,EN Saint Joseph,DE Heiliger Josef
+5be2ca1e-8e40-4808-9d2c-74d4283fb2f6;VA;2030-04-18;;Public;National;IT Giovedì santo,EN Maundy Thursday,DE Gründonnerstag
+a485a2ef-62ee-4d5d-9180-46a596d85c7c;VA;2030-04-19;;Public;National;IT Venerdì santo,EN Good Friday,DE Karfreitag
+5b53f3a8-424f-47a2-ad17-c45d786019eb;VA;2030-04-20;;Public;National;IT Sabato di Pasqua,EN Easter Saturday,DE Ostersamstag
+1f93a27f-62cb-4abe-ba06-2f1f90f9b189;VA;2030-04-21;;Public;National;IT Domenica di Pasqua,EN Easter Sunday,DE Ostersonntag
+ccee7b32-0776-46af-aa5d-5f4d3001685e;VA;2030-04-22;;Public;National;IT Lunedì di Pasqua,EN Easter Monday,DE Ostermontag
+7bed724a-1dbd-4621-899a-e9ccdb356ec4;VA;2030-04-23;;Public;National;IT Martedì di Pasqua,EN Easter Tuesday,DE Osterdienstag
+50c83678-75bf-4935-91fd-19dd1ae365ef;VA;2030-05-01;;Public;National;IT San Giuseppe lavoratore,EN Saint Joseph the Worker,DE Josef der Arbeiter
+c64604de-4f3e-4912-9916-9716c7f430e4;VA;2030-05-08;;Public;National;IT Anniversario dell'Elezione del Santo Padre,EN Anniversary of the election of Pope Leo XIV,DE Jahrestag der Amtseinführung von Papst Leo XIV
+1c1210a3-5adb-4fe4-8e37-0e668de559f5;VA;2030-06-29;;Public;National;IT Santi Pietro e Paolo,EN Saints Peter and Paul,DE Heiligen Petrus und Paulus
+e1608f31-d64b-42e1-833e-87935192acf8;VA;2030-08-14;;Public;National;IT Vigilia dell'Assunzione di Maria in Cielo,EN Vigil of the Assumption,DE Vorabend Mariä Himmelfahrt
+2ce6d58d-ba6f-4173-b5e1-407d8d0abc14;VA;2030-08-15;;Public;National;IT Assunzione di Maria in Cielo,EN Assumption Day,DE Mariä Himmelfahrt
+298b99f4-b1ea-476e-858e-adb77089a2fc;VA;2030-08-16;;Public;National;IT Santo Stefano d'Ungheria,EN Saint Stephen of Hungary,DE Heiliger Stefan von Ungarn
+82122f77-94f3-4375-a003-24780634f468;VA;2030-09-08;;Public;National;IT Festa della natività della madonna,EN Nativity of Mary,DE Allerheiligen
+833463a1-9ff7-4824-b728-81a63a4d4df8;VA;2030-09-17;;Public;National;IT Onomastico del Santo Padre,EN Saint Robert Bellarmine's Day,DE Tag des Heiligen Robert Bellarmine
+00893fc4-1565-41c3-8f69-ea06e9c321cf;VA;2030-11-01;;Public;National;IT Tutti i santi%2C Ognissanti,EN All Saints’ Day,DE Allerheiligen
+6b170078-dbef-4c41-aef4-c8bc4cd99080;VA;2030-11-02;;Public;National;IT Giorno dei morti,EN All Souls’ Day,DE Allerseelen
+897d5556-cc55-4b68-b6ea-869b30781910;VA;2030-12-08;;Public;National;IT Immacolata Concezione,EN Immaculate Conception,DE Unbefleckte Empfängnis
+b8d28960-1409-4fa6-9cc7-889eba065abe;VA;2030-12-24;;Public;National;IT Vigilia di Natale,EN Christmas Eve,DE Heiligabend
+708738fe-5fc0-4c2b-b937-48cc9223157e;VA;2030-12-25;;Public;National;IT Natale,EN Christmas Day,DE Weihnachten
+a0b9d5a3-1464-4c2c-af9d-6d4543da5509;VA;2030-12-26;;Public;National;IT Santo Stefano,EN Saint Stephen's Day,DE Stefanitag
+d57f5fd1-1f81-4521-acfd-030579bb0cef;VA;2030-12-26;;Public;National;IT Silvestro,EN New Year's Eve,DE Sylvester
+bec6572e-b193-4f2b-b18e-eb1b9ee2f9db;VA;2030-12-27;;Public;National;IT San Giovanni Evangelista,EN Saint John the Evangelist,DE Johannes der Evangelist

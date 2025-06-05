@@ -7,6 +7,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Austria (public holidays and school holidays from 2020)
 + Belarus (public holidays and school holidays from 2020)
 + Belgium (public holidays and school holidays from 2020)
++ Brazil (public holidays from 2020)
 + Bulgaria (public holidays and school holidays from 2020)
 + Croatia (public holidays and school holidays from 2020)
 + Czechia (public holidays and school holidays from 2020)
@@ -21,6 +22,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Lithuania (public holidays and school holidays from 2020)
 + Luxembourg (public holidays and school holidays from 2020)
 + Malta (public holidays and school holidays from 2020)
++ Mexico (public holidays and school holidays from 2020, Initial data from [@kassi](https://github.com/kassi))
 + Moldova (public holidays and school holidays from 2020)
 + Monaco (public holidays and school holidays from 2020)
 + Netherlands (public holidays and school holidays from 2020)
@@ -32,12 +34,16 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
 + Spain (public holidays and school holidays from 2020, Initial data from [@TBiele](https://github.com/TBiele))
++ Sweden (public holidays from 2020, Initial data from [@attil75a](https://github.com/attil75a))
 + Switzerland (public holidays and school holidays from 2020)
 + Vatican City (public holidays from 2020)
 
 ## Sources
 
-You can find a detailed list of data sources at https://www.openholidaysapi.org/en/sources/.
+You can find a detailed list of data sources at https://www.openholidaysapi.org/en/:
+
++ [Data sources for Americas](https://www.openholidaysapi.org/en/sources-americas/)
++ [Data sources for Europe](https://www.openholidaysapi.org/en/sources-europe/)
 
 ## Additional information
 

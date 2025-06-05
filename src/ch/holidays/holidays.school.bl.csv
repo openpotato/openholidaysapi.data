@@ -1,27 +1,78 @@
-﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
-18156127-39a5-4092-9116-460842e04741;CH;2020-02-22;2020-03-08;School;DE Sport,FR Sport,IT Sport,EN Sport;BL;
-fdaf37da-5643-4001-8b51-c76dfd213d85;CH;2020-04-04;2020-04-19;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BL;
-36368b7f-322c-4ce9-b8f8-1d4b1399956a;CH;2020-06-27;2020-08-09;School;DE Sommer,FR Été,IT Estate,EN Summer;BL;
-3aaba429-1c74-42e7-af91-dc69714f8ca0;CH;2020-09-26;2020-10-11;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BL;
-eade1549-4524-49a2-ad7f-e78b268d0b39;CH;2020-12-19;2021-01-03;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BL;
-4f60cc64-6e6d-4359-9eca-c20e71579829;CH;2021-02-13;2021-02-28;School;DE Sport,FR Sport,IT Sport,EN Sport;BL;
-342b6c82-5f3d-45ba-9d75-ab9874a1520a;CH;2021-03-27;2021-04-11;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BL;
-1fede70f-1ea3-4167-af05-a93fcd163c31;CH;2021-03-27;2021-04-11;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BL;
-c2265998-d398-42ec-a7d1-43100485e846;CH;2021-07-03;2021-08-15;School;DE Sommer,FR Été,IT Estate,EN Summer;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (10.07.2021-15-08.2021)
-325d9de1-ecc1-4bbf-93ed-c22272fe292a;CH;2021-10-02;2021-10-17;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (02.10.2021-24.10.2021)
-7ad97cae-0c89-4836-8e04-94ee923fe8a7;CH;2021-12-18;2022-01-02;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BL;
-bebd6704-4a95-454b-a18c-e84ac346518a;CH;2022-02-26;2022-03-13;School;DE Sport,FR Sport,IT Sport,EN Sport;BL;
-3f5bb860-46a2-43b4-9434-55c5395fae3b;CH;2022-04-09;2022-04-24;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BL;
-e5f9084c-91bb-429a-9148-b379b32817c5;CH;2022-07-02;2022-08-14;School;DE Sommer,FR Été,IT Estate,EN Summer;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (09.07.2022-14.08.2022)
-5b7783bf-a756-4966-9343-a49c2b7b0246;CH;2022-10-01;2022-10-16;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (01.10.2022-23.10.2022)
-aaeca919-6944-4288-b683-23045b4f2dec;CH;2022-12-24;2023-01-08;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BL;
-4132cd7d-dac5-4a39-8588-d8639a25bc9f;CH;2023-02-18;2023-03-05;School;DE Sport,FR Sport,IT Sport,EN Sport;BL;
-9cda126c-e467-4cc0-89da-212d6b52058c;CH;2023-04-01;2023-04-16;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BL;
-a8be9238-46b6-4839-a2e3-5033c57897ac;CH;2023-07-01;2023-08-13;School;DE Sommer,FR Été,IT Estate,EN Summer;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (08.07.2023-13.08.2023)
-9a02ca58-d1bd-414c-97b4-1d5de46d3ab5;CH;2023-09-30;2023-10-15;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (30.09.2023-22.10.2023)
-d1c48117-13c6-4de3-b886-77d44d6ec976;CH;2023-12-23;2024-01-07;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BL;
-4f80308b-c879-40e4-8304-fc395ddeb226;CH;2024-02-10;2024-02-25;School;DE Sport,FR Sport,IT Sport,EN Sport;BL;
-0647d49c-f997-4123-89c6-d98416f22c7d;CH;2024-03-23;2024-04-07;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BL;
-b89debd8-975c-4a83-a062-9cd83933c1dc;CH;2024-06-29;2024-08-11;School;DE Sommer,FR Été,IT Estate,EN Summer;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (06.07.2024-11.08.2024)
-ad458f62-b9ef-4eae-b3ca-0a4a8b85309c;CH;2024-09-28;2024-10-13;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (28.09.2024-20.10.2024)
-e52f1a44-fb25-4fe0-8678-1a163cee279f;CH;2024-12-21;2025-01-05;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BL;
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
+45348235-88e2-4ba8-a0d6-98217688cd1a;CH;2019-12-21;2020-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+18156127-39a5-4092-9116-460842e04741;CH;2020-02-22;2020-03-08;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+fdaf37da-5643-4001-8b51-c76dfd213d85;CH;2020-04-04;2020-04-19;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+1085644c-9090-43ab-afd3-d18372edea2d;CH;2020-05-22;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+36368b7f-322c-4ce9-b8f8-1d4b1399956a;CH;2020-06-27;2020-08-09;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;
+3aaba429-1c74-42e7-af91-dc69714f8ca0;CH;2020-09-26;2020-10-11;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;
+eade1549-4524-49a2-ad7f-e78b268d0b39;CH;2020-12-19;2021-01-03;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+4f60cc64-6e6d-4359-9eca-c20e71579829;CH;2021-02-13;2021-02-28;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+342b6c82-5f3d-45ba-9d75-ab9874a1520a;CH;2021-03-27;2021-04-11;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+22f0c8c3-8d14-4904-8731-2a5238fe36a5;CH;2021-05-14;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+c2265998-d398-42ec-a7d1-43100485e846;CH;2021-07-03;2021-08-15;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (10.07.2021-15-08.2021)
+325d9de1-ecc1-4bbf-93ed-c22272fe292a;CH;2021-10-02;2021-10-17;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (02.10.2021-24.10.2021)
+7ad97cae-0c89-4836-8e04-94ee923fe8a7;CH;2021-12-18;2022-01-02;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+bebd6704-4a95-454b-a18c-e84ac346518a;CH;2022-02-26;2022-03-13;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+3f5bb860-46a2-43b4-9434-55c5395fae3b;CH;2022-04-09;2022-04-24;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+436d683e-978b-4646-80a3-443a58003ce9;CH;2022-05-27;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+e5f9084c-91bb-429a-9148-b379b32817c5;CH;2022-07-02;2022-08-14;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (09.07.2022-14.08.2022)
+5b7783bf-a756-4966-9343-a49c2b7b0246;CH;2022-10-01;2022-10-16;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (01.10.2022-23.10.2022)
+aaeca919-6944-4288-b683-23045b4f2dec;CH;2022-12-24;2023-01-08;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+4132cd7d-dac5-4a39-8588-d8639a25bc9f;CH;2023-02-18;2023-03-05;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+9cda126c-e467-4cc0-89da-212d6b52058c;CH;2023-04-01;2023-04-16;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+10b44c79-9b1e-416e-bcdf-aa9dd0d9a6ee;CH;2023-05-19;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+a8be9238-46b6-4839-a2e3-5033c57897ac;CH;2023-07-01;2023-08-13;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (08.07.2023-13.08.2023)
+9a02ca58-d1bd-414c-97b4-1d5de46d3ab5;CH;2023-09-30;2023-10-15;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (30.09.2023-22.10.2023)
+d1c48117-13c6-4de3-b886-77d44d6ec976;CH;2023-12-23;2024-01-07;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+4f80308b-c879-40e4-8304-fc395ddeb226;CH;2024-02-10;2024-02-25;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+0647d49c-f997-4123-89c6-d98416f22c7d;CH;2024-03-23;2024-04-07;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+37eec553-e2a4-44bb-bb9f-6c6ea15bd3a8;CH;2024-05-10;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+b89debd8-975c-4a83-a062-9cd83933c1dc;CH;2024-06-29;2024-08-11;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (06.07.2024-11.08.2024)
+ad458f62-b9ef-4eae-b3ca-0a4a8b85309c;CH;2024-09-28;2024-10-13;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (28.09.2024-20.10.2024)
+e52f1a44-fb25-4fe0-8678-1a163cee279f;CH;2024-12-21;2025-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+58d4806f-5963-4d56-9217-901cacbe4248;CH;2025-03-01;2025-03-16;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+d34e765b-b160-4bde-a1ee-5ba846abeee6;CH;2025-04-12;2025-04-27;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+437ac177-8da4-4709-bd62-974d70238e27;CH;2025-05-30;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+d50fbc54-5f18-4ca9-81c8-2e0bb8fc7fa9;CH;2025-06-28;2025-08-10;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (05.07.2024-10.08.2024)
+16497b4d-ec41-4865-abac-51fba8ee1eb5;CH;2025-09-27;2025-10-12;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (27.09.2025-19.10.2025)
+c2ae6a47-5177-43fc-b856-d07d4edf80b0;CH;2025-12-20;2026-01-04;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+0c49507b-3405-46c7-b006-3ccdf5b8ba9e;CH;2026-02-14;2026-03-01;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+83873ebf-eaa0-439b-b418-ad16e8a7288e;CH;2026-03-28;2026-04-12;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+09392383-3b07-4bfd-ae18-c599409a0541;CH;2026-05-25;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+85a29bd6-5a8f-41f6-8d4b-3fd6ea94f1f9;CH;2026-06-27;2026-08-09;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (04.07.2025-09.08.2025)
+6da75269-6693-4d81-8143-1ab9a7695f2c;CH;2026-09-26;2026-10-11;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (26.09.2025-18.10.2025)
+f9354fb9-7bb8-4947-b081-8f3771a3c1ad;CH;2026-12-19;2027-01-03;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+b660a3dc-3cb9-49f3-9713-fcc814e0fc98;CH;2027-02-06;2027-02-21;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+657c15bc-608e-4dc9-b1aa-efe56f853365;CH;2027-03-20;2027-04-04;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+392a8081-1e43-4383-9a79-c2b23a6223c4;CH;2027-05-07;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+c0ade86c-a655-42ae-b753-6b635d969866;CH;2027-07-03;2027-08-15;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (10.07.2025-15.08.2025)
+21f5f8fa-428e-416c-b8f8-d7fd5c9e0489;CH;2027-10-02;2027-10-17;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (02.10.2025-24.10.2025)
+48d9f9da-383d-492b-86a1-3ed017893088;CH;2027-12-18;2028-01-02;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+33af442f-c20c-476e-b78a-0879d0805937;CH;2028-02-16;2028-03-12;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+1e2e1fff-0f1e-4e7a-b94e-3bf04ffc0f21;CH;2028-04-08;2028-04-23;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+7035741b-0c58-40a5-8866-46133d2b7cc1;CH;2028-06-26;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+ae89a462-47e1-4d7c-be12-70ff528cf4f2;CH;2028-07-01;2028-08-13;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (08.07.2025-13.08.2025)
+d648329e-df12-4cfe-9a7f-274685dcc9e4;CH;2028-09-30;2028-10-15;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (30.09.2025-22.10.2025)
+0ec58e5e-c1dc-4e66-a7f0-f5c4ffde6bde;CH;2028-12-23;2029-01-07;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+94bc3b31-34e8-4a4b-83d9-78a8eb63842d;CH;2029-02-10;2029-02-25;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+2e087e4e-6723-4e12-b468-406fdeb31471;CH;2029-03-24;2029-04-08;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+847c0066-3bd1-4d9d-91e0-229546e4b697;CH;2029-05-11;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+e8544337-c3d2-4755-8e69-63d8fec9c3d3;CH;2029-06-30;2029-08-12;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (07.07.2025-12.08.2025)
+da75f077-4adb-4f0b-b595-749b2e01e462;CH;2029-09-29;2029-10-14;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (29.09.2025-21.10.2025)
+ea512abc-4894-4ff6-b080-e8d87ed15786;CH;2029-12-22;2030-01-06;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+e3a639d4-df12-4048-a8db-788db400cd96;CH;2030-03-02;2030-03-17;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+3d25ba1d-292c-4afc-9b6f-237324a249a5;CH;2030-04-13;2030-04-28;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+27a1a4ec-25a5-4ace-9a23-f29afc8f0e7a;CH;2030-05-31;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+1d79ec41-ce6d-4f8a-92e0-0642a5b0a4f5;CH;2030-06-29;2030-08-11;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (06.07.2025-11.08.2025)
+bd2a8ade-b4e6-49e9-87b1-a83ef124942a;CH;2030-09-28;2030-10-13;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (28.09.2025-20.10.2025)
+498107a5-ec8f-493e-8bc2-4f96d0985866;CH;2030-12-21;2031-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+1c9831d1-06ed-494a-b23b-754e3a8df1f1;CH;2031-02-22;2031-03-09;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+d9f56a34-5df1-423f-9320-23e74bae974c;CH;2031-04-05;2031-04-20;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+bb4f7cef-9c83-4107-926a-42ff32b2f751;CH;2031-05-23;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+7b3091a8-faee-46e2-a111-8218a6ffee99;CH;2031-06-28;2031-08-10;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (05.07.2025-10.08.2025)
+7b737c27-3ce7-4298-821a-8c2d427de513;CH;2031-09-27;2031-10-12;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (27.09.2025-19.10.2025)
+618a6d68-d256-4e2c-a169-3a0d8d355654;CH;2031-12-20;2032-01-04;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;BL;
+c00477be-bf89-4c51-939d-e06915d2aa95;CH;2032-02-07;2032-02-22;School;Regional;DE Fasnachtsferien,FR Vacances de carnaval,IT Vacanze di Carnevale,EN Carnival holidays;BL;
+0122d43e-ce89-4ada-9d79-240df8a2230f;CH;2032-03-20;2032-04-04;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BL;
+acf18bfb-9675-48d0-9f4a-1bb09b2f4363;CH;2032-05-07;;School;Regional;DE Auffahrtsbrücke,FR Pont de l'Ascension,IT Ponte dell'Ascensione,EN Ascension Bridge;BL;
+0bc261f6-f9ae-4b95-9df0-cad3bf4a6534;CH;2032-06-26;2032-08-08;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BL;DE Ausnahmeregelung für das Gym. Laufental-Thierstein (03.07.2025-08.08.2025)

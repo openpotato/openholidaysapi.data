@@ -1,100 +1,100 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-3f8a9d45-58f5-4a7d-8d63-6778486010f7;BY;2020-01-01;2020-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-2d6a03b5-8414-4adc-8b14-f1ab68278e3c;BY;2020-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-68df92be-50e6-472f-8990-7e18c278f47c;BY;2020-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-cc4f75b2-5c90-449e-a33a-ee17909e1077;BY;2020-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-acbd869c-7bd3-406f-a638-b6b612e47871;BY;2020-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-f1fd72c5-160c-4e89-9394-f2c3d037a2f9;BY;2020-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-0fef6aad-804f-4e21-8753-e3ce2d6d9541;BY;2020-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-7478fa29-5ed5-4b8d-af42-bc3e5803462b;BY;2020-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-af9445ff-6aa2-4ac5-90b5-5e766b00fb11;BY;2020-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
-88dfb8ce-d21d-4273-b9a5-570d78b4c46f;BY;2021-01-01;2021-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-d307108f-e9d7-465a-8352-83de52c06748;BY;2021-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-fcac964d-46c2-45ed-81c4-712cdfc455e4;BY;2021-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-d7d0397c-0b04-43f1-a225-2e0c9641c60a;BY;2021-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-b43d8ae4-68ed-49cc-97e7-97284f10b07c;BY;2021-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-999b5756-5904-4e15-a6fa-a8e3ee2e62b4;BY;2021-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-3c1bdce6-13ce-4ebd-a668-2fe1dfb3d1be;BY;2021-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-40244302-90b5-40bb-b074-79a39aa4c1a4;BY;2021-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-e1d449b8-8820-4945-8c9b-d4a5f97933dc;BY;2021-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
-0afb5032-d8d1-40fc-be22-8254413a2145;BY;2022-01-01;2022-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-1995862e-33af-47df-bd44-5dcc44bb224f;BY;2022-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-eae44852-779e-47e3-b702-df020b83fec3;BY;2022-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-f0eba5a3-854e-4d3b-a266-d50d2bfe7dba;BY;2022-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-cb9e9d3f-4dde-4237-be5c-1076971e8351;BY;2022-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-a6e7f3c1-c817-4ed2-8054-c204f7086065;BY;2022-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-75d614f0-e38a-41a5-ad60-235c2831d008;BY;2022-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-4d299730-6afa-4752-8f0d-5b7e9255463a;BY;2022-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-062d20ef-61e8-4860-b527-66c76f9c0bf6;BY;2022-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
-4fceaa9b-dd73-44fc-9cf1-1c69339e409a;BY;2023-01-01;2023-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-922a5a44-2a22-42a7-b574-0eaf75f1e6ab;BY;2023-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-6b1303c9-c6fe-4835-bf7f-18d5dc07ad59;BY;2023-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-9317cc84-a5a3-4d18-8da1-dc2123d3be8d;BY;2023-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-7486b663-1c24-4046-8a02-94fb1488e547;BY;2023-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-2d818418-77af-4ebf-b39e-cab0c306c855;BY;2023-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-772baed5-8b6c-4d8c-9a77-7435d0df55ff;BY;2023-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-10759e38-1e7b-49cb-a8fd-380c1edf8b2b;BY;2023-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-a37afc79-15c5-47cc-bc52-b8b8070447c0;BY;2023-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
-6c4a1714-9a09-4a2a-98c9-2c84161eb94c;BY;2024-01-01;2024-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-73f0c14c-856a-477e-a96a-f3a3e734dadc;BY;2024-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-1eddf983-c6f9-4b93-a319-ee25ba809ac9;BY;2024-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-d2f90e16-334f-438a-b07e-3187332b628e;BY;2024-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-222fc9bb-228f-4115-be5d-89aa26f03111;BY;2024-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-347538fa-3fbf-4b07-badd-bb1272311e01;BY;2024-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-9f5e30cd-ebf4-4f20-ad15-b1ff948cb414;BY;2024-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-6d8498b9-b9ec-41a4-811c-d712effaa06b;BY;2024-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-0e49a774-e9a5-4b73-80db-a5336ad501da;BY;2024-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
-f2d42f11-a818-45de-bd82-709350d60d96;BY;2025-01-01;2025-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-31100520-2614-4448-9865-ef467948f0e7;BY;2025-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-feea32e6-a594-477c-80d6-c95600c6081c;BY;2025-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-2faac135-ab55-4ec5-af30-7644a61c3eca;BY;2025-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-d3becbb3-fc13-4142-ba59-a14d105b1261;BY;2025-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-070a7849-6f09-4d0c-ad31-dff791f868d4;BY;2025-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-240c2a7d-8a21-40ac-90b6-1459a474703f;BY;2025-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-336d1b9b-0a30-4ffa-9bac-8d12a55f21f5;BY;2025-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-2f6b8dbe-aa08-4d05-8ed1-7b01f164ab44;BY;2025-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
-12e13f14-3fd3-4ced-882b-ccb7386bd5f1;BY;2026-01-01;2026-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-2ee1b97e-e98a-4c40-874c-f07fbd688d78;BY;2026-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-c31147a1-471e-49db-836c-a904704869cb;BY;2026-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-3174b5cf-22c9-4f38-99ba-b1736a2bdd44;BY;2026-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-76825fa8-2514-410b-a3b4-d989e5d58bbf;BY;2026-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-8ebb595b-c8a7-4038-828c-8840dd906f5b;BY;2026-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-883e602b-6d61-4ea9-9025-25106d6a1b28;BY;2026-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-f3224269-33c3-4480-90b1-cf177bc384b3;BY;2026-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-ec260b5a-47e8-4f3a-acce-cf8eb6297e50;BY;2026-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
-2c3a5ac0-448c-4239-a016-94e5562c4f85;BY;2027-01-01;2027-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-b8816f59-cf04-4678-b210-94cd210f02ab;BY;2027-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-2b1c8a7b-7e33-448b-b4a6-4a20b12c7472;BY;2027-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-b4617014-8e1f-4bd4-8811-c2732801edd6;BY;2027-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-d682765e-5807-47b4-ae0d-baaa5a308e9e;BY;2027-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-71613b8b-3370-4415-9b6f-22c522e2c548;BY;2027-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-9c6f4009-7e0b-445d-b2a5-2f040bd891bc;BY;2027-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-5682f166-5955-4be7-9a63-cb229ebe621d;BY;2027-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-e6a5cc5c-24b9-4914-8ecf-6a3b58817b8d;BY;2027-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
-91df72be-e5dc-4591-8b90-5577611541ad;BY;2028-01-01;2028-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-46996898-9223-423f-b931-741f02bfe305;BY;2028-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-5ddda880-baa5-473a-bf2d-bf836d8b1a15;BY;2028-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-f127fcb7-7433-46e2-ba61-02facda56c1d;BY;2028-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-10f32dba-6a76-43a3-8f31-9cca5156f5fd;BY;2028-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-d6381420-07ff-4960-b991-ddba9966a7a1;BY;2028-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-ab9bc127-0a96-4846-8b67-de70218a4abc;BY;2028-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-da396ad9-8e2b-4396-bac1-714801420a79;BY;2028-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-049e4287-9a6d-4817-b53c-5724af356949;BY;2028-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
-b0087581-1a31-42bc-8043-35e422124059;BY;2029-01-01;2029-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-6f9149c4-985a-471a-a661-b1cbc7e860e8;BY;2029-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-8068d7fa-9f91-419a-a965-6bcb93a46e6e;BY;2029-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-09fe073d-47fc-4c2a-9407-e08c0d10ea4a;BY;2029-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-0ae545d9-8e75-4111-87f5-afadc58ae255;BY;2029-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-a609f146-072e-45a0-b44e-91dc9dd563de;BY;2029-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-fb69f6f0-e520-4594-844d-49970e8741dd;BY;2029-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-62d17233-cbb8-492d-ad7d-b6ffb69113d9;BY;2029-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-a919f4ad-aa53-4044-a9f4-3844ad92d91d;BY;2029-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
-596e26f7-e9b4-49be-baba-2be07c138ad9;BY;2030-01-01;2030-01-02;Public;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
-a7971038-b3b8-4c2f-8ec2-ebdbf07a53b1;BY;2030-01-07;;Public;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
-97ef1bbb-eedb-42a4-8290-353b2228efe0;BY;2030-03-08;;Public;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
-4c41cc24-1663-4578-a7d0-e8469663db26;BY;2030-05-01;;Public;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
-8fc1d026-c704-44c4-a052-5f7c5e5276fa;BY;2030-05-09;;Public;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
-f6731faa-62fa-4eb0-9b3b-4a558caf330b;BY;2030-05-14;;Public;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
-19a1d65c-4414-4212-a379-78ffaa9a836c;BY;2030-07-03;;Public;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
-0dea4f66-12df-4f97-9202-19530fc5a848;BY;2030-11-07;;Public;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
-1265da0d-e4cd-4ee2-be88-e8afa64b388f;BY;2030-12-25;;Public;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+3f8a9d45-58f5-4a7d-8d63-6778486010f7;BY;2020-01-01;2020-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+2d6a03b5-8414-4adc-8b14-f1ab68278e3c;BY;2020-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+68df92be-50e6-472f-8990-7e18c278f47c;BY;2020-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+cc4f75b2-5c90-449e-a33a-ee17909e1077;BY;2020-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+acbd869c-7bd3-406f-a638-b6b612e47871;BY;2020-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+f1fd72c5-160c-4e89-9394-f2c3d037a2f9;BY;2020-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+0fef6aad-804f-4e21-8753-e3ce2d6d9541;BY;2020-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+7478fa29-5ed5-4b8d-af42-bc3e5803462b;BY;2020-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+af9445ff-6aa2-4ac5-90b5-5e766b00fb11;BY;2020-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+88dfb8ce-d21d-4273-b9a5-570d78b4c46f;BY;2021-01-01;2021-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+d307108f-e9d7-465a-8352-83de52c06748;BY;2021-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+fcac964d-46c2-45ed-81c4-712cdfc455e4;BY;2021-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+d7d0397c-0b04-43f1-a225-2e0c9641c60a;BY;2021-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+b43d8ae4-68ed-49cc-97e7-97284f10b07c;BY;2021-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+999b5756-5904-4e15-a6fa-a8e3ee2e62b4;BY;2021-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+3c1bdce6-13ce-4ebd-a668-2fe1dfb3d1be;BY;2021-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+40244302-90b5-40bb-b074-79a39aa4c1a4;BY;2021-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+e1d449b8-8820-4945-8c9b-d4a5f97933dc;BY;2021-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+0afb5032-d8d1-40fc-be22-8254413a2145;BY;2022-01-01;2022-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+1995862e-33af-47df-bd44-5dcc44bb224f;BY;2022-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+eae44852-779e-47e3-b702-df020b83fec3;BY;2022-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+f0eba5a3-854e-4d3b-a266-d50d2bfe7dba;BY;2022-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+cb9e9d3f-4dde-4237-be5c-1076971e8351;BY;2022-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+a6e7f3c1-c817-4ed2-8054-c204f7086065;BY;2022-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+75d614f0-e38a-41a5-ad60-235c2831d008;BY;2022-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+4d299730-6afa-4752-8f0d-5b7e9255463a;BY;2022-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+062d20ef-61e8-4860-b527-66c76f9c0bf6;BY;2022-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+4fceaa9b-dd73-44fc-9cf1-1c69339e409a;BY;2023-01-01;2023-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+922a5a44-2a22-42a7-b574-0eaf75f1e6ab;BY;2023-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+6b1303c9-c6fe-4835-bf7f-18d5dc07ad59;BY;2023-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+9317cc84-a5a3-4d18-8da1-dc2123d3be8d;BY;2023-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+7486b663-1c24-4046-8a02-94fb1488e547;BY;2023-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+2d818418-77af-4ebf-b39e-cab0c306c855;BY;2023-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+772baed5-8b6c-4d8c-9a77-7435d0df55ff;BY;2023-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+10759e38-1e7b-49cb-a8fd-380c1edf8b2b;BY;2023-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+a37afc79-15c5-47cc-bc52-b8b8070447c0;BY;2023-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+6c4a1714-9a09-4a2a-98c9-2c84161eb94c;BY;2024-01-01;2024-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+73f0c14c-856a-477e-a96a-f3a3e734dadc;BY;2024-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+1eddf983-c6f9-4b93-a319-ee25ba809ac9;BY;2024-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+d2f90e16-334f-438a-b07e-3187332b628e;BY;2024-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+222fc9bb-228f-4115-be5d-89aa26f03111;BY;2024-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+347538fa-3fbf-4b07-badd-bb1272311e01;BY;2024-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+9f5e30cd-ebf4-4f20-ad15-b1ff948cb414;BY;2024-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+6d8498b9-b9ec-41a4-811c-d712effaa06b;BY;2024-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+0e49a774-e9a5-4b73-80db-a5336ad501da;BY;2024-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+f2d42f11-a818-45de-bd82-709350d60d96;BY;2025-01-01;2025-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+31100520-2614-4448-9865-ef467948f0e7;BY;2025-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+feea32e6-a594-477c-80d6-c95600c6081c;BY;2025-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+2faac135-ab55-4ec5-af30-7644a61c3eca;BY;2025-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+d3becbb3-fc13-4142-ba59-a14d105b1261;BY;2025-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+070a7849-6f09-4d0c-ad31-dff791f868d4;BY;2025-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+240c2a7d-8a21-40ac-90b6-1459a474703f;BY;2025-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+336d1b9b-0a30-4ffa-9bac-8d12a55f21f5;BY;2025-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+2f6b8dbe-aa08-4d05-8ed1-7b01f164ab44;BY;2025-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+12e13f14-3fd3-4ced-882b-ccb7386bd5f1;BY;2026-01-01;2026-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+2ee1b97e-e98a-4c40-874c-f07fbd688d78;BY;2026-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+c31147a1-471e-49db-836c-a904704869cb;BY;2026-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+3174b5cf-22c9-4f38-99ba-b1736a2bdd44;BY;2026-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+76825fa8-2514-410b-a3b4-d989e5d58bbf;BY;2026-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+8ebb595b-c8a7-4038-828c-8840dd906f5b;BY;2026-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+883e602b-6d61-4ea9-9025-25106d6a1b28;BY;2026-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+f3224269-33c3-4480-90b1-cf177bc384b3;BY;2026-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+ec260b5a-47e8-4f3a-acce-cf8eb6297e50;BY;2026-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+2c3a5ac0-448c-4239-a016-94e5562c4f85;BY;2027-01-01;2027-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+b8816f59-cf04-4678-b210-94cd210f02ab;BY;2027-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+2b1c8a7b-7e33-448b-b4a6-4a20b12c7472;BY;2027-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+b4617014-8e1f-4bd4-8811-c2732801edd6;BY;2027-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+d682765e-5807-47b4-ae0d-baaa5a308e9e;BY;2027-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+71613b8b-3370-4415-9b6f-22c522e2c548;BY;2027-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+9c6f4009-7e0b-445d-b2a5-2f040bd891bc;BY;2027-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+5682f166-5955-4be7-9a63-cb229ebe621d;BY;2027-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+e6a5cc5c-24b9-4914-8ecf-6a3b58817b8d;BY;2027-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+91df72be-e5dc-4591-8b90-5577611541ad;BY;2028-01-01;2028-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+46996898-9223-423f-b931-741f02bfe305;BY;2028-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+5ddda880-baa5-473a-bf2d-bf836d8b1a15;BY;2028-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+f127fcb7-7433-46e2-ba61-02facda56c1d;BY;2028-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+10f32dba-6a76-43a3-8f31-9cca5156f5fd;BY;2028-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+d6381420-07ff-4960-b991-ddba9966a7a1;BY;2028-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+ab9bc127-0a96-4846-8b67-de70218a4abc;BY;2028-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+da396ad9-8e2b-4396-bac1-714801420a79;BY;2028-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+049e4287-9a6d-4817-b53c-5724af356949;BY;2028-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+b0087581-1a31-42bc-8043-35e422124059;BY;2029-01-01;2029-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+6f9149c4-985a-471a-a661-b1cbc7e860e8;BY;2029-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+8068d7fa-9f91-419a-a965-6bcb93a46e6e;BY;2029-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+09fe073d-47fc-4c2a-9407-e08c0d10ea4a;BY;2029-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+0ae545d9-8e75-4111-87f5-afadc58ae255;BY;2029-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+a609f146-072e-45a0-b44e-91dc9dd563de;BY;2029-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+fb69f6f0-e520-4594-844d-49970e8741dd;BY;2029-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+62d17233-cbb8-492d-ad7d-b6ffb69113d9;BY;2029-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+a919f4ad-aa53-4044-a9f4-3844ad92d91d;BY;2029-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas
+596e26f7-e9b4-49be-baba-2be07c138ad9;BY;2030-01-01;2030-01-02;Public;National;BE Новы год,RU Новый год,DE Neujahr,EN New Year's Day
+a7971038-b3b8-4c2f-8ec2-ebdbf07a53b1;BY;2030-01-07;;Public;National;BE Праваслаўнае Раство,RU Православное Рождество,DE Orthodoxe Weihnachten,EN Christmas (Orthodox Christmas)
+97ef1bbb-eedb-42a4-8290-353b2228efe0;BY;2030-03-08;;Public;National;BE Дзень жанчын,RU День женщин,DE Frauentag,EN Women's Day
+4c41cc24-1663-4578-a7d0-e8469663db26;BY;2030-05-01;;Public;National;BE Свята працы,RU Праздник труда,DE Tag der Arbeit,EN Labour Day
+8fc1d026-c704-44c4-a052-5f7c5e5276fa;BY;2030-05-09;;Public;National;BE Дзень Перамогі,RU День Победы,DE Tag des Sieges,EN Victory Day
+f6731faa-62fa-4eb0-9b3b-4a558caf330b;BY;2030-05-14;;Public;National;BE Радаўніца,RU Радуница,DE Raduniza,EN Radunitsa
+19a1d65c-4414-4212-a379-78ffaa9a836c;BY;2030-07-03;;Public;National;BE Дзень Рэспублікі,RU День Республики,DE Tag der Republik,EN Day of the Republic
+0dea4f66-12df-4f97-9202-19530fc5a848;BY;2030-11-07;;Public;National;BE Дзень Кастрычніцкай рэвалюцыі,RU День Октябрьской революции,DE Tag der Oktoberrevolution,EN October Revolution Day
+1265da0d-e4cd-4ee2-be88-e8afa64b388f;BY;2030-12-25;;Public;National;BE Каталіцкае Раство,RU Католическое Рождество,DE Katholische Weihnachten,EN Catholic Christmas

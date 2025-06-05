@@ -1,133 +1,133 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-3c8b25bd-89e5-4730-b6d5-c3101384261b;MC;2020-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-2100067b-5f62-4fd3-a10e-7889b3734f80;MC;2020-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-e15119d7-5d16-4a50-9a14-d017b9295876;MC;2020-04-13;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-9cb77e3a-842c-4afa-b737-fe144de05f89;MC;2020-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-58a81a5a-9e2f-4b7b-b281-c1f06595d7d8;MC;2020-05-21;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-e5653596-9b12-4edc-85b4-dc6def23523f;MC;2020-06-01;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-0a371c33-6748-4e76-bb8b-e1028bbcb799;MC;2020-06-11;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-dd0ab9ba-c2b1-40a3-a010-5ab5ef219111;MC;2020-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-3d3e29c1-173b-4002-9119-7edc917c4ada;MC;2020-11-02;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-08fbbded-cb46-428b-a085-a2a1b8a01193;MC;2020-11-19;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-d425ab27-1810-41ab-85d6-923cf39122d2;MC;2020-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-9ca0e237-49d3-402a-a601-46e3e621a7f5;MC;2020-12-25;;Public;FR Noël,DE Weihnachten,EN Christmas Day
-e0f41f45-918a-4a15-b221-a2d2c2570f29;MC;2021-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-d9a63e12-f28d-4f36-98b0-5d6062cc9828;MC;2021-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-0ef26d68-01a5-40e9-b428-53b73cd483cf;MC;2021-04-05;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-cd96cdf5-5182-47e9-9828-be48b49665bb;MC;2021-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-583a2683-2e40-4449-b47b-3d81f6fcd45a;MC;2021-05-13;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-f03b8cc9-26bc-4e9b-a313-5a13d18fb23d;MC;2021-05-24;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-f1baeb4a-66c4-4dbf-9a92-87be9eeb5706;MC;2021-06-03;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-58f96fcd-bc21-4d03-aed3-dc0c990f9a51;MC;2021-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-4e2ab3f4-3a3f-4adb-a467-e7930b839188;MC;2021-11-01;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-fc8c193f-4f54-4599-b655-f788658f4a87;MC;2021-11-19;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-1fa344d9-2abf-4b93-b83a-4025350ac882;MC;2021-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-b5782daf-7be7-4604-800c-d1da17268538;MC;2021-12-25;;Public;FR Noël,DE Weihnachten,EN Christmas Day
-d6ce7671-3f26-4519-aa34-d1b11c048868;MC;2022-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-c8bb14e8-e31f-42f7-aed4-28b5acbe5ac8;MC;2022-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-f7a57b64-777d-41fa-8a78-bee22c9073d2;MC;2022-04-18;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-d92f6e1d-fb4d-4260-b989-22df1370d32c;MC;2022-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-c9237bc4-c914-404a-8d94-3c2bbc0d049c;MC;2022-05-26;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-8842441f-9d4b-4e6d-ba5a-58094ceafc02;MC;2022-06-06;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-0cdd335e-9f73-443b-b3ed-e8ff3854bc52;MC;2022-06-16;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-e12db5fa-e82e-4c43-84b6-e917ea02edb7;MC;2022-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-d9052ef2-3676-4de9-8bf9-470d7c6ae282;MC;2022-11-01;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-5c92c44e-cb20-4571-bc24-a4da85b3aa31;MC;2022-11-19;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-45a0574c-ff93-45c1-b0eb-b445ca0046be;MC;2022-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-f5cf452d-c4cb-4bbd-96c4-774491d77665;MC;2022-12-26;;Public;FR Noël,DE Weihnachten,EN Christmas Day
-a98a2d64-9e8e-4302-8579-cc11c3b7a42d;MC;2023-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-7398ee65-d55a-455e-889a-d99c6bc28180;MC;2023-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-efeebcf1-806b-4fe2-81e2-9165043a264b;MC;2023-04-10;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-917cefc0-c286-4846-ba5d-805a4b7a5a67;MC;2023-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-8ecad333-6b2f-4d84-97e7-e1725ca55be1;MC;2023-05-18;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-96938ad1-a842-4942-a919-ebddd8c87594;MC;2023-05-29;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-1018f2a6-0710-4c65-af64-32514687a87d;MC;2023-06-08;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-107331a5-0779-43e5-b85f-695243ef53fc;MC;2023-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-3101b23f-bf95-47b9-9746-7dc6f6246e56;MC;2023-11-01;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-cb678761-bc6a-4538-ae48-25d4d0e189ad;MC;2023-11-20;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-aa85b07d-38fc-44d2-86cf-15188ee2e81e;MC;2023-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-06923c19-7ef9-4a22-9374-bf9bb50474d1;MC;2023-12-25;;Public;FR Noël,DE Weihnachten,EN Christmas Day
-258bfc49-fff5-4cba-a276-45db00dae0a6;MC;2024-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-0bd39259-acb7-4d7c-a32c-eecb1a326090;MC;2024-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-0e13efa9-00f9-40b2-a88b-b7cafa1eb366;MC;2024-04-01;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-39b3e609-2077-41e6-a02f-f47244ef74b3;MC;2024-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-03068213-434c-40e3-bc44-c49349c15176;MC;2024-05-09;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-2ace0543-e160-484b-ad6b-ca2a3576aea4;MC;2024-05-20;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-c575d891-15fa-4866-bea8-2406630a8abd;MC;2024-05-30;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-85d3c5fe-e1aa-46a0-86bd-63b7bfa818f2;MC;2024-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-450292ff-61ac-4e48-a16d-361d43771d75;MC;2024-11-01;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-58bcf7a7-97d1-4d8b-883a-f9527ca7f1c6;MC;2024-11-19;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-5eb93a80-2cde-4463-a247-0fca387e5aaf;MC;2024-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-01fec15a-3c9f-47a5-912d-ee76c3361302;MC;2024-12-25;;Public;FR Noël,DE Weihnachten,EN Christmas Day
-161dc24f-fab1-4b5d-8ae0-9cdd7cffa6f6;MC;2025-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-9f305176-1e81-46bf-b332-9cc249d4e05a;MC;2025-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-2dba3bf7-f0e7-445c-b587-47ec003b0c23;MC;2025-04-21;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-d1ca6634-6976-4002-8b8a-05086e5ce065;MC;2025-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-22437eec-3fc8-4f94-bf73-c4651b4447cf;MC;2025-05-29;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-f19b1684-4a70-44db-becd-96ab4c680896;MC;2025-06-09;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-ac8702bf-56ef-4bc4-abb5-36209c463a1f;MC;2025-06-19;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-583f859e-bf57-4745-ae80-5ad7ded4766e;MC;2025-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-71df041c-f5cf-4a75-abc2-6c95a32f66b9;MC;2025-11-01;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-338fbc92-9cd5-47ed-bdc6-5c1fb95b9e43;MC;2025-11-19;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-1e486abf-9778-4b93-9ba4-f0274c98f1d7;MC;2025-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-59f3aece-0ae6-4032-9805-3eb826c03e96;MC;2025-12-25;;Public;FR Noël,DE Weihnachten,EN Christmas Day
-bd64de70-c3af-4ce6-811f-806814049eec;MC;2026-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-0af89370-a8c2-47d7-b65a-7c2f7dc672c4;MC;2026-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-e63eed19-6319-4243-8581-f85883eaf866;MC;2026-04-06;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-ab8c454b-d02b-41b4-95dc-a2b8e9e9bbc4;MC;2026-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-25ee2ef8-9682-4e6d-b8c4-73c48203b202;MC;2026-05-14;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-3545c74c-6833-4148-b0b6-a319fc51398b;MC;2026-05-25;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-11e2056b-02ba-4135-b6f2-e23bd996a991;MC;2026-06-04;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-42c6f7f1-40e2-4dd0-ab14-5584d06016b1;MC;2026-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-be9cd20c-cf35-4944-bab7-47a29102f7a9;MC;2026-11-02;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-c57339b9-6995-44fc-b5bb-e0a8767f962a;MC;2026-11-19;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-05d37105-166d-4809-a3ea-f7c9fb6c448e;MC;2026-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-14dfb0c8-e363-4a53-8f0c-07d0aa701541;MC;2026-12-25;;Public;FR Noël,DE Weihnachten,EN Christmas Day
-e6f228be-9c31-41b4-8cce-3130a82f6d58;MC;2027-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-3c6bf1d3-e0cd-45b7-b45a-a23deb98c6ea;MC;2027-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-c36a1b17-148b-4cf3-afab-ef8928089310;MC;2027-03-29;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-378c5db2-8fb2-401b-b121-b373199a80fb;MC;2027-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-3430ed90-0c5f-426e-84ee-db0065612a4f;MC;2027-05-06;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-ed9083ce-84ab-46fb-a114-6e68082db9f1;MC;2027-05-17;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-f6f9e840-e0a4-46c7-8aea-690ec99d4e3f;MC;2027-05-27;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-cd32c455-7632-4cfe-8ae9-c72e4a0c2ead;MC;2027-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-ebac225a-49b7-4b25-87e0-04bbf63f1b5c;MC;2027-11-01;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-a7a949d4-866f-436b-b5da-29636ffc0b99;MC;2027-11-19;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-1b94ba79-0a2d-48a7-bc65-f17530dba6e2;MC;2027-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-1ac0f6d0-a669-46c7-8992-ac29b420855d;MC;2027-12-25;;Public;FR Noël,DE Weihnachten,EN Christmas Day
-1edfeb41-1910-457f-8c6f-1bb1cbad3425;MC;2028-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-b8003f6e-0ff5-42fb-a954-adb63b239147;MC;2028-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-962d1079-e682-42a5-a576-94a663f98525;MC;2028-04-17;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-9c3fe355-787d-4882-947f-7963772cb684;MC;2028-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-8fe27f12-0680-4444-93d3-628bcbf788f4;MC;2028-05-25;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-c9ce88fa-286c-4153-b729-37adbf117d13;MC;2028-06-05;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-0e57760e-7390-4a0e-a6ad-80debbcf440a;MC;2028-06-15;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-2c193ceb-cfdb-4f8c-a97b-2801afbc8b03;MC;2028-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-9681785e-29b8-4f77-9b90-b135d3ed0da5;MC;2028-11-01;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-2c5e2ec0-6afa-49de-a64c-c751332a4b62;MC;2028-11-20;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-4cf594d1-82c5-49c7-99c9-aac257aebd92;MC;2028-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-e05e87dc-b024-4f6b-bf8e-9f4afaa59028;MC;2028-12-25;;Public;FR Noël,DE Weihnachten,EN Christmas Day
-ff0474d8-4393-4ca3-91cf-974a677c208c;MC;2029-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-c6fc2323-940b-4321-8c38-503214add745;MC;2029-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-f1ad795a-2f77-492d-b2d4-3c7c1e52eeea;MC;2029-04-02;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-f960b764-7b0b-417a-a75e-00947cf90e7c;MC;2029-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-fb06b0b5-d994-43eb-a064-40b3df05ee8b;MC;2029-05-10;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-86f4a3c5-d041-4bfc-bcdc-3ae64687d59d;MC;2029-05-21;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-5121c9d0-7d2c-44ea-b287-eb5b92fbabb6;MC;2029-05-31;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-c8ea407e-6e87-4990-94c2-7b0d8492baa6;MC;2029-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-8ab4e431-c42c-4016-b63f-c6acf2af8929;MC;2029-11-01;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-4231cc28-4e80-4502-a60a-e8d5ad0b3697;MC;2029-11-19;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-1e43ecfd-d300-4222-8046-6d6ae5641ffb;MC;2029-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-f2ec2749-c060-4514-aaac-f5be96bd8409;MC;2029-12-25;;Public;FR Noël,DE Weihnachten,EN Christmas Day
-b34932c8-18ce-4700-a670-a6afd3156e87;MC;2030-01-01;;Public;FR Le jour de l’An,DE Neujahr,EN New Year's Day
-f2add607-3d6f-4fda-8e88-db0e766a7547;MC;2030-01-27;;Public;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
-2e54774a-99dc-4e9e-a190-150a92ac931e;MC;2030-04-22;;Public;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
-cdba1e31-8e50-4eaf-a2eb-c51b75ecf161;MC;2030-05-01;;Public;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
-8a31dc3b-81e1-46ad-9db4-a8510d8ae275;MC;2030-05-30;;Public;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
-8ac2bf46-f433-443d-ae45-0f60fdd88abe;MC;2030-06-10;;Public;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
-ba82da8b-151b-483f-abe9-3923d0920676;MC;2030-06-20;;Public;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
-4f41387e-4cb2-4aa7-9d68-a07710dda078;MC;2030-08-15;;Public;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
-631abe9b-7683-4cc7-acd8-9d80f89a6379;MC;2030-11-01;;Public;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
-62334723-f2c0-4a01-b267-7831f8875c7f;MC;2030-11-19;;Public;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
-0a77138d-d801-4b0b-b008-071203e84e89;MC;2030-12-08;;Public;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
-c4cf0b18-46ca-4933-900c-cbff33df8413;MC;2030-12-25;;Public;FR Noël,DE Weihnachten,EN Christmas Day
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+3c8b25bd-89e5-4730-b6d5-c3101384261b;MC;2020-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+2100067b-5f62-4fd3-a10e-7889b3734f80;MC;2020-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+e15119d7-5d16-4a50-9a14-d017b9295876;MC;2020-04-13;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+9cb77e3a-842c-4afa-b737-fe144de05f89;MC;2020-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+58a81a5a-9e2f-4b7b-b281-c1f06595d7d8;MC;2020-05-21;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+e5653596-9b12-4edc-85b4-dc6def23523f;MC;2020-06-01;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+0a371c33-6748-4e76-bb8b-e1028bbcb799;MC;2020-06-11;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+dd0ab9ba-c2b1-40a3-a010-5ab5ef219111;MC;2020-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+3d3e29c1-173b-4002-9119-7edc917c4ada;MC;2020-11-02;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+08fbbded-cb46-428b-a085-a2a1b8a01193;MC;2020-11-19;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+d425ab27-1810-41ab-85d6-923cf39122d2;MC;2020-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+9ca0e237-49d3-402a-a601-46e3e621a7f5;MC;2020-12-25;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day
+e0f41f45-918a-4a15-b221-a2d2c2570f29;MC;2021-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+d9a63e12-f28d-4f36-98b0-5d6062cc9828;MC;2021-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+0ef26d68-01a5-40e9-b428-53b73cd483cf;MC;2021-04-05;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+cd96cdf5-5182-47e9-9828-be48b49665bb;MC;2021-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+583a2683-2e40-4449-b47b-3d81f6fcd45a;MC;2021-05-13;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+f03b8cc9-26bc-4e9b-a313-5a13d18fb23d;MC;2021-05-24;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+f1baeb4a-66c4-4dbf-9a92-87be9eeb5706;MC;2021-06-03;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+58f96fcd-bc21-4d03-aed3-dc0c990f9a51;MC;2021-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+4e2ab3f4-3a3f-4adb-a467-e7930b839188;MC;2021-11-01;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+fc8c193f-4f54-4599-b655-f788658f4a87;MC;2021-11-19;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+1fa344d9-2abf-4b93-b83a-4025350ac882;MC;2021-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+b5782daf-7be7-4604-800c-d1da17268538;MC;2021-12-25;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day
+d6ce7671-3f26-4519-aa34-d1b11c048868;MC;2022-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+c8bb14e8-e31f-42f7-aed4-28b5acbe5ac8;MC;2022-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+f7a57b64-777d-41fa-8a78-bee22c9073d2;MC;2022-04-18;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+d92f6e1d-fb4d-4260-b989-22df1370d32c;MC;2022-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+c9237bc4-c914-404a-8d94-3c2bbc0d049c;MC;2022-05-26;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+8842441f-9d4b-4e6d-ba5a-58094ceafc02;MC;2022-06-06;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+0cdd335e-9f73-443b-b3ed-e8ff3854bc52;MC;2022-06-16;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+e12db5fa-e82e-4c43-84b6-e917ea02edb7;MC;2022-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+d9052ef2-3676-4de9-8bf9-470d7c6ae282;MC;2022-11-01;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+5c92c44e-cb20-4571-bc24-a4da85b3aa31;MC;2022-11-19;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+45a0574c-ff93-45c1-b0eb-b445ca0046be;MC;2022-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+f5cf452d-c4cb-4bbd-96c4-774491d77665;MC;2022-12-26;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day
+a98a2d64-9e8e-4302-8579-cc11c3b7a42d;MC;2023-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+7398ee65-d55a-455e-889a-d99c6bc28180;MC;2023-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+efeebcf1-806b-4fe2-81e2-9165043a264b;MC;2023-04-10;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+917cefc0-c286-4846-ba5d-805a4b7a5a67;MC;2023-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+8ecad333-6b2f-4d84-97e7-e1725ca55be1;MC;2023-05-18;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+96938ad1-a842-4942-a919-ebddd8c87594;MC;2023-05-29;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+1018f2a6-0710-4c65-af64-32514687a87d;MC;2023-06-08;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+107331a5-0779-43e5-b85f-695243ef53fc;MC;2023-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+3101b23f-bf95-47b9-9746-7dc6f6246e56;MC;2023-11-01;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+cb678761-bc6a-4538-ae48-25d4d0e189ad;MC;2023-11-20;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+aa85b07d-38fc-44d2-86cf-15188ee2e81e;MC;2023-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+06923c19-7ef9-4a22-9374-bf9bb50474d1;MC;2023-12-25;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day
+258bfc49-fff5-4cba-a276-45db00dae0a6;MC;2024-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+0bd39259-acb7-4d7c-a32c-eecb1a326090;MC;2024-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+0e13efa9-00f9-40b2-a88b-b7cafa1eb366;MC;2024-04-01;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+39b3e609-2077-41e6-a02f-f47244ef74b3;MC;2024-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+03068213-434c-40e3-bc44-c49349c15176;MC;2024-05-09;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+2ace0543-e160-484b-ad6b-ca2a3576aea4;MC;2024-05-20;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+c575d891-15fa-4866-bea8-2406630a8abd;MC;2024-05-30;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+85d3c5fe-e1aa-46a0-86bd-63b7bfa818f2;MC;2024-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+450292ff-61ac-4e48-a16d-361d43771d75;MC;2024-11-01;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+58bcf7a7-97d1-4d8b-883a-f9527ca7f1c6;MC;2024-11-19;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+5eb93a80-2cde-4463-a247-0fca387e5aaf;MC;2024-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+01fec15a-3c9f-47a5-912d-ee76c3361302;MC;2024-12-25;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day
+161dc24f-fab1-4b5d-8ae0-9cdd7cffa6f6;MC;2025-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+9f305176-1e81-46bf-b332-9cc249d4e05a;MC;2025-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+2dba3bf7-f0e7-445c-b587-47ec003b0c23;MC;2025-04-21;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+d1ca6634-6976-4002-8b8a-05086e5ce065;MC;2025-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+22437eec-3fc8-4f94-bf73-c4651b4447cf;MC;2025-05-29;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+f19b1684-4a70-44db-becd-96ab4c680896;MC;2025-06-09;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+ac8702bf-56ef-4bc4-abb5-36209c463a1f;MC;2025-06-19;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+583f859e-bf57-4745-ae80-5ad7ded4766e;MC;2025-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+71df041c-f5cf-4a75-abc2-6c95a32f66b9;MC;2025-11-01;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+338fbc92-9cd5-47ed-bdc6-5c1fb95b9e43;MC;2025-11-19;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+1e486abf-9778-4b93-9ba4-f0274c98f1d7;MC;2025-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+59f3aece-0ae6-4032-9805-3eb826c03e96;MC;2025-12-25;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day
+bd64de70-c3af-4ce6-811f-806814049eec;MC;2026-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+0af89370-a8c2-47d7-b65a-7c2f7dc672c4;MC;2026-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+e63eed19-6319-4243-8581-f85883eaf866;MC;2026-04-06;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+ab8c454b-d02b-41b4-95dc-a2b8e9e9bbc4;MC;2026-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+25ee2ef8-9682-4e6d-b8c4-73c48203b202;MC;2026-05-14;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+3545c74c-6833-4148-b0b6-a319fc51398b;MC;2026-05-25;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+11e2056b-02ba-4135-b6f2-e23bd996a991;MC;2026-06-04;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+42c6f7f1-40e2-4dd0-ab14-5584d06016b1;MC;2026-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+be9cd20c-cf35-4944-bab7-47a29102f7a9;MC;2026-11-02;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+c57339b9-6995-44fc-b5bb-e0a8767f962a;MC;2026-11-19;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+05d37105-166d-4809-a3ea-f7c9fb6c448e;MC;2026-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+14dfb0c8-e363-4a53-8f0c-07d0aa701541;MC;2026-12-25;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day
+e6f228be-9c31-41b4-8cce-3130a82f6d58;MC;2027-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+3c6bf1d3-e0cd-45b7-b45a-a23deb98c6ea;MC;2027-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+c36a1b17-148b-4cf3-afab-ef8928089310;MC;2027-03-29;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+378c5db2-8fb2-401b-b121-b373199a80fb;MC;2027-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+3430ed90-0c5f-426e-84ee-db0065612a4f;MC;2027-05-06;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+ed9083ce-84ab-46fb-a114-6e68082db9f1;MC;2027-05-17;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+f6f9e840-e0a4-46c7-8aea-690ec99d4e3f;MC;2027-05-27;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+cd32c455-7632-4cfe-8ae9-c72e4a0c2ead;MC;2027-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+ebac225a-49b7-4b25-87e0-04bbf63f1b5c;MC;2027-11-01;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+a7a949d4-866f-436b-b5da-29636ffc0b99;MC;2027-11-19;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+1b94ba79-0a2d-48a7-bc65-f17530dba6e2;MC;2027-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+1ac0f6d0-a669-46c7-8992-ac29b420855d;MC;2027-12-25;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day
+1edfeb41-1910-457f-8c6f-1bb1cbad3425;MC;2028-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+b8003f6e-0ff5-42fb-a954-adb63b239147;MC;2028-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+962d1079-e682-42a5-a576-94a663f98525;MC;2028-04-17;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+9c3fe355-787d-4882-947f-7963772cb684;MC;2028-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+8fe27f12-0680-4444-93d3-628bcbf788f4;MC;2028-05-25;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+c9ce88fa-286c-4153-b729-37adbf117d13;MC;2028-06-05;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+0e57760e-7390-4a0e-a6ad-80debbcf440a;MC;2028-06-15;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+2c193ceb-cfdb-4f8c-a97b-2801afbc8b03;MC;2028-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+9681785e-29b8-4f77-9b90-b135d3ed0da5;MC;2028-11-01;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+2c5e2ec0-6afa-49de-a64c-c751332a4b62;MC;2028-11-20;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+4cf594d1-82c5-49c7-99c9-aac257aebd92;MC;2028-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+e05e87dc-b024-4f6b-bf8e-9f4afaa59028;MC;2028-12-25;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day
+ff0474d8-4393-4ca3-91cf-974a677c208c;MC;2029-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+c6fc2323-940b-4321-8c38-503214add745;MC;2029-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+f1ad795a-2f77-492d-b2d4-3c7c1e52eeea;MC;2029-04-02;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+f960b764-7b0b-417a-a75e-00947cf90e7c;MC;2029-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+fb06b0b5-d994-43eb-a064-40b3df05ee8b;MC;2029-05-10;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+86f4a3c5-d041-4bfc-bcdc-3ae64687d59d;MC;2029-05-21;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+5121c9d0-7d2c-44ea-b287-eb5b92fbabb6;MC;2029-05-31;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+c8ea407e-6e87-4990-94c2-7b0d8492baa6;MC;2029-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+8ab4e431-c42c-4016-b63f-c6acf2af8929;MC;2029-11-01;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+4231cc28-4e80-4502-a60a-e8d5ad0b3697;MC;2029-11-19;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+1e43ecfd-d300-4222-8046-6d6ae5641ffb;MC;2029-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+f2ec2749-c060-4514-aaac-f5be96bd8409;MC;2029-12-25;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day
+b34932c8-18ce-4700-a670-a6afd3156e87;MC;2030-01-01;;Public;National;FR Le jour de l’An,DE Neujahr,EN New Year's Day
+f2add607-3d6f-4fda-8e88-db0e766a7547;MC;2030-01-27;;Public;National;FR La Sainte Dévote,DE Tag der Heiligen Devota,EN Saint Dévote's Day
+2e54774a-99dc-4e9e-a190-150a92ac931e;MC;2030-04-22;;Public;National;FR Le lundi de Pâques,DE Ostermontag,EN Easter Monday
+cdba1e31-8e50-4eaf-a2eb-c51b75ecf161;MC;2030-05-01;;Public;National;FR Le 1er mai,DE Tag der Arbeit,EN Labour Day
+8a31dc3b-81e1-46ad-9db4-a8510d8ae275;MC;2030-05-30;;Public;National;FR L’Ascension,DE Christi Himmelfahrt,EN Ascension's Day
+8ac2bf46-f433-443d-ae45-0f60fdd88abe;MC;2030-06-10;;Public;National;FR Le lundi de Pentecôte,DE Pfingstmontag,EN Whit Monday
+ba82da8b-151b-483f-abe9-3923d0920676;MC;2030-06-20;;Public;National;FR La Fête Dieu,DE Fronleichnam,EN Corpus Christi
+4f41387e-4cb2-4aa7-9d68-a07710dda078;MC;2030-08-15;;Public;National;FR L’Assomption,DE Mariä Himmelfahrt,EN Assumption's Day
+631abe9b-7683-4cc7-acd8-9d80f89a6379;MC;2030-11-01;;Public;National;FR La Toussaint,DE Allerheiligen,EN All Saints' Day
+62334723-f2c0-4a01-b267-7831f8875c7f;MC;2030-11-19;;Public;National;FR La Fête du Prince,DE Fest des Prinzen,EN Prince's Day
+0a77138d-d801-4b0b-b008-071203e84e89;MC;2030-12-08;;Public;National;FR L’Immaculée Conception,DE Maria Empfängnis,EN Immaculate Conception's Day
+c4cf0b18-46ca-4933-900c-cbff33df8413;MC;2030-12-25;;Public;National;FR Noël,DE Weihnachten,EN Christmas Day

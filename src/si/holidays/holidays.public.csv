@@ -1,155 +1,155 @@
-﻿Id;Country;StartDate;EndDate;Type;Name
-188c7489-0258-40b6-8a2c-b210b1f5c1f7;SI;2020-01-01;2020-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-2d11a4ca-3d5d-454f-8663-2511edc375e6;SI;2020-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-94e5e904-4d53-49ad-bb1c-d2efab73da4a;SI;2020-04-12;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-d03f4c57-cb03-4f08-9849-91b604085136;SI;2020-04-13;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-fb29400c-432d-4b95-ad1c-2dcbb475056f;SI;2020-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-78f969a0-73ea-46cb-88ff-c87d0ce89960;SI;2020-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-1ce564c4-7789-427e-8719-f7e3c76f911b;SI;2020-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-7ce1f65f-09ca-4cdb-af8f-839e591d6cd1;SI;2020-05-31;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-39dc70c9-f542-415c-8960-7c3903045076;SI;2020-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-8a0f4fd3-b8a4-4b56-ad07-7076f1223dc2;SI;2020-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-b4213707-199e-4f41-bd7b-7d7b412771b4;SI;2020-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-e2016918-a518-49d2-8ca6-02b6ee937e90;SI;2020-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-6dbaf544-e3cd-4832-bed5-958473e65964;SI;2020-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-f9162a56-2ced-474f-a28a-d046f6e23de7;SI;2020-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
-d8b3d7a3-b5b5-410e-b7c2-166f31a798fb;SI;2021-01-01;2021-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-322e0019-c69d-4c51-a22e-0085fc78f198;SI;2021-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-0772c6ae-f374-43df-a851-1590dc42822d;SI;2021-04-04;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-911ee5db-01da-49c7-a233-c60d81d9f786;SI;2021-04-05;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-b9979b36-dee9-4257-9079-f23929e3c25f;SI;2021-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-2cac8347-b9fb-4a65-a6ec-1d4518dadd50;SI;2021-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-ad331903-e877-467b-842a-29dbb20f21ff;SI;2021-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-561fc3ca-d23c-473e-9017-60f91e21d9e9;SI;2021-05-23;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-fa6d76f7-32dc-4c81-b7ed-00653c8e2c91;SI;2021-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-142ccaed-dc3b-4777-94d6-b6f371f29ae1;SI;2021-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-4f508f22-86fe-422c-adf7-73c5acdc6365;SI;2021-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-8ed46905-fc09-4373-b725-b187832bdaab;SI;2021-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-6f9c8d2c-8951-493d-9c36-bc58d504b86a;SI;2020-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-b094d424-9c7c-4d3e-9104-2f8c8dec0284;SI;2021-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
-2a02e7cb-18ab-4836-b206-52be1f2c6933;SI;2022-01-01;2022-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-ba091cba-799a-4dfc-bf79-aca13c29fdb8;SI;2022-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-33957031-0ebe-4fc1-8e13-3f0c1544dace;SI;2022-04-17;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-4af4e2d6-896c-4b26-a6fb-2947c6a2faf8;SI;2022-04-18;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-b41b1b6a-ae6f-4fe3-93d6-78a8d76bbe60;SI;2022-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-7277cf4f-4834-4a51-a739-f3a3815030a1;SI;2022-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-7bef0b92-5787-4879-8ec2-eb2bc70acf98;SI;2022-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-ebd1d667-900c-44c7-8211-6668bc6b535a;SI;2022-06-05;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-8fb8aa63-fa81-471f-a3a2-d3ad4d7ecd13;SI;2022-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-d76c5f22-7d53-4397-8aad-f0f77f8e63fb;SI;2022-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-1eeb0fdd-dd6f-43cf-ace0-ffac8c3ba96f;SI;2022-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-d06dca3f-59fb-47a6-804e-3b9575d60466;SI;2022-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-3484fc0b-9ed5-47d9-8adb-a39476b8d18f;SI;2022-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-ef7f3548-31a9-44cd-b3d5-532df829de07;SI;2022-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
-d43b17bc-700d-4b63-aa21-3cb58e038490;SI;2023-01-01;2023-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-93d2021e-acbe-4ce0-8378-fe40931ca9fb;SI;2023-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-b242b40e-8b3e-42f4-9e30-d2a04b801ef2;SI;2023-04-09;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-717d8c88-568b-4280-a580-05d92164de4b;SI;2023-04-10;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-5b846633-3415-4068-84ce-0bc6937013bd;SI;2023-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-351f0c6c-8239-47a5-862b-f29d0a549fa1;SI;2023-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-1f93dee3-4535-4359-bb02-f17c5af72957;SI;2023-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-408d8507-ef4d-4bb3-9c30-0346fb84f6fc;SI;2023-05-28;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-ae48461a-b0df-436e-b8f6-a1ae936a725c;SI;2023-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-99b31265-aa84-4b1a-9faf-8fe7820a09e2;SI;2023-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-36f18457-9365-4f1b-9cce-bc7551066eed;SI;2023-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-c8a42dba-9384-4e38-a22c-15619c496d5b;SI;2023-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-96fad19e-0a5a-49de-a60f-6f4451b96bfe;SI;2023-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-a124893c-2c6f-48db-aa78-5ac9aed2499a;SI;2023-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
-b0f4deb0-2313-4ad8-aeae-30100d2ac0da;SI;2024-01-01;2024-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-9e5d837a-fc0e-48be-ad7e-353527749afc;SI;2024-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-52ab3cc8-e969-4212-a807-2ba0d709b16c;SI;2024-03-31;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-de6d9738-300d-4923-ae39-147e7d7f206b;SI;2024-04-01;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-594e40d2-5516-4012-bac5-625fc570fd8b;SI;2024-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-6c4d2a34-0187-4c21-a347-2097796b6906;SI;2024-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-c02a98de-96cd-4a83-82cb-443251bcaafa;SI;2024-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-8b66d909-f5f0-4ef4-8bc6-2668929a26b2;SI;2024-05-19;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-d0592e37-d366-4976-85b1-009bf8545562;SI;2024-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-f48deb1c-ea3d-4a10-8547-73aac8982250;SI;2024-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-b20e4462-617f-4ee1-b05b-165f3a832e0d;SI;2024-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-df3d491d-3b04-4ffb-9afb-f4366e714edc;SI;2024-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-60cefc42-2603-4f90-9088-62dfbccd6f4e;SI;2024-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-06806200-d57b-408e-b175-a69c115491db;SI;2024-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
-4550fa25-e3e7-4657-9bf1-cdd0f5a756fd;SI;2025-01-01;2025-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-f8b5c643-949e-408c-8899-84bed236686e;SI;2025-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-313d4ca5-8193-4e1d-8c62-b071f476362b;SI;2025-04-20;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-3e14cf3c-cc49-4ad3-99ba-1e7b9b84635d;SI;2025-04-21;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-473f4514-1823-40c2-8665-365412380f30;SI;2025-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-e570e1ef-7159-4d13-a07b-b480e57dc499;SI;2025-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-354adb56-7d77-4f7c-8d2e-92be77584c32;SI;2025-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-db489255-0685-42b7-b5ab-3a06312fb5e0;SI;2025-06-08;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-0f513110-d4ce-4ce6-a0a5-72f7a6bbbdfd;SI;2025-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-e1092e42-87da-426e-8be0-2f9a0058e8af;SI;2025-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-9093629a-544f-474b-879e-bf4b5a92a2c1;SI;2025-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-9ad5ea42-1197-4a4a-87da-c37814b76039;SI;2025-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-700a97c8-fa28-48ae-960a-e6ee7b7af886;SI;2025-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-bc17b3ae-5ae4-4d71-a91d-bfd127965617;SI;2025-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
-bd91e4b5-0f12-408c-aafb-60aa2e649887;SI;2026-01-01;2026-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-831f920f-5ee9-45be-8b27-9f8e6a775280;SI;2026-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-71e5ff25-7965-493c-8e2c-74cfa7d486a5;SI;2026-04-05;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-b7fb301f-af0f-434f-bbe7-8415c7902795;SI;2026-04-06;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-63e9f924-879b-4c65-8c6f-ebbc60f7f273;SI;2026-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-97e91c00-f97e-467f-bfdb-e8948147afe9;SI;2026-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-717ebd44-a5c4-4453-9886-06e63e9edde1;SI;2026-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-984f97e5-c6af-4adc-a257-20a7088e94b7;SI;2026-05-24;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-86cb883c-f904-4f9a-b618-7377e886c032;SI;2026-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-21b9cc9f-ddc2-4334-9efb-575bd924b8b5;SI;2026-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-35867343-6261-4ff8-bfbf-459561a3f909;SI;2026-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-d0f7fc7c-0570-4850-b88a-2fd8804bab97;SI;2026-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-5d5362dc-9b39-4536-aaf4-b56702bee2d8;SI;2026-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-491f2a29-3c08-456a-859d-22c899efa196;SI;2026-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
-6df1d9e0-b007-4ee2-9d87-b3a0f2dbff6f;SI;2027-01-01;2027-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-1cf115f9-32a1-4a85-a838-99e5229359dd;SI;2027-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-26814091-3038-43b3-b767-bdeb00bf74c1;SI;2027-03-28;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-e8a2f780-e51c-48bc-ae27-7aa2dcab1406;SI;2027-03-29;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-67421e29-a76c-4db6-a26b-3b461ab6d2e7;SI;2027-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-f8c44f4c-1dd2-4417-9a09-bb752a22d138;SI;2027-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-a6d3484c-0303-4603-83e9-4e955f1d4993;SI;2027-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-b59b985a-b684-45a6-aad0-bc8b6d790234;SI;2027-05-16;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-0315deb5-aa20-4c8c-b4fb-55e9632680a3;SI;2027-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-a4d67610-33a4-468f-8922-14fe5720535f;SI;2027-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-3702a280-faaa-4579-9c48-c40c83227046;SI;2027-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-e15261a2-693d-4b1a-864b-59cd9cc3000f;SI;2027-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-64fe3edc-dcc5-4c18-accf-4a6c2f97e3af;SI;2027-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-1ae693d0-aaa0-41de-8a5e-9a43dcca9889;SI;2027-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
-d72c6825-5592-496c-981d-2a3c2860d8c8;SI;2028-01-01;2028-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-9436829f-b5b7-4195-9aa8-c6467221edfe;SI;2028-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-08dbb756-2b26-4037-9503-3828c749785f;SI;2028-04-16;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-e655e861-2404-4013-8e3a-918c52b2ab63;SI;2028-04-17;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-784677a9-ca98-4f85-95ff-d0d66d6f7808;SI;2028-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-c6c88c8e-5b35-437b-8bdc-6568b9aaaea6;SI;2028-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-6136cd9b-60ca-4a1d-8738-5b7ec61d3e4d;SI;2028-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-a97a8721-95fc-4144-be70-24eb2089ca75;SI;2028-06-04;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-d4c158f5-e8f9-4a31-bd7e-1eafd4462736;SI;2028-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-9a40cc37-cb14-45b5-b32f-19f41c9dc8ee;SI;2028-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-003af70f-63ae-4f73-8731-3e36eef6c282;SI;2028-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-be963c55-a921-4e3c-b170-205986d894e8;SI;2028-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-491a97db-6035-40b2-9c18-da2509822182;SI;2028-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-1b71d053-b6b6-4365-b32f-6abaf71ba7a3;SI;2028-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
-ddae14ae-0f2f-43bf-822e-3f022ebcb9eb;SI;2029-01-01;2029-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-5520598e-8350-4c5d-890a-6529dbd87ed9;SI;2029-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-bc70751c-6216-4eb4-b64e-b3397c83ecf0;SI;2029-04-01;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-852a813a-7165-40b4-b786-92cdac31610e;SI;2029-04-02;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-f0c6517f-fd30-46db-9447-7be1ccf5720b;SI;2029-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-469a6262-75b1-46d6-a7f9-7caa14f7666f;SI;2029-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-09425e70-6da2-486e-b2ab-9c37ee633827;SI;2029-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-8585d652-06b4-4a75-8785-0a25eb16cab1;SI;2029-05-20;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-026439b0-d628-479e-a3bf-fba5f4eec9be;SI;2029-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-3f118c84-923c-4366-95dd-e8e98a3d8c21;SI;2029-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-5b37f029-a437-4b89-9a63-17ae142c834c;SI;2029-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-8c0189a6-dcdf-433f-bce4-0a3b10d881cb;SI;2029-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-22eb1c87-22f2-4283-a635-af5ced2d154b;SI;2029-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-ff7a3c6e-f83c-42ea-9f92-2a28fd9346d2;SI;2029-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
-0a0058e4-e060-46b9-90db-56cc44f16233;SI;2030-01-01;2030-01-02;Public;SL novo leto,DE Neujahrsferien,EN New Year Holiday
-f7545a3d-298b-4a7d-b00e-2704040d969b;SI;2030-02-08;;Public;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
-a67c131f-a194-49ec-b58d-a47fd0813dcd;SI;2030-04-21;;Public;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
-fb8c62df-3d97-4be9-9283-4dd3b1d697fa;SI;2030-04-22;;Public;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
-c41754e2-cd0e-44a3-a57f-f9b456dc7c9a;SI;2030-04-27;;Public;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
-a87c02c7-8037-4852-a8bb-355c8b4542cc;SI;2030-05-01;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-25776e8d-cf26-4819-bdbb-96d7fb9b430c;SI;2030-05-02;;Public;SL praznik dela,DE Tag der Arbeit,EN Labour Day
-9e4fc4e7-c3f2-4bb4-af56-f01a1d97a93e;SI;2030-06-09;;Public;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
-0d38dc84-2bd9-4509-bc92-85566b0b7c31;SI;2030-06-25;;Public;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
-a7f5e5ec-1c16-41c2-8021-349ed4a8442d;SI;2030-08-15;;Public;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
-a208b16b-5f15-44f5-bed1-528cb6b4c1ca;SI;2030-10-31;;Public;SL dan reformacije,DE Reformationstag,EN Reformation Day
-04132768-0026-4f7f-bb67-b8e050713474;SI;2030-11-01;;Public;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
-e72206ab-3d16-4ac6-b833-dc62ef6b2e46;SI;2030-12-25;;Public;SL božič,DE Weihnachten,EN Christmas Day
-d0c5a86f-d703-434c-b6c4-96401a751660;SI;2030-12-26;;Public;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+188c7489-0258-40b6-8a2c-b210b1f5c1f7;SI;2020-01-01;2020-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+2d11a4ca-3d5d-454f-8663-2511edc375e6;SI;2020-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+94e5e904-4d53-49ad-bb1c-d2efab73da4a;SI;2020-04-12;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+d03f4c57-cb03-4f08-9849-91b604085136;SI;2020-04-13;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+fb29400c-432d-4b95-ad1c-2dcbb475056f;SI;2020-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+78f969a0-73ea-46cb-88ff-c87d0ce89960;SI;2020-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+1ce564c4-7789-427e-8719-f7e3c76f911b;SI;2020-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+7ce1f65f-09ca-4cdb-af8f-839e591d6cd1;SI;2020-05-31;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+39dc70c9-f542-415c-8960-7c3903045076;SI;2020-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+8a0f4fd3-b8a4-4b56-ad07-7076f1223dc2;SI;2020-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+b4213707-199e-4f41-bd7b-7d7b412771b4;SI;2020-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+e2016918-a518-49d2-8ca6-02b6ee937e90;SI;2020-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+6dbaf544-e3cd-4832-bed5-958473e65964;SI;2020-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+f9162a56-2ced-474f-a28a-d046f6e23de7;SI;2020-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+d8b3d7a3-b5b5-410e-b7c2-166f31a798fb;SI;2021-01-01;2021-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+322e0019-c69d-4c51-a22e-0085fc78f198;SI;2021-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+0772c6ae-f374-43df-a851-1590dc42822d;SI;2021-04-04;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+911ee5db-01da-49c7-a233-c60d81d9f786;SI;2021-04-05;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+b9979b36-dee9-4257-9079-f23929e3c25f;SI;2021-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+2cac8347-b9fb-4a65-a6ec-1d4518dadd50;SI;2021-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+ad331903-e877-467b-842a-29dbb20f21ff;SI;2021-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+561fc3ca-d23c-473e-9017-60f91e21d9e9;SI;2021-05-23;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+fa6d76f7-32dc-4c81-b7ed-00653c8e2c91;SI;2021-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+142ccaed-dc3b-4777-94d6-b6f371f29ae1;SI;2021-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+4f508f22-86fe-422c-adf7-73c5acdc6365;SI;2021-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+8ed46905-fc09-4373-b725-b187832bdaab;SI;2021-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+6f9c8d2c-8951-493d-9c36-bc58d504b86a;SI;2020-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+b094d424-9c7c-4d3e-9104-2f8c8dec0284;SI;2021-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+2a02e7cb-18ab-4836-b206-52be1f2c6933;SI;2022-01-01;2022-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+ba091cba-799a-4dfc-bf79-aca13c29fdb8;SI;2022-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+33957031-0ebe-4fc1-8e13-3f0c1544dace;SI;2022-04-17;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+4af4e2d6-896c-4b26-a6fb-2947c6a2faf8;SI;2022-04-18;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+b41b1b6a-ae6f-4fe3-93d6-78a8d76bbe60;SI;2022-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+7277cf4f-4834-4a51-a739-f3a3815030a1;SI;2022-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+7bef0b92-5787-4879-8ec2-eb2bc70acf98;SI;2022-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+ebd1d667-900c-44c7-8211-6668bc6b535a;SI;2022-06-05;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+8fb8aa63-fa81-471f-a3a2-d3ad4d7ecd13;SI;2022-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+d76c5f22-7d53-4397-8aad-f0f77f8e63fb;SI;2022-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+1eeb0fdd-dd6f-43cf-ace0-ffac8c3ba96f;SI;2022-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+d06dca3f-59fb-47a6-804e-3b9575d60466;SI;2022-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+3484fc0b-9ed5-47d9-8adb-a39476b8d18f;SI;2022-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+ef7f3548-31a9-44cd-b3d5-532df829de07;SI;2022-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+d43b17bc-700d-4b63-aa21-3cb58e038490;SI;2023-01-01;2023-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+93d2021e-acbe-4ce0-8378-fe40931ca9fb;SI;2023-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+b242b40e-8b3e-42f4-9e30-d2a04b801ef2;SI;2023-04-09;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+717d8c88-568b-4280-a580-05d92164de4b;SI;2023-04-10;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+5b846633-3415-4068-84ce-0bc6937013bd;SI;2023-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+351f0c6c-8239-47a5-862b-f29d0a549fa1;SI;2023-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+1f93dee3-4535-4359-bb02-f17c5af72957;SI;2023-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+408d8507-ef4d-4bb3-9c30-0346fb84f6fc;SI;2023-05-28;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+ae48461a-b0df-436e-b8f6-a1ae936a725c;SI;2023-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+99b31265-aa84-4b1a-9faf-8fe7820a09e2;SI;2023-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+36f18457-9365-4f1b-9cce-bc7551066eed;SI;2023-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+c8a42dba-9384-4e38-a22c-15619c496d5b;SI;2023-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+96fad19e-0a5a-49de-a60f-6f4451b96bfe;SI;2023-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+a124893c-2c6f-48db-aa78-5ac9aed2499a;SI;2023-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+b0f4deb0-2313-4ad8-aeae-30100d2ac0da;SI;2024-01-01;2024-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+9e5d837a-fc0e-48be-ad7e-353527749afc;SI;2024-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+52ab3cc8-e969-4212-a807-2ba0d709b16c;SI;2024-03-31;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+de6d9738-300d-4923-ae39-147e7d7f206b;SI;2024-04-01;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+594e40d2-5516-4012-bac5-625fc570fd8b;SI;2024-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+6c4d2a34-0187-4c21-a347-2097796b6906;SI;2024-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+c02a98de-96cd-4a83-82cb-443251bcaafa;SI;2024-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+8b66d909-f5f0-4ef4-8bc6-2668929a26b2;SI;2024-05-19;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+d0592e37-d366-4976-85b1-009bf8545562;SI;2024-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+f48deb1c-ea3d-4a10-8547-73aac8982250;SI;2024-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+b20e4462-617f-4ee1-b05b-165f3a832e0d;SI;2024-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+df3d491d-3b04-4ffb-9afb-f4366e714edc;SI;2024-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+60cefc42-2603-4f90-9088-62dfbccd6f4e;SI;2024-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+06806200-d57b-408e-b175-a69c115491db;SI;2024-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+4550fa25-e3e7-4657-9bf1-cdd0f5a756fd;SI;2025-01-01;2025-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+f8b5c643-949e-408c-8899-84bed236686e;SI;2025-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+313d4ca5-8193-4e1d-8c62-b071f476362b;SI;2025-04-20;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+3e14cf3c-cc49-4ad3-99ba-1e7b9b84635d;SI;2025-04-21;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+473f4514-1823-40c2-8665-365412380f30;SI;2025-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+e570e1ef-7159-4d13-a07b-b480e57dc499;SI;2025-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+354adb56-7d77-4f7c-8d2e-92be77584c32;SI;2025-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+db489255-0685-42b7-b5ab-3a06312fb5e0;SI;2025-06-08;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+0f513110-d4ce-4ce6-a0a5-72f7a6bbbdfd;SI;2025-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+e1092e42-87da-426e-8be0-2f9a0058e8af;SI;2025-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+9093629a-544f-474b-879e-bf4b5a92a2c1;SI;2025-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+9ad5ea42-1197-4a4a-87da-c37814b76039;SI;2025-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+700a97c8-fa28-48ae-960a-e6ee7b7af886;SI;2025-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+bc17b3ae-5ae4-4d71-a91d-bfd127965617;SI;2025-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+bd91e4b5-0f12-408c-aafb-60aa2e649887;SI;2026-01-01;2026-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+831f920f-5ee9-45be-8b27-9f8e6a775280;SI;2026-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+71e5ff25-7965-493c-8e2c-74cfa7d486a5;SI;2026-04-05;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+b7fb301f-af0f-434f-bbe7-8415c7902795;SI;2026-04-06;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+63e9f924-879b-4c65-8c6f-ebbc60f7f273;SI;2026-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+97e91c00-f97e-467f-bfdb-e8948147afe9;SI;2026-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+717ebd44-a5c4-4453-9886-06e63e9edde1;SI;2026-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+984f97e5-c6af-4adc-a257-20a7088e94b7;SI;2026-05-24;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+86cb883c-f904-4f9a-b618-7377e886c032;SI;2026-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+21b9cc9f-ddc2-4334-9efb-575bd924b8b5;SI;2026-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+35867343-6261-4ff8-bfbf-459561a3f909;SI;2026-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+d0f7fc7c-0570-4850-b88a-2fd8804bab97;SI;2026-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+5d5362dc-9b39-4536-aaf4-b56702bee2d8;SI;2026-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+491f2a29-3c08-456a-859d-22c899efa196;SI;2026-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+6df1d9e0-b007-4ee2-9d87-b3a0f2dbff6f;SI;2027-01-01;2027-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+1cf115f9-32a1-4a85-a838-99e5229359dd;SI;2027-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+26814091-3038-43b3-b767-bdeb00bf74c1;SI;2027-03-28;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+e8a2f780-e51c-48bc-ae27-7aa2dcab1406;SI;2027-03-29;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+67421e29-a76c-4db6-a26b-3b461ab6d2e7;SI;2027-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+f8c44f4c-1dd2-4417-9a09-bb752a22d138;SI;2027-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+a6d3484c-0303-4603-83e9-4e955f1d4993;SI;2027-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+b59b985a-b684-45a6-aad0-bc8b6d790234;SI;2027-05-16;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+0315deb5-aa20-4c8c-b4fb-55e9632680a3;SI;2027-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+a4d67610-33a4-468f-8922-14fe5720535f;SI;2027-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+3702a280-faaa-4579-9c48-c40c83227046;SI;2027-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+e15261a2-693d-4b1a-864b-59cd9cc3000f;SI;2027-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+64fe3edc-dcc5-4c18-accf-4a6c2f97e3af;SI;2027-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+1ae693d0-aaa0-41de-8a5e-9a43dcca9889;SI;2027-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+d72c6825-5592-496c-981d-2a3c2860d8c8;SI;2028-01-01;2028-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+9436829f-b5b7-4195-9aa8-c6467221edfe;SI;2028-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+08dbb756-2b26-4037-9503-3828c749785f;SI;2028-04-16;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+e655e861-2404-4013-8e3a-918c52b2ab63;SI;2028-04-17;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+784677a9-ca98-4f85-95ff-d0d66d6f7808;SI;2028-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+c6c88c8e-5b35-437b-8bdc-6568b9aaaea6;SI;2028-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+6136cd9b-60ca-4a1d-8738-5b7ec61d3e4d;SI;2028-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+a97a8721-95fc-4144-be70-24eb2089ca75;SI;2028-06-04;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+d4c158f5-e8f9-4a31-bd7e-1eafd4462736;SI;2028-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+9a40cc37-cb14-45b5-b32f-19f41c9dc8ee;SI;2028-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+003af70f-63ae-4f73-8731-3e36eef6c282;SI;2028-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+be963c55-a921-4e3c-b170-205986d894e8;SI;2028-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+491a97db-6035-40b2-9c18-da2509822182;SI;2028-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+1b71d053-b6b6-4365-b32f-6abaf71ba7a3;SI;2028-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+ddae14ae-0f2f-43bf-822e-3f022ebcb9eb;SI;2029-01-01;2029-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+5520598e-8350-4c5d-890a-6529dbd87ed9;SI;2029-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+bc70751c-6216-4eb4-b64e-b3397c83ecf0;SI;2029-04-01;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+852a813a-7165-40b4-b786-92cdac31610e;SI;2029-04-02;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+f0c6517f-fd30-46db-9447-7be1ccf5720b;SI;2029-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+469a6262-75b1-46d6-a7f9-7caa14f7666f;SI;2029-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+09425e70-6da2-486e-b2ab-9c37ee633827;SI;2029-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+8585d652-06b4-4a75-8785-0a25eb16cab1;SI;2029-05-20;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+026439b0-d628-479e-a3bf-fba5f4eec9be;SI;2029-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+3f118c84-923c-4366-95dd-e8e98a3d8c21;SI;2029-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+5b37f029-a437-4b89-9a63-17ae142c834c;SI;2029-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+8c0189a6-dcdf-433f-bce4-0a3b10d881cb;SI;2029-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+22eb1c87-22f2-4283-a635-af5ced2d154b;SI;2029-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+ff7a3c6e-f83c-42ea-9f92-2a28fd9346d2;SI;2029-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day
+0a0058e4-e060-46b9-90db-56cc44f16233;SI;2030-01-01;2030-01-02;Public;National;SL novo leto,DE Neujahrsferien,EN New Year Holiday
+f7545a3d-298b-4a7d-b00e-2704040d969b;SI;2030-02-08;;Public;National;SL Prešernov dan,DE Prešeren-Tag,EN Prešeren Day
+a67c131f-a194-49ec-b58d-a47fd0813dcd;SI;2030-04-21;;Public;National;SL velikonočna nedelja,DE Ostersonntag,EN Easter Sunday
+fb8c62df-3d97-4be9-9283-4dd3b1d697fa;SI;2030-04-22;;Public;National;SL velikonočni ponedeljek,DE Ostermontag,EN Easter Monday
+c41754e2-cd0e-44a3-a57f-f9b456dc7c9a;SI;2030-04-27;;Public;National;SL dan upora proti okupatorju,DE Tag des Aufstands gegen die Besetzung,EN Day of Uprising Against the Occupation
+a87c02c7-8037-4852-a8bb-355c8b4542cc;SI;2030-05-01;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+25776e8d-cf26-4819-bdbb-96d7fb9b430c;SI;2030-05-02;;Public;National;SL praznik dela,DE Tag der Arbeit,EN Labour Day
+9e4fc4e7-c3f2-4bb4-af56-f01a1d97a93e;SI;2030-06-09;;Public;National;SL binkoštna nedelja,DE Pfingstsonntag,EN Whit Sunday
+0d38dc84-2bd9-4509-bc92-85566b0b7c31;SI;2030-06-25;;Public;National;SL dan državnosti,DE Unabhängigkeitstag,EN Statehood Day
+a7f5e5ec-1c16-41c2-8021-349ed4a8442d;SI;2030-08-15;;Public;National;SL Marijino vnebovzetje,DE Mariä Himmelfahrt,EN Assumption Day
+a208b16b-5f15-44f5-bed1-528cb6b4c1ca;SI;2030-10-31;;Public;National;SL dan reformacije,DE Reformationstag,EN Reformation Day
+04132768-0026-4f7f-bb67-b8e050713474;SI;2030-11-01;;Public;National;SL dan spomina na mrtve,DE Tag der Toten,EN Day of Remembrance for the Dead
+e72206ab-3d16-4ac6-b833-dc62ef6b2e46;SI;2030-12-25;;Public;National;SL božič,DE Weihnachten,EN Christmas Day
+d0c5a86f-d703-434c-b6c4-96401a751660;SI;2030-12-26;;Public;National;SL dan samostojnosti in enotnosti,DE Tag der Unabhängigkeit und Einheit,EN Independence and Unity Day

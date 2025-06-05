@@ -1,25 +1,29 @@
-﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
-64db359b-82c1-456b-8662-f64cc379e584;ES;2019-12-21;2020-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
-7573401b-7c40-47d5-80e2-58a315db308e;ES;2020-04-04;2020-04-13;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
-2c7e754c-14c3-4efd-99fa-add45e9ba2ce;ES;2020-06-20;2020-09-09;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;GA
-a288bff8-b8dd-40a4-9fcf-bc9f89905cc2;ES;2020-12-07;;;ES Día de la Educación,CA Dia de l'Educació,DE Tag der Bildung,EN Education Day;GA
-ccff3181-9ea9-4323-9cb6-72d0071480bf;ES;2020-12-23;2021-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
-6c00686b-7207-494d-858d-51715cda3bb6;ES;2021-02-15;2021-02-17;School;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
-2a3af2c7-1603-4fb3-8213-fe0eedae9073;ES;2021-02-24;2021-02-26;School;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
-6e470b68-93ac-4eef-b026-6ed2052dc921;ES;2021-03-27;2021-04-05;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
-44e5f2e2-9136-4438-a556-ef66fbb3d3e0;ES;2021-06-23;2021-09-08;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;GA
-212a3da7-550b-4434-89c7-ff4e9d48142e;ES;2021-10-11;;;ES Día de la Educación,CA Dia de l'Educació,DE Tag der Bildung,EN Education Day;GA
-7e7710a7-8f5d-40f3-bfea-4ec19200df2c;ES;2021-12-22;2022-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
-bb66b391-02a1-44c1-9136-818d11f5fadb;ES;2022-02-28;2022-03-02;School;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
-3b8296b3-c827-4065-9a20-90b2b783360b;ES;2022-04-11;2022-04-18;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
-a9c35397-e161-4481-9759-2f3d3bd7ec58;ES;2022-06-23;2022-09-07;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;GA
-48ff29bb-032a-4e2e-ae35-a7902caf2e1a;ES;2022-10-31;;;ES Día de la Educación,CA Dia de l'Educació,DE Tag der Bildung,EN Education Day;GA
-b3616461-878f-4e79-9f5d-5971a47b80b3;ES;2022-12-23;2023-01-06;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
-4ab71d42-2720-4caa-9e15-1cc3b297910a;ES;2023-02-20;2023-02-22;School;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
-8b27c145-2ff0-4553-b38a-67e9ef89b7bb;ES;2023-04-03;2023-04-10;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
-a201f98d-f1ca-4d0a-a988-faad388ed799;ES;2023-06-22;2023-09-10;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;GA
-030d72c5-2a36-490c-bf7a-098b29991e13;ES;2023-12-07;;;ES Día de la Educación,CA Dia de l'Educació,DE Tag der Bildung,EN Education Day;GA
-137cb2ab-1ca3-45f8-947b-6230cf0e82a6;ES;2023-12-22;2024-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
-48e9e78b-24b5-4578-8ca5-a7bb3fb01ced;ES;2024-02-12;2024-02-14;School;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
-76677e60-49bd-48b7-9705-41a27cc087f7;ES;2024-03-25;2024-04-01;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
-3daad500-1788-45c8-9f4e-a4f503221b9d;ES;2024-06-21;;EndOfLessons;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;GA
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+64db359b-82c1-456b-8662-f64cc379e584;ES;2019-12-21;2020-01-07;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
+7573401b-7c40-47d5-80e2-58a315db308e;ES;2020-04-04;2020-04-13;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
+2c7e754c-14c3-4efd-99fa-add45e9ba2ce;ES;2020-06-20;2020-09-09;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;GA
+a288bff8-b8dd-40a4-9fcf-bc9f89905cc2;ES;2020-12-07;;School;Regional;ES Día de la Educación,CA Dia de l'Educació,DE Tag der Bildung,EN Education Day;GA
+ccff3181-9ea9-4323-9cb6-72d0071480bf;ES;2020-12-23;2021-01-07;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
+6c00686b-7207-494d-858d-51715cda3bb6;ES;2021-02-15;2021-02-17;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
+2a3af2c7-1603-4fb3-8213-fe0eedae9073;ES;2021-02-24;2021-02-26;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
+6e470b68-93ac-4eef-b026-6ed2052dc921;ES;2021-03-27;2021-04-05;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
+44e5f2e2-9136-4438-a556-ef66fbb3d3e0;ES;2021-06-23;2021-09-08;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;GA
+212a3da7-550b-4434-89c7-ff4e9d48142e;ES;2021-10-11;;School;Regional;ES Día de la Educación,CA Dia de l'Educació,DE Tag der Bildung,EN Education Day;GA
+7e7710a7-8f5d-40f3-bfea-4ec19200df2c;ES;2021-12-22;2022-01-07;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
+bb66b391-02a1-44c1-9136-818d11f5fadb;ES;2022-02-28;2022-03-02;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
+3b8296b3-c827-4065-9a20-90b2b783360b;ES;2022-04-11;2022-04-18;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
+a9c35397-e161-4481-9759-2f3d3bd7ec58;ES;2022-06-23;2022-09-07;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;GA
+48ff29bb-032a-4e2e-ae35-a7902caf2e1a;ES;2022-10-31;;School;Regional;ES Día de la Educación,CA Dia de l'Educació,DE Tag der Bildung,EN Education Day;GA
+b3616461-878f-4e79-9f5d-5971a47b80b3;ES;2022-12-23;2023-01-06;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
+4ab71d42-2720-4caa-9e15-1cc3b297910a;ES;2023-02-20;2023-02-22;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
+8b27c145-2ff0-4553-b38a-67e9ef89b7bb;ES;2023-04-03;2023-04-10;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
+a201f98d-f1ca-4d0a-a988-faad388ed799;ES;2023-06-22;2023-09-10;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;GA
+030d72c5-2a36-490c-bf7a-098b29991e13;ES;2023-12-07;;School;Regional;ES Día de la Educación,CA Dia de l'Educació,DE Tag der Bildung,EN Education Day;GA
+137cb2ab-1ca3-45f8-947b-6230cf0e82a6;ES;2023-12-22;2024-01-07;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
+48e9e78b-24b5-4578-8ca5-a7bb3fb01ced;ES;2024-02-12;2024-02-14;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
+76677e60-49bd-48b7-9705-41a27cc087f7;ES;2024-03-25;2024-04-01;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
+3daad500-1788-45c8-9f4e-a4f503221b9d;ES;2024-06-22;2024-09-10;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;GA
+c3c991eb-8a9d-4456-abce-963381cfe95d;ES;2024-12-23;2025-01-07;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;GA
+42ee5be6-036b-45d2-bf58-8f8b0e38fd2d;ES;2025-03-03;2025-04-05;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;GA
+f70636e5-23ef-466b-859b-55d6483a3d41;ES;2025-04-14;2025-04-21;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;GA
+8fd3d58b-00ec-4c46-ab48-b5722c80cd83;ES;2025-06-20;;EndOfLessons;Regional;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;GA

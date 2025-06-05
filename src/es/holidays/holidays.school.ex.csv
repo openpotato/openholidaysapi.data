@@ -1,39 +1,46 @@
-﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions
-854d00b0-b62c-4658-bf04-c7cf715469fb;ES;2019-12-23;2020-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
-fdc27ca4-5586-4b4f-a725-3dfe732af92d;ES;2020-01-27;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-7028d263-5414-4034-af06-2983a7dda59b;ES;2020-02-24;2020-02-25;School;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
-c84b7ce5-db0e-438d-9492-a64d4613ea00;ES;2020-04-06;2020-04-13;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
-e93990f1-87e8-491d-8cb1-65c4aac088eb;ES;2020-06-18;2020-09-09;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;EX
-5b1c02b1-7658-4de5-9357-ebe42e18565e;ES;2020-10-09;;School;ES Día de la Comunitat Valenciana,CA Dia de la Comunitat Valenciana,EN Valencian Community Day,DE Tag der valencianischen Gemeinschaft;EX
-973880c0-7aa5-4ef6-97f8-7efdd99e0f26;ES;2020-11-02;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-e017e6da-9397-48e4-9059-869ed176c20e;ES;2020-11-23;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-5277f5b6-9772-44ef-8bc5-1d5ef813adee;ES;2020-11-27;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-fc88063f-b7c9-402b-bf3a-d9b0ad24e89f;ES;2020-12-07;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-c44e5520-f6f8-4527-9901-a4f812dd4aa1;ES;2020-12-23;2021-01-08;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
-21acfc90-3d79-49f0-9b3f-b96396dd9d7d;ES;2021-02-15;2021-02-16;School;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
-c0f86c6a-e06a-4090-bfa8-9f01bacfc761;ES;2021-03-29;2021-04-05;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
-c43b6aac-8684-44fd-9491-226d44455451;ES;2021-06-19;2021-09-09;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;EX
-5d40e165-5665-48c2-a50b-c5b815c3813a;ES;2021-10-11;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-9aae01a2-c806-47b3-b05c-390ca949c211;ES;2021-11-22;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-0b9847d6-73c8-4dbc-ac5d-923873a1699b;ES;2021-12-23;2022-01-07;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
-e5d9f7bf-f23f-4add-83a0-798ad8e17bb6;ES;2022-01-28;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-a0bf656e-62ed-4ac7-9197-dbe8beb338e0;ES;2022-02-28;2022-03-01;School;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
-ae1c5f59-c790-4739-a27d-7bff1295a03c;ES;2022-04-11;2022-04-18;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
-2954be16-4a96-4648-860e-ad4f093f64f8;ES;2022-06-22;2022-09-11;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;EX
-68350177-35e5-4500-a670-6aa660cf40e4;ES;2022-10-31;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-34a8e01d-9127-41a0-b998-69430ee3b7fe;ES;2022-11-22;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-1f4b695b-733b-4b0d-bc97-66744b83096a;ES;2022-11-25;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-4c105cdd-71e3-46d5-bd85-492945ac3472;ES;2022-12-09;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-58dbe4ed-261d-4206-bb0d-ca86b7ff64e5;ES;2022-12-23;2023-01-05;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
-a770af03-2ee5-46e8-93fa-26de32f72f9f;ES;2023-02-20;2023-02-21;School;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
-ee1e58dc-b5e2-420b-b11e-bbf94085df64;ES;2023-04-03;2023-04-10;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
-b8257ad5-f7ce-451a-b098-c04454adccdb;ES;2023-06-23;2023-09-10;School;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;EX
-27c7d3bf-4e1a-49e9-afbd-b2aa500255c1;ES;2023-10-09;;School;ES Día de la Comunitat Valenciana,CA Dia de la Comunitat Valenciana,EN Valencian Community Day,DE Tag der valencianischen Gemeinschaft;EX
-60022db1-f0fa-4a7e-b56c-b6a177c65efa;ES;2023-10-13;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-736a01e0-a3bf-4b8f-a19f-6f2835939265;ES;2023-11-22;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-68d0615f-f937-4317-ab51-f57d915427a8;ES;2023-12-07;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-9553a583-3a52-4683-abc7-d664cf2875ba;ES;2023-12-22;2024-01-05;School;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
-d610e5d2-f1c6-4478-ac93-64afad4e25be;ES;2024-01-26;;School;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
-0ed2541a-07f6-4a2a-9300-8569359df23c;ES;2024-02-12;2024-02-13;School;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
-0575c20d-9d29-4bae-bae0-e11ede3a315e;ES;2024-03-25;2024-04-01;School;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
-076eec7f-59dc-4be0-aae4-b859d171c378;ES;2024-06-20;;EndOfLessons;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;EX
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+854d00b0-b62c-4658-bf04-c7cf715469fb;ES;2019-12-23;2020-01-07;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
+fdc27ca4-5586-4b4f-a725-3dfe732af92d;ES;2020-01-27;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+7028d263-5414-4034-af06-2983a7dda59b;ES;2020-02-24;2020-02-25;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
+c84b7ce5-db0e-438d-9492-a64d4613ea00;ES;2020-04-06;2020-04-13;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
+e93990f1-87e8-491d-8cb1-65c4aac088eb;ES;2020-06-18;2020-09-09;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;EX
+5b1c02b1-7658-4de5-9357-ebe42e18565e;ES;2020-10-09;;School;Regional;ES Día de la Comunitat Valenciana,CA Dia de la Comunitat Valenciana,EN Valencian Community Day,DE Tag der valencianischen Gemeinschaft;EX
+973880c0-7aa5-4ef6-97f8-7efdd99e0f26;ES;2020-11-02;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+e017e6da-9397-48e4-9059-869ed176c20e;ES;2020-11-23;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+5277f5b6-9772-44ef-8bc5-1d5ef813adee;ES;2020-11-27;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+fc88063f-b7c9-402b-bf3a-d9b0ad24e89f;ES;2020-12-07;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+c44e5520-f6f8-4527-9901-a4f812dd4aa1;ES;2020-12-23;2021-01-08;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
+21acfc90-3d79-49f0-9b3f-b96396dd9d7d;ES;2021-02-15;2021-02-16;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
+c0f86c6a-e06a-4090-bfa8-9f01bacfc761;ES;2021-03-29;2021-04-05;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
+c43b6aac-8684-44fd-9491-226d44455451;ES;2021-06-19;2021-09-09;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;EX
+5d40e165-5665-48c2-a50b-c5b815c3813a;ES;2021-10-11;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+9aae01a2-c806-47b3-b05c-390ca949c211;ES;2021-11-22;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+0b9847d6-73c8-4dbc-ac5d-923873a1699b;ES;2021-12-23;2022-01-07;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
+e5d9f7bf-f23f-4add-83a0-798ad8e17bb6;ES;2022-01-28;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+a0bf656e-62ed-4ac7-9197-dbe8beb338e0;ES;2022-02-28;2022-03-01;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
+ae1c5f59-c790-4739-a27d-7bff1295a03c;ES;2022-04-11;2022-04-18;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
+2954be16-4a96-4648-860e-ad4f093f64f8;ES;2022-06-22;2022-09-11;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;EX
+68350177-35e5-4500-a670-6aa660cf40e4;ES;2022-10-31;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+34a8e01d-9127-41a0-b998-69430ee3b7fe;ES;2022-11-22;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+1f4b695b-733b-4b0d-bc97-66744b83096a;ES;2022-11-25;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+4c105cdd-71e3-46d5-bd85-492945ac3472;ES;2022-12-09;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+58dbe4ed-261d-4206-bb0d-ca86b7ff64e5;ES;2022-12-23;2023-01-05;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
+a770af03-2ee5-46e8-93fa-26de32f72f9f;ES;2023-02-20;2023-02-21;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
+ee1e58dc-b5e2-420b-b11e-bbf94085df64;ES;2023-04-03;2023-04-10;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
+b8257ad5-f7ce-451a-b098-c04454adccdb;ES;2023-06-23;2023-09-10;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;EX
+27c7d3bf-4e1a-49e9-afbd-b2aa500255c1;ES;2023-10-09;;School;Regional;ES Día de la Comunitat Valenciana,CA Dia de la Comunitat Valenciana,EN Valencian Community Day,DE Tag der valencianischen Gemeinschaft;EX
+60022db1-f0fa-4a7e-b56c-b6a177c65efa;ES;2023-10-13;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+736a01e0-a3bf-4b8f-a19f-6f2835939265;ES;2023-11-22;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+68d0615f-f937-4317-ab51-f57d915427a8;ES;2023-12-07;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+9553a583-3a52-4683-abc7-d664cf2875ba;ES;2023-12-22;2024-01-05;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
+d610e5d2-f1c6-4478-ac93-64afad4e25be;ES;2024-01-26;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+0ed2541a-07f6-4a2a-9300-8569359df23c;ES;2024-02-12;2024-02-13;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
+0575c20d-9d29-4bae-bae0-e11ede3a315e;ES;2024-03-25;2024-04-01;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
+076eec7f-59dc-4be0-aae4-b859d171c378;ES;2024-06-21;2024-09-10;School;Regional;ES Vacaciones de verano,CA Vacances d´estiu,DE Sommerferien,EN Summer holidays;EX
+c7f560a1-af00-4817-bafb-20282b7dfbe4;ES;2024-11-22;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+5d259b9d-7ac1-4346-8e62-74307fc86e60;ES;2024-11-25;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+dcf7f892-e861-4fb4-86b4-8d0e51e1131b;ES;2024-12-23;2025-01-07;School;Regional;ES Vacaciones de Navidad,CA Vacances de Nadal,DE Weihnachtsferien,EN Christmas holidays;EX
+b89e60bd-969b-4b2d-82d7-7a99f7f81f9a;ES;2025-03-03;2025-03-04;School;Regional;ES Carnavales,CA Carnestoltes,DE Karneval,EN Carnivals;EX
+dd472998-edea-4721-8d4d-5346995b480e;ES;2025-04-14;2025-04-21;School;Regional;ES Vacaciones de Pascua,CA Vacances de Pasqua,DE Osterferien,EN Easter holidays;EX
+411f239e-2fb4-4dd5-ad7e-1abc6b2b1927;ES;2025-05-02;;School;Regional;ES Día no lectivo,CA Dia no lectiu,DE Schulfreier Tag,EN Non-teaching day;EX
+8349f232-274e-4101-a966-7ebe831ad0fd;ES;2025-06-23;;EndOfLessons;Regional;ES Fin de lecciones,CA Final de lliçons,DE Unterrichtsende,EN End of lessons;EX

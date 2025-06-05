@@ -1,0 +1,19 @@
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Comment
+f8782b60-e9fb-43a3-88d1-aca8d077e3c9;MX;2019-12-23;2020-01-07;School;National;ES Receso de invierno,EN Christmas holidays,DE Weihnachtsferien;
+d3b06895-1cd3-475a-9240-87fe817d15bb;MX;2020-04-06;2020-04-17;School;National;ES Receso de primavera,EN Easter holidays,DE Osterferien;
+379e4986-4077-482a-98d0-cf1bc78ba205;MX;2020-07-07;2020-08-23;School;National;ES Receso de clases,EN Summer holidays,DE Sommerferien;
+afc004f3-ec42-42aa-b38e-cce0fc819bf9;MX;2020-12-21;2021-01-05;School;National;ES Receso de invierno,EN Christmas holidays,DE Weihnachtsferien;
+5de234ee-2ca8-4669-b099-0a88204450fd;MX;2021-03-29;2021-04-09;School;National;ES Receso de primavera,EN Easter holidays,DE Osterferien;
+85ec4f09-cbfc-4259-bd66-e9d15dcca42a;MX;2021-07-10;2021-08-29;School;National;ES Receso de clases,EN Summer holidays,DE Sommerferien;
+be7582fa-214d-4ba7-b2e5-0788373cd45f;MX;2021-12-20;2021-12-31;School;National;ES Receso de invierno,EN Christmas holidays,DE Weihnachtsferien;
+10cc4f81-cff2-4967-b4d5-6cb96d23e945;MX;2022-04-11;2022-04-22;School;National;ES Receso de primavera,EN Easter holidays,DE Osterferien;
+fa52e056-ef8c-4d76-80ee-05d978391578;MX;2022-07-29;2022-08-28;School;National;ES Receso de clases,EN Summer holidays,DE Sommerferien;
+e772757b-3259-400d-af06-80423ba3c7a8;MX;2022-12-19;2022-12-30;School;National;ES Receso de invierno,EN Christmas holidays,DE Weihnachtsferien;
+f78efe78-e07c-42dd-9fa4-1710fb4cf6b5;MX;2023-04-03;2023-04-14;School;National;ES Receso de primavera,EN Easter holidays,DE Osterferien;
+803d9355-ad45-4c93-9353-2960f3bfb1fc;MX;2023-07-27;2023-08-27;School;National;ES Receso de clases,EN Summer holidays,DE Sommerferien;
+0d244a7f-f7b4-47bc-8326-995f9c363723;MX;2023-12-18;2024-01-02;School;National;ES Receso de invierno,EN Christmas holidays,DE Weihnachtsferien;
+64aced83-5a0c-4e89-8d49-85b04e1b685a;MX;2024-03-25;2024-04-05;School;National;ES Receso de primavera,EN Easter holidays,DE Osterferien;
+9aeea617-e74c-481e-b20d-262670d5b268;MX;2024-07-17;2024-08-25;School;National;ES Receso de clases,EN Summer holidays,DE Sommerferien;
+6b7be09f-34c6-4580-8c00-2b95a98200af;MX;2024-12-19;2025-01-03;School;National;ES Receso de invierno,EN Christmas holidays,DE Weihnachtsferien;
+e6c14bfe-28ee-41d2-8016-ec6c77166005;MX;2025-04-14;2025-04-25;School;National;ES Receso de primavera,EN Easter holidays,DE Osterferien;
+606377a1-8f53-44fe-b965-21ee53797ad3;MX;2025-07-16;;EndOfLessons;National;ES Fin de lecciones,EN End of lessons,DE Unterrichtsende;

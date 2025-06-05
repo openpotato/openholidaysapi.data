@@ -1,41 +1,49 @@
-﻿Id;Country;StartDate;EndDate;Type;Name;Subdivisions;Comment
-bc31252d-6977-4f04-a414-561ec274c5c1;CH;2020-04-04;2020-04-19;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
-2a512531-0349-49c4-a599-25d56adac85b;CH;2020-04-10;2020-04-26;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-1bdb6edd-1753-4a8e-8904-74c7b85dd6c6;CH;2020-07-04;2020-08-09;School;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-4a71f285-4f1d-4b0b-9c1b-b20b975432c8;CH;2020-07-04;2020-08-16;School;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-e4f75ada-4286-4577-a6a5-b181666c45d8;CH;2020-09-19;2020-10-11;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-b30230ac-7828-482d-b208-58829cb53188;CH;2020-10-03;2020-10-18;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-e8eb1c30-59f7-460d-a308-a0281a62643a;CH;2020-12-24;2021-01-10;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-db37c336-9b7e-4ba4-bffe-87a383b5fa2c;CH;2020-12-25;2021-01-10;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-269aa2a0-0235-4deb-95ca-4a93491839cb;CH;2021-04-02;2021-04-18;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-a831857e-dfeb-402e-b4b2-6539915e31ef;CH;2021-04-10;2021-04-25;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
-ee9bf254-57f3-4a7b-9a2e-6f03e2fd5e93;CH;2021-07-03;2021-08-15;School;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-d9c251c7-d73e-4004-9be2-dd63168f3fb8;CH;2021-07-03;2021-08-15;School;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-2cad2237-ca6f-4ccd-899b-7a352986fb5a;CH;2021-09-25;2021-10-17;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-a44b07be-67b3-4614-a1ac-8a03364bc5a9;CH;2021-10-09;2021-10-24;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-e4014ac8-6ae4-48c5-8d6e-d709eae17ab4;CH;2021-12-24;2022-01-09;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-ee2082d1-7f48-4a8a-adc3-20413f4a1709;CH;2021-12-25;2022-01-09;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-61193acf-8af5-4086-bcb1-deb1c43daeb1;CH;2022-04-09;2022-04-24;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergarten, Volksschulen
-2cc67123-da86-4bea-ae62-9a097e578859;CH;2022-04-09;2022-04-24;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-9b81bb60-6fba-466c-8cca-c6bcef22de0b;CH;2022-07-09;2022-08-14;School;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-0d08e7cd-f106-4153-83cf-672f3fc0eaf0;CH;2022-07-09;2022-08-21;School;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-57b4e1ed-9e94-4547-bd97-276171957ad5;CH;2022-09-24;2022-10-16;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-2ccdc0bc-6c43-474f-aa41-aeb78b830d66;CH;2022-10-08;2022-10-23;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-c4c753c0-92a0-4770-b1e8-4af11b6ae94c;CH;2022-12-24;2023-01-08;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-a6b7ac2c-fcfc-49ca-af91-225be544e245;CH;2022-12-24;2023-01-08;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-35f73a0a-74fb-4e08-bc89-8184330b7c51;CH;2023-04-07;2023-04-23;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
-6a0ff219-fe0b-4884-9518-8b5bf44666f8;CH;2023-04-07;2023-04-23;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-3131f9ae-0a51-4ac1-8264-33ab7119529c;CH;2023-07-08;2023-08-13;School;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-a3b68305-ec9b-4340-a611-d7e9d6d9b3af;CH;2023-07-08;2023-08-20;School;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-30ea1883-0c66-4a96-a04e-a724d05413f5;CH;2023-09-23;2023-10-15;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-7d545735-302f-4372-b9dc-84eeffc34497;CH;2023-10-07;2023-10-22;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-900ed459-26f8-4c22-81b0-8ccfb6039758;CH;2023-12-23;2024-01-07;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-a33be54a-a946-4bfe-bec6-c2df25865527;CH;2023-12-23;2024-01-07;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-9d4f2a33-43fd-4438-a183-75eeebba3448;CH;2024-03-29;2024-04-14;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-324bf367-998b-46c2-baf4-d19073ff78f0;CH;2024-04-06;2024-04-21;School;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergarten, Volksschulen
-d6da36bc-5e57-46e1-947b-d370e736ed91;CH;2024-07-06;2024-08-11;School;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-914eec4b-e86b-416d-bb00-d73903081353;CH;2024-07-06;2024-08-18;School;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-a1dd5775-13bd-453e-94f7-052afeb0777a;CH;2024-09-21;2024-10-13;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-c77c6f06-52f2-498c-8104-147689b0d623;CH;2024-10-05;2024-10-20;School;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-04174e70-4777-4c4f-ab84-486e5945179f;CH;2024-12-21;2025-01-05;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-8ea59868-6e80-4160-b0a4-b35fa383af29;CH;2024-12-21;2025-01-05;School;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
+bc31252d-6977-4f04-a414-561ec274c5c1;CH;2020-04-04;2020-04-19;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
+2a512531-0349-49c4-a599-25d56adac85b;CH;2020-04-10;2020-04-26;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+1bdb6edd-1753-4a8e-8904-74c7b85dd6c6;CH;2020-07-04;2020-08-09;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
+4a71f285-4f1d-4b0b-9c1b-b20b975432c8;CH;2020-07-04;2020-08-16;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+e4f75ada-4286-4577-a6a5-b181666c45d8;CH;2020-09-19;2020-10-11;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
+b30230ac-7828-482d-b208-58829cb53188;CH;2020-10-03;2020-10-18;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+e8eb1c30-59f7-460d-a308-a0281a62643a;CH;2020-12-24;2021-01-10;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
+db37c336-9b7e-4ba4-bffe-87a383b5fa2c;CH;2020-12-25;2021-01-10;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+269aa2a0-0235-4deb-95ca-4a93491839cb;CH;2021-04-02;2021-04-18;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+a831857e-dfeb-402e-b4b2-6539915e31ef;CH;2021-04-10;2021-04-25;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
+ee9bf254-57f3-4a7b-9a2e-6f03e2fd5e93;CH;2021-07-03;2021-08-15;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
+d9c251c7-d73e-4004-9be2-dd63168f3fb8;CH;2021-07-03;2021-08-15;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+2cad2237-ca6f-4ccd-899b-7a352986fb5a;CH;2021-09-25;2021-10-17;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
+a44b07be-67b3-4614-a1ac-8a03364bc5a9;CH;2021-10-09;2021-10-24;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+e4014ac8-6ae4-48c5-8d6e-d709eae17ab4;CH;2021-12-24;2022-01-09;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
+ee2082d1-7f48-4a8a-adc3-20413f4a1709;CH;2021-12-25;2022-01-09;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+61193acf-8af5-4086-bcb1-deb1c43daeb1;CH;2022-04-09;2022-04-24;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergarten, Volksschulen
+2cc67123-da86-4bea-ae62-9a097e578859;CH;2022-04-09;2022-04-24;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+9b81bb60-6fba-466c-8cca-c6bcef22de0b;CH;2022-07-09;2022-08-14;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
+0d08e7cd-f106-4153-83cf-672f3fc0eaf0;CH;2022-07-09;2022-08-21;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+57b4e1ed-9e94-4547-bd97-276171957ad5;CH;2022-09-24;2022-10-16;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
+2ccdc0bc-6c43-474f-aa41-aeb78b830d66;CH;2022-10-08;2022-10-23;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+c4c753c0-92a0-4770-b1e8-4af11b6ae94c;CH;2022-12-24;2023-01-08;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
+a6b7ac2c-fcfc-49ca-af91-225be544e245;CH;2022-12-24;2023-01-08;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+35f73a0a-74fb-4e08-bc89-8184330b7c51;CH;2023-04-07;2023-04-23;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
+6a0ff219-fe0b-4884-9518-8b5bf44666f8;CH;2023-04-07;2023-04-23;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+3131f9ae-0a51-4ac1-8264-33ab7119529c;CH;2023-07-08;2023-08-13;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
+a3b68305-ec9b-4340-a611-d7e9d6d9b3af;CH;2023-07-08;2023-08-20;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+30ea1883-0c66-4a96-a04e-a724d05413f5;CH;2023-09-23;2023-10-15;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
+7d545735-302f-4372-b9dc-84eeffc34497;CH;2023-10-07;2023-10-22;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+900ed459-26f8-4c22-81b0-8ccfb6039758;CH;2023-12-23;2024-01-07;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
+a33be54a-a946-4bfe-bec6-c2df25865527;CH;2023-12-23;2024-01-07;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+9d4f2a33-43fd-4438-a183-75eeebba3448;CH;2024-03-29;2024-04-14;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+324bf367-998b-46c2-baf4-d19073ff78f0;CH;2024-04-06;2024-04-21;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergarten, Volksschulen
+d6da36bc-5e57-46e1-947b-d370e736ed91;CH;2024-07-06;2024-08-11;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
+914eec4b-e86b-416d-bb00-d73903081353;CH;2024-07-06;2024-08-18;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+a1dd5775-13bd-453e-94f7-052afeb0777a;CH;2024-09-21;2024-10-13;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
+c77c6f06-52f2-498c-8104-147689b0d623;CH;2024-10-05;2024-10-20;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+04174e70-4777-4c4f-ab84-486e5945179f;CH;2024-12-21;2025-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
+8ea59868-6e80-4160-b0a4-b35fa383af29;CH;2024-12-21;2025-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+4df137dc-aa85-49d5-a65b-f8b3c5fe22fe;CH;2025-04-05;2025-04-20;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
+b7b2962c-b00a-440d-88a2-14b6836b007b;CH;2025-04-12;2025-04-27;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+7fe1257e-8eda-4049-aa10-f02ac7335d51;CH;2025-07-05;2025-08-10;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
+8d2b7016-b38a-4280-8f98-e2d034b49958;CH;2025-07-05;2025-08-17;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+457e9ff5-7cd9-406c-952a-a931fcf43a0e;CH;2025-09-20;2025-10-12;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
+f908ea4b-e1e8-4bfd-9e9e-9bab0d6c0b57;CH;2025-10-04;2025-10-19;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+79ab6250-bbb2-4c4b-9d65-84f43f189162;CH;2025-12-20;2026-01-04;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
+8b71bf21-6970-4ac8-9a38-44d510dddf4d;CH;2025-12-20;2026-01-04;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires

@@ -1,51 +1,51 @@
-﻿Id;Country;StartDate;EndDate;Type;Name;Comment
-73ad96ef-1b41-4ea0-8ce3-03e213855ee8;BG;2019-12-21;2020-01-05;School;BG Коледна ваканция,DE Weihnachtsferien,EN Christmas holidays;
-d406756e-8939-4d3c-8987-8c2be6243077;BG;2020-02-05;2020-02-05;School;BG Междусрочна ваканция,DE Winterferien,EN Winter holidays;
-38b3d722-8a95-4bdf-b586-b4d23556de6e;BG;2020-04-11;2020-04-20;School;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG I-XI клас,DE Klassen 1-11,EN Grade 1-11
-175bc4a0-7b4f-44bf-9669-1ca31b296f8f;BG;2020-04-16;2020-04-20;School;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG XII клас,DE Klasse 12,EN Grade 12
-b66c3149-b619-47f9-91cc-a7cba5a75d09;BG;2020-05-15;2020-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG XII клас,DE Klasse 12,EN Grade 12
-0f6162e1-e86a-4f6d-b71f-36be2f5956f2;BG;2020-05-30;2020-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG I-III клас,DE Klassen 1-3,EN Grade 1-3
-c61aedf8-bf8f-4164-a20d-ea930b8acfee;BG;2020-06-17;2020-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG IV-VI клас,DE Klassen 4-6,EN Grade 4-6
-4aac8bb2-8df8-46b4-9a02-9ec6576fb889;BG;2020-07-01;2020-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG V-VI клас (спортни училища),DE Klassen 5-6 (Sportschulen),EN Grade 5-6 (sports schools)
-4ad81eb3-38b7-41dd-a770-6a8c9e9dc298;BG;2020-07-01;2020-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG VII-XI клас,DE Klassen 7-11,EN Grade 7-11
-03af81c7-2682-4840-9045-9e86aacbadff;BG;2020-10-30;2020-11-01;School;BG Есенна ваканция,DE Herbstferien,EN Autumn holidays;
-af103dca-b66d-4753-88ce-b7a66ff05b51;BG;2020-12-22;2021-01-03;School;BG Коледна ваканция,DE Weihnachtsferien,EN Christmas holidays;
-a118ddf7-ae18-4f0d-b31b-27686bd6a831;BG;2021-01-30;2021-02-03;School;BG Междусрочна ваканция,DE Winterferien,EN Winter holidays;
-0857acfc-0270-421b-83df-f0306a1811ea;BG;2021-04-03;2021-04-11;School;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG I-XI клас,DE Klassen 1-11,EN Grade 1-11
-f95fbf42-5407-446c-a55d-4de1b18bd03b;BG;2021-04-08;2021-04-11;School;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG XII клас,DE Klasse 12,EN Grade 12
-cb2c43b0-1e78-47f9-8500-ea7ae7a4b1e9;BG;2021-06-24;2021-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG I-III клас,DE Klassen 1-3,EN Grade 1-3
-6a46f6d0-b7a5-4f4d-8f82-d9c0fc86cbd3;BG;2021-07-01;2021-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG IV-VI клас,DE Klassen 4-6,EN Grade 4-6
-87617547-a1ee-4aa9-a4e6-735742fca655;BG;2021-07-01;2021-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG V-VI клас (спортни училища),DE Klassen 5-6 (Sportschulen),EN Grade 5-6 (sports schools)
-413938be-470a-47aa-a04b-cfb84e5a5d18;BG;2021-07-01;2021-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG VII-XI клас,DE Klassen 7-11,EN Grade 7-11
-b11e4c88-9b36-40af-8717-deff56279e2f;BG;2021-07-01;2021-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG XII клас,DE Klasse 12,EN Grade 12
-20575f02-9b5d-4e56-9f94-f60ceed65890;BG;2021-10-30;2021-11-01;School;BG Есенна ваканция,DE Herbstferien,EN Autumn holidays;
-8ee6d08c-46f8-4cce-9871-a57e1c8c25ed;BG;2021-12-24;2022-01-03;School;BG Коледна ваканция,DE Weihnachtsferien,EN Christmas holidays;
-85aa1c65-2d10-4280-b1be-55996e5e9e8c;BG;2022-01-31;;School;BG Свободен от училище,DE Schulfrei,EN No school;COVID-19
-2ad2ec72-73e3-4000-8db2-cfee708ead47;BG;2022-02-01;2022-02-01;School;BG Междусрочна ваканция,DE Winterferien,EN Winter holidays;
-a49089be-5e5d-4d48-8301-94e64e413f5a;BG;2022-02-02;2022-02-04;School;BG Свободен от училище,DE Schulfrei,EN No school;COVID-19
-3d46ff82-a119-4742-91b9-0cef42ab6273;BG;2022-04-01;2022-04-10;School;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG I-XI клас,DE Klassen 1-11,EN Grade 1-11
-46248d5e-2f40-4ec2-aa24-96b09143ab29;BG;2022-04-07;2022-04-10;School;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG XII клас,DE Klasse 12,EN Grade 12
-37c714f2-a7df-4f75-9cd1-cb2edd9ef12f;BG;2022-06-01;2022-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG I-III клас,DE Klassen 1-3,EN Grade 1-3
-180d46e6-01dc-4f3e-b089-874d120c33d6;BG;2022-06-16;2022-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG IV-VI клас,DE Klassen 4-6,EN Grade 4-6
-3e4ece9b-1030-4d5e-993b-d877da19f87f;BG;2022-07-01;2022-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG V-VI клас (спортни училища),DE Klassen 5-6 (Sportschulen),EN Grade 5-6 (sports schools)
-289cad97-1572-4ad6-8a18-06bf7c6d3ae8;BG;2022-07-01;2022-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG VII-XI клас,DE Klassen 7-11,EN Grade 7-11
-45b0ab80-6bdd-49b3-a0b2-b3b20ff5023c;BG;2022-10-29;2022-11-01;School;BG Есенна ваканция,DE Herbstferien,EN Autumn holidays;
-8f19a9b3-bbdd-4fc7-af3a-9bda6c279d74;BG;2022-12-24;2023-01-02;School;BG Коледна ваканция,DE Weihnachtsferien,EN Christmas holidays;
-ff7ae552-1c72-470e-9ee0-10364ef291e7;BG;2023-02-01;2023-02-05;School;BG Междусрочна ваканция,DE Winterferien,EN Winter holidays;
-5a85a5e3-e8b2-4f13-8d30-c7a9a5d2b309;BG;2023-04-08;2023-04-17;School;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG I-XI клас,DE Klassen 1-11,EN Grade 1-11
-ff1626eb-c132-4212-ad5b-2d7343b6487e;BG;2023-04-12;2023-04-17;School;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG XII клас,DE Klasse 12,EN Grade 12
-f4590271-2d8d-4ff4-9c5e-29936acee76f;BG;2023-05-17;2023-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG XII клас,DE Klasse 12,EN Grade 12
-000c613c-1b42-4cf5-a6d9-caf4c92e0f06;BG;2023-06-01;2023-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG I-III клас,DE Klassen 1-3,EN Grade 1-3
-47df122e-f992-4ac5-9378-0fdfeb5eaa84;BG;2023-06-16;2023-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG IV-VI клас,DE Klassen 4-6,EN Grade 4-6
-2b35855b-194a-40ba-bb83-1ec97fe3f230;BG;2023-07-01;2023-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG V-VI клас (спортни училища),DE Klassen 5-6 (Sportschulen),EN Grade 5-6 (sports schools)
-cfc30a99-7e30-4ed9-ad96-0dc03b7b8a5f;BG;2023-07-01;2023-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG VII-XI клас,DE Klassen 7-11,EN Grade 7-11
-322fcdc3-c1da-4c2f-8496-64dc1242d9da;BG;2023-11-01;2023-11-05;School;BG Есенна ваканция,DE Herbstferien,EN Autumn holidays;
-fccb50d8-f571-496b-8dd8-952cf51735ce;BG;2023-12-23;2024-01-02;School;BG Коледна ваканция,DE Weihnachtsferien,EN Christmas holidays;
-a7c3c516-84dc-43b9-b9b1-d0cda89771b7;BG;2024-02-03;2024-02-05;School;BG Междусрочна ваканция,DE Winterferien,EN Winter holidays;
-c876a2dd-c606-4274-b018-545cc7760bec;BG;2024-03-30;2024-04-07;School;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG I-XI клас,DE Klassen 1-11,EN Grade 1-11
-13ec4e10-c082-4f25-8c4b-bc09cacb26f0;BG;2024-04-05;2024-04-07;School;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG XII клас,DE Klasse 12,EN Grade 12
-cc58b75c-bf68-4e65-8b70-43cdad03f60e;BG;2024-05-14;2024-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG XII клас,DE Klasse 12,EN Grade 12
-6bd18bd5-8879-476d-8ccd-1f1c4ee11bed;BG;2024-05-30;2024-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG I-III клас,DE Klassen 1-3,EN Grade 1-3
-25728b16-884b-40ec-bb3f-8e80f47fa2ef;BG;2024-06-15;2024-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG IV-VI клас,DE Klassen 4-6,EN Grade 4-6
-888992db-56ba-4736-a330-f5533df3bf37;BG;2024-06-29;2024-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG V-VI клас (спортни училища),DE Klassen 5-6 (Sportschulen),EN Grade 5-6 (sports schools)
-0e541e01-f3a9-454c-8e3a-47f97b685afe;BG;2024-06-29;2024-09-14;School;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG VII-XI клас,DE Klassen 7-11,EN Grade 7-11
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Comment
+73ad96ef-1b41-4ea0-8ce3-03e213855ee8;BG;2019-12-21;2020-01-05;School;National;BG Коледна ваканция,DE Weihnachtsferien,EN Christmas holidays;
+d406756e-8939-4d3c-8987-8c2be6243077;BG;2020-02-05;2020-02-05;School;National;BG Междусрочна ваканция,DE Winterferien,EN Winter holidays;
+38b3d722-8a95-4bdf-b586-b4d23556de6e;BG;2020-04-11;2020-04-20;School;National;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG I-XI клас,DE Klassen 1-11,EN Grade 1-11
+175bc4a0-7b4f-44bf-9669-1ca31b296f8f;BG;2020-04-16;2020-04-20;School;National;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG XII клас,DE Klasse 12,EN Grade 12
+b66c3149-b619-47f9-91cc-a7cba5a75d09;BG;2020-05-15;2020-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG XII клас,DE Klasse 12,EN Grade 12
+0f6162e1-e86a-4f6d-b71f-36be2f5956f2;BG;2020-05-30;2020-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG I-III клас,DE Klassen 1-3,EN Grade 1-3
+c61aedf8-bf8f-4164-a20d-ea930b8acfee;BG;2020-06-17;2020-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG IV-VI клас,DE Klassen 4-6,EN Grade 4-6
+4aac8bb2-8df8-46b4-9a02-9ec6576fb889;BG;2020-07-01;2020-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG V-VI клас (спортни училища),DE Klassen 5-6 (Sportschulen),EN Grade 5-6 (sports schools)
+4ad81eb3-38b7-41dd-a770-6a8c9e9dc298;BG;2020-07-01;2020-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG VII-XI клас,DE Klassen 7-11,EN Grade 7-11
+03af81c7-2682-4840-9045-9e86aacbadff;BG;2020-10-30;2020-11-01;School;National;BG Есенна ваканция,DE Herbstferien,EN Autumn holidays;
+af103dca-b66d-4753-88ce-b7a66ff05b51;BG;2020-12-22;2021-01-03;School;National;BG Коледна ваканция,DE Weihnachtsferien,EN Christmas holidays;
+a118ddf7-ae18-4f0d-b31b-27686bd6a831;BG;2021-01-30;2021-02-03;School;National;BG Междусрочна ваканция,DE Winterferien,EN Winter holidays;
+0857acfc-0270-421b-83df-f0306a1811ea;BG;2021-04-03;2021-04-11;School;National;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG I-XI клас,DE Klassen 1-11,EN Grade 1-11
+f95fbf42-5407-446c-a55d-4de1b18bd03b;BG;2021-04-08;2021-04-11;School;National;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG XII клас,DE Klasse 12,EN Grade 12
+cb2c43b0-1e78-47f9-8500-ea7ae7a4b1e9;BG;2021-06-24;2021-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG I-III клас,DE Klassen 1-3,EN Grade 1-3
+6a46f6d0-b7a5-4f4d-8f82-d9c0fc86cbd3;BG;2021-07-01;2021-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG IV-VI клас,DE Klassen 4-6,EN Grade 4-6
+87617547-a1ee-4aa9-a4e6-735742fca655;BG;2021-07-01;2021-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG V-VI клас (спортни училища),DE Klassen 5-6 (Sportschulen),EN Grade 5-6 (sports schools)
+413938be-470a-47aa-a04b-cfb84e5a5d18;BG;2021-07-01;2021-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG VII-XI клас,DE Klassen 7-11,EN Grade 7-11
+b11e4c88-9b36-40af-8717-deff56279e2f;BG;2021-07-01;2021-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG XII клас,DE Klasse 12,EN Grade 12
+20575f02-9b5d-4e56-9f94-f60ceed65890;BG;2021-10-30;2021-11-01;School;National;BG Есенна ваканция,DE Herbstferien,EN Autumn holidays;
+8ee6d08c-46f8-4cce-9871-a57e1c8c25ed;BG;2021-12-24;2022-01-03;School;National;BG Коледна ваканция,DE Weihnachtsferien,EN Christmas holidays;
+85aa1c65-2d10-4280-b1be-55996e5e9e8c;BG;2022-01-31;;School;National;BG Свободен от училище,DE Schulfrei,EN No school;COVID-19
+2ad2ec72-73e3-4000-8db2-cfee708ead47;BG;2022-02-01;2022-02-01;School;National;BG Междусрочна ваканция,DE Winterferien,EN Winter holidays;
+a49089be-5e5d-4d48-8301-94e64e413f5a;BG;2022-02-02;2022-02-04;School;National;BG Свободен от училище,DE Schulfrei,EN No school;COVID-19
+3d46ff82-a119-4742-91b9-0cef42ab6273;BG;2022-04-01;2022-04-10;School;National;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG I-XI клас,DE Klassen 1-11,EN Grade 1-11
+46248d5e-2f40-4ec2-aa24-96b09143ab29;BG;2022-04-07;2022-04-10;School;National;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG XII клас,DE Klasse 12,EN Grade 12
+37c714f2-a7df-4f75-9cd1-cb2edd9ef12f;BG;2022-06-01;2022-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG I-III клас,DE Klassen 1-3,EN Grade 1-3
+180d46e6-01dc-4f3e-b089-874d120c33d6;BG;2022-06-16;2022-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG IV-VI клас,DE Klassen 4-6,EN Grade 4-6
+3e4ece9b-1030-4d5e-993b-d877da19f87f;BG;2022-07-01;2022-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG V-VI клас (спортни училища),DE Klassen 5-6 (Sportschulen),EN Grade 5-6 (sports schools)
+289cad97-1572-4ad6-8a18-06bf7c6d3ae8;BG;2022-07-01;2022-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG VII-XI клас,DE Klassen 7-11,EN Grade 7-11
+45b0ab80-6bdd-49b3-a0b2-b3b20ff5023c;BG;2022-10-29;2022-11-01;School;National;BG Есенна ваканция,DE Herbstferien,EN Autumn holidays;
+8f19a9b3-bbdd-4fc7-af3a-9bda6c279d74;BG;2022-12-24;2023-01-02;School;National;BG Коледна ваканция,DE Weihnachtsferien,EN Christmas holidays;
+ff7ae552-1c72-470e-9ee0-10364ef291e7;BG;2023-02-01;2023-02-05;School;National;BG Междусрочна ваканция,DE Winterferien,EN Winter holidays;
+5a85a5e3-e8b2-4f13-8d30-c7a9a5d2b309;BG;2023-04-08;2023-04-17;School;National;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG I-XI клас,DE Klassen 1-11,EN Grade 1-11
+ff1626eb-c132-4212-ad5b-2d7343b6487e;BG;2023-04-12;2023-04-17;School;National;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG XII клас,DE Klasse 12,EN Grade 12
+f4590271-2d8d-4ff4-9c5e-29936acee76f;BG;2023-05-17;2023-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG XII клас,DE Klasse 12,EN Grade 12
+000c613c-1b42-4cf5-a6d9-caf4c92e0f06;BG;2023-06-01;2023-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG I-III клас,DE Klassen 1-3,EN Grade 1-3
+47df122e-f992-4ac5-9378-0fdfeb5eaa84;BG;2023-06-16;2023-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG IV-VI клас,DE Klassen 4-6,EN Grade 4-6
+2b35855b-194a-40ba-bb83-1ec97fe3f230;BG;2023-07-01;2023-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG V-VI клас (спортни училища),DE Klassen 5-6 (Sportschulen),EN Grade 5-6 (sports schools)
+cfc30a99-7e30-4ed9-ad96-0dc03b7b8a5f;BG;2023-07-01;2023-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG VII-XI клас,DE Klassen 7-11,EN Grade 7-11
+322fcdc3-c1da-4c2f-8496-64dc1242d9da;BG;2023-11-01;2023-11-05;School;National;BG Есенна ваканция,DE Herbstferien,EN Autumn holidays;
+fccb50d8-f571-496b-8dd8-952cf51735ce;BG;2023-12-23;2024-01-02;School;National;BG Коледна ваканция,DE Weihnachtsferien,EN Christmas holidays;
+a7c3c516-84dc-43b9-b9b1-d0cda89771b7;BG;2024-02-03;2024-02-05;School;National;BG Междусрочна ваканция,DE Winterferien,EN Winter holidays;
+c876a2dd-c606-4274-b018-545cc7760bec;BG;2024-03-30;2024-04-07;School;National;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG I-XI клас,DE Klassen 1-11,EN Grade 1-11
+13ec4e10-c082-4f25-8c4b-bc09cacb26f0;BG;2024-04-05;2024-04-07;School;National;BG Пролетна ваканция,DE Frühlingsferien,EN Spring holidays;BG XII клас,DE Klasse 12,EN Grade 12
+cc58b75c-bf68-4e65-8b70-43cdad03f60e;BG;2024-05-14;2024-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG XII клас,DE Klasse 12,EN Grade 12
+6bd18bd5-8879-476d-8ccd-1f1c4ee11bed;BG;2024-05-30;2024-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG I-III клас,DE Klassen 1-3,EN Grade 1-3
+25728b16-884b-40ec-bb3f-8e80f47fa2ef;BG;2024-06-15;2024-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG IV-VI клас,DE Klassen 4-6,EN Grade 4-6
+888992db-56ba-4736-a330-f5533df3bf37;BG;2024-06-29;2024-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG V-VI клас (спортни училища),DE Klassen 5-6 (Sportschulen),EN Grade 5-6 (sports schools)
+0e541e01-f3a9-454c-8e3a-47f97b685afe;BG;2024-06-29;2024-09-14;School;National;BG Лятна ваканция,DE Sommerferien,EN Summer holidays;BG VII-XI клас,DE Klassen 7-11,EN Grade 7-11

@@ -5,11 +5,12 @@ AT;EN Austria,DE Österreich;DE
 BE;EN Belgium,NL België,FR Belgique (la),DE Belgien;NL,FR,DE
 BG;EN Bulgaria,BG България,DE Bulgarien;BG
 BY;EN Belarus,BE Беларусь,RU Беларусь,DE Belarus;BE,RU
+BR;EN Brazil,PT Brasil,DE Brasilien;PT
 CH;EN Switzerland,DE Schweiz,FR Suisse (la),IT Svizzera (la),RM Svizra (la);DE,FR,IT,RM
 CZ;EN Czechia,CS Česko,DE Tschechien;CS
 DE;EN Germany,DE Deutschland;DE
 EE;EN Estonia,ET Eesti,DE Estland;ET
-ES;EN Spain,ES España,CA Espanya,EU Espainia,GA España,DE Spanien;ES,CA,EU,GL
+ES;EN Spain,ES España,CA Espanya,EU Espainia,GL España,DE Spanien;ES,CA,EU,GL
 FR;EN France,FR France (la),DE Frankreich;FR
 HR;EN Croatia,HR Hrvatska,DE Kroatien;HR
 HU;EN Hungary,HU Magyarország,DE Ungarn;HU
@@ -22,11 +23,13 @@ LV;EN Latvia,LV Latvija,DE Lettland;LV
 MC;EN Monaco,FR Monaco,DE Monaco;FR
 MD;EN Moldova,RO Moldova,DE Moldau;RO
 MT;EN Malta,MT Malta,DE Malta;MT,EN
+MX;EN Mexico,ES México,DE Mexiko;ES
 NL;EN Netherlands (the),NL Nederland,DE Niederlande;NL
 PL;EN Poland,PL Polska,DE Polen;PL
 PT;EN Portugal,PT Portugal,DE Portugal;PT
 RO;EN Romania,RO România,DE Rumänien;RO
 RS;EN Serbia,SR Србија,DE Serbien;SR
+SE;EN Sweden,SV Sverige,DE Schweden;SV
 SI;EN Slovenia,SL Slovenija,DE Slowenien;SL
 SK;EN Slovakia,SK Slovensko,DE Slowakei;SK
 SM;EN San Marino,IT San Marino,DE San Marino;IT
