@@ -33,6 +33,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Serbia (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
++ South Africa (public holidays and school holidays from 2020, Initial data from [@pwandrag](https://github.com/pwandrag))
 + Spain (public holidays and school holidays from 2020, Initial data from [@TBiele](https://github.com/TBiele))
 + Sweden (public holidays from 2020, Initial data from [@attil75a](https://github.com/attil75a))
 + Switzerland (public holidays and school holidays from 2020)
@@ -42,6 +43,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 
 You can find a detailed list of data sources at https://www.openholidaysapi.org/en/:
 
++ [Data sources for Africa](https://www.openholidaysapi.org/en/sources-africa/)
 + [Data sources for Americas](https://www.openholidaysapi.org/en/sources-americas/)
 + [Data sources for Europe](https://www.openholidaysapi.org/en/sources-europe/)
 
