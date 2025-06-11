@@ -1,17 +1,145 @@
 ﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
-b1c27ce8-2e8c-48d5-84b2-04b0bbc6678e;ZA;2025-01-01;;Public;National;EN New Year’s Day
-ed937614-43dd-4a49-99cb-743aa55c5296;ZA;2025-03-21;;Public;National;EN Human Rights Day
-3d44ed21-00b1-4acd-b514-01e4a4d8f449;ZA;2025-04-18;;Public;National;EN Good Friday
-581273c6-12e8-4d08-ba63-5a1c2f8069b9;ZA;2025-04-21;;Public;National;EN Family Day
-95affbd2-5f5a-4087-9861-9b7e8c6708ee;ZA;2025-04-27;;Public;National;EN Freedom Day
-93b63afa-f874-49d2-81b5-527a8c6fb0c3;ZA;2025-04-28;;Public;National;EN Freedom Day' observed
-8cd3b542-65d0-4814-9201-e3ee9de441b6;ZA;2025-04-29;;Public;National;EN Special School Holiday
-78cac1f4-9dd6-4ee5-af69-ce389b14ec52;ZA;2025-04-30;;Public;National;EN Special School Holiday
-bb94478d-cdad-48a3-a0ff-d0f27eb622db;ZA;2025-06-01;;Public;National;EN Workers Day
-a1e900f7-12e7-4dbd-b766-7b5170497b9a;ZA;2025-06-02;;Public;National;EN Special School Holiday
-16a78fc8-eed4-44a3-8548-1f853a6df6eb;ZA;2025-06-16;;Public;National;EN Youth Day
-ecd9541b-ee66-42c6-9d2b-be9122959404;ZA;2025-08-09;;Public;National;EN National Women's Day
-75b2e34e-ce05-48ae-a7d2-c8afb52cc470;ZA;2025-09-24;;Public;National;EN Heritage Day
-8e41d93d-4514-45e3-ad99-508cd0cab2e0;ZA;2025-12-16;;Public;National;EN Day of Reconciliation
-a3fa910c-014b-4de0-895d-f499b1c471a6;ZA;2025-12-25;;Public;National;EN Christmas Day
-308a343f-acc1-4d08-bb0d-172fd480fabf;ZA;2025-12-26;;Public;National;EN Day of Goodwill
+4550ec8a-6587-47e9-a55d-9d9eeb2c5dd6;ZA;2020-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+306930ff-d008-4d5a-abcb-faa405ae6e62;ZA;2020-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+42b2355c-4c82-4ecd-ad16-132b7b4aef58;ZA;2020-04-10;;Public;National;EN Good Friday,DE Karfreitag
+3b0928b0-af69-4f5c-8aaa-0ea75493babb;ZA;2020-04-13;;Public;National;EN Family Day,DE Tag der Familie
+32fbf3b8-4961-4df5-b39f-391d84e50d24;ZA;2020-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+7ea520a0-ef32-494a-b2ca-2380f1b5f3e9;ZA;2020-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+9b1a6c98-7551-4d31-870a-fb0482074a69;ZA;2020-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+efd843e4-00c2-4798-9727-f3b84c521eee;ZA;2020-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+b4d45be8-6035-42ea-935a-13252c820aab;ZA;2020-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+efd8f801-d48b-46db-8f69-be2df31b4886;ZA;2020-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+33e41d38-ab19-4631-b94b-09bb8a327887;ZA;2020-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+e45dd9a1-00e3-40d7-ba10-6ef35154164e;ZA;2020-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
+19b225d9-9eb4-421a-9186-2f545581b37e;ZA;2021-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+0dc05d50-76f1-45e2-8285-e255f6537cc3;ZA;2021-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+2c98e2c5-0e43-43d9-9f31-5a902d39749a;ZA;2021-03-22;;Public;National;EN Human Rights Day observed,DE Montag nach Tag der Menschenrechte
+79224b9f-6821-497d-be77-8b185926d5ad;ZA;2021-04-02;;Public;National;EN Good Friday,DE Karfreitag
+afbd1bc1-ed1a-4f23-b8a1-1a5004f14fe2;ZA;2021-04-05;;Public;National;EN Family Day,DE Tag der Familie
+89ac883e-d653-40ed-b1e7-b5e5f700ea55;ZA;2021-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+f2fa9794-064c-489f-90f2-be00a8997905;ZA;2021-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+756c9b8d-aed0-443b-bf36-f6ab6f7dbbe0;ZA;2021-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+e0456a5b-b65c-4a7a-8ede-6fead03ac696;ZA;2021-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+a7fae5f0-2b59-4bfe-93c7-d41ee82355f8;ZA;2021-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+5b6f4e27-1812-461e-af47-671df4e62fcd;ZA;2021-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+237d54b5-4a89-4e1a-8e53-301692d494eb;ZA;2021-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+5fbf0a18-08f5-4f34-8187-c448646533a7;ZA;2021-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
+8151db6c-2af0-47d0-a7ee-ec1193b5ed00;ZA;2022-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+0351a4c2-8973-43b0-b85f-781b68f414f9;ZA;2022-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+5c91896d-ba33-47d0-81d0-4fdf8435efe7;ZA;2022-04-15;;Public;National;EN Good Friday,DE Karfreitag
+46990422-3643-4649-9fbb-f061b5da5d20;ZA;2022-04-18;;Public;National;EN Family Day,DE Tag der Familie
+79cb1282-8365-4ad2-bde5-f6053412b637;ZA;2022-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+1b2ac55a-962e-495d-b2aa-8cd9a93f5326;ZA;2022-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+7c3973fa-75d1-4994-8404-69df6e9bbcfa;ZA;2022-05-02;;Public;National;EN Workers' Day observed,DE Montag nach Tag der Arbeit
+1063b973-b8f0-4ab1-919f-be30058063b7;ZA;2022-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+9f743550-02f2-4bd0-8dd4-363fa6a17b44;ZA;2022-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+38bdbf45-0d01-4d2d-95fd-81fc677b9feb;ZA;2022-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+7345b663-a4cb-4748-8a6e-6d5b2cafa359;ZA;2022-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+f2293641-f852-49d2-991b-2b3991896cb4;ZA;2022-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+ffa2c184-384b-473c-9df0-7e86314199ae;ZA;2022-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
+e5a997cf-c3de-4ea8-a6e1-7486bf561353;ZA;2023-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+2014bec4-94a3-4fac-b872-1eac72242c4d;ZA;2023-01-02;;Public;National;EN New Year’s Day observed,DE Montag nach Neujahrstag
+b620ba84-ef4e-4321-b812-37998e21fa65;ZA;2023-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+cc575856-a041-4584-b323-674405c53134;ZA;2023-04-07;;Public;National;EN Good Friday,DE Karfreitag
+cb9eea15-d399-414f-83e8-5ea350557b6d;ZA;2023-04-10;;Public;National;EN Family Day,DE Tag der Familie
+16cc4446-6679-4d15-8b3b-3f3012afbd48;ZA;2023-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+732faf59-6ca5-4c15-a91b-8ae366498377;ZA;2023-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+f4c32572-4055-4519-8ad7-9c5af93b4c9d;ZA;2023-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+955d0c63-661c-4712-9734-dde31d3d7337;ZA;2023-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+45d34574-5a04-4027-a205-846949c135e4;ZA;2023-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+935f42a9-3afd-42e0-bb14-390ab7657fac;ZA;2023-09-25;;Public;National;EN Heritage Day observed,DE Montag nach Tag des Kulturerbes
+48bc6fcc-da59-4ca6-9231-e46361eb77e7;ZA;2023-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+e414db68-c730-4861-88aa-15282f02e48c;ZA;2023-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+a01f9799-39d5-4f67-8438-cda7362fcd6a;ZA;2023-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
+3f5def54-5c7e-48ec-96cd-ab47caa692a9;ZA;2024-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+f7aaaf71-675a-4997-a4fb-0f1e9dbae58f;ZA;2024-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+c9ca3d91-c685-4f5f-9757-5f97a1c35422;ZA;2024-03-29;;Public;National;EN Good Friday,DE Karfreitag
+09b6275d-c408-43a9-975f-f9ed9acf5e0e;ZA;2024-04-01;;Public;National;EN Family Day,DE Tag der Familie
+2db21a3a-e7fc-4773-9e94-d1d1ccd05644;ZA;2024-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+fe382a40-486c-4718-bc5a-b80414a2341d;ZA;2024-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+d7183c22-77b6-4cae-addc-a9b5b33b2e37;ZA;2024-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+fde31c0f-9ef1-4540-ad82-cb0b71cef6da;ZA;2024-06-17;;Public;National;EN Youth Day observed,DE Montag nach Tag der Jugend
+96e00b56-d49e-42a9-9fe5-310e0469db85;ZA;2024-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+6dce2422-2131-45a3-aa6a-2ab4c2cbeccd;ZA;2024-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+3b94fcd3-36d2-478a-bdf6-2e22b9a2a39f;ZA;2024-09-25;;Public;National;EN Heritage Day observed,DE Montag nach Tag des Kulturerbes
+0eb7e24c-9888-44d6-854e-ed97faae4d06;ZA;2024-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+d7b6e66d-d238-423f-92bc-1be4b4a98b04;ZA;2024-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+590459f9-628b-4570-9680-585f5fceb104;ZA;2024-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
+b1c27ce8-2e8c-48d5-84b2-04b0bbc6678e;ZA;2025-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+ed937614-43dd-4a49-99cb-743aa55c5296;ZA;2025-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+3d44ed21-00b1-4acd-b514-01e4a4d8f449;ZA;2025-04-18;;Public;National;EN Good Friday,DE Karfreitag
+581273c6-12e8-4d08-ba63-5a1c2f8069b9;ZA;2025-04-21;;Public;National;EN Family Day,DE Tag der Familie
+95affbd2-5f5a-4087-9861-9b7e8c6708ee;ZA;2025-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+93b63afa-f874-49d2-81b5-527a8c6fb0c3;ZA;2025-04-28;;Public;National;EN Freedom Day observed,DE Montag nach Tag der Freiheit
+bb94478d-cdad-48a3-a0ff-d0f27eb622db;ZA;2025-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+16a78fc8-eed4-44a3-8548-1f853a6df6eb;ZA;2025-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+ecd9541b-ee66-42c6-9d2b-be9122959404;ZA;2025-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+75b2e34e-ce05-48ae-a7d2-c8afb52cc470;ZA;2025-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+8e41d93d-4514-45e3-ad99-508cd0cab2e0;ZA;2025-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+a3fa910c-014b-4de0-895d-f499b1c471a6;ZA;2025-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+308a343f-acc1-4d08-bb0d-172fd480fabf;ZA;2025-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
+c07e4d86-d086-4a40-9893-2f62e8e61918;ZA;2026-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+486a5e8a-29dd-4824-bb12-0e0ee3cbc53c;ZA;2026-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+7a910b39-b757-4305-8b4c-82f2c57334d5;ZA;2026-04-03;;Public;National;EN Good Friday,DE Karfreitag
+96449bd5-0057-4341-9086-9edfc04d1433;ZA;2026-04-06;;Public;National;EN Family Day,DE Tag der Familie
+0cb198d1-24e2-49d2-aa33-70da5c170122;ZA;2026-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+96def55a-8b1d-4ee3-ac1c-500103033a35;ZA;2026-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+5e720c80-5de1-466d-90b9-bffce3d7a9a5;ZA;2026-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+6171da48-ea87-4ea3-8e40-2f5f0c3f9226;ZA;2026-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+a0d1d820-0b1a-4c77-84b5-928ec7eb3180;ZA;2026-08-10;;Public;National;EN National Women's Day observed,DE Montag nach Nationaler Frauentag
+1e541849-7257-4673-9e60-b721fd0e377c;ZA;2026-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+dc8e0dec-24fe-41ca-821c-c1ee9c5784b9;ZA;2026-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+1810aeca-73ef-4863-b317-8c81fdecb058;ZA;2026-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+bdc5440d-8a9f-4406-8215-2320b01276bf;ZA;2026-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
+7d501a32-e0a0-40bc-966f-83781819ba98;ZA;2027-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+e4acd030-dc2a-4379-a3eb-fdfbd18772fd;ZA;2027-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+6d0b245b-5836-4c81-9b95-5d8b7bf24516;ZA;2027-03-22;;Public;National;EN Human Rights Day observed,DE Montag nach Tag der Menschenrechte
+8d45c0c6-7892-4ed1-926d-aeeb4e1f6324;ZA;2027-03-26;;Public;National;EN Good Friday,DE Karfreitag
+1f6a483a-1bfe-440c-a49e-47fc9f279094;ZA;2027-03-29;;Public;National;EN Family Day,DE Tag der Familie
+f88f2282-d76e-4eeb-ae89-c9442ccb8cad;ZA;2027-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+a078284d-221d-41fb-915b-a6ba6e60f0cb;ZA;2027-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+74d1c73b-1072-46f7-86c4-28219ee6199a;ZA;2027-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+cf7150f1-feda-4099-9a80-108a41bafca5;ZA;2027-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+bbbbd065-c6ff-4f0b-a5b6-4d3172c78ac1;ZA;2027-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+f90c2f7b-e029-46c3-82a5-15b1e3eb386d;ZA;2027-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+e2328eae-5289-411b-9b34-41aceacd448d;ZA;2027-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+4b3588f4-a183-4d1f-8da8-875ee219a902;ZA;2027-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
+70da6384-d01f-470f-840d-8bac073f763d;ZA;2028-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+1cc4b4e7-dc7d-42a2-a32a-665ac9814486;ZA;2028-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+709f1a4a-f4d1-4930-b64d-1b8ac391ad7f;ZA;2028-04-14;;Public;National;EN Good Friday,DE Karfreitag
+2c88e161-f94f-47a6-a7f7-b8c5d22f9931;ZA;2028-04-17;;Public;National;EN Family Day,DE Tag der Familie
+3eb80550-1048-4d79-b54c-365b8672edde;ZA;2028-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+ec5a6c89-c4d0-4a10-a8b6-2241e374aa40;ZA;2028-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+8d011207-efa1-4bfe-857f-f2bea3661231;ZA;2028-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+305dc009-b9dc-4225-851a-3c47e6aee79e;ZA;2028-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+3de0482c-4e69-401f-a826-d13016a62037;ZA;2028-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+47ef322d-057c-45d5-af29-495a2f91be92;ZA;2028-09-25;;Public;National;EN Heritage Day observed,DE Montag nach Tag des Kulturerbes
+2cf8668c-890d-4ffc-aebc-467fdb02b204;ZA;2028-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+80116aca-ce43-442f-98d0-c2cdc29765af;ZA;2028-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+cb56de31-aa16-4302-b0da-1c03ebb2c854;ZA;2028-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
+a2fbd9f3-e731-4bf4-9342-d59700d36c7e;ZA;2029-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+91b03e56-ab0b-42cc-8052-0b61001460ac;ZA;2029-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+412f20e9-a7d8-4fa3-9211-8af2830f6936;ZA;2029-03-30;;Public;National;EN Good Friday,DE Karfreitag
+9020ce09-7f19-4de8-8f8b-c5777478556f;ZA;2029-04-02;;Public;National;EN Family Day,DE Tag der Familie
+ba203992-2a02-4780-8c4c-24a76c4bb296;ZA;2029-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+6db22ceb-11f3-4afb-a72f-9836f0d87e8e;ZA;2029-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+b29926a2-9c7f-42d5-b296-5d5e6dd5fceb;ZA;2029-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+2ec613be-4e34-4a40-ae43-1692ae89d9d9;ZA;2029-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+0816fba8-28b6-4346-b423-ee380a641fc6;ZA;2029-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+5c448e50-70fe-4ea9-a064-34d91a65cf41;ZA;2029-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+b894a734-3814-4221-84e3-f2e96c2ab280;ZA;2029-12-17;;Public;National;EN Day of Reconciliation observed,DE Montag nach Versöhnungstag
+2e55aefc-0b27-42f1-921a-a67492a7c75c;ZA;2029-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+fdb7ad90-0cbd-43ef-9096-6a4bbcdfe070;ZA;2029-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
+1c757aed-858c-4932-a090-95f757df9692;ZA;2030-01-01;;Public;National;EN New Year’s Day,DE Neujahrstag
+b0d1209f-3048-4070-8925-126022a55ae5;ZA;2030-03-21;;Public;National;EN Human Rights Day,DE Tag der Menschenrechte
+e8ac47ae-afbc-4d4e-88d3-9965dad470f2;ZA;2030-04-19;;Public;National;EN Good Friday,DE Karfreitag
+18418bf1-ac3a-4769-8f74-fcca070bf3a7;ZA;2030-04-22;;Public;National;EN Family Day,DE Tag der Familie
+c3d472f2-25a6-45dd-a226-9ddb5f4c6204;ZA;2030-04-27;;Public;National;EN Freedom Day,DE Tag der Freiheit
+5a8c7258-79a5-4aad-b733-3cd84be4fa04;ZA;2030-05-01;;Public;National;EN Workers' Day,DE Tag der Arbeit
+6465a6c3-9b52-4022-aa89-b9103db610e2;ZA;2030-06-16;;Public;National;EN Youth Day,DE Tag der Jugend
+82591fda-cd43-4993-87b3-64a6ffb0dfaa;ZA;2030-06-17;;Public;National;EN Youth Day observed,DE Montag Tag der Jugend
+eb597a7d-4308-4339-83b4-60933a35a4a9;ZA;2030-08-09;;Public;National;EN National Women's Day,DE Nationaler Frauentag
+b4a99327-35be-4502-9b76-a631b3d08324;ZA;2030-09-24;;Public;National;EN Heritage Day,DE Tag des Kulturerbes
+9222451a-7105-4beb-81f4-b2ee9ac045d1;ZA;2030-12-16;;Public;National;EN Day of Reconciliation,DE Versöhnungstag
+67f66032-538b-4300-818d-d03208ab76d3;ZA;2030-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+c605dc6f-652d-48ac-a489-b7e2d652caca;ZA;2030-12-26;;Public;National;EN Day of Goodwill,DE Tag des gegenseitigen Verständnisses
