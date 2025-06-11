@@ -1,0 +1,46 @@
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+311dddd3-d893-41f2-a767-9131a9f53f3b;ZA;2019-12-07;2020-01-12;School;National;EN Summer Break,DE Sommerferien
+38c399ec-5208-4014-811c-a8cf1afeadfd;ZA;2020-03-19;2020-05-31;School;National;EN Autumn Break,DE Herbstferien
+47d8634f-2727-4e90-8285-21893d764d03;ZA;2020-08-11;;School;National;EN Winter Break,DE Winterferien
+6c6f4c5a-a105-40c6-8629-bbc402c07a55;ZA;2020-09-25;2020-10-04;School;National;EN Spring Break,DE Frühlingsferien
+10b85475-7fff-40e5-a364-cfc78f94579b;ZA;2020-12-17;2021-01-10;School;National;EN Summer Break,DE Sommerferien
+16d1b89b-3a26-4434-8787-e267b9c46132;ZA;2021-03-27;2021-04-12;School;National;EN Autumn Break,DE Herbstferien
+9211338f-3e1e-4c75-8ffe-4b5d482c1742;ZA;2021-04-26;;School;National;EN Special School Holiday,DE Schulfreier Tag
+12975fc9-2872-4607-af1c-041faca3ab5e;ZA;2021-06-26;2021-07-19;School;National;EN Winter Break,DE Winterferien
+f8c16b17-938e-42db-b0ba-a58b315d3334;ZA;2021-10-02;2021-10-11;School;National;EN Spring Break,DE Frühlingsferien
+575ac7bc-50c5-4e20-b59e-e187eb9d5c01;ZA;2021-12-11;2022-01-09;School;National;EN Summer Break,DE Sommerferien
+a1ef854e-e71f-4d39-89b8-efabf5474e4f;ZA;2022-03-18;2022-04-04;School;National;EN Autumn Break,DE Herbstferien
+9a537c2b-93ce-43c4-9285-171cb296ca9a;ZA;2022-06-17;;School;National;EN Special School Holiday,DE Schulfreier Tag
+71b91949-a360-41e2-a7ce-7ab12fb0e9e9;ZA;2022-06-25;2022-07-18;School;National;EN Winter Break,DE Winterferien
+1901c4b5-029b-4fc9-b527-8cda96d1d9e8;ZA;2022-08-08;;School;National;EN Special School Holiday,DE Schulfreier Tag
+3dd7f27d-764d-470b-b334-41dbcde95473;ZA;2022-10-01;2022-10-10;School;National;EN Spring Break,DE Frühlingsferien
+978a9806-f707-4bc2-9023-204187671a6e;ZA;2022-12-17;2023-01-08;School;National;EN Summer Break,DE Sommerferien
+a27d71c6-5ec0-439a-86bb-c217488b287a;ZA;2023-03-20;;School;National;EN Special School Holiday,DE Schulfreier Tag
+a4cabea6-8d29-4894-8102-16dd2cf687d4;ZA;2023-03-25;2023-04-11;School;National;EN Autumn Break,DE Herbstferien
+8b422535-d89c-4a1e-b086-d785b34faf44;ZA;2023-04-28;;School;National;EN Special School Holiday,DE Schulfreier Tag
+7cc0ea87-bc7c-4aae-9a06-4c10cfca3f10;ZA;2023-06-24;2023-07-17;School;National;EN Winter Break,DE Winterferien
+716933bf-0d0d-445f-bb1c-2aa4c8187b57;ZA;2023-09-30;2023-10-09;School;National;EN Spring Break,DE Frühlingsferien
+84dc76ea-0cd3-4c14-82df-5c96137f0a65;ZA;2023-12-16;2024-01-14;School;National;EN Summer Break,DE Sommerferien
+80bd85d5-ed52-4e06-8378-3c54997c57ea;ZA;2024-03-22;2024-04-02;School;National;EN Autumn Break,DE Herbstferien
+277e9bdb-d956-485c-a3ea-731288b8172c;ZA;2024-04-26;;School;National;EN Special School Holiday,DE Schulfreier Tag
+8e20f940-7996-4c1d-8f91-bce21de70041;ZA;2024-06-15;2024-07-08;School;National;EN Winter Break,DE Winterferien
+50edabe4-daf0-4315-b81f-16d9a7f62dcf;ZA;2024-09-21;2024-09-30;School;National;EN Spring Break,DE Frühlingsferien
+fac41a06-66b9-4052-842a-44c2beebc394;ZA;2024-12-14;2025-01-12;School;National;EN Summer Break,DE Sommerferien
+9d128a30-0252-4c79-a1d1-58a36f2e8dc2;ZA;2025-03-29;2025-04-07;School;National;EN Autumn Break,DE Herbstferien
+8cd3b542-65d0-4814-9201-e3ee9de441b6;ZA;2025-04-29;;School;National;EN Special School Holiday,DE Schulfreier Tag
+78cac1f4-9dd6-4ee5-af69-ce389b14ec52;ZA;2025-04-30;;School;National;EN Special School Holiday,DE Schulfreier Tag
+a1e900f7-12e7-4dbd-b766-7b5170497b9a;ZA;2025-06-02;;School;National;EN Special School Holiday,DE Schulfreier Tag
+b7520184-1087-493c-9e47-eeba3f989006;ZA;2025-06-28;2025-07-21;School;National;EN Winter Break,DE Winterferien
+46913ccf-9f08-41c8-a27e-60972a2d3bd0;ZA;2025-10-04;2025-10-12;School;National;EN Spring Break,DE Frühlingsferien
+964df868-5fdc-4206-bfcc-16048c02ab3d;ZA;2025-12-13;2026-01-11;School;National;EN Summer Break,DE Sommerferien
+37aa0d15-2729-465f-9907-8ab6483489de;ZA;2026-03-28;2026-04-07;School;National;EN Autumn Break,DE Herbstferien
+6c838c4f-021d-4b5f-bde4-d8ef35d6f544;ZA;2026-06-15;;School;National;EN Special School Holiday,DE Schulfreier Tag
+6314f2fd-c992-437c-a15f-87d2e0ff7b28;ZA;2026-06-27;2026-07-20;School;National;EN Winter Break,DE Winterferien
+780c8f96-a285-4551-a3d6-d30077cf4086;ZA;2026-09-25;;School;National;EN Special School Holiday,DE Schulfreier Tag
+cbb2e8bd-36d5-4792-b8fc-5b7938080286;ZA;2026-10-03;2026-10-12;School;National;EN Spring Break,DE Frühlingsferien
+5f1af263-105c-4d11-a02c-37de2fab66dd;ZA;2026-12-12;2027-01-10;School;National;EN Summer Break,DE Sommerferien
+907ffdfd-8bbf-40f3-8638-4c0f5dce5bef;ZA;2027-03-20;2027-04-05;School;National;EN Autumn Break,DE Herbstferien
+92139951-0433-4cdb-97c0-d1234aadcf07;ZA;2027-04-26;;School;National;EN Special School Holiday,DE Schulfreier Tag
+221ff170-3986-4f0b-ad42-bba5bc71f6b7;ZA;2027-06-26;2027-07-19;School;National;EN Winter Break,DE Winterferien
+41450a01-656a-45c6-8856-883c628a9bd7;ZA;2027-10-02;2027-10-10;School;National;EN Spring Break,DE Frühlingsferien
+50c1e169-f120-4896-8eb3-feeb6f9249ee;ZA;2027-12-11;2028-01-09;School;National;EN Summer Break,DE Sommerferien
