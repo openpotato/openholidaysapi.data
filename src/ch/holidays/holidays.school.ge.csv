@@ -24,8 +24,31 @@ be77caf3-2f33-41b8-af0b-b763decaf84d;CH;2024-03-29;2024-04-14;School;Regional;DE
 a831b109-d19c-4a67-b2bb-04f5cdcb2a16;CH;2024-06-29;2024-08-18;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GE;
 b7ffbe84-d47e-49b9-b0d2-8122ef985156;CH;2024-10-19;2024-10-27;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GE;
 56f806b8-2a39-4fad-8210-6d45abbe0981;CH;2024-12-21;2025-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;GE;
-0ff4bd40-8a62-4090-a430-43167dc45003;CH;2025-02-22;2025-03-02;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;GE;
-92ede70a-68f9-4860-9808-cc83c01a7471;CH;2025-04-18;2025-05-04;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;GE;
-f428fbd9-3fb9-461e-aa40-14900fed3f0b;CH;2025-06-28;2025-08-18;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GE;
-5e6d1530-f6b8-458f-8274-0040a85bc26f;CH;2025-10-18;2025-10-26;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GE;
-7d17717a-ef50-4828-9c6a-a042d6bc09c2;CH;2025-12-20;2026-01-04;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;GE;
+0ff4bd40-8a62-4090-a430-43167dc45003;CH;2025-02-24;2025-02-28;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;GE;FR Écoles publiques
+92ede70a-68f9-4860-9808-cc83c01a7471;CH;2025-04-18;2025-05-02;School;Regional;DE Ostern,FR Pâques,IT Pasqua,EN Easter;GE;FR Écoles publiques
+f428fbd9-3fb9-461e-aa40-14900fed3f0b;CH;2025-06-30;2025-08-15;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GE;FR Écoles publiques
+5e6d1530-f6b8-458f-8274-0040a85bc26f;CH;2025-10-20;2025-10-24;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GE;FR Écoles publiques
+7d17717a-ef50-4828-9c6a-a042d6bc09c2;CH;2025-12-22;2026-01-02;School;Regional;DE Weihnachten,FR Noël,IT Natale,EN Christmas;GE;FR Écoles publiques
+72548fa6-fc9f-40f9-ac7e-224ff2ef9ab4;CH;2026-02-23;2026-02-27;School;Regional;DE Winter,FR Hiver,IT Inverno,EN Winter;GE;FR Écoles publiques
+f6ece8b4-38a9-43df-98db-cfb810a7b8fa;CH;2026-04-03;2026-04-17;School;Regional;DE Ostern,FR Pâques,IT Pasqua,EN Easter;GE;FR Écoles publiques
+5684ea6b-2e06-4225-8d7d-ccb5d00ef58e;CH;2026-06-29;2026-08-16;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GE;FR Écoles publiques
+7bb6e766-0c67-423c-b568-0f3c7752aa46;CH;2026-10-19;2026-10-23;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GE;FR Écoles publiques
+6b760612-65c4-415c-b452-5bcfb06f58b1;CH;2026-12-24;2027-01-08;School;Regional;DE Weihnachten,FR Noël,IT Natale,EN Christmas;GE;FR Écoles publiques
+07c3d492-55c0-4c45-ad92-855954dd14be;CH;2027-02-15;2027-02-19;School;Regional;DE Winter,FR Hiver,IT Inverno,EN Winter;GE;FR Écoles publiques
+1e3e4bc3-1644-48dc-82bd-ed745d0c0607;CH;2027-03-26;2027-04-09;School;Regional;DE Ostern,FR Pâques,IT Pasqua,EN Easter;GE;FR Écoles publiques
+1974e956-731c-45a7-89b3-2be65c7076d7;CH;2027-07-05;2027-08-25;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GE;FR Écoles publiques
+67dd29d1-2fb0-4758-ac5a-4d5be93847f6;CH;2027-10-25;2027-10-29;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GE;FR Écoles publiques
+939c2817-5f32-4c39-a12f-00e48050f5de;CH;2027-12-24;2028-01-07;School;Regional;DE Weihnachten,FR Noël,IT Natale,EN Christmas;GE;FR Écoles publiques
+bee6b82e-20a7-475b-a786-85c53bf8e66e;CH;2028-02-21;2028-02-25;School;Regional;DE Winter,FR Hiver,IT Inverno,EN Winter;GE;FR Écoles publiques
+c605c95f-9a8a-4d6e-a684-a2eb8e3fdd5f;CH;2028-04-13;2028-04-21;School;Regional;DE Ostern,FR Pâques,IT Pasqua,EN Easter;GE;FR Écoles publiques
+5a319ecc-af48-4ecb-b1ad-86925e7f70f7;CH;2028-07-03;2028-08-23;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GE;FR Écoles publiques
+e6364901-e4f2-49a1-a2c2-369316f0b7ce;CH;2028-10-23;2028-10-27;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GE;FR Écoles publiques
+e7988757-a000-4896-927e-c99f2e8f2c83;CH;2028-12-25;2029-01-05;School;Regional;DE Weihnachten,FR Noël,IT Natale,EN Christmas;GE;FR Écoles publiques
+cc024859-d6f8-4238-ac89-f18e3beee19b;CH;2029-02-19;2029-02-23;School;Regional;DE Winter,FR Hiver,IT Inverno,EN Winter;GE;FR Écoles publiques
+13499aaa-b0b8-4489-b8af-4eb863c3edab;CH;2029-03-29;2029-04-06;School;Regional;DE Ostern,FR Pâques,IT Pasqua,EN Easter;GE;FR Écoles publiques
+682f63f3-9f88-4bc1-a429-411c5b1a91c6;CH;2029-07-02;2029-08-22;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GE;FR Écoles publiques
+5e351c73-d4f8-4149-a17d-954a49d634c5;CH;2029-10-22;2029-10-26;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GE;FR Écoles publiques
+42bbc5f6-6fc8-46ed-b546-718a43bd3ff2;CH;2029-12-24;2030-01-04;School;Regional;DE Weihnachten,FR Noël,IT Natale,EN Christmas;GE;FR Écoles publiques
+85a8036a-74a3-4847-a748-43fa7787373a;CH;2030-02-25;2030-03-01;School;Regional;DE Winter,FR Hiver,IT Inverno,EN Winter;GE;FR Écoles publiques
+2866bfed-adbf-41de-bbb1-55706f4cf8af;CH;2030-04-18;2030-04-26;School;Regional;DE Ostern,FR Pâques,IT Pasqua,EN Easter;GE;FR Écoles publiques
+ab87abad-0598-4354-942b-cb79ec89559d;CH;2030-07-01;2030-08-21;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GE;FR Écoles publiques
