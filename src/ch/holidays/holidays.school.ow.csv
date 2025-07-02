@@ -1,31 +1,46 @@
 ﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
 26d95037-c303-4135-99a8-3686518e8778;CH;2020-02-15;2020-03-01;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;OW;DE Ausnahmeregelung für Gemeinde Engelberg (20.02.2020-01.03.2020)
-eb20e3ba-106a-469f-bbbd-ced3240351f1;CH;2020-04-10;2020-04-26;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;
+eb20e3ba-106a-469f-bbbd-ced3240351f1;CH;2020-04-10;2020-04-26;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;DE Alle Schulen ausser Engelberg
 7adcdbbf-0b47-49a2-a1c1-56cb85eb6a8f;CH;2020-07-04;2020-08-16;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;OW;DE Ausnahmeregelung für Gemeinde Engelberg (27.06.2020-09.08.2020)
 7184ecc8-0f02-4473-9542-5bbb30b3be96;CH;2020-09-26;2020-10-11;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;OW;DE Ausnahmeregelung für Gemeinde Engelberg (03.10.2020-25.10.2020)
-f2fb5f50-1517-47b0-ab8c-6a1b6de1459d;CH;2020-12-24;2021-01-06;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;
+f2fb5f50-1517-47b0-ab8c-6a1b6de1459d;CH;2020-12-24;2021-01-06;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;DE Alle Schulen ausser Engelberg
 9d33a3fa-a7b0-4114-aeab-06fa1ea3eff8;CH;2021-02-06;2021-02-21;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;OW;DE Ausnahmeregelung für Gemeinde Engelberg (11.02.2021-21.02.2021)
-5f81ff08-72a1-4d08-a7da-870b455569e2;CH;2021-04-02;2021-04-18;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;
+5f81ff08-72a1-4d08-a7da-870b455569e2;CH;2021-04-02;2021-04-18;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;DE Alle Schulen ausser Engelberg
 7f2df6e1-c936-4608-b5bf-4fb282e00c85;CH;2021-07-10;2021-08-22;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;OW;DE Ausnahmeregelung für Gemeinde Engelberg (03.07.2021-15.08.2021)
 cf172617-8877-4f3f-85ce-cda75d1a665d;CH;2021-10-02;2021-10-24;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;OW;DE Ausnahmeregelung für Gemeinde Engelberg (02.10.2021-17.10.2021)
-d086e359-c593-4e4a-9ae8-0ca94ae36e45;CH;2021-12-24;2022-01-06;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;
+d086e359-c593-4e4a-9ae8-0ca94ae36e45;CH;2021-12-24;2022-01-06;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;DE Alle Schulen ausser Engelberg
 0e508827-a900-4fea-8f67-4fb45327dbf7;CH;2022-02-19;2022-03-06;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;OW;DE Ausnahmeregelung für Gemeinde Engelberg (24.02.2022-06.03.2022)
-d2ecf586-9510-4462-a7ef-5b2d10ae196b;CH;2022-04-15;2022-05-01;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;
+d2ecf586-9510-4462-a7ef-5b2d10ae196b;CH;2022-04-15;2022-05-01;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;DE Alle Schulen ausser Engelberg
 8aa694c5-df00-48ed-bb78-24017ae56294;CH;2022-07-02;2022-08-15;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;OW;DE Ausnahmeregelung für Gemeinde Engelberg (09.07.2022-21.08.2022)
 a9a17221-9bf8-45d0-ba77-b3d0c7e98488;CH;2022-10-01;2022-10-16;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;OW;DE Ausnahmeregelung für Gemeinde Engelberg (08.10.2022-30.10.2022)
-1f2f18df-7bd2-4a1a-9ea4-fdfbf6290421;CH;2022-12-24;2023-01-08;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;
+1f2f18df-7bd2-4a1a-9ea4-fdfbf6290421;CH;2022-12-24;2023-01-08;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;DE Alle Schulen ausser Engelberg
 2adecc1c-336d-4b94-b3a0-6598a57a0040;CH;2023-02-11;2023-02-26;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;OW;DE Ausnahmeregelung für Gemeinde Engelberg (16.02.2023-26.02.2023)
-3d8b0c36-eaa1-4bc3-888a-c9611089bbfa;CH;2023-04-07;2023-04-23;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;
+3d8b0c36-eaa1-4bc3-888a-c9611089bbfa;CH;2023-04-07;2023-04-23;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;DE Alle Schulen ausser Engelberg
 7b9d4051-0932-404c-af7f-3e0519032e32;CH;2023-07-08;2023-08-20;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;OW;DE Ausnahmeregelung für Gemeinde Engelberg (01.07.2023-13.08.2023)
 00ac11ce-ccb0-4c24-92fd-d1c565950cdb;CH;2023-09-30;2023-10-15;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;OW;DE Ausnahmeregelung für Gemeinde Engelberg (07.10.2023-29.10.2023)
-6e94b178-fb36-4e8c-a416-e549d760cd2d;CH;2023-12-23;2024-01-07;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;
+6e94b178-fb36-4e8c-a416-e549d760cd2d;CH;2023-12-23;2024-01-07;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;DE Alle Schulen ausser Engelberg
 31b76769-bffe-4224-9fa5-2995a3a95f12;CH;2024-02-03;2024-02-18;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;OW;DE Ausnahmeregelung für Gemeinde Engelberg (08.02.2024-18.02.2024)
-744c4b25-44ea-402d-8b3f-4a3076347247;CH;2024-03-29;2024-04-14;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;
+744c4b25-44ea-402d-8b3f-4a3076347247;CH;2024-03-29;2024-04-14;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;DE Alle Schulen ausser Engelberg
 fdf2e241-35b9-4f7f-8fc4-abe70852d093;CH;2024-07-06;2024-08-18;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;OW;DE Ausnahmeregelung für Gemeinde Engelberg (29.06.2024-11.08.2024)
 27c549a8-496b-4de9-9207-3439ce92d959;CH;2024-09-28;2024-10-13;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;OW;DE Ausnahmeregelung für Gemeinde Engelberg (05.10.2024-27.10.2024)
-901abc74-ea7a-4175-820e-ca066aea5c39;CH;2024-12-21;2025-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;
-55c61d73-a26f-44c1-8c48-d8e51b5dca73;CH;2025-02-22;2025-03-09;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;OW;
-357ab7e7-6546-49cf-80b1-456174409bfa;CH;2025-04-18;2025-05-04;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;
-6c6e6050-1d09-4fc2-b34e-33bc34dfc941;CH;2025-07-05;2025-08-17;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;OW;
-b967a0bf-e573-487f-8794-c4ff25592909;CH;2025-09-27;2025-10-12;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;OW;
-f7617252-d95d-472b-9140-789ec3eaabee;CH;2025-12-20;2026-01-04;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;
+901abc74-ea7a-4175-820e-ca066aea5c39;CH;2024-12-21;2025-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;DE Alle Schulen ausser Engelberg
+55c61d73-a26f-44c1-8c48-d8e51b5dca73;CH;2025-02-22;2025-03-09;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;OW;DE Alle Schulen ausser Engelberg
+f9269753-9e72-4888-8110-0d67baa2f985;CH;2025-02-27;2025-03-09;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;OW;DE Ausnahmeregelung für Gemeinde Engelberg
+357ab7e7-6546-49cf-80b1-456174409bfa;CH;2025-04-18;2025-05-04;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;DE Alle Schulen ausser Engelberg
+505e623a-77b5-428f-943a-e2fd0c05363c;CH;2025-04-18;2025-05-04;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;DE Ausnahmeregelung für Gemeinde Engelberg
+6c6e6050-1d09-4fc2-b34e-33bc34dfc941;CH;2025-07-05;2025-08-17;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;OW;DE Alle Schulen ausser Engelberg
+7d78ad4e-4649-4457-a8ee-5f2c871304ee;CH;2025-06-28;2025-08-10;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;OW;DE Ausnahmeregelung für Gemeinde Engelberg
+b967a0bf-e573-487f-8794-c4ff25592909;CH;2025-09-27;2025-10-12;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;OW;DE Alle Schulen ausser Engelberg
+17eeaf52-f1de-4d6e-9c95-9d6c9653bb8f;CH;2025-10-04;2025-10-26;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;OW;DE Ausnahmeregelung für Gemeinde Engelberg
+f7617252-d95d-472b-9140-789ec3eaabee;CH;2025-12-24;2026-01-06;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;DE Alle Schulen ausser Engelberg
+d1d83361-1282-4580-bddb-8e2137dc5aef;CH;2025-12-24;2026-01-06;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;DE Ausnahmeregelung für Gemeinde Engelberg
+8abbb1fd-9f53-4381-b8ba-550ad5ba1f4c;CH;2026-02-07;2026-02-22;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;OW;DE Alle Schulen ausser Engelberg
+426b159d-4e02-49ba-a1e7-378c5d75907c;CH;2026-02-12;2026-02-22;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;OW;DE Ausnahmeregelung für Gemeinde Engelberg
+86e10b68-6c09-402b-abc8-d63e21549fc4;CH;2026-04-03;2026-04-19;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;DE Alle Schulen ausser Engelberg
+67e2b06b-5bca-4364-9d38-0da71639d5d3;CH;2026-04-03;2026-04-19;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;OW;DE Ausnahmeregelung für Gemeinde Engelberg
+d57a3d59-3e74-47c1-8fab-98f97652e328;CH;2026-07-04;2026-08-16;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;OW;DE Alle Schulen ausser Engelberg
+ca1ec27f-b294-4c67-9fdc-bd8038ea05f8;CH;2026-06-27;2026-08-09;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;OW;DE Ausnahmeregelung für Gemeinde Engelberg
+8a9aa84e-acc1-4bb5-b521-9eb82465ce4d;CH;2026-09-25;2026-10-11;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;OW;DE Alle Schulen ausser Engelberg
+ce728d25-e09f-45da-be4e-c684cd25d0fc;CH;2026-10-03;2026-10-25;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;OW;DE Ausnahmeregelung für Gemeinde Engelberg
+2df41431-eb99-48e3-a9dc-02f55d7f843a;CH;2026-12-24;2027-01-06;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;DE Alle Schulen ausser Engelberg
+840fc0d3-8d82-494b-a26a-5137fa67dd90;CH;2026-12-24;2027-01-06;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;OW;DE Ausnahmeregelung für Gemeinde Engelberg
