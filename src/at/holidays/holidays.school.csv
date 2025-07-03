@@ -80,11 +80,13 @@ c50dd649-e285-45f9-b730-b9f6d49fa459;AT;2025-02-17;2025-02-22;School;Regional;DE
 c795ba34-9346-4d77-956d-2bc4d36e4f15;AT;2025-03-19;;School;Regional;DE St. Josef,EN Saint Joseph's Day;KÄ,SM,TI,VA;
 d97aa6f6-df49-45cd-9d3e-c030946169ce;AT;2025-04-12;2025-04-21;School;National;DE Osterferien,EN Easter Holidays;;
 0faf2f84-674a-47fb-9717-3be0508f48a5;AT;2025-05-04;;School;Regional;DE St. Florian,EN Saint Florian's Day;OÖ;
-8ac56699-10ec-47d3-8e9c-995da7730fd8;AT;2025-06-07;2025-06-09;School;National;DE Pfingstferien,EN Pentecost Holidays;;
+c0f9c1d2-3e2a-485c-9d3f-7a0cfe1f9b2c;AT;2025-05-30;;School;Regional;DE schulfrei,EN no school;TI;
+7ac56699-10ec-47d3-8e9c-995da7730fd8;AT;2025-06-07;2025-06-09;School;National;DE Pfingstferien,EN Pentecost Holidays;;
+c0f9c1d2-2e2a-485c-9f48-d33b99cd1eb5;AT;2025-06-20;;School;Regional;DE schulfrei,EN no school;TI;
 ceb65273-e2c6-40bf-bc4b-f48f99746887;AT;2025-06-28;2025-08-31;School;Regional;DE Sommerferien,EN Summer Holidays;BL,NÖ,WI;
 cffb89a7-768c-456e-86fe-ec0590435fad;AT;2025-07-05;2025-09-07;School;Regional;DE Sommerferien,EN Summer Holidays;KÄ,OÖ,SB,SM,TI,VA;
 3db5772e-a9e6-42f2-9cf2-99e4c5ef1c79;AT;2025-09-24;;School;Regional;DE St. Rupert,EN Saint Rupert's Day;SB;
-76f3fc33-8afa-4e97-9f48-df0a109bcf8e;AT;2025-10-27;2025-10-31;School;National;DE Herbstferien,EN Automn Holidays;;
+76f3fc33-8afa-4e97-9f48-df0a109bcf8e;AT;2025-10-27;2025-10-31;School;National;DE Herbstferien,EN Autumn Holidays;;
 a927e523-1e7c-4c57-b886-d0937c620ea3;AT;2025-11-11;;School;Regional;DE St. Martin,EN Saint Martin's Day;BL;
 087f0a19-633f-4082-82e2-eb0e52e1cc8c;AT;2025-11-15;;School;Regional;DE St. Leopold,EN Saint Leopold's Day;NÖ,WI;
 7a034d2c-9044-44d6-956f-d9f6575480d0;AT;2025-12-24;2026-01-06;School;National;DE Weihnachtsferien,EN Christmas Holidays;;
@@ -97,3 +99,32 @@ fd7ada74-ef0e-4713-b8d3-3227d1372061;AT;2026-03-28;2026-04-06;School;National;DE
 65ce3d86-9eda-49d1-bef1-4c7816c1dc38;AT;2026-05-23;2026-05-25;School;National;DE Pfingstferien,EN Pentecost Holidays;;
 23a1b4df-9a6f-42d3-87b9-6d3eb51992cf;AT;2026-07-04;2026-09-06;School;Regional;DE Sommerferien,EN Summer Holidays;BL,NÖ,WI;
 4414a62a-ea15-44ab-8105-1bb0db49187d;AT;2026-07-11;2026-09-13;School;Regional;DE Sommerferien,EN Summer Holidays;KÄ,OÖ,SB,SM,TI,VA;
+e4a58f13-ebe2-4b16-b09d-8c2cb5c487b7;AT;2026-10-27;2026-10-31;School;National;DE Herbstferien,EN Autumn Holidays;;
+38c3ddb0-251c-499e-b75a-aaeee7658080;AT;2026-12-24;2027-01-06;School;National;DE Weihnachtsferien,EN Christmas Holidays;;
+9c8bb84f-2ddd-4cf6-bbb3-f5f9c0d233a6;AT;2027-01-30;2027-02-06;School;Regional;DE Semesterferien,EN Semester Holidays;NÖ,WI;Noch nicht final festgelegt
+fea5a95a-86f3-4fda-a997-167e905a412f;AT;2027-02-08;2027-02-13;School;Regional;DE Semesterferien,EN Semester Holidays;BL,KÄ,SB,TI,VA;Noch nicht final festgelegt
+f6475dd0-da11-4e96-a7f0-966fb18e3a1b;AT;2027-02-15;2027-02-20;School;Regional;DE Semesterferien,EN Semester Holidays;OÖ,SM;Noch nicht final festgelegt
+cfc36b9c-a13e-42fd-a848-ccd940b54c97;AT;2027-03-19;;School;Regional;DE St. Josef,EN Saint Joseph's Day;KÄ,SM,TI,VA;
+1362d499-5a0d-415b-a139-7d7b1949b408;AT;2027-03-20;2027-03-29;School;National;DE Osterferien,EN Easter Holidays;;
+66e3532b-4cd4-43cb-9f34-94ad52d72c51;AT;2027-05-04;;School;Regional;DE St. Florian,EN Saint Florian's Day;OÖ;
+8cfd7234-afa1-4569-93e0-0069a03b1bc0;AT;2027-05-15;2027-05-17;School;National;DE Pfingstferien,EN Pentecost Holidays;;
+eed130d6-f19c-4daf-b2e8-da1fbbd05e55;AT;2027-07-03;2027-09-05;School;Regional;DE Sommerferien,EN Summer Holidays;BL,NÖ,WI;Noch nicht final festgelegt
+0dfd134f-4394-4ba0-af7a-5c658b9599aa;AT;2027-07-10;2027-09-12;School;Regional;DE Sommerferien,EN Summer Holidays;KÄ,OÖ,SB,SM,TI,VA;Noch nicht final festgelegt
+e9435852-aca8-4498-9cfe-700674ae403e;AT;2027-09-24;;School;Regional;DE St. Rupert,EN Saint Rupert's Day;SB;
+e01b8cae-db57-4a67-9d80-d578589ab6a2;AT;2027-10-27;2027-10-31;School;National;DE Herbstferien,EN Autumn Holidays;;
+51c3f837-2909-48b8-a81a-4aa8c61a03f7;AT;2027-11-15;;School;Regional;DE St. Leopold,EN Saint Leopold's Day;NÖ,WI;
+b04aac99-4a8a-4685-ab93-58aa3b1154e5;AT;2027-11-11;;School;Regional;DE St. Martin,EN Saint Martin's Day;BL;
+4203faf1-4379-4194-a1e5-ac52506b3bc8;AT;2027-12-24;2028-01-06;School;National;DE Weihnachtsferien,EN Christmas Holidays;;
+dfc50ca3-8312-4de7-a596-15390e9062d4;AT;2028-02-05;2028-02-12;School;Regional;DE Semesterferien,EN Semester Holidays;NÖ,WI;Noch nicht final festgelegt
+0edc227e-ce96-4132-bc2b-2b9c6542d2eb;AT;2028-02-14;2028-02-19;School;Regional;DE Semesterferien,EN Semester Holidays;BL,KÄ,SB,TI,VA;Noch nicht final festgelegt
+c0134816-b1f0-4aab-a407-155a17317cae;AT;2028-02-21;2028-02-26;School;Regional;DE Semesterferien,EN Semester Holidays;OÖ,SM;Noch nicht final festgelegt
+4119dc41-945d-494e-a389-e78d5d79b44d;AT;2028-04-08;2028-04-17;School;National;DE Osterferien,EN Easter Holidays;;
+81d30666-2069-4c93-af1e-1de1a5a94197;AT;2028-05-04;;School;Regional;DE St. Florian,EN Saint Florian's Day;OÖ;
+b8b7752b-7754-4db6-991e-a5207fa6c84b;AT;2028-06-03;2028-06-05;School;National;DE Pfingstferien,EN Pentecost Holidays;;
+03d8b0ca-7333-40c6-a61c-5404498deba4;AT;2028-07-01;2028-09-03;School;Regional;DE Sommerferien,EN Summer Holidays;BL,NÖ,WI;Noch nicht final festgelegt
+3cba7208-3dbe-4d3e-8732-e15aa249cab4;AT;2028-07-08;2028-09-10;School;Regional;DE Sommerferien,EN Summer Holidays;KÄ,OÖ,SB,SM,TI,VA;Noch nicht final festgelegt
+cf5a847c-58de-48f7-bceb-1c9298a46a1f;AT;2028-09-24;;School;Regional;DE St. Rupert,EN Saint Rupert's Day;SB;
+ef59d4e7-c275-43c6-9654-7ffbf1482a19;AT;2028-10-27;2028-10-31;School;National;DE Herbstferien,EN Autumn Holidays;;
+496f9a94-07a6-471d-baf0-cd8d9cc1f891;AT;2028-11-11;;School;Regional;DE St. Martin,EN Saint Martin's Day;BL;
+ca4f9ad2-e756-4876-a0d6-588f822085a6;AT;2028-11-15;;School;Regional;DE St. Leopold,EN Saint Leopold's Day;NÖ,WI;
+501a386e-8d7f-4a8e-bcb6-703feae11478;AT;2028-12-24;2029-01-06;School;National;DE Weihnachtsferien,EN Christmas Holidays;;
