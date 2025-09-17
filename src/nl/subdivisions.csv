@@ -1,7 +1,7 @@
 Country;Code;IsoCode;ShortName;Category;Name;Comment;OfficialLanguages;Parent
-NL;NL-NO;—;NO;NL Regio,DE Region,EN region;NL Regio Noord,DE Region Nord,EN North Region;;NL;
-NL;NL-MI;—;MI;NL Regio,DE Region,EN region;NL Regio Midden,DE Region Mitte,EN Central Region;;NL;
-NL;NL-ZU;—;ZU;NL Regio,DE Region,EN region;NL Regio Zuid,DE Region Süd,EN South Region;;NL;
+NL;NL-NO;;NO;NL Regio,DE Region,EN region;NL Regio Noord,DE Region Nord,EN North Region;;NL;
+NL;NL-MI;;MI;NL Regio,DE Region,EN region;NL Regio Midden,DE Region Mitte,EN Central Region;;NL;
+NL;NL-ZU;;ZU;NL Regio,DE Region,EN region;NL Regio Zuid,DE Region Süd,EN South Region;;NL;
 NL;NL-NO-DR;NL-DR;NO-DR;NL gemeenten,DE Gemeinden,EN municipalities;NL Drenthe,DE Drenthe,EN Drenthe;NL Alle gemeenten,DE Alle Gemeinden,EN All municipalities;NL;NO
 NL;NL-NO-FL;NL-FL;NO-FL;NL gemeenten,DE Gemeinden,EN municipalities;NL Flevoland (Noord),DE Flevoland (Norden),EN Flevoland (north);NL Alle gemeenten behalve Zeewolde,DE Alle Gemeinden außer Zeewolde,EN All municipalities except Zeewolde;NL;NO
 NL;NL-NO-FR;NL-FR;NO-FR;NL gemeenten,DE Gemeinden,EN municipalities;NL Friesland,DE Friesland,EN Friesland;NL Alle gemeenten,DE Alle Gemeinden,EN All municipalities;NL;NO
