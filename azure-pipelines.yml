@@ -1,34 +1,84 @@
 pool:
-  vmImage: 'windows-2022'
+  vmImage: 'windows-latest'
     
 variables:
 - group: 'github-config'
 
-steps:
-- task: ArchiveFiles@2
-  displayName: 'Create Zip archive'
-  inputs:
-    rootFolderOrFile: 'src'
-    includeRootFolder: false
-    archiveType: 'zip'
-    archiveFile: '$(Build.ArtifactStagingDirectory)/OpenHolidaysApi.Data.zip'
-    replaceExistingArchive: true
-- task: PublishBuildArtifacts@1
-  displayName: 'Publish build artifacts'
-  inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'drop'
-    publishLocation: 'Container'
-- task: PowerShell@2
-  displayName: 'Push to GitHub'
+stages:
+
+- stage: collect
+  displayName: Collect Data
+  jobs:
+  - job: collect_data
+    displayName: Archive and Publish
+    steps:
+    - checkout: self
+    - task: ArchiveFiles@2
+      displayName: 'Create Zip archive'
+      inputs:
+        rootFolderOrFile: 'src'
+        includeRootFolder: false
+        archiveType: 'zip'
+        archiveFile: '$(Build.ArtifactStagingDirectory)/OpenHolidaysApi.Data.zip'
+        replaceExistingArchive: true
+    - task: PublishBuildArtifacts@1
+      displayName: 'Publish build artifacts'
+      inputs:
+        PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+        ArtifactName: 'drop'
+        publishLocation: 'Container'
+
+- stage: github
+  displayName: Publish Data
+  dependsOn: collect
   condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/main'))
-  inputs:
-    targetType: 'inline'
-    script: |
-      git remote add github https://$(PAT)@github.com/openpotato/openholidaysapi.data.git
-      git fetch github
-      git checkout .
-      git push github HEAD:main
-      git push --tags github HEAD:main
-    pwsh: true
-    
+  jobs:
+  - job: push_to_github
+    displayName: Push Data to GitHub
+    steps:
+    - checkout: self
+      fetchTags: true
+      fetchDepth: 0
+    - task: PowerShell@2
+      displayName: 'Push to GitHub'
+      inputs:
+        targetType: 'inline'
+        pwsh: true
+        script: |
+
+          $ErrorActionPreference = 'Stop'
+
+          try {
+            
+            # Configure Git identity
+            git config user.name  'azure-devops-bot'
+            git config user.email 'azuredevops@stueber.nomail'
+
+            # Add 'github' remote
+            git remote add github "https://$($env:PAT)@github.com/openpotato/openholidaysapi.data.git"
+
+            # Fetch remote main if it exists (ok to fail if repo is empty)
+            git fetch --prune github main
+            $fetchCode = $LASTEXITCODE
+
+            # If remote branch exists, only push when remote is an ancestor of HEAD (fast-forward safe)
+            if ($fetchCode -eq 0) {
+              git merge-base --is-ancestor github/main HEAD
+              if ($LASTEXITCODE -ne 0) {
+                Write-Error "Remote has commits not in local (or histories diverged). Aborting push."
+              }
+            }
+
+            # Push only the main branch (fast-forward or create remote if missing)
+            git push --tags github HEAD:refs/heads/main
+            if ($LASTEXITCODE -ne 0) { throw "git push failed with exit code $LASTEXITCODE" }
+            
+          }
+          finally {
+            
+            # Remove the remote so the PAT isn't left in .git/config
+            git remote remove github 2>$null | Out-Null
+            
+          }
+      env:
+        PAT: $(PAT)
