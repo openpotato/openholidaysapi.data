@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Groups
 dfba6b14-659f-470f-a319-a0a07ad7716f;BE;2019-12-23;2020-01-03;School;Regional;DE Weihnachtsferien,FR Vacances d'hiver (Noël),NL Kerstvakantie,EN Winter Holidays;DE
 d8ceec7d-f6d3-47fd-90b1-e574115aceb6;BE;2020-02-24;2020-02-28;School;Regional;DE Karnevalsferien,FR Congé de détente (Carnaval),NL Krokusvakantie,EN Carnival Holidays;DE
 baa0abfa-e5fe-494c-b384-1cd9d84e1973;BE;2020-04-06;2020-04-17;School;Regional;DE Osterferien,FR Vacances de printemps (Pâques),NL Paasvakantie,EN Spring Holidays;DE
