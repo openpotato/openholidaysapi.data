@@ -1,106 +1,148 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
-c4edf8bc-c7b6-4632-8b31-1dc25f10283b;DE;2010-07-12;2010-08-21;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-1921257f-bcaa-45bb-b5b4-116dd9577f81;DE;2010-10-11;2010-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-42e6dd86-d602-4833-a1e9-b71db688aa35;DE;2010-12-23;2011-01-07;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-6043d298-e5ff-4fdb-b2d2-4c60d116fe9b;DE;2011-04-15;2011-04-30;School;Regional;DE Osterferien,EN Easter Holidays;SH
-3568a3a1-8a51-46f8-8459-8deb23bf7590;DE;2011-06-03;2011-06-04;School;Regional;DE Himmelfahrt,EN Ascension;SH
-2dce7697-3122-446f-ac82-31e1cb657a44;DE;2011-07-04;2011-08-13;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-f27506ec-61d3-4c83-8be1-48611808c06a;DE;2011-10-10;2011-10-22;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-8e09bd28-84ea-44e6-b38d-df0eb59e464b;DE;2011-12-23;2012-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-663f4b63-d9d2-4779-9c13-4c73e4739232;DE;2012-03-30;2012-04-13;School;Regional;DE Osterferien,EN Easter Holidays;SH
-214edd72-25f8-4da9-a929-f9161d6c7f2c;DE;2012-05-18;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-9561a530-b719-4f7d-aa6c-04cc37f38619;DE;2012-06-25;2012-08-04;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-7896864c-818e-4edf-9703-23c6b081b024;DE;2012-10-04;2012-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-3f9e233b-6fe8-4932-be9e-e854c41781c8;DE;2012-12-24;2013-01-05;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-c16a07b6-6ed3-44b1-924b-f304a7946dc7;DE;2013-03-25;2013-04-09;School;Regional;DE Osterferien,EN Easter Holidays;SH
-adbb3c87-0bd7-4ff5-bdd5-e255b52f595e;DE;2013-05-10;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-8980cb51-7847-4fbe-ba23-1321a52a1495;DE;2013-06-24;2013-08-03;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-651f66fc-3942-411c-883b-038a3ad37ed5;DE;2013-10-04;2013-10-18;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-e8161754-bb85-4297-97c3-4a33d0c905ba;DE;2013-12-23;2014-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-eeeb9216-b720-4e6a-957b-57285c857ebc;DE;2014-04-16;2014-05-02;School;Regional;DE Osterferien,EN Easter Holidays;SH
-ebae1ca9-9328-4226-839d-803531b5be63;DE;2014-05-30;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-27d93c7e-8c4f-428a-8e03-d03693a05860;DE;2014-07-14;2014-08-23;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-0b38421b-88db-478f-bb24-9c2240efd6fe;DE;2014-10-13;2014-10-25;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-08f62d5d-30f0-4fb7-8fc6-ef971b28deaa;DE;2014-12-22;2015-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-d015e345-b59d-43b5-8d53-e95fe773289a;DE;2015-04-01;2015-04-17;School;Regional;DE Osterferien,EN Easter Holidays;SH
-92c89a40-c93e-4f73-bcb0-a4ee4b105d40;DE;2015-05-15;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-9278be82-c1f3-4d1f-bd99-ee56fbb8a71a;DE;2015-07-20;2015-08-29;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-6c68a976-ac69-49e7-b113-37d06115c7ff;DE;2015-10-19;2015-10-31;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-bd9590cf-1755-4ab2-9de4-d785d2cd7cb0;DE;2015-12-21;2016-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-546a3919-9eb6-4102-a634-20abcd2ca04e;DE;2016-03-24;2016-04-09;School;Regional;DE Osterferien,EN Easter Holidays;SH
-ba4d83e7-5b00-4ca4-abb3-6d4ef88dda3c;DE;2016-05-06;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-d4b7c513-3157-4441-a7f3-ca1614ccc29b;DE;2016-07-25;2016-09-03;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-01f31162-6f4d-4a62-a086-7c5defcfc4da;DE;2016-10-17;2016-10-29;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-10e04190-304c-4692-9465-0e9ec57b5a07;DE;2016-12-23;2017-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-27b19f09-0ce5-4ad0-95cb-d430332ae78f;DE;2017-04-07;2017-04-21;School;Regional;DE Osterferien,EN Easter Holidays;SH
-3b851f74-5f71-41d6-8d48-1d741c39705a;DE;2017-05-26;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-59af0b3c-a0e2-45f3-a18e-ebafafb43a2d;DE;2017-07-24;2017-09-02;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-97b3edf0-00ab-4d93-a6ad-3c08fcaec3bd;DE;2017-10-16;2017-10-27;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-720bcdff-5945-4521-ae75-40459e57a20b;DE;2017-12-21;2018-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-29b6c5dc-6a5b-4bd5-a5be-fa4d652434d3;DE;2018-03-29;2018-04-13;School;Regional;DE Osterferien,EN Easter Holidays;SH
-64a97424-0681-4ac9-a504-98081a3f91ca;DE;2018-05-11;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-c3041d35-d9bd-4a27-9b86-0742ba684677;DE;2018-07-09;2018-08-18;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-d0888857-d75d-40d8-a4f8-1426ec61a225;DE;2018-10-01;2018-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-ef29ea0d-8cb1-4ea6-b86d-1461ce9f1b12;DE;2018-12-21;2019-01-04;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-214b5a1e-3b8d-477a-a887-c66e2a163cbb;DE;2019-04-04;2019-04-18;School;Regional;DE Osterferien,EN Easter Holidays;SH
-b7ddfd5f-6fa6-4de0-b168-0cce8a1de228;DE;2019-05-31;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-232f0b9d-467f-4ccb-86f6-ffa35eef44ae;DE;2019-07-01;2019-08-10;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-b4eeffc5-6a9f-4c1e-a344-9f7b6bbe348f;DE;2019-10-04;2019-10-18;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-2028646a-607c-4ecf-b33a-852e455cc729;DE;2019-12-23;2020-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-113d6e8d-70c5-4371-8ed1-6014080065b2;DE;2020-03-30;2020-04-17;School;Regional;DE Osterferien,EN Easter Holidays;SH
-a4a3e9ac-578e-435e-8b6a-6d3bdcf39608;DE;2020-05-22;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-809edd99-2e24-4eb2-a6a8-26483ac731ec;DE;2020-06-29;2020-08-08;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-7a722647-0002-478c-b648-5fdfe6a2abf2;DE;2020-10-05;2020-10-17;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-55434584-11f9-417f-b2ae-993c5d4ae8ea;DE;2020-12-21;2021-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-a80da99c-cb94-4f61-a99f-9ce15db78ea6;DE;2021-04-01;2021-04-16;School;Regional;DE Osterferien,EN Easter Holidays;SH
-5febdd4f-27a8-4195-8fb2-b969cec562d2;DE;2021-05-14;2021-05-15;School;Regional;DE Himmelfahrt,EN Ascension;SH
-50bbed73-71bb-4ce8-8c09-c50b3f03e59c;DE;2021-06-21;2021-07-31;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-f505ba97-2ac8-4725-b9f5-b9e41200319b;DE;2021-10-04;2021-10-16;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-f32a0a35-2b9a-45a7-a417-e501239a7131;DE;2021-12-23;2022-01-08;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-03770012-8bc5-4363-9f80-508efea29b41;DE;2022-04-04;2022-04-16;School;Regional;DE Osterferien,EN Easter Holidays;SH
-12873d17-f4f3-4752-bac1-a7072f61e344;DE;2022-05-27;2022-05-28;School;Regional;DE Himmelfahrt,EN Ascension;SH
-491d12d3-fc6a-498e-b50e-69732ac05b83;DE;2022-07-04;2022-08-13;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-a37db8e3-2da1-4ae4-9041-873e06d66887;DE;2022-10-10;2022-10-21;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-a435990f-82ee-4b10-959e-4523765e291f;DE;2022-12-23;2023-01-07;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-6cb736d4-98b9-4e50-bd26-8cf298a0f12a;DE;2023-04-06;2023-04-22;School;Regional;DE Osterferien,EN Easter Holidays;SH
-d818b0fe-13fb-481e-8708-fa6c5bd83269;DE;2023-05-19;2023-05-20;School;Regional;DE Himmelfahrt,EN Ascension;SH
-438a0dfe-6dfb-45f4-aafd-9dd9fa0929bc;DE;2023-07-17;2023-08-26;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-0e212497-aa5b-4110-b030-950026637571;DE;2023-10-16;2023-10-27;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-8ca0788a-2ce9-463d-b66e-2feb1c2e8cec;DE;2023-12-27;2024-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-e5d33965-124e-4dfb-b2d7-f4e7f6d0eb6d;DE;2024-04-02;2024-04-19;School;Regional;DE Osterferien,EN Easter Holidays;SH
-c6c51588-b427-4454-aa64-384c0a555a6a;DE;2024-05-10;2024-05-11;School;Regional;DE Himmelfahrt,EN Ascension;SH
-fd5307fe-76d6-42f2-8774-5fef700d8031;DE;2024-07-22;2024-08-31;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-08eef432-6e8e-49aa-81a3-c85f1d53c96f;DE;2024-10-21;2024-11-01;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-ade0ef11-b174-4694-81a7-f4070e5c0803;DE;2024-12-19;2025-01-07;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-dc5f7764-bbd1-4b8b-b5c1-5ae64870dbbd;DE;2025-04-11;2025-04-25;School;Regional;DE Osterferien,EN Easter Holidays;SH
-22d1fa1e-73f1-4865-9e41-216b826feaa0;DE;2025-05-30;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-4efa8a64-e3a7-420c-ad2c-82f2fbe79215;DE;2025-07-28;2025-09-06;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-613a52df-5ad8-4179-906b-1dc3c90250b1;DE;2025-10-20;2025-10-30;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-2fc953e8-0194-420a-9aba-437c50faaa74;DE;2025-12-19;2026-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-6c743d0a-dc28-4cc7-9ff6-296839145178;DE;2026-03-26;2026-04-10;School;Regional;DE Osterferien,EN Easter Holidays;SH
-0ee33968-9d63-4969-bf78-c4827e711994;DE;2026-05-15;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-7dcb7a13-cb0f-4661-a283-495acbc3ed82;DE;2026-07-04;2026-08-15;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-84a4da5f-d71a-4fa2-9333-625b6fd50300;DE;2026-10-12;2026-10-24;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-74875362-e705-4227-94bf-4232f6df2903;DE;2026-12-21;2027-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-61a1f854-0863-47fe-a21d-25f12a4edec2;DE;2027-03-30;2027-04-10;School;Regional;DE Osterferien,EN Easter Holidays;SH
-5c72cce9-3058-4f4e-9bef-82cd4c1eca9e;DE;2027-05-07;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-4743f7af-800d-4d0b-afb2-2e07fa82d13b;DE;2027-07-03;2027-08-14;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-377af68e-2c15-458a-ac42-bdc8354ac6dd;DE;2027-10-11;2027-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-ed341123-ee3c-478a-9dea-ffbbf460b8d3;DE;2027-12-23;2028-01-08;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-89cf029f-a702-40d2-a462-a11ad3a92f4c;DE;2028-04-03;2028-04-15;School;Regional;DE Osterferien,EN Easter Holidays;SH
-5774e099-8873-4e9a-a744-19a2664f325d;DE;2028-05-26;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-678de58c-7267-419c-8d49-6dbac21e490a;DE;2028-06-24;2028-08-04;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-d4c682e4-c864-432e-8108-bb8518f46556;DE;2028-10-16;2028-10-30;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-1314c1d4-675b-428b-a240-2930c4567973;DE;2028-12-21;2029-01-05;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-32459bea-0886-4494-b72b-8ee1133e29d8;DE;2029-03-23;2029-04-06;School;Regional;DE Osterferien,EN Easter Holidays;SH
-6c0b5717-c528-44ed-93bf-9e1b614e2e77;DE;2029-05-11;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-b3c331af-d77a-45a9-b50a-869e5a9f4dbd;DE;2029-06-23;2029-08-03;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-39be8640-2d2b-4e5e-b8fe-7a8656600dc9;DE;2029-10-08;2029-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-fa3a4d4e-c2fe-434d-863a-bb8d54202e76;DE;2029-12-21;2030-01-08;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-e5d03fe7-9f23-453f-ba26-f54881311067;DE;2030-04-08;2030-04-20;School;Regional;DE Osterferien,EN Easter Holidays;SH
-0868e12b-2099-4708-9307-871ca922d44e;DE;2030-05-31;;School;Regional;DE Himmelfahrt,EN Ascension;SH
-f32e55a7-91b7-4b9e-ab83-46273f1515c4;DE;2030-07-08;2030-08-17;School;Regional;DE Sommerferien,EN Summer Holidays;SH
-f97b1c16-6ede-499f-a5bc-16520d02ee67;DE;2030-10-14;2030-10-25;School;Regional;DE Herbstferien,EN Autumn Holidays;SH
-86e51bac-ffe3-4cab-a5d5-98c43723ba62;DE;2030-12-20;2031-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH
-d85b998f-5d48-4838-93ab-5f7a2bc023f9;DE;2031-03-28;2031-04-10;School;Regional;DE Osterferien,EN Easter Holidays;SH
-b793fa06-c085-4f92-88cc-48f8a68adb0a;DE;2031-05-23;;School;Regional;DE Himmelfahrt,EN Ascension;SH
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Tags;Comment
+c4edf8bc-c7b6-4632-8b31-1dc25f10283b;DE;2010-07-12;2010-08-21;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+a1f5f1d8-1b2f-4ae2-82e1-ffeaab2a00a3;DE;2010-07-12;2010-08-14;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+7e52e96e-f773-4665-89ef-57edb44288cc;DE;2010-10-04;2010-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+1921257f-bcaa-45bb-b5b4-116dd9577f81;DE;2010-10-11;2010-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+42e6dd86-d602-4833-a1e9-b71db688aa35;DE;2010-12-23;2011-01-07;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+6043d298-e5ff-4fdb-b2d2-4c60d116fe9b;DE;2011-04-15;2011-04-30;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+3568a3a1-8a51-46f8-8459-8deb23bf7590;DE;2011-06-03;2011-06-04;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+2dce7697-3122-446f-ac82-31e1cb657a44;DE;2011-07-04;2011-08-13;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+2c8d295f-8e9d-439b-b62c-2e1c0fca474d;DE;2011-07-04;2011-08-06;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+4bc13951-7fd2-4f0c-a3be-90252de68117;DE;2011-10-03;2011-10-22;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+f27506ec-61d3-4c83-8be1-48611808c06a;DE;2011-10-10;2011-10-22;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+8e09bd28-84ea-44e6-b38d-df0eb59e464b;DE;2011-12-23;2012-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+663f4b63-d9d2-4779-9c13-4c73e4739232;DE;2012-03-30;2012-04-13;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+214edd72-25f8-4da9-a929-f9161d6c7f2c;DE;2012-05-18;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+9561a530-b719-4f7d-aa6c-04cc37f38619;DE;2012-06-25;2012-08-04;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+e5a89e88-f403-4a15-9230-7ea593c78b64;DE;2012-06-25;2012-07-28;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+a015f2c4-91f7-4638-b61d-36961ac3ce7d;DE;2012-09-27;2012-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+7896864c-818e-4edf-9703-23c6b081b024;DE;2012-10-04;2012-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+3f9e233b-6fe8-4932-be9e-e854c41781c8;DE;2012-12-24;2013-01-05;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+c16a07b6-6ed3-44b1-924b-f304a7946dc7;DE;2013-03-25;2013-04-09;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+adbb3c87-0bd7-4ff5-bdd5-e255b52f595e;DE;2013-05-10;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+8980cb51-7847-4fbe-ba23-1321a52a1495;DE;2013-06-24;2013-08-03;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+1b1620ed-0f82-4405-b0cf-82f89603bc09;DE;2013-06-24;2013-07-27;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+2c51e6a2-5b79-4ab2-bd5c-4ad55fc8a570;DE;2013-09-27;2013-10-18;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+651f66fc-3942-411c-883b-038a3ad37ed5;DE;2013-10-04;2013-10-18;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+e8161754-bb85-4297-97c3-4a33d0c905ba;DE;2013-12-23;2014-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+eeeb9216-b720-4e6a-957b-57285c857ebc;DE;2014-04-16;2014-05-02;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+ebae1ca9-9328-4226-839d-803531b5be63;DE;2014-05-30;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+27d93c7e-8c4f-428a-8e03-d03693a05860;DE;2014-07-14;2014-08-23;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+3f2a3fc8-6d6e-49b0-9a33-5876880f2d11;DE;2014-07-14;2014-08-16;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+6a7ed8cc-6ec6-4b0d-86e4-bf83277df82d;DE;2014-10-06;2014-10-25;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+0b38421b-88db-478f-bb24-9c2240efd6fe;DE;2014-10-13;2014-10-25;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+08f62d5d-30f0-4fb7-8fc6-ef971b28deaa;DE;2014-12-22;2015-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+d015e345-b59d-43b5-8d53-e95fe773289a;DE;2015-04-01;2015-04-17;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+92c89a40-c93e-4f73-bcb0-a4ee4b105d40;DE;2015-05-15;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+9278be82-c1f3-4d1f-bd99-ee56fbb8a71a;DE;2015-07-20;2015-08-29;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+8581422a-5d2c-4c3f-9e2a-49a8e1f4121c;DE;2015-07-20;2015-08-22;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+f3f770c3-f8a3-4403-8b0f-8c1c3f6b5f94;DE;2015-10-12;2015-10-31;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+6c68a976-ac69-49e7-b113-37d06115c7ff;DE;2015-10-19;2015-10-31;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+bd9590cf-1755-4ab2-9de4-d785d2cd7cb0;DE;2015-12-21;2016-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+546a3919-9eb6-4102-a634-20abcd2ca04e;DE;2016-03-24;2016-04-09;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+ba4d83e7-5b00-4ca4-abb3-6d4ef88dda3c;DE;2016-05-06;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+d4b7c513-3157-4441-a7f3-ca1614ccc29b;DE;2016-07-25;2016-09-03;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+4cb9f7c5-b00b-4d0a-95e3-4b78b1734262;DE;2016-07-25;2016-08-27;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+9a47c3b5-7fa9-47b4-9c58-6ef0d1b7aeec;DE;2016-10-10;2016-10-29;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+01f31162-6f4d-4a62-a086-7c5defcfc4da;DE;2016-10-17;2016-10-29;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+10e04190-304c-4692-9465-0e9ec57b5a07;DE;2016-12-23;2017-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+27b19f09-0ce5-4ad0-95cb-d430332ae78f;DE;2017-04-07;2017-04-21;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+3b851f74-5f71-41d6-8d48-1d741c39705a;DE;2017-05-26;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+59af0b3c-a0e2-45f3-a18e-ebafafb43a2d;DE;2017-07-24;2017-09-02;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+b7e34f79-1be3-48d4-97bc-3f15790d31f6;DE;2017-07-24;2017-08-26;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+84ebcf29-f9b0-4c29-bd49-81b7ec96c2c6;DE;2017-10-09;2017-10-27;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+97b3edf0-00ab-4d93-a6ad-3c08fcaec3bd;DE;2017-10-16;2017-10-27;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+720bcdff-5945-4521-ae75-40459e57a20b;DE;2017-12-21;2018-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+29b6c5dc-6a5b-4bd5-a5be-fa4d652434d3;DE;2018-03-29;2018-04-13;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+64a97424-0681-4ac9-a504-98081a3f91ca;DE;2018-05-11;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+c3041d35-d9bd-4a27-9b86-0742ba684677;DE;2018-07-09;2018-08-18;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+e720835e-8671-42ab-8803-96b25882f1ea;DE;2018-07-09;2018-08-11;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+be521a80-f36b-4a60-9be1-4c6ef8f3b058;DE;2018-09-24;2018-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+d0888857-d75d-40d8-a4f8-1426ec61a225;DE;2018-10-01;2018-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+ef29ea0d-8cb1-4ea6-b86d-1461ce9f1b12;DE;2018-12-21;2019-01-04;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+214b5a1e-3b8d-477a-a887-c66e2a163cbb;DE;2019-04-04;2019-04-18;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+b7ddfd5f-6fa6-4de0-b168-0cce8a1de228;DE;2019-05-31;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+232f0b9d-467f-4ccb-86f6-ffa35eef44ae;DE;2019-07-01;2019-08-10;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+90bdf25c-d49f-4099-a9f7-1c1f3f6e7584;DE;2019-07-01;2019-08-03;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+d2682a71-2da3-4a03-98e2-d1e7ff5ac0a6;DE;2019-09-27;2019-10-18;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+b4eeffc5-6a9f-4c1e-a344-9f7b6bbe348f;DE;2019-10-04;2019-10-18;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+2028646a-607c-4ecf-b33a-852e455cc729;DE;2019-12-23;2020-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+113d6e8d-70c5-4371-8ed1-6014080065b2;DE;2020-03-30;2020-04-17;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+a4a3e9ac-578e-435e-8b6a-6d3bdcf39608;DE;2020-05-22;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+809edd99-2e24-4eb2-a6a8-26483ac731ec;DE;2020-06-29;2020-08-08;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+76e69f66-2bce-45df-a498-d5e8b715f694;DE;2020-06-29;2020-08-01;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+8b0ee37c-0601-4f1a-89ff-9867b4e88b6f;DE;2020-09-28;2020-10-17;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+7a722647-0002-478c-b648-5fdfe6a2abf2;DE;2020-10-05;2020-10-17;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+55434584-11f9-417f-b2ae-993c5d4ae8ea;DE;2020-12-21;2021-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+a80da99c-cb94-4f61-a99f-9ce15db78ea6;DE;2021-04-01;2021-04-16;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+5febdd4f-27a8-4195-8fb2-b969cec562d2;DE;2021-05-14;2021-05-15;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+50bbed73-71bb-4ce8-8c09-c50b3f03e59c;DE;2021-06-21;2021-07-31;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+d1874465-1086-4bc3-b5cd-2e9d3df70182;DE;2021-06-21;2021-07-24;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+bd66b9d0-8690-4793-99cc-66b61c408bdf;DE;2021-09-27;2021-10-16;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+f505ba97-2ac8-4725-b9f5-b9e41200319b;DE;2021-10-04;2021-10-16;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+f32a0a35-2b9a-45a7-a417-e501239a7131;DE;2021-12-23;2022-01-08;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+03770012-8bc5-4363-9f80-508efea29b41;DE;2022-04-04;2022-04-16;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+12873d17-f4f3-4752-bac1-a7072f61e344;DE;2022-05-27;2022-05-28;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+491d12d3-fc6a-498e-b50e-69732ac05b83;DE;2022-07-04;2022-08-13;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+74f0a270-731a-4c8f-bc66-25d12ef87d7b;DE;2022-07-04;2022-08-06;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+a7c11d82-8d35-456b-bf6c-93d6d8ff43ea;DE;2022-10-03;2022-10-21;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+a37db8e3-2da1-4ae4-9041-873e06d66887;DE;2022-10-10;2022-10-21;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+a435990f-82ee-4b10-959e-4523765e291f;DE;2022-12-23;2023-01-07;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+6cb736d4-98b9-4e50-bd26-8cf298a0f12a;DE;2023-04-06;2023-04-22;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+d818b0fe-13fb-481e-8708-fa6c5bd83269;DE;2023-05-19;2023-05-20;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+438a0dfe-6dfb-45f4-aafd-9dd9fa0929bc;DE;2023-07-17;2023-08-26;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+04a679a7-e058-4c25-9b44-1aebfb36516a;DE;2023-07-17;2023-08-19;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+f6e640c9-09d7-469f-9c4e-e3e9b55dce26;DE;2023-10-09;2023-10-27;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+0e212497-aa5b-4110-b030-950026637571;DE;2023-10-16;2023-10-27;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+8ca0788a-2ce9-463d-b66e-2feb1c2e8cec;DE;2023-12-27;2024-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+e5d33965-124e-4dfb-b2d7-f4e7f6d0eb6d;DE;2024-04-02;2024-04-19;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+c6c51588-b427-4454-aa64-384c0a555a6a;DE;2024-05-10;2024-05-11;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+fd5307fe-76d6-42f2-8774-5fef700d8031;DE;2024-07-22;2024-08-31;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+b385bd29-3c0a-4322-8475-4c9c22b6c5cf;DE;2024-07-22;2024-08-24;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+209768f1-b65c-4056-bc17-01df2c04822a;DE;2024-10-14;2024-11-01;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+08eef432-6e8e-49aa-81a3-c85f1d53c96f;DE;2024-10-21;2024-11-01;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+ade0ef11-b174-4694-81a7-f4070e5c0803;DE;2024-12-19;2025-01-07;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+dc5f7764-bbd1-4b8b-b5c1-5ae64870dbbd;DE;2025-04-11;2025-04-25;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+22d1fa1e-73f1-4865-9e41-216b826feaa0;DE;2025-05-30;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+4efa8a64-e3a7-420c-ad2c-82f2fbe79215;DE;2025-07-28;2025-09-06;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+d14df348-0bb6-40e2-8e11-9bfe61f310f3;DE;2025-07-28;2025-08-30;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+c9a70962-0482-405e-bfb5-f31863c2e0d5;DE;2025-10-13;2025-10-30;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+613a52df-5ad8-4179-906b-1dc3c90250b1;DE;2025-10-20;2025-10-30;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+2fc953e8-0194-420a-9aba-437c50faaa74;DE;2025-12-19;2026-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+6c743d0a-dc28-4cc7-9ff6-296839145178;DE;2026-03-26;2026-04-10;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+0ee33968-9d63-4969-bf78-c4827e711994;DE;2026-05-15;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+7dcb7a13-cb0f-4661-a283-495acbc3ed82;DE;2026-07-04;2026-08-15;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+fdd6cbef-1e9f-4897-831d-8fdb276c4797;DE;2026-07-04;2026-08-08;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+e3d21746-7a9c-4ae6-93c1-2f20aa59e25f;DE;2026-10-05;2026-10-24;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+84a4da5f-d71a-4fa2-9333-625b6fd50300;DE;2026-10-12;2026-10-24;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+74875362-e705-4227-94bf-4232f6df2903;DE;2026-12-21;2027-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+61a1f854-0863-47fe-a21d-25f12a4edec2;DE;2027-03-30;2027-04-10;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+5c72cce9-3058-4f4e-9bef-82cd4c1eca9e;DE;2027-05-07;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+4743f7af-800d-4d0b-afb2-2e07fa82d13b;DE;2027-07-03;2027-08-14;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+9aa4c32e-e8f8-4a8e-80ea-5b83bda3b448;DE;2027-07-03;2027-08-07;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+4e2c2a5c-4a71-4c3e-98cb-1eb269431519;DE;2027-10-04;2027-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+377af68e-2c15-458a-ac42-bdc8354ac6dd;DE;2027-10-11;2027-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+ed341123-ee3c-478a-9dea-ffbbf460b8d3;DE;2027-12-23;2028-01-08;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+89cf029f-a702-40d2-a462-a11ad3a92f4c;DE;2028-04-03;2028-04-15;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+5774e099-8873-4e9a-a744-19a2664f325d;DE;2028-05-26;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+678de58c-7267-419c-8d49-6dbac21e490a;DE;2028-06-24;2028-08-04;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+6a3fda5f-6c73-4f3a-b85a-84792ab399e0;DE;2028-06-24;2028-07-28;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+3c83cf6f-154c-412c-baa7-15d6099c589e;DE;2028-10-09;2028-10-30;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+d4c682e4-c864-432e-8108-bb8518f46556;DE;2028-10-16;2028-10-30;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+1314c1d4-675b-428b-a240-2930c4567973;DE;2028-12-21;2029-01-05;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+32459bea-0886-4494-b72b-8ee1133e29d8;DE;2029-03-23;2029-04-06;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+6c0b5717-c528-44ed-93bf-9e1b614e2e77;DE;2029-05-11;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+b3c331af-d77a-45a9-b50a-869e5a9f4dbd;DE;2029-06-23;2029-08-03;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+13efcc17-6596-4e6c-9221-e6ae77ef0ec5;DE;2029-06-23;2029-07-27;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+c1802788-fbe4-4e0a-8f55-baf6f212b04d;DE;2029-09-28;2029-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+39be8640-2d2b-4e5e-b8fe-7a8656600dc9;DE;2029-10-08;2029-10-19;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+fa3a4d4e-c2fe-434d-863a-bb8d54202e76;DE;2029-12-21;2030-01-08;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+e5d03fe7-9f23-453f-ba26-f54881311067;DE;2030-04-08;2030-04-20;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+0868e12b-2099-4708-9307-871ca922d44e;DE;2030-05-31;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
+f32e55a7-91b7-4b9e-ab83-46273f1515c4;DE;2030-07-08;2030-08-17;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
+7b4cc625-f5e4-42a0-ae3b-5cc6ff2a93c5;DE;2030-07-08;2030-08-10;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+2efaa23b-2c93-4f9a-a71e-55ae05cd4097;DE;2030-10-07;2030-10-25;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen,EN Islands Sylt, Föhr, Amrum, Helgoland and the Halligen
+f97b1c16-6ede-499f-a5bc-16520d02ee67;DE;2030-10-14;2030-10-25;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;;
+86e51bac-ffe3-4cab-a5d5-98c43723ba62;DE;2030-12-20;2031-01-06;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;SH;;
+d85b998f-5d48-4838-93ab-5f7a2bc023f9;DE;2031-03-28;2031-04-10;School;Regional;DE Osterferien,EN Easter Holidays;SH;;
+b793fa06-c085-4f92-88cc-48f8a68adb0a;DE;2031-05-23;;School;Regional;DE Himmelfahrt,EN Ascension;SH;;
