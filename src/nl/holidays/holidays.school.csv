@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Groups
 3e2c8f33-6faa-488c-9142-36fb28047b1a;NL;2019-12-21;2020-01-05;School;Regional;NL Kerstvakantie,DE Weihnachtsferien,EN Christmas Holidays;NO,MI,ZU
 02e266c7-68e5-42bb-a547-d667facbdf13;NL;2020-02-15;2020-02-23;School;Regional;NL Voorjaarsvakantie,DE Frühjahrsferien,EN Spring Holidays;NO
 93127ec8-5b72-42bc-9e5f-1bb9cdded351;NL;2020-02-22;2020-03-01;School;Regional;NL Voorjaarsvakantie,DE Frühjahrsferien,EN Spring Holidays;MI,ZU

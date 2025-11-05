@@ -1,21 +1,355 @@
-﻿Country;Code;ShortName;Category;Name;Comment;OfficialLanguages;Parent
-NL;NL-NO;NO;NL Regio,DE Region,EN region;NL Regio Noord,DE Region Nord,EN North Region;;NL;
-NL;NL-MI;MI;NL Regio,DE Region,EN region;NL Regio Midden,DE Region Mitte,EN Central Region;;NL;
-NL;NL-ZU;ZU;NL Regio,DE Region,EN region;NL Regio Zuid,DE Region Süd,EN South Region;;NL;
-NL;NL-NO-DR;NO-DR;NL gemeenten,DE Gemeinden,EN municipalities;NL Drenthe,DE Drenthe,EN Drenthe;NL Alle gemeenten,DE Alle Gemeinden,EN All municipalities;NL;NO
-NL;NL-NO-FL;NO-FL;NL gemeenten,DE Gemeinden,EN municipalities;NL Flevoland (Noord),DE Flevoland (Norden),EN Flevoland (north);NL Alle gemeenten behalve Zeewolde,DE Alle Gemeinden außer Zeewolde,EN All municipalities except Zeewolde;NL;NO
-NL;NL-NO-FR;NO-FR;NL gemeenten,DE Gemeinden,EN municipalities;NL Friesland,DE Friesland,EN Friesland;NL Alle gemeenten,DE Alle Gemeinden,EN All municipalities;NL;NO
-NL;NL-NO-GE;NO-GE;NL gemeenten,DE Gemeinden,EN municipalities;NL Gelderland (Noord),DE Gelderland (Norden),EN Gelderland (north);NL Hattem,DE Hattem,EN Hattem;NL;NO
-NL;NL-NO-GR;NO-GR;NL gemeenten,DE Gemeinden,EN municipalities;NL Groningen,DE Groningen,EN Groningen;NL Alle gemeenten,DE Alle Gemeinden,EN All municipalities;NL;NO
-NL;NL-NO-NH;NO-NH;NL gemeenten,DE Gemeinden,EN municipalities;NL Noord-Holland,DE Nord-Holland,EN North Holland;NL Alle gemeenten,DE Alle Gemeinden,EN All municipalities;NL;NO
-NL;NL-NO-OV;NO-OV;NL gemeenten,DE Gemeinden,EN municipalities;NL Overijssel,DE Overijssel,EN Overijssel;NL Alle gemeenten,DE Alle Gemeinden,EN All municipalities;NL;NO
-NL;NL-NO-UT;NO-UT;NL gemeenten,DE Gemeinden,EN municipalities;NL Utrecht (Noord),DE Utrecht (Norden),EN Utrecht (north);NL Eemnes en wat vroeger gemeente Abcoude was,DE Eemnes und die frühere Gemeinde Abcoude,EN Eemnes and the former municipality of Abcoude;NL;NO
-NL;NL-MI-FL;MI-FL;NL gemeenten,DE Gemeinden,EN municipalities;NL Flevoland (Midden),DE Flevoland (Mitte),EN Flevoland (central);NL Zeewolde,DE Zeewolde,EN Zeewolde;NL;MI
-NL;NL-MI-GE;MI-GE;NL gemeenten,DE Gemeinden,EN municipalities;NL Gelderland (Midden),DE Gelderland (Mitte),EN Gelderland (central);NL Aalten%2C Apeldoorn%2C Barneveld%2C Berkelland%2C Bronckhorst%2C Brummen%2C Buren%2C Culemborg%2C Doetinchem%2C Ede%2C Elburg%2C Epe%2C Ermelo%2C Harderwijk%2C Heerde%2C Lochem%2C Montferland (behalve wat vroeger gemeente Didam was)%2C Neder-Betuwe (behalve wat vroeger gemeente Dodewaard was)%2C Nijkerk%2C Nunspeet%2C Oldebroek%2C Oost-Gelre%2C Oude IJsselstreek%2C Putten%2C Scherpenzeel%2C Tiel%2C Voorst%2C Wageningen%2C West Betuwe%2C Winterswijk en Zutphen,DE Aalten%2C Apeldoorn%2C Barneveld%2C Berkelland%2C Bronckhorst%2C Brummen%2C Buren%2C Culemborg%2C Doetinchem%2C Ede%2C Elburg%2C Epe%2C Ermelo%2C Harderwijk%2C Heerde%2C Lochem%2C Montferland (außer der ehemaligen Gemeinde Didam)%2C Neder- Betuwe Betuwe (außer der ehemaligen Gemeinde Dodewaard)%2C Nijkerk%2C Nunspeet%2C Oldebroek%2C Oost-Gelre%2C Oude IJsselstreek%2C Putten%2C Scherpenzeel%2C Tiel%2C Voorst%2C Wageningen%2C West Betuwe%2C Winterswijk und Zutphen,EN Aalten%2C Apeldoorn%2C Barneveld%2C Berkelland%2C Bronckhorst%2C Brummen%2C Buren%2C Culemborg%2C Doetinchem%2C Ede%2C Elburg%2C Epe%2C Ermelo%2C Geldermalsen%2C Harderwijk%2C Heerde%2C Lingewaal%2C Lochem%2C Montferland (except the former municipality of Didam)%2C Neder-Betuwe (except the former municipality of Dodewaard)%2C Neerijnen%2C Nijkerk%2C Nunspeet%2C Oldebroek%2C Oost-Gelre%2C Oude IJsselstreek%2C Putten%2C Scherpenzeel%2C Tiel%2C Voorst%2C Wageningen%2C Winterswijk and Zutphen;NL;MI
-NL;NL-MI-NB;MI-NB;NL gemeenten,DE Gemeinden,EN municipalities;NL Noord-Brabant (Midden),DE Nord-Brabant (Mitte),EN North Brabant (central);NL Altena (behalve de kernen Hank en Dussen),DE Altena (außer den Dorfkernen Hank und Dussen),EN Werkendam (except the communities of Hank and Dussen) and Woudrichem;NL;MI
-NL;NL-MI-UT;MI-UT;NL gemeenten,DE Gemeinden,EN municipalities;NL Utrecht (Midden),DE Utrecht (Mitte),EN Utrecht (central);NL Alle gemeenten behalve Eemnes en wat vroeger gemeente Abcoude was,DE Alle Gemeinden außer Eemnes und der ehemaligen Gemeinde Abcoude,EN All municipalities except Eemnes and the former municipality of Abcoude;NL;MI
-NL;NL-MI-ZH;MI-ZH;NL gemeenten,DE Gemeinden,EN municipalities;NL Zuid-Holland,DE Süd-Holland,EN South Holland;NL Alle gemeenten,DE Alle Gemeinden,EN All municipalities;NL;MI
-NL;NL-ZU-GE;ZU-GE;NL gemeenten,DE Gemeinden,EN municipalities;NL Gelderland (Zuid),DE Gelderland (Süden),EN Gelderland (south);NL Arnhem%2C Berg en Dal%2C Beuningen%2C Doesburg%2C Druten%2C Duiven%2C Heumen%2C Neder-Betuwe (alleen wat vroeger gemeente Dodewaard was)%2C Lingewaard%2C Maasdriel%2C Montferland (alleen wat vroeger gemeente Didam was)%2C Nijmegen%2C Overbetuwe%2C Renkum%2C Rheden%2C Rozendaal%2C Rijnwaarden%2C Westervoort%2C West Maas en Waal%2C Wijchen%2C Zaltbommel en Zevenaar,DE Arnheim%2C Berg en Dal%2C Beuningen%2C Doesburg%2C Druten%2C Duiven%2C Heumen%2C Neder-Betuwe (nur das%2C was früher Dodewaard war)%2C Lingewaard%2C Maasdriel%2C Montferland (nur das%2C was früher Didam war)%2C Nijmegen%2C Overbetuwe%2C Renkum%2C Rheden%2C Rozendaal%2C Rijnwaarden%2C Westervoort%2C West Maas en Waal%2C Wijchen%2C Zaltbommel und Zevenaar,EN Arnhem%2C Beuningen%2C Doesburg%2C Druten%2C Duiven%2C Groesbeek%2C Heumen%2C Neder-Betuwe (only the former municipality of Dodewaard)%2C Lingewaard%2C Maasdriel%2C Millingen aan de Rijn%2C Montferland (only the former municipality of Didam)%2C Nijmegen%2C Overbetuwe%2C Renkum%2C Rheden%2C Rozendaal%2C Rijnwaarden%2C Ubbergen%2C Westervoort%2C West Maas & Waal%2C Wijchen%2C Zaltbommel and Zevenaar;NL;ZU
-NL;NL-ZU-LI;ZU-LI;NL gemeenten,DE Gemeinden,EN municipalities;NL Limburg,DE Limburg,EN Limburg;NL Alle gemeenten,DE Alle Gemeinden,EN All municipalities;NL;ZU
-NL;NL-ZU-NB;ZU-NB;NL gemeenten,DE Gemeinden,EN municipalities;NL Noord-Brabant (Zuid),NL Nord-Brabant (Süden),EN North Brabant (south);NL Alle gemeenten behalve Woudrichem en de kernen Sleeuwijk%2C Nieuwendijk en Werkendam in de gemeente Altena,DE Alle Gemeinden außer Woudrichem und den Dorfkernen von Sleeuwijk%2C Nieuwendijk und Werkendam in der Gemeinde Altena,EN All municipalities except Woudrichem and the communities of Sleeuwijk%2C Nieuwendijk and Werkendam in the municipality of Werkendam;NL;ZU
-NL;NL-ZU-ZE;ZU-ZE;NL gemeenten,DE Gemeinden,EN municipalities;NL Zeeland,DE Zeeland,EN Zeeland;NL Alle gemeenten,DE Alle Gemeinden,EN All municipalities;NL;ZU
+Country;Code;IsoCode;ShortName;OfficialLanguages;Category;Name;Groups;Parent
+NL;NL-DR;NL-DR;DR;NL;NL provincie,EN province,DE Provinz;NL Drenthe,EN Drenthe,DE Drenthe;NO;
+NL;NL-DR-AH;;DR-AH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Aa en Hunze,EN Aa en Hunze,DE Aa en Hunze;NO;DR
+NL;NL-DR-AS;;DR-AS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Assen,EN Assen,DE Assen;NO;DR
+NL;NL-DR-BO;;DR-BO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Borger-Odoorn,EN Borger-Odoorn,DE Borger-Odoorn;NO;DR
+NL;NL-DR-CO;;DR-CO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Coevorden,EN Coevorden,DE Coevorden;NO;DR
+NL;NL-DR-DW;;DR-DW;NL;NL gemeente,EN municipality,DE Gemeinde;NL De Wolden,EN De Wolden,DE De Wolden;NO;DR
+NL;NL-DR-EM;;DR-EM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Emmen,EN Emmen,DE Emmen;NO;DR
+NL;NL-DR-HO;;DR-HO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hoogeveen,EN Hoogeveen,DE Hoogeveen;NO;DR
+NL;NL-DR-MD;;DR-MD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Midden-Drenthe,EN Midden-Drenthe,DE Midden-Drenthe;NO;DR
+NL;NL-DR-ME;;DR-ME;NL;NL gemeente,EN municipality,DE Gemeinde;NL Meppel,EN Meppel,DE Meppel;NO;DR
+NL;NL-DR-NO;;DR-NO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Noordenveld,EN Noordenveld,DE Noordenveld;NO;DR
+NL;NL-DR-TY;;DR-TY;NL;NL gemeente,EN municipality,DE Gemeinde;NL Tynaarlo,EN Tynaarlo,DE Tynaarlo;NO;DR
+NL;NL-DR-WE;;DR-WE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Westerveld,EN Westerveld,DE Westerveld;NO;DR
+NL;NL-FL;NL-FL;FL;NL;NL provincie,EN province,DE Provinz;NL Flevoland,EN Flevoland,DE Flevoland;MI,NO;
+NL;NL-FL-AL;;FL-AL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Almere,EN Almere,DE Almere;NO;FL
+NL;NL-FL-DR;;FL-DR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Dronten,EN Dronten,DE Dronten;NO;FL
+NL;NL-FL-LE;;FL-LE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Lelystad,EN Lelystad,DE Lelystad;NO;FL
+NL;NL-FL-NO;;FL-NO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Noordoostpolder,EN Noordoostpolder,DE Noordoostpolder;NO;FL
+NL;NL-FL-UR;;FL-UR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Urk,EN Urk,DE Urk;NO;FL
+NL;NL-FL-ZE;;FL-ZE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zeewolde,EN Zeewolde,DE Zeewolde;MI;FL
+NL;NL-FR;NL-FR;FR;NL;NL provincie,EN province,DE Provinz;NL Fryslân,EN Friesland,DE Friesland;NO;
+NL;NL-FR-AC;;FR-AC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Achtkarspelen,EN Achtkarspelen,DE Achtkarspelen;NO;FR
+NL;NL-FR-AM;;FR-AM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Ameland,EN Ameland,DE Ameland;NO;FR
+NL;NL-FR-DA;;FR-DA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Dantumadeel,EN Dantumadeel,DE Dantumadeel;NO;FR
+NL;NL-FR-DF;;FR-DF;NL;NL gemeente,EN municipality,DE Gemeinde;NL De Friese Meren,EN De Friese Meren,DE De Friese Meren;NO;FR
+NL;NL-FR-HA;;FR-HA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Harlingen,EN Harlingen,DE Harlingen;NO;FR
+NL;NL-FR-HE;;FR-HE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Heerenveen,EN Heerenveen,DE Heerenveen;NO;FR
+NL;NL-FR-LW;;FR-LW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Leeuwarden,EN Leeuwarden,DE Leeuwarden;NO;FR
+NL;NL-FR-NF;;FR-NF;NL;NL gemeente,EN municipality,DE Gemeinde;NL Noardeast-Fryslân,EN Noardeast-Fryslân,DE Noardeast-Fryslân;NO;FR
+NL;NL-FR-OO;;FR-OO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Ooststellingwerf,EN Ooststellingwerf,DE Ooststellingwerf;NO;FR
+NL;NL-FR-OP;;FR-OP;NL;NL gemeente,EN municipality,DE Gemeinde;NL Opsterland,EN Opsterland,DE Opsterland;NO;FR
+NL;NL-FR-SC;;FR-SC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Schiermonnikoog,EN Schiermonnikoog,DE Schiermonnikoog;NO;FR
+NL;NL-FR-SF;;FR-SF;NL;NL gemeente,EN municipality,DE Gemeinde;NL Súdwest-Fryslân,EN Súdwest-Fryslân,DE Súdwest-Fryslân;NO;FR
+NL;NL-FR-SM;;FR-SM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Smallingerland,EN Smallingerland,DE Smallingerland;NO;FR
+NL;NL-FR-TE;;FR-TE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Terschelling,EN Terschelling,DE Terschelling;NO;FR
+NL;NL-FR-TI;;FR-TI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Tietjerksteradeel,EN Tietjerksteradeel,DE Tietjerksteradeel;NO;FR
+NL;NL-FR-VL;;FR-VL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Vlieland,EN Vlieland,DE Vlieland;NO;FR
+NL;NL-FR-WA;;FR-WA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Waadhoeke,EN Waadhoeke,DE Waadhoeke;NO;FR
+NL;NL-FR-WE;;FR-WE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Weststellingwerf,EN Weststellingwerf,DE Weststellingwerf;NO;FR
+NL;NL-GE;NL-GE;GE;NL;NL provincie,EN province,DE Provinz;NL Gelderland,EN Gelderland,DE Gelderland;MI,NO,ZU;
+NL;NL-GE-AA;;GE-AA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Aalten,EN Aalten,DE Aalten;MI;GE
+NL;NL-GE-AP;;GE-AP;NL;NL gemeente,EN municipality,DE Gemeinde;NL Apeldoorn,EN Apeldoorn,DE Apeldoorn;MI;GE
+NL;NL-GE-AR;;GE-AR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Arnhem,EN Arnhem,DE Arnhem;ZU;GE
+NL;NL-GE-BA;;GE-BA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Barneveld,EN Barneveld,DE Barneveld;MI;GE
+NL;NL-GE-BD;;GE-BD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Berg en Dal,EN Berg en Dal,DE Berg en Dal;ZU;GE
+NL;NL-GE-BE;;GE-BE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Beuningen,EN Beuningen,DE Beuningen;ZU;GE
+NL;NL-GE-BH;;GE-BH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bronckhorst,EN Bronckhorst,DE Bronckhorst;MI;GE
+NL;NL-GE-BL;;GE-BL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Berkelland,EN Berkelland,DE Berkelland;MI;GE
+NL;NL-GE-BR;;GE-BR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Brummen,EN Brummen,DE Brummen;MI;GE
+NL;NL-GE-BU;;GE-BU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Buren,EN Buren,DE Buren;MI;GE
+NL;NL-GE-CU;;GE-CU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Culemborg,EN Culemborg,DE Culemborg;MI;GE
+NL;NL-GE-DB;;GE-DB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Doesburg,EN Doesburg,DE Doesburg;ZU;GE
+NL;NL-GE-DR;;GE-DR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Druten,EN Druten,DE Druten;ZU;GE
+NL;NL-GE-DT;;GE-DT;NL;NL gemeente,EN municipality,DE Gemeinde;NL Doetinchem,EN Doetinchem,DE Doetinchem;MI;GE
+NL;NL-GE-DU;;GE-DU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Duiven,EN Duiven,DE Duiven;ZU;GE
+NL;NL-GE-ED;;GE-ED;NL;NL gemeente,EN municipality,DE Gemeinde;NL Ede,EN Ede,DE Ede;MI;GE
+NL;NL-GE-EL;;GE-EL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Elburg,EN Elburg,DE Elburg;MI;GE
+NL;NL-GE-EP;;GE-EP;NL;NL gemeente,EN municipality,DE Gemeinde;NL Epe,EN Epe,DE Epe;MI;GE
+NL;NL-GE-ER;;GE-ER;NL;NL gemeente,EN municipality,DE Gemeinde;NL Ermelo,EN Ermelo,DE Ermelo;MI;GE
+NL;NL-GE-HM;;GE-HM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Heumen,EN Heumen,DE Heumen;ZU;GE
+NL;NL-GE-HR;;GE-HR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Heerde,EN Heerde,DE Heerde;MI;GE
+NL;NL-GE-HT;;GE-HT;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hattem,EN Hattem,DE Hattem;NO;GE
+NL;NL-GE-HW;;GE-HW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Harderwijk,EN Harderwijk,DE Harderwijk;MI;GE
+NL;NL-GE-LO;;GE-LO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Lochem,EN Lochem,DE Lochem;MI;GE
+NL;NL-GE-LW;;GE-LW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Lingewaard,EN Lingewaard,DE Lingewaard;ZU;GE
+NL;NL-GE-MA;;GE-MA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Maasdriel,EN Maasdriel,DE Maasdriel;ZU;GE
+NL;NL-GE-MO;;GE-MO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Montferland,EN Montferland,DE Montferland;MI,ZU;GE
+NL;NL-GE-NB;;GE-NB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Neder-Betuwe,EN Neder-Betuwe,DE Neder-Betuwe;MI,ZU;GE
+NL;NL-GE-NI;;GE-NI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nijkerk,EN Nijkerk,DE Nijkerk;MI;GE
+NL;NL-GE-NM;;GE-NM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nijmegen,EN Nijmegen,DE Nijmegen;ZU;GE
+NL;NL-GE-NU;;GE-NU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nunspeet,EN Nunspeet,DE Nunspeet;MI;GE
+NL;NL-GE-OI;;GE-OI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oude IJsselstreek,EN Oude IJsselstreek,DE Oude IJsselstreek;MI;GE
+NL;NL-GE-OL;;GE-OL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oldebroek,EN Oldebroek,DE Oldebroek;MI;GE
+NL;NL-GE-OV;;GE-OV;NL;NL gemeente,EN municipality,DE Gemeinde;NL Overbetuwe,EN Overbetuwe,DE Overbetuwe;ZU;GE
+NL;NL-GE-PU;;GE-PU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Putten,EN Putten,DE Putten;MI;GE
+NL;NL-GE-RE;;GE-RE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Renkum,EN Renkum,DE Renkum;ZU;GE
+NL;NL-GE-RH;;GE-RH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Rheden,EN Rheden,DE Rheden;ZU;GE
+NL;NL-GE-SC;;GE-SC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Scherpenzeel,EN Scherpenzeel,DE Scherpenzeel;MI;GE
+NL;NL-GE-TI;;GE-TI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Tiel,EN Tiel,DE Tiel;ZU;GE
+NL;NL-GE-VS;;GE-VS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Voorst,EN Voorst,DE Voorst;MI;GE
+NL;NL-GE-WB;;GE-WB;NL;NL gemeente,EN municipality,DE Gemeinde;NL West Betuwe,EN West Betuwe,DE West Betuwe;MI;GE
+NL;NL-GE-WC;;GE-WC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Wijchen,EN Wijchen,DE Wijchen;ZU;GE
+NL;NL-GE-WG;;GE-WG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Wageningen,EN Wageningen,DE Wageningen;MI;GE
+NL;NL-GE-WM;;GE-WM;NL;NL gemeente,EN municipality,DE Gemeinde;NL West Maas en Waal,EN West Maas en Waal,DE West Maas en Waal;ZU;GE
+NL;NL-GE-WV;;GE-WV;NL;NL gemeente,EN municipality,DE Gemeinde;NL Westervoort,EN Westervoort,DE Westervoort;ZU;GE
+NL;NL-GE-WW;;GE-WW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Winterswijk,EN Winterswijk,DE Winterswijk;MI;GE
+NL;NL-GE-ZA;;GE-ZA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zaltbommel,EN Zaltbommel,DE Zaltbommel;ZU;GE
+NL;NL-GE-ZU;;GE-ZU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zutphen,EN Zutphen,DE Zutphen;MI;GE
+NL;NL-GE-ZV;;GE-ZV;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zevenaar,EN Zevenaar,DE Zevenaar;ZU;GE
+NL;NL-GR;NL-GR;GR;NL;NL provincie,EN province,DE Provinz;NL Groningen,EN Groningen,DE Groningen;NO;
+NL;NL-GR-EE;;GR-EE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Eemsdelta,EN Eemsdelta,DE Eemsdelta;NO;GR
+NL;NL-GR-GR;;GR-GR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Groningen,EN Groningen,DE Groningen;NO;GR
+NL;NL-GR-HH;;GR-HH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Het Hogeland,EN Het Hogeland,DE Het Hogeland;NO;GR
+NL;NL-GR-MG;;GR-MG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Midden-Groningen,EN Midden-Groningen,DE Midden-Groningen;NO;GR
+NL;NL-GR-OL;;GR-OL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oldambt,EN Oldambt,DE Oldambt;NO;GR
+NL;NL-GR-PE;;GR-PE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Pekela,EN Pekela,DE Pekela;NO;GR
+NL;NL-GR-ST;;GR-ST;NL;NL gemeente,EN municipality,DE Gemeinde;NL Stadskanaal,EN Stadskanaal,DE Stadskanaal;NO;GR
+NL;NL-GR-VE;;GR-VE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Veendam,EN Veendam,DE Veendam;NO;GR
+NL;NL-GR-WK;;GR-WK;NL;NL gemeente,EN municipality,DE Gemeinde;NL Westerkwartier,EN Westerkwartier,DE Westerkwartier;NO;GR
+NL;NL-GR-WV;;GR-WV;NL;NL gemeente,EN municipality,DE Gemeinde;NL Westerwolde,EN Westerwolde,DE Westerwolde;NO;GR
+NL;NL-LI;NL-LI;LI;NL;NL provincie,EN province,DE Provinz;NL Limburg,EN Limburg,DE Limburg;ZU;
+NL;NL-LI-BE;;LI-BE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Beekdaelen,EN Beekdaelen,DE Beekdaelen;ZU;LI
+NL;NL-LI-BG;;LI-BG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bergen,EN Bergen,DE Bergen;ZU;LI
+NL;NL-LI-BK;;LI-BK;NL;NL gemeente,EN municipality,DE Gemeinde;NL Beek,EN Beek,DE Beek;ZU;LI
+NL;NL-LI-BR;;LI-BR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Brunssum,EN Brunssum,DE Brunssum;ZU;LI
+NL;NL-LI-BS;;LI-BS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Beesel,EN Beesel,DE Beesel;ZU;LI
+NL;NL-LI-EC;;LI-EC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Echt-Susteren,EN Echt-Susteren,DE Echt-Susteren;ZU;LI
+NL;NL-LI-EI;;LI-EI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Eijsden-Margraten,EN Eijsden-Margraten,DE Eijsden-Margraten;ZU;LI
+NL;NL-LI-GE;;LI-GE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Gennep,EN Gennep,DE Gennep;ZU;LI
+NL;NL-LI-GW;;LI-GW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Gulpen-Wittem,EN Gulpen-Wittem,DE Gulpen-Wittem;ZU;LI
+NL;NL-LI-HM;;LI-HM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Horst aan de Maas,EN Horst aan de Maas,DE Horst aan de Maas;ZU;LI
+NL;NL-LI-HR;;LI-HR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Heerlen,EN Heerlen,DE Heerlen;ZU;LI
+NL;NL-LI-KR;;LI-KR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Kerkrade,EN Kerkrade,DE Kerkrade;ZU;LI
+NL;NL-LI-LA;;LI-LA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Landgraaf,EN Landgraaf,DE Landgraaf;ZU;LI
+NL;NL-LI-MA;;LI-MA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Maastricht,EN Maastricht,DE Maastricht;ZU;LI
+NL;NL-LI-MM;;LI-MM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Mook en Middelaar,EN Mook en Middelaar,DE Mook en Middelaar;ZU;LI
+NL;NL-LI-MS;;LI-MS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Meerssen,EN Meerssen,DE Meerssen;ZU;LI
+NL;NL-LI-NE;;LI-NE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nederweert,EN Nederweert,DE Nederweert;ZU;LI
+NL;NL-LI-RD;;LI-RD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Roerdalen,EN Roerdalen,DE Roerdalen;ZU;LI
+NL;NL-LI-RM;;LI-RM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Roermond,EN Roermond,DE Roermond;ZU;LI
+NL;NL-LI-SG;;LI-SG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Sittard-Geleen,EN Sittard-Geleen,DE Sittard-Geleen;ZU;LI
+NL;NL-LI-SI;;LI-SI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Simpelveld,EN Simpelveld,DE Simpelveld;ZU;LI
+NL;NL-LI-ST;;LI-ST;NL;NL gemeente,EN municipality,DE Gemeinde;NL Stein,EN Stein,DE Stein;ZU;LI
+NL;NL-LI-VA;;LI-VA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Vaals,EN Vaals,DE Vaals;ZU;LI
+NL;NL-LI-VG;;LI-VG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Valkenburg aan de Geul,EN Valkenburg aan de Geul,DE Valkenburg aan de Geul;ZU;LI
+NL;NL-LI-VL;;LI-VL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Venlo,EN Venlo,DE Venlo;ZU;LI
+NL;NL-LI-VO;;LI-VO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Voerendaal,EN Voerendaal,DE Voerendaal;ZU;LI
+NL;NL-LI-VR;;LI-VR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Venray,EN Venray,DE Venray;ZU;LI
+NL;NL-LI-WE;;LI-WE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Weert,EN Weert,DE Weert;ZU;LI
+NL;NL-NB;NL-NB;NB;NL;NL provincie,EN province,DE Provinz;NL Noord-Brabant,EN North Brabant,DE Nordbrabant;MI,ZU;
+NL;NL-NB-AC;;NB-AC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Alphen-Chaam,EN Alphen-Chaam,DE Alphen-Chaam;ZU;NB
+NL;NL-NB-AL;;NB-AL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Altena,EN Altena,DE Altena;MI,ZU;NB
+NL;NL-NB-AS;;NB-AS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Asten,EN Asten,DE Asten;ZU;NB
+NL;NL-NB-BG;;NB-BG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bergeijk,EN Bergeijk,DE Bergeijk;ZU;NB
+NL;NL-NB-BH;;NB-BH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bernheze,EN Bernheze,DE Bernheze;ZU;NB
+NL;NL-NB-BL;;NB-BL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bladel,EN Bladel,DE Bladel;ZU;NB
+NL;NL-NB-BN;;NB-BN;NL;NL gemeente,EN municipality,DE Gemeinde;NL Baarle-Nassau,EN Baarle-Nassau,DE Baarle-Nassau;ZU;NB
+NL;NL-NB-BO;;NB-BO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Boekel,EN Boekel,DE Boekel;ZU;NB
+NL;NL-NB-BR;;NB-BR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Breda,EN Breda,DE Breda;ZU;NB
+NL;NL-NB-BS;;NB-BS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Best,EN Best,DE Best;ZU;NB
+NL;NL-NB-BT;;NB-BT;NL;NL gemeente,EN municipality,DE Gemeinde;NL Boxtel,EN Boxtel,DE Boxtel;ZU;NB
+NL;NL-NB-BZ;;NB-BZ;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bergen op Zoom,EN Bergen op Zoom,DE Bergen op Zoom;ZU;NB
+NL;NL-NB-CR;;NB-CR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Cranendonck,EN Cranendonck,DE Cranendonck;ZU;NB
+NL;NL-NB-DE;;NB-DE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Deurne,EN Deurne,DE Deurne;ZU;NB
+NL;NL-NB-DO;;NB-DO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Dongen,EN Dongen,DE Dongen;ZU;NB
+NL;NL-NB-DR;;NB-DR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Drimmelen,EN Drimmelen,DE Drimmelen;ZU;NB
+NL;NL-NB-EE;;NB-EE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Eersel,EN Eersel,DE Eersel;ZU;NB
+NL;NL-NB-EI;;NB-EI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Eindhoven,EN Eindhoven,DE Eindhoven;ZU;NB
+NL;NL-NB-EL;;NB-EL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Etten-Leur,EN Etten-Leur,DE Etten-Leur;ZU;NB
+NL;NL-NB-GB;;NB-GB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Gemert-Bakel,EN Gemert-Bakel,DE Gemert-Bakel;ZU;NB
+NL;NL-NB-GD;;NB-GD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Geldrop-Mierlo,EN Geldrop-Mierlo,DE Geldrop-Mierlo;ZU;NB
+NL;NL-NB-GE;;NB-GE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Geertruidenberg,EN Geertruidenberg,DE Geertruidenberg;ZU;NB
+NL;NL-NB-GO;;NB-GO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Goirle,EN Goirle,DE Goirle;ZU;NB
+NL;NL-NB-GR;;NB-GR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Gilze en Rijen,EN Gilze en Rijen,DE Gilze en Rijen;ZU;NB
+NL;NL-NB-HB;;NB-HB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Halderberge,EN Halderberge,DE Halderberge;ZU;NB
+NL;NL-NB-HI;;NB-HI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hilvarenbeek,EN Hilvarenbeek,DE Hilvarenbeek;ZU;NB
+NL;NL-NB-HL;;NB-HL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Heeze-Leende,EN Heeze-Leende,DE Heeze-Leende;ZU;NB
+NL;NL-NB-HM;;NB-HM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Helmond,EN Helmond,DE Helmond;ZU;NB
+NL;NL-NB-HS;;NB-HS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Heusden,EN Heusden,DE Heusden;ZU;NB
+NL;NL-NB-LB;;NB-LB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Laarbeek,EN Laarbeek,DE Laarbeek;ZU;NB
+NL;NL-NB-LC;;NB-LC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Land van Cuijk,EN Land van Cuijk,DE Land van Cuijk;ZU;NB
+NL;NL-NB-LZ;;NB-LZ;NL;NL gemeente,EN municipality,DE Gemeinde;NL Loon op Zand,EN Loon op Zand,DE Loon op Zand;ZU;NB
+NL;NL-NB-MH;;NB-MH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Maashorst,EN Maashorst,DE Maashorst;ZU;NB
+NL;NL-NB-MI;;NB-MI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Meierijstad,EN Meierijstad,DE Meierijstad;ZU;NB
+NL;NL-NB-MO;;NB-MO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Moerdijk,EN Moerdijk,DE Moerdijk;ZU;NB
+NL;NL-NB-NG;;NB-NG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nuenen c.a.,EN Nuenen c.a.,DE Nuenen c.a.;ZU;NB
+NL;NL-NB-OO;;NB-OO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oosterhout,EN Oosterhout,DE Oosterhout;ZU;NB
+NL;NL-NB-OR;;NB-OR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oirschot,EN Oirschot,DE Oirschot;ZU;NB
+NL;NL-NB-OS;;NB-OS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oss,EN Oss,DE Oss;ZU;NB
+NL;NL-NB-OW;;NB-OW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oisterwijk,EN Oisterwijk,DE Oisterwijk;ZU;NB
+NL;NL-NB-RD;;NB-RD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Reusel-De Mierden,EN Reusel-De Mierden,DE Reusel-De Mierden;ZU;NB
+NL;NL-NB-RO;;NB-RO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Roosendaal,EN Roosendaal,DE Roosendaal;ZU;NB
+NL;NL-NB-RU;;NB-RU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Rucphen,EN Rucphen,DE Rucphen;ZU;NB
+NL;NL-NB-SB;;NB-SB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Son en Breugel,EN Son en Breugel,DE Son en Breugel;ZU;NB
+NL;NL-NB-SH;;NB-SH;NL;NL gemeente,EN municipality,DE Gemeinde;NL 's-Hertogenbosch,EN 's-Hertogenbosch,DE 's-Hertogenbosch;ZU;NB
+NL;NL-NB-SM;;NB-SM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Sint-Michielsgestel,EN Sint-Michielsgestel,DE Sint-Michielsgestel;ZU;NB
+NL;NL-NB-SR;;NB-SR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Someren,EN Someren,DE Someren;ZU;NB
+NL;NL-NB-ST;;NB-ST;NL;NL gemeente,EN municipality,DE Gemeinde;NL Steenbergen,EN Steenbergen,DE Steenbergen;ZU;NB
+NL;NL-NB-TI;;NB-TI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Tilburg,EN Tilburg,DE Tilburg;ZU;NB
+NL;NL-NB-VA;;NB-VA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Valkenswaard,EN Valkenswaard,DE Valkenswaard;ZU;NB
+NL;NL-NB-VH;;NB-VH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Veldhoven,EN Veldhoven,DE Veldhoven;ZU;NB
+NL;NL-NB-VU;;NB-VU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Vught,EN Vught,DE Vught;ZU;NB
+NL;NL-NB-WD;;NB-WD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Woensdrecht,EN Woensdrecht,DE Woensdrecht;ZU;NB
+NL;NL-NB-WR;;NB-WR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Waalre,EN Waalre,DE Waalre;ZU;NB
+NL;NL-NB-WW;;NB-WW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Waalwijk,EN Waalwijk,DE Waalwijk;ZU;NB
+NL;NL-NB-ZU;;NB-ZU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zundert,EN Zundert,DE Zundert;ZU;NB
+NL;NL-NH;NL-NH;NH;NL;NL provincie,EN province,DE Provinz;NL Noord-Holland,EN North Holland,DE Nordholland;NO;
+NL;NL-NH-AA;;NH-AA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Aalsmeer,EN Aalsmeer,DE Aalsmeer;NO;NH
+NL;NL-NH-AD;;NH-AD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Amsterdam,EN Amsterdam,DE Amsterdam;NO;NH
+NL;NL-NH-AV;;NH-AV;NL;NL gemeente,EN municipality,DE Gemeinde;NL Amstelveen,EN Amstelveen,DE Amstelveen;NO;NH
+NL;NL-NH-BC;;NH-BC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Blaricum,EN Blaricum,DE Blaricum;NO;NH
+NL;NL-NH-BG;;NH-BG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bergen,EN Bergen,DE Bergen;NO;NH
+NL;NL-NH-BL;;NH-BL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bloemendaal,EN Bloemendaal,DE Bloemendaal;NO;NH
+NL;NL-NH-BV;;NH-BV;NL;NL gemeente,EN municipality,DE Gemeinde;NL Beverwijk,EN Beverwijk,DE Beverwijk;NO;NH
+NL;NL-NH-CA;;NH-CA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Castricum,EN Castricum,DE Castricum;NO;NH
+NL;NL-NH-DH;;NH-DH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Den Helder,EN Den Helder,DE Den Helder;NO;NH
+NL;NL-NH-DI;;NH-DI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Diemen,EN Diemen,DE Diemen;NO;NH
+NL;NL-NH-DR;;NH-DR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Drechterland,EN Drechterland,DE Drechterland;NO;NH
+NL;NL-NH-DW;;NH-DW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Dijk en Waard,EN Dijk en Waard,DE Dijk en Waard;NO;NH
+NL;NL-NH-EN;;NH-EN;NL;NL gemeente,EN municipality,DE Gemeinde;NL Enkhuizen,EN Enkhuizen,DE Enkhuizen;NO;NH
+NL;NL-NH-EV;;NH-EV;NL;NL gemeente,EN municipality,DE Gemeinde;NL Edam-Volendam,EN Edam-Volendam,DE Edam-Volendam;NO;NH
+NL;NL-NH-GO;;NH-GO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Gooise Meren,EN Gooise Meren,DE Gooise Meren;NO;NH
+NL;NL-NH-HA;;NH-HA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Haarlem,EN Haarlem,DE Haarlem;NO;NH
+NL;NL-NH-HE;;NH-HE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Heemskerk,EN Heemskerk,DE Heemskerk;NO;NH
+NL;NL-NH-HI;;NH-HI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hilversum,EN Hilversum,DE Hilversum;NO;NH
+NL;NL-NH-HK;;NH-HK;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hollands Kroon,EN Hollands Kroon,DE Hollands Kroon;NO;NH
+NL;NL-NH-HL;;NH-HL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Heiloo,EN Heiloo,DE Heiloo;NO;NH
+NL;NL-NH-HO;;NH-HO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hoorn,EN Hoorn,DE Hoorn;NO;NH
+NL;NL-NH-HS;;NH-HS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Haarlemmermeer,EN Haarlemmermeer,DE Haarlemmermeer;NO;NH
+NL;NL-NH-HT;;NH-HT;NL;NL gemeente,EN municipality,DE Gemeinde;NL Heemstede,EN Heemstede,DE Heemstede;NO;NH
+NL;NL-NH-HU;;NH-HU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Huizen,EN Huizen,DE Huizen;NO;NH
+NL;NL-NH-KO;;NH-KO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Koggenland,EN Koggenland,DE Koggenland;NO;NH
+NL;NL-NH-LM;;NH-LM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Landsmeer,EN Landsmeer,DE Landsmeer;NO;NH
+NL;NL-NH-LR;;NH-LR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Laren,EN Laren,DE Laren;NO;NH
+NL;NL-NH-ME;;NH-ME;NL;NL gemeente,EN municipality,DE Gemeinde;NL Medemblik,EN Medemblik,DE Medemblik;NO;NH
+NL;NL-NH-OA;;NH-OA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Ouder-Amstel,EN Ouder-Amstel,DE Ouder-Amstel;NO;NH
+NL;NL-NH-OO;;NH-OO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oostzaan,EN Oostzaan,DE Oostzaan;NO;NH
+NL;NL-NH-OP;;NH-OP;NL;NL gemeente,EN municipality,DE Gemeinde;NL Opmeer,EN Opmeer,DE Opmeer;NO;NH
+NL;NL-NH-PU;;NH-PU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Purmerend,EN Purmerend,DE Purmerend;NO;NH
+NL;NL-NH-SB;;NH-SB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Stede Broec,EN Stede Broec,DE Stede Broec;NO;NH
+NL;NL-NH-SN;;NH-SN;NL;NL gemeente,EN municipality,DE Gemeinde;NL Schagen,EN Schagen,DE Schagen;NO;NH
+NL;NL-NH-TE;;NH-TE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Texel,EN Texel,DE Texel;NO;NH
+NL;NL-NH-UG;;NH-UG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Uitgeest,EN Uitgeest,DE Uitgeest;NO;NH
+NL;NL-NH-UH;;NH-UH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Uithoorn,EN Uithoorn,DE Uithoorn;NO;NH
+NL;NL-NH-VL;;NH-VL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Velsen,EN Velsen,DE Velsen;NO;NH
+NL;NL-NH-WA;;NH-WA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Waterland,EN Waterland,DE Waterland;NO;NH
+NL;NL-NH-WI;;NH-WI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Wijdemeren,EN Wijdemeren,DE Wijdemeren;NO;NH
+NL;NL-NH-WO;;NH-WO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Wormerland,EN Wormerland,DE Wormerland;NO;NH
+NL;NL-NH-ZD;;NH-ZD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zandvoort,EN Zandvoort,DE Zandvoort;NO;NH
+NL;NL-NH-ZS;;NH-ZS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zaanstad,EN Zaanstad,DE Zaanstad;NO;NH
+NL;NL-NI-LE;;NI-LE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Leudal,EN Leudal,DE Leudal;ZU;LI
+NL;NL-NI-MA;;NI-MA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Maasgouw,EN Maasgouw,DE Maasgouw;ZU;LI
+NL;NL-NI-PM;;NI-PM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Peel en Maas,EN Peel en Maas,DE Peel en Maas;ZU;LI
+NL;NL-OV;NL-OV;OV;NL;NL provincie,EN province,DE Provinz;NL Overijssel,EN Overijssel,DE Overijssel;NO;
+NL;NL-OV-AL;;OV-AL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Almelo,EN Almelo,DE Almelo;NO;OV
+NL;NL-OV-BO;;OV-BO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Borne,EN Borne,DE Borne;NO;OV
+NL;NL-OV-DA;;OV-DA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Dalfsen,EN Dalfsen,DE Dalfsen;NO;OV
+NL;NL-OV-DI;;OV-DI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Dinkelland,EN Dinkelland,DE Dinkelland;NO;OV
+NL;NL-OV-DV;;OV-DV;NL;NL gemeente,EN municipality,DE Gemeinde;NL Deventer,EN Deventer,DE Deventer;NO;OV
+NL;NL-OV-EN;;OV-EN;NL;NL gemeente,EN municipality,DE Gemeinde;NL Enschede,EN Enschede,DE Enschede;NO;OV
+NL;NL-OV-HD;;OV-HD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hardenberg,EN Hardenberg,DE Hardenberg;NO;OV
+NL;NL-OV-HK;;OV-HK;NL;NL gemeente,EN municipality,DE Gemeinde;NL Haaksbergen,EN Haaksbergen,DE Haaksbergen;NO;OV
+NL;NL-OV-HL;;OV-HL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hellendoorn,EN Hellendoorn,DE Hellendoorn;NO;OV
+NL;NL-OV-HN;;OV-HN;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hengelo,EN Hengelo,DE Hengelo;NO;OV
+NL;NL-OV-HT;;OV-HT;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hof van Twente,EN Hof van Twente,DE Hof van Twente;NO;OV
+NL;NL-OV-KA;;OV-KA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Kampen,EN Kampen,DE Kampen;NO;OV
+NL;NL-OV-LO;;OV-LO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Losser,EN Losser,DE Losser;NO;OV
+NL;NL-OV-OM;;OV-OM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Ommen,EN Ommen,DE Ommen;NO;OV
+NL;NL-OV-OT;;OV-OT;NL;NL gemeente,EN municipality,DE Gemeinde;NL Olst-Wijhe,EN Olst-Wijhe,DE Olst-Wijhe;NO;OV
+NL;NL-OV-OZ;;OV-OZ;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oldenzaal,EN Oldenzaal,DE Oldenzaal;NO;OV
+NL;NL-OV-RA;;OV-RA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Raalte,EN Raalte,DE Raalte;NO;OV
+NL;NL-OV-RI;;OV-RI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Rijssen-Holten,EN Rijssen-Holten,DE Rijssen-Holten;NO;OV
+NL;NL-OV-SH;;OV-SH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Staphorst,EN Staphorst,DE Staphorst;NO;OV
+NL;NL-OV-SW;;OV-SW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Steenwijkerland,EN Steenwijkerland,DE Steenwijkerland;NO;OV
+NL;NL-OV-TU;;OV-TU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Tubbergen,EN Tubbergen,DE Tubbergen;NO;OV
+NL;NL-OV-TW;;OV-TW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Twenterand,EN Twenterand,DE Twenterand;NO;OV
+NL;NL-OV-WI;;OV-WI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Wierden,EN Wierden,DE Wierden;NO;OV
+NL;NL-OV-ZL;;OV-ZL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zwolle,EN Zwolle,DE Zwolle;NO;OV
+NL;NL-OV-ZW;;OV-ZW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zwartewaterland,EN Zwartewaterland,DE Zwartewaterland;NO;OV
+NL;NL-UT;NL-UT;UT;NL;NL provincie,EN province,DE Provinz;NL Utrecht,EN Utrecht,DE Utrecht;MI,NO;
+NL;NL-UT-AF;;UT-AF;NL;NL gemeente,EN municipality,DE Gemeinde;NL Amersfoort,EN Amersfoort,DE Amersfoort;MI;UT
+NL;NL-UT-BA;;UT-BA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Baarn,EN Baarn,DE Baarn;MI;UT
+NL;NL-UT-BK;;UT-BK;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bunnik,EN Bunnik,DE Bunnik;MI;UT
+NL;NL-UT-BS;;UT-BS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bunschoten,EN Bunschoten,DE Bunschoten;MI;UT
+NL;NL-UT-DB;;UT-DB;NL;NL gemeente,EN municipality,DE Gemeinde;NL De Bilt,EN De Bilt,DE De Bilt;MI;UT
+NL;NL-UT-DV;;UT-DV;NL;NL gemeente,EN municipality,DE Gemeinde;NL De Ronde Venen,EN De Ronde Venen,DE De Ronde Venen;MI,NO;UT
+NL;NL-UT-EE;;UT-EE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Eemnes,EN Eemnes,DE Eemnes;NO;UT
+NL;NL-UT-HO;;UT-HO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Houten,EN Houten,DE Houten;MI;UT
+NL;NL-UT-IJ;;UT-IJ;NL;NL gemeente,EN municipality,DE Gemeinde;NL IJsselstein,EN IJsselstein,DE IJsselstein;MI;UT
+NL;NL-UT-LD;;UT-LD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Leusden,EN Leusden,DE Leusden;MI;UT
+NL;NL-UT-LP;;UT-LP;NL;NL gemeente,EN municipality,DE Gemeinde;NL Lopik,EN Lopik,DE Lopik;MI;UT
+NL;NL-UT-MO;;UT-MO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Montfoort,EN Montfoort,DE Montfoort;MI;UT
+NL;NL-UT-NI;;UT-NI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nieuwegein,EN Nieuwegein,DE Nieuwegein;MI;UT
+NL;NL-UT-OU;;UT-OU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oudewater,EN Oudewater,DE Oudewater;MI;UT
+NL;NL-UT-RE;;UT-RE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Renswoude,EN Renswoude,DE Renswoude;MI;UT
+NL;NL-UT-RH;;UT-RH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Rhenen,EN Rhenen,DE Rhenen;MI;UT
+NL;NL-UT-SO;;UT-SO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Soest,EN Soest,DE Soest;MI;UT
+NL;NL-UT-SV;;UT-SV;NL;NL gemeente,EN municipality,DE Gemeinde;NL Stichtse Vecht,EN Stichtse Vecht,DE Stichtse Vecht;MI;UT
+NL;NL-UT-UH;;UT-UH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Utrechtse Heuvelrug,EN Utrechtse Heuvelrug,DE Utrechtse Heuvelrug;MI;UT
+NL;NL-UT-UT;;UT-UT;NL;NL gemeente,EN municipality,DE Gemeinde;NL Utrecht,EN Utrecht,DE Utrecht;MI;UT
+NL;NL-UT-VE;;UT-VE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Veenendaal,EN Veenendaal,DE Veenendaal;MI;UT
+NL;NL-UT-VI;;UT-VI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Vijfheerenlanden,EN Vijfheerenlanden,DE Vijfheerenlanden;MI;UT
+NL;NL-UT-WB;;UT-WB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Woudenberg,EN Woudenberg,DE Woudenberg;MI;UT
+NL;NL-UT-WD;;UT-WD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Wijk bij Duurstede,EN Wijk bij Duurstede,DE Wijk bij Duurstede;MI;UT
+NL;NL-UT-WR;;UT-WR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Woerden,EN Woerden,DE Woerden;MI;UT
+NL;NL-UT-ZE;;UT-ZE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zeist,EN Zeist,DE Zeist;MI;UT
+NL;NL-ZE;NL-ZE;ZE;NL;NL provincie,EN province,DE Provinz;NL Zeeland,EN Zeeland,DE Zeeland;ZU;
+NL;NL-ZE-BO;;ZE-BO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Borsele,EN Borsele,DE Borsele;ZU;ZE
+NL;NL-ZE-GO;;ZE-GO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Goes,EN Goes,DE Goes;ZU;ZE
+NL;NL-ZE-HU;;ZE-HU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hulst,EN Hulst,DE Hulst;ZU;ZE
+NL;NL-ZE-KA;;ZE-KA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Kapelle,EN Kapelle,DE Kapelle;ZU;ZE
+NL;NL-ZE-MI;;ZE-MI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Middelburg,EN Middelburg,DE Middelburg;ZU;ZE
+NL;NL-ZE-NB;;ZE-NB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Noord-Beveland,EN Noord-Beveland,DE Noord-Beveland;ZU;ZE
+NL;NL-ZE-OO;;ZE-OO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oost Gelre,EN Oost Gelre,DE Oost Gelre;MI;GE
+NL;NL-ZE-RE;;ZE-RE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Reimerswaal,EN Reimerswaal,DE Reimerswaal;ZU;ZE
+NL;NL-ZE-SA;;ZE-SA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Sluis,EN Sluis,DE Sluis;ZU;ZE
+NL;NL-ZE-SD;;ZE-SD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Schouwen-Duiveland,EN Schouwen-Duiveland,DE Schouwen-Duiveland;ZU;ZE
+NL;NL-ZE-TE;;ZE-TE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Terneuzen,EN Terneuzen,DE Terneuzen;ZU;ZE
+NL;NL-ZE-TH;;ZE-TH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Tholen,EN Tholen,DE Tholen;ZU;ZE
+NL;NL-ZE-VE;;ZE-VE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Veere,EN Veere,DE Veere;ZU;ZE
+NL;NL-ZE-VL;;ZE-VL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Vlissingen,EN Vlissingen,DE Vlissingen;ZU;ZE
+NL;NL-ZH;NL-ZH;ZH;NL;NL provincie,EN province,DE Provinz;NL Zuid-Holland,EN South Holland,DE Südholland;NO,MI,ZU;
+NL;NL-ZH-AK;;ZH-AK;NL;NL gemeente,EN municipality,DE Gemeinde;NL Alkmaar,EN Alkmaar,DE Alkmaar;NO;NH
+NL;NL-ZH-AR;;ZH-AR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Alphen aan den Rijn,EN Alphen aan den Rijn,DE Alphen aan den Rijn;MI;ZH
+NL;NL-ZH-AS;;ZH-AS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Alblasserdam,EN Alblasserdam,DE Alblasserdam;MI;ZH
+NL;NL-ZH-AW;;ZH-AW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Albrandswaard,EN Albrandswaard,DE Albrandswaard;MI;ZH
+NL;NL-ZH-BA;;ZH-BA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Barendrecht,EN Barendrecht,DE Barendrecht;MI;ZH
+NL;NL-ZH-BG;;ZH-BG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Bodegraven-Reeuwijk,EN Bodegraven-Reeuwijk,DE Bodegraven-Reeuwijk;MI;ZH
+NL;NL-ZH-CI;;ZH-CI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Capelle aan den IJssel,EN Capelle aan den IJssel,DE Capelle aan den IJssel;MI;ZH
+NL;NL-ZH-DE;;ZH-DE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Delft,EN Delft,DE Delft;MI;ZH
+NL;NL-ZH-DH;;ZH-DH;NL;NL gemeente,EN municipality,DE Gemeinde;NL Den Haag('s-Gravenhage),EN Den Haag('s-Gravenhage),DE Den Haag('s-Gravenhage);MI;ZH
+NL;NL-ZH-DO;;ZH-DO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Dordrecht,EN Dordrecht,DE Dordrecht;MI;ZH
+NL;NL-ZH-GC;;ZH-GC;NL;NL gemeente,EN municipality,DE Gemeinde;NL Gorinchem,EN Gorinchem,DE Gorinchem;MI;ZH
+NL;NL-ZH-GO;;ZH-GO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Gouda,EN Gouda,DE Gouda;MI;ZH
+NL;NL-ZH-GR;;ZH-GR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Goeree-Overflakkee,EN Goeree-Overflakkee,DE Goeree-Overflakkee;MI;ZH
+NL;NL-ZH-HG;;ZH-HG;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hardinxveld-Giessendam,EN Hardinxveld-Giessendam,DE Hardinxveld-Giessendam;MI;ZH
+NL;NL-ZH-HI;;ZH-HI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hendrik-Ido-Ambacht,EN Hendrik-Ido-Ambacht,DE Hendrik-Ido-Ambacht;MI;ZH
+NL;NL-ZH-HL;;ZH-HL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hillegom,EN Hillegom,DE Hillegom;MI;ZH
+NL;NL-ZH-HW;;ZH-HW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Hoeksche Waard,EN Hoeksche Waard,DE Hoeksche Waard;MI;ZH
+NL;NL-ZH-KA;;ZH-KA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Katwijk,EN Katwijk,DE Katwijk;MI;ZH
+NL;NL-ZH-KB;;ZH-KB;NL;NL gemeente,EN municipality,DE Gemeinde;NL Kaag en Braassem,EN Kaag en Braassem,DE Kaag en Braassem;MI;ZH
+NL;NL-ZH-KI;;ZH-KI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Krimpen aan den IJssel,EN Krimpen aan den IJssel,DE Krimpen aan den IJssel;MI;ZH
+NL;NL-ZH-KR;;ZH-KR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Krimpenerwaard,EN Krimpenerwaard,DE Krimpenerwaard;MI;ZH
+NL;NL-ZH-LA;;ZH-LA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Lansingerland,EN Lansingerland,DE Lansingerland;MI;ZH
+NL;NL-ZH-LD;;ZH-LD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Leiden,EN Leiden,DE Leiden;MI;ZH
+NL;NL-ZH-LE;;ZH-LE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Leidschendam-Voorburg,EN Leidschendam-Voorburg,DE Leidschendam-Voorburg;MI;ZH
+NL;NL-ZH-LP;;ZH-LP;NL;NL gemeente,EN municipality,DE Gemeinde;NL Leiderdorp,EN Leiderdorp,DE Leiderdorp;MI;ZH
+NL;NL-ZH-LS;;ZH-LS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Lisse,EN Lisse,DE Lisse;MI;ZH
+NL;NL-ZH-MD;;ZH-MD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Midden-Delfland,EN Midden-Delfland,DE Midden-Delfland;MI;ZH
+NL;NL-ZH-MO;;ZH-MO;NL;NL gemeente,EN municipality,DE Gemeinde;NL Molenlanden,EN Molenlanden,DE Molenlanden;MI;ZH
+NL;NL-ZH-MS;;ZH-MS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Maassluis,EN Maassluis,DE Maassluis;MI;ZH
+NL;NL-ZH-NI;;ZH-NI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nissewaard,EN Nissewaard,DE Nissewaard;MI;ZH
+NL;NL-ZH-NK;;ZH-NK;NL;NL gemeente,EN municipality,DE Gemeinde;NL Nieuwkoop,EN Nieuwkoop,DE Nieuwkoop;MI;ZH
+NL;NL-ZH-NW;;ZH-NW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Noordwijk,EN Noordwijk,DE Noordwijk;MI;ZH
+NL;NL-ZH-OE;;ZH-OE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Oegstgeest,EN Oegstgeest,DE Oegstgeest;MI;ZH
+NL;NL-ZH-PA;;ZH-PA;NL;NL gemeente,EN municipality,DE Gemeinde;NL Papendrecht,EN Papendrecht,DE Papendrecht;MI;ZH
+NL;NL-ZH-PI;;ZH-PI;NL;NL gemeente,EN municipality,DE Gemeinde;NL Pijnacker-Nootdorp,EN Pijnacker-Nootdorp,DE Pijnacker-Nootdorp;MI;ZH
+NL;NL-ZH-RJ;;ZH-RJ;NL;NL gemeente,EN municipality,DE Gemeinde;NL Rijswijk,EN Rijswijk,DE Rijswijk;MI;ZH
+NL;NL-ZH-RK;;ZH-RK;NL;NL gemeente,EN municipality,DE Gemeinde;NL Ridderkerk,EN Ridderkerk,DE Ridderkerk;MI;ZH
+NL;NL-ZH-RT;;ZH-RT;NL;NL gemeente,EN municipality,DE Gemeinde;NL Rotterdam,EN Rotterdam,DE Rotterdam;MI;ZH
+NL;NL-ZH-RZ;;ZH-RZ;NL;NL gemeente,EN municipality,DE Gemeinde;NL Rozendaal,EN Rozendaal,DE Rozendaal;ZU;GE
+NL;NL-ZH-SL;;ZH-SL;NL;NL gemeente,EN municipality,DE Gemeinde;NL Sliedrecht,EN Sliedrecht,DE Sliedrecht;MI;ZH
+NL;NL-ZH-SM;;ZH-SM;NL;NL gemeente,EN municipality,DE Gemeinde;NL Schiedam,EN Schiedam,DE Schiedam;MI;ZH
+NL;NL-ZH-TE;;ZH-TE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Teylingen,EN Teylingen,DE Teylingen;MI;ZH
+NL;NL-ZH-VD;;ZH-VD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Vlaardingen,EN Vlaardingen,DE Vlaardingen;MI;ZH
+NL;NL-ZH-VS;;ZH-VS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Voorschoten,EN Voorschoten,DE Voorschoten;MI;ZH
+NL;NL-ZH-VZ;;ZH-VZ;NL;NL gemeente,EN municipality,DE Gemeinde;NL Voorne aan Zee,EN Voorne aan Zee,DE Voorne aan Zee;MI;ZH
+NL;NL-ZH-WE;;ZH-WE;NL;NL gemeente,EN municipality,DE Gemeinde;NL Westland,EN Westland,DE Westland;MI;ZH
+NL;NL-ZH-WS;;ZH-WS;NL;NL gemeente,EN municipality,DE Gemeinde;NL Wassenaar,EN Wassenaar,DE Wassenaar;MI;ZH
+NL;NL-ZH-WX;;ZH-WX;NL;NL gemeente,EN municipality,DE Gemeinde;NL Waddinxveen,EN Waddinxveen,DE Waddinxveen;MI;ZH
+NL;NL-ZH-ZD;;ZH-ZD;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zoeterwoude,EN Zoeterwoude,DE Zoeterwoude;MI;ZH
+NL;NL-ZH-ZR;;ZH-ZR;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zoetermeer,EN Zoetermeer,DE Zoetermeer;MI;ZH
+NL;NL-ZH-ZU;;ZH-ZU;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zuidplas,EN Zuidplas,DE Zuidplas;MI;ZH
+NL;NL-ZH-ZW;;ZH-ZW;NL;NL gemeente,EN municipality,DE Gemeinde;NL Zwijndrecht,EN Zwijndrecht,DE Zwijndrecht;MI;ZH
