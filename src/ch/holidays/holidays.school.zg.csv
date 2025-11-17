@@ -1,36 +1,65 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
-6cf5611f-759c-4519-89ae-309f3bd970d6;CH;2020-02-01;2020-02-16;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-ea57d6d3-a29e-411b-8bcf-8ef6b3d0a94b;CH;2020-04-11;2020-04-26;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-ef898be0-7b61-4e71-99ef-1ba0f9838efb;CH;2020-07-04;2020-08-16;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-8e9ef5a5-fbd5-4266-bc5c-5e5c386c09c1;CH;2020-10-03;2020-10-18;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-37ac162e-6550-4ab7-93ea-879be11dd965;CH;2020-12-19;2021-01-03;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-39679527-36c4-4b5a-990c-ea3b4f845f52;CH;2021-02-06;2021-02-21;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-96e66bc0-b37a-48fd-b3d7-34e791a9475c;CH;2021-04-17;2021-05-02;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-694222ca-4d06-4d41-9f43-2a0d5881431d;CH;2021-07-03;2021-08-15;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-5efede45-ebd0-4705-a44c-1089daa46d75;CH;2021-10-02;2021-10-17;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-9ab0c7d5-33aa-4b51-a192-10cfc879a84c;CH;2021-12-23;2022-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-376ed9f2-22df-48db-9466-6f50373194ef;CH;2022-02-05;2022-02-20;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-643962ec-4338-49c8-8336-9f60da37f401;CH;2022-04-15;2022-05-01;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-cc448b4f-3cc1-4fbf-9cd8-52e5efe6c0e5;CH;2022-07-09;2022-08-21;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-e2f32517-ce1a-480e-a400-f463b9c0da13;CH;2022-10-08;2022-10-23;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-ad557eb6-d2d5-4d99-843f-8f72cfc7ea53;CH;2022-12-22;2023-01-04;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-96e9a8cf-a8b8-4cd2-971a-356eeb3e7b16;CH;2023-02-04;2023-02-19;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-74b01dcd-63e0-42b1-8d6c-dc1b279b51a2;CH;2023-04-15;2023-04-30;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-c9f69234-d5e8-4e58-80d9-6bd957c18fa5;CH;2023-07-08;2023-08-20;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-72155d41-55c8-4fae-961a-9df95fd25b7a;CH;2023-10-07;2023-10-22;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-a3e46558-b3a1-4867-a0e0-c1481d55b995;CH;2023-12-23;2024-01-07;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-a202789d-0fa5-40cb-9e8a-019a3e83c84f;CH;2024-02-03;2024-02-18;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-0848c463-ba7b-4c39-96e8-e04b77cbba17;CH;2024-04-13;2024-04-28;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-a0e34646-7e93-4163-86a4-13ab501924d9;CH;2024-07-06;2024-08-18;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-dee90528-a499-4b72-82f7-292e90aaaf22;CH;2024-10-05;2024-10-20;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-93cbb0f7-3402-465b-82e3-3da3485ec049;CH;2024-12-21;2025-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-40356f4c-c033-47a9-877c-8b510c4d99fa;CH;2025-02-01;2025-02-16;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-12c8cd96-f05d-4b66-876b-38c8c5c020e6;CH;2025-04-12;2025-04-27;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-d493c811-31b6-4bec-beb9-0cf5584c1ba7;CH;2025-06-21;2025-08-17;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-e3868dfd-4785-4fe1-b9f3-f77cd41ce67c;CH;2025-10-04;2025-10-19;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-0428f89b-8389-4bea-a225-50d90b83150a;CH;2025-12-20;2026-01-04;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-c2180405-f165-4e63-ada2-92fca6cbe154;CH;2026-01-31;2026-02-15;School;Regional;DE Sport,FR Sport,IT Sport,EN Sport;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-f89f814b-5261-40a3-b625-f69be128ad2c;CH;2026-04-11;2026-04-26;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-3afdd5d0-8ffd-473a-b602-3d01ab3f8612;CH;2026-07-04;2026-08-16;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-1115e2a4-46e0-466b-a6dc-07510a8ec1d5;CH;2026-10-03;2026-10-18;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
-cc048590-bc85-4f4e-9edc-56325e212b20;CH;2026-12-19;2027-01-03;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;ZG;DE Öffentlich-rechtliche Schulen,FR Écoles publiques
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+6cf5611f-759c-4519-89ae-309f3bd970d6;CH;2020-02-01;2020-02-16;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+ea57d6d3-a29e-411b-8bcf-8ef6b3d0a94b;CH;2020-04-11;2020-04-26;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+4a73c581-5023-4daa-9194-03263a04a10d;CH;2020-05-21;2020-05-24;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+ef898be0-7b61-4e71-99ef-1ba0f9838efb;CH;2020-07-04;2020-08-16;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
+8e9ef5a5-fbd5-4266-bc5c-5e5c386c09c1;CH;2020-10-03;2020-10-18;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;ZG
+37ac162e-6550-4ab7-93ea-879be11dd965;CH;2020-12-19;2021-01-03;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Winter holidays;ZG
+39679527-36c4-4b5a-990c-ea3b4f845f52;CH;2021-02-06;2021-02-21;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+96e66bc0-b37a-48fd-b3d7-34e791a9475c;CH;2021-04-17;2021-05-02;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+b562b2d8-1f86-446c-b796-6f2fc513898f;CH;2021-05-13;2021-05-16;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+694222ca-4d06-4d41-9f43-2a0d5881431d;CH;2021-07-03;2021-08-15;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
+5efede45-ebd0-4705-a44c-1089daa46d75;CH;2021-10-02;2021-10-17;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;ZG
+9ab0c7d5-33aa-4b51-a192-10cfc879a84c;CH;2021-12-23;2022-01-05;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Winter holidays;ZG
+376ed9f2-22df-48db-9466-6f50373194ef;CH;2022-02-05;2022-02-20;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+643962ec-4338-49c8-8336-9f60da37f401;CH;2022-04-15;2022-05-01;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+1def44e4-862d-4d99-9f7c-5cc027153d71;CH;2022-05-26;2022-05-29;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+cc448b4f-3cc1-4fbf-9cd8-52e5efe6c0e5;CH;2022-07-09;2022-08-21;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
+e2f32517-ce1a-480e-a400-f463b9c0da13;CH;2022-10-08;2022-10-23;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;ZG
+ad557eb6-d2d5-4d99-843f-8f72cfc7ea53;CH;2022-12-22;2023-01-04;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Winter holidays;ZG
+96e9a8cf-a8b8-4cd2-971a-356eeb3e7b16;CH;2023-02-04;2023-02-19;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+74b01dcd-63e0-42b1-8d6c-dc1b279b51a2;CH;2023-04-15;2023-04-30;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+4fc1e4c4-ea18-40c0-a362-a3d93697356d;CH;2023-05-18;2023-05-21;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+c9f69234-d5e8-4e58-80d9-6bd957c18fa5;CH;2023-07-08;2023-08-20;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
+72155d41-55c8-4fae-961a-9df95fd25b7a;CH;2023-10-07;2023-10-22;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;ZG
+a3e46558-b3a1-4867-a0e0-c1481d55b995;CH;2023-12-23;2024-01-07;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Winter holidays;ZG
+a202789d-0fa5-40cb-9e8a-019a3e83c84f;CH;2024-02-03;2024-02-18;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+0848c463-ba7b-4c39-96e8-e04b77cbba17;CH;2024-04-13;2024-04-28;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+d749ee21-92e9-488c-b1ff-12a9f16fbdce;CH;2024-05-09;2024-05-12;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+a0e34646-7e93-4163-86a4-13ab501924d9;CH;2024-07-06;2024-08-18;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
+dee90528-a499-4b72-82f7-292e90aaaf22;CH;2024-10-05;2024-10-20;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;ZG
+93cbb0f7-3402-465b-82e3-3da3485ec049;CH;2024-12-21;2025-01-05;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Winter holidays;ZG
+40356f4c-c033-47a9-877c-8b510c4d99fa;CH;2025-02-01;2025-02-16;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+12c8cd96-f05d-4b66-876b-38c8c5c020e6;CH;2025-04-12;2025-04-27;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+68043862-85c5-4aa6-bfa2-e3a5bfc99709;CH;2025-05-29;2025-06-01;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+d493c811-31b6-4bec-beb9-0cf5584c1ba7;CH;2025-06-21;2025-08-17;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
+e3868dfd-4785-4fe1-b9f3-f77cd41ce67c;CH;2025-10-04;2025-10-19;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;ZG
+0428f89b-8389-4bea-a225-50d90b83150a;CH;2025-12-20;2026-01-04;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Winter holidays;ZG
+c2180405-f165-4e63-ada2-92fca6cbe154;CH;2026-01-31;2026-02-15;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+f89f814b-5261-40a3-b625-f69be128ad2c;CH;2026-04-11;2026-04-26;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+053ed354-9f42-43ca-b97f-99ec4157b4c1;CH;2026-05-14;2026-05-17;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+3afdd5d0-8ffd-473a-b602-3d01ab3f8612;CH;2026-07-04;2026-08-16;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
+1115e2a4-46e0-466b-a6dc-07510a8ec1d5;CH;2026-10-03;2026-10-18;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;ZG
+cc048590-bc85-4f4e-9edc-56325e212b20;CH;2026-12-19;2027-01-03;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Winter holidays;ZG
+4337eac1-bcc6-41ed-9fda-43944245d855;CH;2027-02-06;2027-02-21;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+d40e9551-fec0-4c96-a901-291d2a7c0fce;CH;2027-04-17;2027-05-02;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+e2e33664-544c-4e07-b04c-de146bcf6101;CH;2027-05-06;2027-05-09;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+cdde3201-f7bc-448c-b487-a006a50269ad;CH;2027-07-03;2027-08-15;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
+4f87356d-94a4-49eb-b3a9-56312162ff74;CH;2027-10-03;2027-10-18;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;ZG
+58710667-8d1d-4f3f-9673-80d37ab7e02a;CH;2027-12-19;2028-01-03;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Winter holidays;ZG
+8e2dfd8f-91e6-4fcd-bbda-52b8bd58f2d6;CH;2028-02-05;2028-02-20;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+690b1847-84f6-4180-8bfe-aa0da3f40b8c;CH;2028-04-15;2028-04-30;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+ef9e4f7c-0784-4922-b8cd-26821a262216;CH;2028-05-25;2028-05-28;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+4462baaa-2f52-441f-8278-63656004c5ba;CH;2028-07-08;2028-08-20;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
+3488faa3-18d5-48fd-ac1a-e422a7f24f61;CH;2028-10-07;2028-10-22;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;ZG
+bb8df82c-12e0-4a8f-81e8-a1dd1d46db89;CH;2028-12-23;2029-01-07;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Winter holidays;ZG
+53f90c97-52bb-4aa1-ad99-c6d12157c0d0;CH;2029-02-03;2029-02-18;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+ce88e3b3-0a0e-46dc-998a-7362e244d8d6;CH;2029-04-4;2029-04-29;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+3057a37e-b9a5-45db-b084-f9893f32e00c;CH;2029-05-10;2029-05-13;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+61ae5cac-9e2a-46a8-bfcb-b752ca826805;CH;2029-07-07;2029-08-19;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
+ae624775-0901-49fc-a14e-792721fdcd83;CH;2029-10-06;2029-10-21;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;ZG
+0f0ebc52-d740-4808-a2aa-38cf545c5b0e;CH;2029-12-22;2030-01-06;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Winter holidays;ZG
+d441fe5b-8a84-4936-9c62-0fe535e80ded;CH;2030-02-02;2030-02-17;School;Regional;DE Sportferien,FR Vacances sportives,IT Vacanze sportive,EN Sports holidays;ZG
+98e55907-6d7d-4fbe-88d3-f75bbcc83d60;CH;2030-04-13;2030-04-28;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;ZG
+461d4d20-4f2f-4bc2-95f8-a1d0c92b50f7;CH;2030-05-30;2030-06-02;School;Regional;DE Auffahrtsferien,FR Vacances de l'Ascension,IT Vacanze dell'Ascensione,EN Ascension Day holidays;ZG
+374e7db4-4bb3-414d-9f6b-033208af4ebd;CH;2030-07-06;2030-08-18;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;ZG
