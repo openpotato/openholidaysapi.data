@@ -1,0 +1,40 @@
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+e8231747-e7c1-4723-b5ae-af8f3082e83d;FR;2019-12-22;2020-01-05;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;GY
+806e3974-a020-4833-b2d3-6fd25dd11575;FR;2020-02-16;2020-03-01;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;GY
+acb63b84-d06c-45ce-8fbe-e54e9c10508f;FR;2020-04-10;2020-04-27;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;GY
+b4569d74-a171-4040-aaa2-cab7747c535f;FR;2020-05-23;2020-05-24;School;Regional;FR Pont de l'Ascension,DE Brückentage zu Christi Himmelfahrt,EN Ascension Bridge;GY
+e047c0ff-8b93-47bc-89fa-f24896693b8d;FR;2020-07-05;2020-08-31;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;GY
+d71a6fee-4bac-43ac-8ffe-4f4ad5d9d057;FR;2020-10-25;2020-11-08;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;GY
+a36bf483-e046-4b2d-ad90-9468af65e163;FR;2020-12-20;2021-01-03;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;GY
+3e7efdb0-7163-4e9d-bdc0-b336def33cda;FR;2021-02-14;2021-02-28;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;GY
+25f3afbc-49fb-478c-bc43-5985354519e9;FR;2021-04-02;2021-04-18;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;GY
+228aa013-e452-42a2-bbef-8bf21c2994c6;FR;2021-05-14;2021-05-15;School;Regional;FR Pont de l'Ascension,DE Brückentage zu Christi Himmelfahrt,EN Ascension Bridge;GY
+7ae3fa6e-fc05-4597-8e54-261f93a0593d;FR;2021-07-04;2021-09-01;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;GY
+4eb01bd7-fb49-4ca4-86ee-bfce606a23ba;FR;2021-10-24;2021-11-07;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;GY
+a5298b60-9697-4e10-81f9-25a46dcd5590;FR;2021-12-19;2022-01-02;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;GY
+70791964-6ddd-4c3b-add4-5e0e4c2c2e3d;FR;2022-02-20;2022-03-06;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;GY
+ec8b0b18-da34-4818-9010-03e01979f3bd;FR;2022-04-15;2022-05-01;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;GY
+9cd903d5-ba5c-40f5-877a-961aa55be638;FR;2022-05-27;2022-05-28;School;Regional;FR Pont de l'Ascension,DE Brückentage zu Christi Himmelfahrt,EN Ascension Bridge;GY
+707121e8-6016-420c-be48-1682aeb7a39d;FR;2022-10-23;2022-11-06;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;GY
+6277d223-9d24-426a-bfc8-7adab8f5bdef;FR;2022-12-18;2023-01-02;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;GY
+fb0853fd-d45e-4ace-aafd-d233cc4d03f2;FR;2023-02-19;2023-03-05;School;Regional;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;GY
+d32adf4a-888e-4fb9-a71c-3856528a3b72;FR;2023-05-14;2023-05-21;School;Regional;FR Pont de l'Ascension,DE Brückentage zu Christi Himmelfahrt,EN Ascension Bridge;GY
+ea7ec131-631a-420c-8f4f-f872cda961dc;FR;2023-07-09;2023-09-03;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;GY
+43365bb7-33ca-4781-b48d-b434908fe07e;FR;2023-10-22;2023-11-05;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;GY
+73acc0e7-d4b4-4dde-baaf-a3b4dbf5246d;FR;2023-12-24;2024-01-07;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;GY
+973d4aa3-b7bc-4737-b990-a34df34dac61;FR;2024-02-11;2024-02-25;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;GY
+833e17c3-66f2-4033-add3-c9a2b6952c4b;FR;2024-03-29;2025-05-04;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;GY
+c807882e-40e5-483e-8ca3-61c2d33f3ff2;FR;2024-04-21;2024-05-02;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;GY
+3bd1bbcf-a5ba-4f24-8aba-cee2be676da0;FR;2024-05-10;2024-05-11;School;Regional;FR Pont de l'Ascension,DE Brückentage zu Christi Himmelfahrt,EN Ascension Bridge;GY
+1e2f449c-f73a-422e-bbc0-29a3d9184f0d;FR;2024-10-20;2024-11-03;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;GY
+6ebd98de-d268-444a-aa0b-095126667231;FR;2024-12-22;2025-01-05;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;GY
+f1933413-51eb-46c2-b830-32898d506128;FR;2025-02-23;2025-03-09;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;GY
+728b1ba8-12d1-4401-b86b-aae4fcd9d68e;FR;2025-04-18;2025-05-04;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;GY
+b407111d-8734-4869-bae3-0f22599b3a21;FR;2025-05-30;2025-05-31;School;Regional;FR Pont de l'Ascension,DE Brückentage zu Christi Himmelfahrt,EN Ascension Bridge;GY
+75e30d12-727f-4bac-81dc-4cb842e388be;FR;2025-07-06;2025-08-31;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;GY
+1a64bd88-d519-456c-9f1a-34f27edaa726;FR;2025-10-19;2025-11-02;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;GY
+0ba23aaf-90ac-40af-a9ec-63fd5adf86bb;FR;2025-12-21;2026-01-04;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;GY
+33ad2952-364a-48d4-977d-121c47c8eaec;FR;2026-02-08;2026-02-22;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;GY
+d9a5529c-fe98-458a-8dde-7aea67d4e16c;FR;2026-04-02;2026-04-15;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;GY
+5c6013e0-7aa8-4338-9a77-0d13f44f16a7;FR;2026-05-15;2026-05-16;School;Regional;FR Semaine en Mai,DE Woche im Mai,EN Week in May;GY
+bf27aa8d-3acd-46e9-9d7d-413309472936;FR;2026-07-04;;EndOfLessons;Regional;FR Fin des cours,DE Unterrichtsende,EN End of lessons;GY

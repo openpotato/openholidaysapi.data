@@ -1,0 +1,42 @@
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+11b44ca3-bd83-4f96-a4fc-5a0ddfaa27a8;FR;2019-12-22;2020-01-05;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;MQ
+c21fdf09-4864-4827-b4da-4c88be8ab2f2;FR;2020-02-23;2020-03-08;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;MQ
+6babd0c8-1876-4376-816e-990e63ba9730;FR;2020-04-05;2020-04-19;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;MQ
+537fd312-ff1c-428b-a13c-9fa519341001;FR;2020-05-22;2020-05-23;School;Regional;FR Pas de cours,DE Unterrichtsfrei,EN No lessons;MQ
+947e4592-559e-47a0-b300-91a8cb4b0dab;FR;2020-07-05;2020-08-31;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;MQ
+57b90da9-8d50-4c2c-8866-23ae630aa894;FR;2020-10-25;2020-11-08;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;MQ
+1bf9d9bd-c3d9-404a-bc99-5123cd7d67b7;FR;2020-12-20;2021-01-03;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;MQ
+34831263-cbbb-469c-af04-42916f89e799;FR;2021-02-07;2021-02-21;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;MQ
+6c0c1603-985f-40ce-afe4-fe49e1f50c2e;FR;2021-03-28;2021-04-11;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;MQ
+fca4d4c7-5923-42f3-9069-1492f8316d8e;FR;2021-05-14;2021-05-15;School;Regional;FR Pas de cours,DE Unterrichtsfrei,EN No lessons;MQ
+b3c15a52-7c0f-485c-9061-73bc656958b9;FR;2021-07-07;2021-09-01;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;MQ
+6eaac976-75eb-47f3-abdb-180483b9478b;FR;2021-10-24;2021-11-07;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;MQ
+ea93c700-0fd5-404c-9556-83c94457f607;FR;2021-12-19;2022-01-02;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;MQ
+d7b3110f-3c6a-4a70-a680-2ca15a6abd53;FR;2022-02-20;2022-03-06;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;MQ
+38364712-afd1-4b27-af5b-d1603c9d0f2c;FR;2022-04-10;2022-04-24;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;MQ
+61f586a6-0eb5-4470-a320-842ed22ce411;FR;2022-05-27;2022-05-28;School;Regional;FR Pas de cours,DE Unterrichtsfrei,EN No lessons;MQ
+327cc257-b504-4439-87b5-95c8c739224e;FR;2022-07-08;2022-08-31;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;MQ
+92c33aba-8195-48da-b693-5ae74e1251e3;FR;2022-10-23;2022-11-06;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;MQ
+40258647-2eab-4a3a-8ebc-5bd2855eafc4;FR;2022-12-18;2023-01-02;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;MQ
+4af30133-5d80-4707-8d20-3b2ca3410d2a;FR;2023-02-12;2023-02-26;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;MQ
+ec4a5cae-8052-4a30-87f6-004b1d48a334;FR;2023-04-02;2023-04-16;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;MQ
+8fc03511-9c6e-4ef2-9da5-90738463f3a6;FR;2023-05-19;2023-05-20;School;Regional;FR Pas de cours,DE Unterrichtsfrei,EN No lessons;MQ
+cdc3b969-4a80-4417-ae07-1129eceb3af2;FR;2023-07-09;2023-09-03;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;MQ
+d5583894-f4d8-4015-aac8-ab88b5f3b1a3;FR;2023-10-22;2023-11-05;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;MQ
+a2f1a05b-6f0b-4506-a50e-5897a3857c79;FR;2023-12-24;2024-01-07;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;MQ
+b3db0d1a-8ed1-482d-9d16-3c5fcbd6f9a3;FR;2024-02-11;2024-02-25;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;MQ
+5f1de495-7ccf-4c30-aa63-11e542e9b699;FR;2024-03-24;2024-04-07;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;MQ
+3693cb80-6275-43e5-95d3-76fddeb5fb48;FR;2024-05-10;2024-05-11;School;Regional;FR Pas de cours,DE Unterrichtsfrei,EN No lessons;MQ
+2576e7b0-c5b3-4355-8fcc-25fda19c7e81;FR;2024-07-07;2024-09-01;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;MQ
+ff735516-113b-427b-b389-3076369e7ec5;FR;2024-10-20;2024-11-03;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;MQ
+6e78f943-41e5-4bdf-8d41-ce50ec87191a;FR;2024-12-22;2025-01-05;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;MQ
+eef3a6e2-ad73-47e4-b081-0a44dbfe4732;FR;2025-02-23;2025-03-09;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;MQ
+2dce2c1c-821d-4d7b-90e1-7a55b004b4a8;FR;2025-04-13;2025-04-27;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;MQ
+0b2caf95-f3c2-42b8-856f-98a2919d9674;FR;2025-05-30;2025-05-31;School;Regional;FR Pas de cours,DE Unterrichtsfrei,EN No lessons;MQ
+5de65749-9ceb-47cc-a81e-f3f34e9d5fc1;FR;2025-07-06;2025-08-31;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;MQ
+082d5002-6ee8-48b6-8d85-f9d3cecf6aa0;FR;2025-10-19;2025-11-02;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;MQ
+bf2b0730-ee31-41f2-a85f-44e1dac61cc3;FR;2025-12-21;2026-01-04;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;MQ
+2bec8cb2-b585-4106-8b02-6d5d6f3764ac;FR;2026-02-08;2026-02-22;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;MQ
+9c0b1813-6eb9-4dd1-b513-50968c8f52d1;FR;2026-03-28;2026-04-12;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;MQ
+4a773faf-5f53-416b-ac9d-589dfe0a77dc;FR;2026-05-15;2026-05-16;School;Regional;FR Pas de cours,DE Unterrichtsfrei,EN No lessons;MQ
+3fd6d155-32ed-4130-9e8c-aed6a557789d;FR;2026-07-04;;EndOfLessons;Regional;FR Fin des cours,DE Unterrichtsende,EN End of lessons;MQ
