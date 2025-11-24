@@ -8,10 +8,10 @@ f64768e4-96f2-44ea-8886-2e9eda59a2f9;FR;2020-07-05;2020-08-31;School;Regional;FR
 878e1e15-8a58-451b-8cb7-5cb092c6b4af;FR;2020-12-20;2021-01-03;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;GP,BL,MF
 c5c5ea55-6ea9-4940-97a3-69f510772bc2;FR;2021-02-10;2021-02-21;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;GP,BL,MF
 1b19e092-6cf3-480d-95e0-9fc52b573884;FR;2021-03-28;2021-04-11;School;Regional;FR Vacances de Pâques,DE Osterferien,EN Easter holidays;GP,BL,MF
-d9caa6c8-db37-4157-b928-c5bf075f3e9e;FR;2021-05-25;2021-05-26;School;Regional;FR Semaine en Mai,DE Woche im Mai,EN Week in May;GP
-2aac675f-4527-4dce-a3be-6304b8ff79e4;FR;2021-05-25;2021-05-27;School;Regional;FR Semaine en Mai,DE Woche im Mai,EN Week in May;MF
-a637f735-216d-421c-a1d4-327166184e11;FR;2021-05-28;2021-05-29;School;Regional;FR Semaine en Mai,DE Woche im Mai,EN Week in May;GP
-e6dd0fc6-4426-46d2-be48-b70b1a4efdb5;FR;2021-05-29;2021-05-27;School;Regional;FR Semaine en Mai,DE Woche im Mai,EN Week in May;MF
+d9caa6c8-db37-4157-b928-c5bf075f3e9e;FR;2021-05-25;2021-05-26;School;Regional;FR Semaine en Mai,DE Woche im Mai,EN Week in May;GP,MF
+2aac675f-4527-4dce-a3be-6304b8ff79e4;FR;2021-05-27;;School;Regional;FR Semaine en Mai,DE Woche im Mai,EN Week in May;MF
+a637f735-216d-421c-a1d4-327166184e11;FR;2021-05-28;;School;Regional;FR Semaine en Mai,DE Woche im Mai,EN Week in May;GP
+e6dd0fc6-4426-46d2-be48-b70b1a4efdb5;FR;2021-05-29;;School;Regional;FR Semaine en Mai,DE Woche im Mai,EN Week in May;GP,MF
 69f72fe9-2ee9-4296-84b7-2c3c78820221;FR;2021-10-24;2021-11-07;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;GP,BL,MF
 76d10afa-a020-4962-9454-6b687bfcf8c5;FR;2021-12-19;2022-01-02;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;GP,BL,MF
 fde1f459-2c50-4bf2-af7b-517bd62c99c7;FR;2022-02-20;2022-03-06;School;Regional;FR Vacances de Carnaval,DE Karnevalsferien,EN Carnival holidays;GP,BL,MF
