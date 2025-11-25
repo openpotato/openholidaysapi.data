@@ -864,119 +864,119 @@ CH;CH-GL;CH-GL;GL;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Glarus,
 CH;CH-GL-GL;;GL-GL;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Glarus;DE;;GL
 CH;CH-GL-GN;;GL-GN;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Glarus Nord;DE;;GL
 CH;CH-GL-GS;;GL-GS;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Glarus Süd;DE;;GL
-CH;CH-GR;CH-GR;GR;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Graubünden,IT Grigioni,RM Grischun,FR Grisons,EN Grisons;DE,RM,IT;;
-CH;CH-GR-AB;;GR-AB;DE Region,RM regiun,IT regione,FR région,EN region;DE Albula,RM Alvra,IT Albula;DE;;GR
-CH;CH-GR-AB-AA;;GR-AB-AA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Albula/Alvra;DE;;GR-AB
-CH;CH-GR-AB-BF;;GR-AB-BF;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Bergün Filisur;DE;;GR-AB
-CH;CH-GR-AB-LL;;GR-AB-LL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Lantsch/Lenz;DE;;GR-AB
-CH;CH-GR-AB-SM;;GR-AB-SM;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Schmitten;DE;;GR-AB
-CH;CH-GR-AB-SU;;GR-AB-SU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Surses;DE;;GR-AB
-CH;CH-GR-AB-VA;;GR-AB-VA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Vaz/Obervaz;DE;;GR-AB
-CH;CH-GR-BN;;GR-BN;IT regione,DE Region,RM regiun,FR région,EN region;IT Bernina;IT;;GR
-CH;CH-GR-BN-BR;;GR-BN-BR;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Brusio;IT;;GR-BN
-CH;CH-GR-BN-PO;;GR-BN-PO;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Poschiavo;IT;;GR-BN
-CH;CH-GR-EB;;GR-EB;RM regiun,DE Region,IT regione,FR région,EN region;RM Engiadina Bassa/Val Müstair,DE Unterengadin/Münstertal;RM,DE;;GR
-CH;CH-GR-EB-SA;;GR-EB-SA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Samnaun;DE;;GR-EB
-CH;CH-GR-EB-SC;;GR-EB-SC;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Scuol;RM;;GR-EB
-CH;CH-GR-EB-VA;;GR-EB-VA;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Valsot;RM;;GR-EB
-CH;CH-GR-EB-VM;;GR-EB-VM;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Val Müstair;RM;;GR-EB
-CH;CH-GR-EB-ZE;;GR-EB-ZE;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Zernez;RM;;GR-EB
-CH;CH-GR-IB;;GR-IB;DE Region,RM regiun,IT regione,FR région,EN region;DE Imboden;DE;;GR
-CH;CH-GR-IB-BO;;GR-IB-BO;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Bonaduz;DE;;GR-IB
-CH;CH-GR-IB-DE;;GR-IB-DE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Domat/Ems;DE;;GR-IB
-CH;CH-GR-IB-FE;;GR-IB-FE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Felsberg;DE;;GR-IB
-CH;CH-GR-IB-FL;;GR-IB-FL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Flims;DE;;GR-IB
-CH;CH-GR-IB-RH;;GR-IB-RH;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Rhäzüns;DE;;GR-IB
-CH;CH-GR-IB-TA;;GR-IB-TA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Tamins;DE;;GR-IB
-CH;CH-GR-IB-TR;;GR-IB-TR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Trin;DE;;GR-IB
-CH;CH-GR-LQ;;GR-LQ;DE Region,RM regiun,IT regione,FR région,EN region;DE Landquart;DE;;GR
-CH;CH-GR-LQ-FL;;GR-LQ-FL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Fläsch;DE;;GR-LQ
-CH;CH-GR-LQ-JE;;GR-LQ-JE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Jenins;DE;;GR-LQ
-CH;CH-GR-LQ-LA;;GR-LQ-LA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Landquart;DE;;GR-LQ
-CH;CH-GR-LQ-MF;;GR-LQ-MF;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Maienfeld;DE;;GR-LQ
-CH;CH-GR-LQ-ML;;GR-LQ-ML;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Malans;DE;;GR-LQ
-CH;CH-GR-LQ-TR;;GR-LQ-TR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Trimmis;DE;;GR-LQ
-CH;CH-GR-LQ-UN;;GR-LQ-UN;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Untervaz;DE;;GR-LQ
-CH;CH-GR-LQ-ZI;;GR-LQ-ZI;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Zizers;DE;;GR-LQ
-CH;CH-GR-ML;;GR-ML;DE Region,RM regiun,IT regione,FR région,EN region;DE Maloja,RM Malögia,IT Maloggia;DE,RM,IT;;GR
-CH;CH-GR-ML-BE;;GR-ML-BE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Bever;DE;;GR-ML
-CH;CH-GR-ML-BR;;GR-ML-BR;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Bregaglia;IT;;GR-ML
-CH;CH-GR-ML-CE;;GR-ML-CE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Celerina/Schlarigna;DE;;GR-ML
-CH;CH-GR-ML-MA;;GR-ML-MA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Madulain;DE;;GR-ML
-CH;CH-GR-ML-PC;;GR-ML-PC;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE La Punt Chamues-ch;DE;;GR-ML
-CH;CH-GR-ML-PO;;GR-ML-PO;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Pontresina;DE;;GR-ML
-CH;CH-GR-ML-SA;;GR-ML-SA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Samedan;DE;;GR-ML
-CH;CH-GR-ML-SC;;GR-ML-SC;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM S-chanf;RM;;GR-ML
-CH;CH-GR-ML-SI;;GR-ML-SI;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Sils im Engadin/Segl;DE;;GR-ML
-CH;CH-GR-ML-SL;;GR-ML-SL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Silvaplana;DE;;GR-ML
-CH;CH-GR-ML-SM;;GR-ML-SM;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE St. Moritz;DE;;GR-ML
-CH;CH-GR-ML-ZU;;GR-ML-ZU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Zuoz;DE;;GR-ML
-CH;CH-GR-MS;;GR-MS;IT regione,DE Region,RM regiun,FR région,EN region;IT Moesa,DE Moesa,RM Moesa;IT;;GR
-CH;CH-GR-MS-BU;;GR-MS-BU;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Buseno;IT;;GR-MS
-CH;CH-GR-MS-CL;;GR-MS-CL;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Calanca;IT;;GR-MS
-CH;CH-GR-MS-CM;;GR-MS-CM;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Cama;IT;;GR-MS
-CH;CH-GR-MS-CS;;GR-MS-CS;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Castaneda;IT;;GR-MS
-CH;CH-GR-MS-GR;;GR-MS-GR;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Grono;IT;;GR-MS
-CH;CH-GR-MS-LO;;GR-MS-LO;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Lostallo;IT;;GR-MS
-CH;CH-GR-MS-ME;;GR-MS-ME;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Mesocco;IT;;GR-MS
-CH;CH-GR-MS-RS;;GR-MS-RS;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Rossa;IT;;GR-MS
-CH;CH-GR-MS-RV;;GR-MS-RV;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Roveredo (GR);IT;;GR-MS
-CH;CH-GR-MS-SM;;GR-MS-SM;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Santa Maria in Calanca;IT;;GR-MS
-CH;CH-GR-MS-SO;;GR-MS-SO;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Soazza;IT;;GR-MS
-CH;CH-GR-MS-SV;;GR-MS-SV;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT San Vittore;IT;;GR-MS
-CH;CH-GR-PD;;GR-PD;RM regiun,DE Region,IT regione,FR région,EN region;DE Prättigau / Davos;DE;;GR
-CH;CH-GR-PD-CO;;GR-PD-CO;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Conters im Prättigau;DE;;GR-PD
-CH;CH-GR-PD-DA;;GR-PD-DA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Davos;DE;;GR-PD
-CH;CH-GR-PD-FI;;GR-PD-FI;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Fideris;DE;;GR-PD
-CH;CH-GR-PD-FU;;GR-PD-FU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Furna;DE;;GR-PD
-CH;CH-GR-PD-GR;;GR-PD-GR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Grüsch;DE;;GR-PD
-CH;CH-GR-PD-JE;;GR-PD-JE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Jenaz;DE;;GR-PD
-CH;CH-GR-PD-KL;;GR-PD-KL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Klosters;DE;;GR-PD
-CH;CH-GR-PD-KU;;GR-PD-KU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Küblis;DE;;GR-PD
-CH;CH-GR-PD-LU;;GR-PD-LU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Luzein;DE;;GR-PD
-CH;CH-GR-PD-SE;;GR-PD-SE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Seewis im Prättigau;DE;;GR-PD
-CH;CH-GR-PD-SI;;GR-PD-SI;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Schiers;DE;;GR-PD
-CH;CH-GR-PS;;GR-PS;DE Region,RM regiun,IT regione,FR région,EN region;DE Plessur;DE;;GR
-CH;CH-GR-PS-AR;;GR-PS-AR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Arosa;DE;;GR-PS
-CH;CH-GR-PS-CR;;GR-PS-CR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Chur;DE;;GR-PS
-CH;CH-GR-PS-CW;;GR-PS-CW;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Churwalden;DE;;GR-PS
-CH;CH-GR-PS-TP;;GR-PS-TP;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Tschiertschen-Praden;DE;;GR-PS
-CH;CH-GR-SS;;GR-SS;DE Region,RM regiun,IT regione,FR région,EN region;DE Surselva;RM,DE;;GR
-CH;CH-GR-SS-BR;;GR-SS-BR;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Breil/Brigels;RM;;GR-PD
-CH;CH-GR-SS-DI;;GR-SS-DI;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Disentis/Mustér;RM;;GR-PD
-CH;CH-GR-SS-FA;;GR-SS-FA;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Falera;RM;;GR-PD
-CH;CH-GR-SS-IL;;GR-SS-IL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Ilanz/Glion;DE;;GR-PD
-CH;CH-GR-SS-LA;;GR-SS-LA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Laax;DE;;GR-PD
-CH;CH-GR-SS-LU;;GR-SS-LU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Lumnezia;DE;;GR-PD
-CH;CH-GR-SS-ME;;GR-SS-ME;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Medel (Lucmagn);RM;;GR-PD
-CH;CH-GR-SS-OB;;GR-SS-OB;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Obersaxen Mundaun;DE;;GR-PD
-CH;CH-GR-SS-SF;;GR-SS-SF;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Safiental;DE;;GR-PD
-CH;CH-GR-SS-SG;;GR-SS-SG;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Sagogn;RM;;GR-PD
-CH;CH-GR-SS-SL;;GR-SS-SL;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Schluein;RM;;GR-PD
-CH;CH-GR-SS-SU;;GR-SS-SU;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Sumvitg;RM;;GR-PD
-CH;CH-GR-SS-TR;;GR-SS-TR;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Trun;RM;;GR-PD
-CH;CH-GR-SS-TU;;GR-SS-TU;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Tujetsch;RM;;GR-PD
-CH;CH-GR-SS-VA;;GR-SS-VA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Vals;DE;;GR-PD
-CH;CH-GR-VM;;GR-VM;DE Region,RM regiun,IT regione,FR région,EN region;DE Viamala;DE;;GR
-CH;CH-GR-VM-AN;;GR-VM-AN;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Andeer;DE;;GR-VM
-CH;CH-GR-VM-AV;;GR-VM-AV;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Avers;DE;;GR-VM
-CH;CH-GR-VM-CA;;GR-VM-CA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Cazis;DE;;GR-VM
-CH;CH-GR-VM-DO;;GR-VM-DO;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Domleschg;DE;;GR-VM
-CH;CH-GR-VM-FE;;GR-VM-FE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Ferrera;DE;;GR-VM
-CH;CH-GR-VM-FL;;GR-VM-FL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Flerden;DE;;GR-VM
-CH;CH-GR-VM-FU;;GR-VM-FU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Fürstenau;DE;;GR-VM
-CH;CH-GR-VM-MA;;GR-VM-MA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Masein;DE;;GR-VM
-CH;CH-GR-VM-MU;;GR-VM-MU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Muntogna da Schons;DE;;GR-VM
-CH;CH-GR-VM-RG;;GR-VM-RG;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Rongellen;DE;;GR-VM
-CH;CH-GR-VM-RH;;GR-VM-RH;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Rheinwald;DE;;GR-VM
-CH;CH-GR-VM-RT;;GR-VM-RT;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Rothenbrunnen;DE;;GR-VM
-CH;CH-GR-VM-SA;;GR-VM-SA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Scharans;DE;;GR-VM
-CH;CH-GR-VM-SI;;GR-VM-SI;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Sils im Domleschg;DE;;GR-VM
-CH;CH-GR-VM-SU;;GR-VM-SU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Sufers;DE;;GR-VM
-CH;CH-GR-VM-TH;;GR-VM-TH;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Thusis;DE;;GR-VM
-CH;CH-GR-VM-TS;;GR-VM-TS;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Tschappina;DE;;GR-VM
-CH;CH-GR-VM-UR;;GR-VM-UR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Urmein;DE;;GR-VM
-CH;CH-GR-VM-ZR;;GR-VM-ZR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Zillis-Reischen;DE;;GR-VM
+CH;CH-GR;CH-GR;GR;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Graubünden,IT Grigioni,RM Grischun,FR Grisons,EN Grisons;DE,RM,IT;GR-VS;
+CH;CH-GR-AB;;GR-AB;DE Region,RM regiun,IT regione,FR région,EN region;DE Albula,RM Alvra,IT Albula;DE;GR-VS;GR
+CH;CH-GR-AB-AA;;GR-AB-AA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Albula/Alvra;DE;GR-VS;GR-AB
+CH;CH-GR-AB-BF;;GR-AB-BF;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Bergün Filisur;DE;GR-VS;GR-AB
+CH;CH-GR-AB-LL;;GR-AB-LL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Lantsch/Lenz;DE;GR-VS;GR-AB
+CH;CH-GR-AB-SM;;GR-AB-SM;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Schmitten;DE;GR-VS;GR-AB
+CH;CH-GR-AB-SU;;GR-AB-SU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Surses;DE;GR-VS;GR-AB
+CH;CH-GR-AB-VA;;GR-AB-VA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Vaz/Obervaz;DE;GR-VS;GR-AB
+CH;CH-GR-BN;;GR-BN;IT regione,DE Region,RM regiun,FR région,EN region;IT Bernina;IT;GR-VS;GR
+CH;CH-GR-BN-BR;;GR-BN-BR;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Brusio;IT;GR-VS;GR-BN
+CH;CH-GR-BN-PO;;GR-BN-PO;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Poschiavo;IT;GR-VS;GR-BN
+CH;CH-GR-EB;;GR-EB;RM regiun,DE Region,IT regione,FR région,EN region;RM Engiadina Bassa/Val Müstair,DE Unterengadin/Münstertal;RM,DE;GR-VS;GR
+CH;CH-GR-EB-SA;;GR-EB-SA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Samnaun;DE;GR-VS;GR-EB
+CH;CH-GR-EB-SC;;GR-EB-SC;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Scuol;RM;GR-VS;GR-EB
+CH;CH-GR-EB-VA;;GR-EB-VA;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Valsot;RM;GR-VS;GR-EB
+CH;CH-GR-EB-VM;;GR-EB-VM;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Val Müstair;RM;GR-VS;GR-EB
+CH;CH-GR-EB-ZE;;GR-EB-ZE;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Zernez;RM;GR-VS;GR-EB
+CH;CH-GR-IB;;GR-IB;DE Region,RM regiun,IT regione,FR région,EN region;DE Imboden;DE;GR-VS;GR
+CH;CH-GR-IB-BO;;GR-IB-BO;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Bonaduz;DE;GR-VS;GR-IB
+CH;CH-GR-IB-DE;;GR-IB-DE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Domat/Ems;DE;GR-VS;GR-IB
+CH;CH-GR-IB-FE;;GR-IB-FE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Felsberg;DE;GR-VS;GR-IB
+CH;CH-GR-IB-FL;;GR-IB-FL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Flims;DE;GR-VS;GR-IB
+CH;CH-GR-IB-RH;;GR-IB-RH;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Rhäzüns;DE;GR-VS;GR-IB
+CH;CH-GR-IB-TA;;GR-IB-TA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Tamins;DE;GR-VS;GR-IB
+CH;CH-GR-IB-TR;;GR-IB-TR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Trin;DE;GR-VS;GR-IB
+CH;CH-GR-LQ;;GR-LQ;DE Region,RM regiun,IT regione,FR région,EN region;DE Landquart;DE;GR-VS;GR
+CH;CH-GR-LQ-FL;;GR-LQ-FL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Fläsch;DE;GR-VS;GR-LQ
+CH;CH-GR-LQ-JE;;GR-LQ-JE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Jenins;DE;GR-VS;GR-LQ
+CH;CH-GR-LQ-LA;;GR-LQ-LA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Landquart;DE;GR-VS;GR-LQ
+CH;CH-GR-LQ-MF;;GR-LQ-MF;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Maienfeld;DE;GR-VS;GR-LQ
+CH;CH-GR-LQ-ML;;GR-LQ-ML;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Malans;DE;GR-VS;GR-LQ
+CH;CH-GR-LQ-TR;;GR-LQ-TR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Trimmis;DE;GR-VS;GR-LQ
+CH;CH-GR-LQ-UN;;GR-LQ-UN;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Untervaz;DE;GR-VS;GR-LQ
+CH;CH-GR-LQ-ZI;;GR-LQ-ZI;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Zizers;DE;GR-VS;GR-LQ
+CH;CH-GR-ML;;GR-ML;DE Region,RM regiun,IT regione,FR région,EN region;DE Maloja,RM Malögia,IT Maloggia;DE,RM,IT;GR-VS;GR
+CH;CH-GR-ML-BE;;GR-ML-BE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Bever;DE;GR-VS;GR-ML
+CH;CH-GR-ML-BR;;GR-ML-BR;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Bregaglia;IT;GR-VS;GR-ML
+CH;CH-GR-ML-CE;;GR-ML-CE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Celerina/Schlarigna;DE;GR-VS;GR-ML
+CH;CH-GR-ML-MA;;GR-ML-MA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Madulain;DE;GR-VS;GR-ML
+CH;CH-GR-ML-PC;;GR-ML-PC;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE La Punt Chamues-ch;DE;GR-VS;GR-ML
+CH;CH-GR-ML-PO;;GR-ML-PO;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Pontresina;DE;GR-VS;GR-ML
+CH;CH-GR-ML-SA;;GR-ML-SA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Samedan;DE;GR-VS;GR-ML
+CH;CH-GR-ML-SC;;GR-ML-SC;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM S-chanf;RM;GR-VS;GR-ML
+CH;CH-GR-ML-SI;;GR-ML-SI;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Sils im Engadin/Segl;DE;GR-VS;GR-ML
+CH;CH-GR-ML-SL;;GR-ML-SL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Silvaplana;DE;GR-VS;GR-ML
+CH;CH-GR-ML-SM;;GR-ML-SM;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE St. Moritz;DE;GR-VS;GR-ML
+CH;CH-GR-ML-ZU;;GR-ML-ZU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Zuoz;DE;GR-VS;GR-ML
+CH;CH-GR-MS;;GR-MS;IT regione,DE Region,RM regiun,FR région,EN region;IT Moesa,DE Moesa,RM Moesa;IT;GR-VS;GR
+CH;CH-GR-MS-BU;;GR-MS-BU;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Buseno;IT;GR-VS;GR-MS
+CH;CH-GR-MS-CL;;GR-MS-CL;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Calanca;IT;GR-VS;GR-MS
+CH;CH-GR-MS-CM;;GR-MS-CM;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Cama;IT;GR-VS;GR-MS
+CH;CH-GR-MS-CS;;GR-MS-CS;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Castaneda;IT;GR-VS;GR-MS
+CH;CH-GR-MS-GR;;GR-MS-GR;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Grono;IT;GR-VS;GR-MS
+CH;CH-GR-MS-LO;;GR-MS-LO;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Lostallo;IT;GR-VS;GR-MS
+CH;CH-GR-MS-ME;;GR-MS-ME;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Mesocco;IT;GR-VS;GR-MS
+CH;CH-GR-MS-RS;;GR-MS-RS;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Rossa;IT;GR-VS;GR-MS
+CH;CH-GR-MS-RV;;GR-MS-RV;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Roveredo (GR);IT;GR-VS;GR-MS
+CH;CH-GR-MS-SM;;GR-MS-SM;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Santa Maria in Calanca;IT;GR-VS;GR-MS
+CH;CH-GR-MS-SO;;GR-MS-SO;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT Soazza;IT;GR-VS;GR-MS
+CH;CH-GR-MS-SV;;GR-MS-SV;IT comune,DE Gemeinde,RM vischnanca,FR commune,EN municipality;IT San Vittore;IT;GR-VS;GR-MS
+CH;CH-GR-PD;;GR-PD;RM regiun,DE Region,IT regione,FR région,EN region;DE Prättigau / Davos;DE;GR-VS;GR
+CH;CH-GR-PD-CO;;GR-PD-CO;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Conters im Prättigau;DE;GR-VS;GR-PD
+CH;CH-GR-PD-DA;;GR-PD-DA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Davos;DE;GR-VS;GR-PD
+CH;CH-GR-PD-FI;;GR-PD-FI;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Fideris;DE;GR-VS;GR-PD
+CH;CH-GR-PD-FU;;GR-PD-FU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Furna;DE;GR-VS;GR-PD
+CH;CH-GR-PD-GR;;GR-PD-GR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Grüsch;DE;GR-VS;GR-PD
+CH;CH-GR-PD-JE;;GR-PD-JE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Jenaz;DE;GR-VS;GR-PD
+CH;CH-GR-PD-KL;;GR-PD-KL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Klosters;DE;GR-VS;GR-PD
+CH;CH-GR-PD-KU;;GR-PD-KU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Küblis;DE;GR-VS;GR-PD
+CH;CH-GR-PD-LU;;GR-PD-LU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Luzein;DE;GR-VS;GR-PD
+CH;CH-GR-PD-SE;;GR-PD-SE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Seewis im Prättigau;DE;GR-VS;GR-PD
+CH;CH-GR-PD-SI;;GR-PD-SI;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Schiers;DE;GR-VS;GR-PD
+CH;CH-GR-PS;;GR-PS;DE Region,RM regiun,IT regione,FR région,EN region;DE Plessur;DE;GR-VS;GR
+CH;CH-GR-PS-AR;;GR-PS-AR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Arosa;DE;GR-VS;GR-PS
+CH;CH-GR-PS-CR;;GR-PS-CR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Chur;DE;GR-VS,GR-KS;GR-PS
+CH;CH-GR-PS-CW;;GR-PS-CW;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Churwalden;DE;GR-VS;GR-PS
+CH;CH-GR-PS-TP;;GR-PS-TP;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Tschiertschen-Praden;DE;GR-VS;GR-PS
+CH;CH-GR-SS;;GR-SS;DE Region,RM regiun,IT regione,FR région,EN region;DE Surselva;RM,DE;GR-VS;GR
+CH;CH-GR-SS-BR;;GR-SS-BR;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Breil/Brigels;RM;GR-VS;GR-PD
+CH;CH-GR-SS-DI;;GR-SS-DI;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Disentis/Mustér;RM;GR-VS;GR-PD
+CH;CH-GR-SS-FA;;GR-SS-FA;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Falera;RM;GR-VS;GR-PD
+CH;CH-GR-SS-IL;;GR-SS-IL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Ilanz/Glion;DE;GR-VS;GR-PD
+CH;CH-GR-SS-LA;;GR-SS-LA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Laax;DE;GR-VS;GR-PD
+CH;CH-GR-SS-LU;;GR-SS-LU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Lumnezia;DE;GR-VS;GR-PD
+CH;CH-GR-SS-ME;;GR-SS-ME;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Medel (Lucmagn);RM;GR-VS;GR-PD
+CH;CH-GR-SS-OB;;GR-SS-OB;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Obersaxen Mundaun;DE;GR-VS;GR-PD
+CH;CH-GR-SS-SF;;GR-SS-SF;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Safiental;DE;GR-VS;GR-PD
+CH;CH-GR-SS-SG;;GR-SS-SG;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Sagogn;RM;GR-VS;GR-PD
+CH;CH-GR-SS-SL;;GR-SS-SL;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Schluein;RM;GR-VS;GR-PD
+CH;CH-GR-SS-SU;;GR-SS-SU;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Sumvitg;RM;GR-VS;GR-PD
+CH;CH-GR-SS-TR;;GR-SS-TR;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Trun;RM;GR-VS;GR-PD
+CH;CH-GR-SS-TU;;GR-SS-TU;RM vischnanca,DE Gemeinde,FR commune,IT comune,EN municipality;RM Tujetsch;RM;GR-VS;GR-PD
+CH;CH-GR-SS-VA;;GR-SS-VA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Vals;DE;GR-VS;GR-PD
+CH;CH-GR-VM;;GR-VM;DE Region,RM regiun,IT regione,FR région,EN region;DE Viamala;DE;GR-VS;GR
+CH;CH-GR-VM-AN;;GR-VM-AN;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Andeer;DE;GR-VS;GR-VM
+CH;CH-GR-VM-AV;;GR-VM-AV;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Avers;DE;GR-VS;GR-VM
+CH;CH-GR-VM-CA;;GR-VM-CA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Cazis;DE;GR-VS;GR-VM
+CH;CH-GR-VM-DO;;GR-VM-DO;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Domleschg;DE;GR-VS;GR-VM
+CH;CH-GR-VM-FE;;GR-VM-FE;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Ferrera;DE;GR-VS;GR-VM
+CH;CH-GR-VM-FL;;GR-VM-FL;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Flerden;DE;GR-VS;GR-VM
+CH;CH-GR-VM-FU;;GR-VM-FU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Fürstenau;DE;GR-VS;GR-VM
+CH;CH-GR-VM-MA;;GR-VM-MA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Masein;DE;GR-VS;GR-VM
+CH;CH-GR-VM-MU;;GR-VM-MU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Muntogna da Schons;DE;GR-VS;GR-VM
+CH;CH-GR-VM-RG;;GR-VM-RG;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Rongellen;DE;GR-VS;GR-VM
+CH;CH-GR-VM-RH;;GR-VM-RH;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Rheinwald;DE;GR-VS;GR-VM
+CH;CH-GR-VM-RT;;GR-VM-RT;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Rothenbrunnen;DE;GR-VS;GR-VM
+CH;CH-GR-VM-SA;;GR-VM-SA;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Scharans;DE;GR-VS;GR-VM
+CH;CH-GR-VM-SI;;GR-VM-SI;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Sils im Domleschg;DE;GR-VS;GR-VM
+CH;CH-GR-VM-SU;;GR-VM-SU;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Sufers;DE;GR-VS;GR-VM
+CH;CH-GR-VM-TH;;GR-VM-TH;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Thusis;DE;GR-VS;GR-VM
+CH;CH-GR-VM-TS;;GR-VM-TS;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Tschappina;DE;GR-VS;GR-VM
+CH;CH-GR-VM-UR;;GR-VM-UR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Urmein;DE;GR-VS;GR-VM
+CH;CH-GR-VM-ZR;;GR-VM-ZR;DE Gemeinde,RM vischnanca,FR commune,IT comune,EN municipality;DE Zillis-Reischen;DE;GR-VS;GR-VM
 CH;CH-JU;CH-JU;JU;FR canton,DE Kanton,IT canonte,RM chantun,EN canton;FR Jura,DE Jura,IT Giura,RM Giura,EN Jura;FR;;
 CH;CH-JU-DE;;JU-DE;FR district,DE Bezirk,IT distretto,RM district,EN district;FR Delémont;FR;;JU
 CH;CH-JU-DE-BC;;JU-DE-BC;FR commune,DE Gemeinde,IT comune,RM vischnanca,EN municipality;FR Boécourt;FR;;JU-DE

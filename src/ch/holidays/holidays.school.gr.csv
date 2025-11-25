@@ -1,24 +1,44 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
-76984873-038b-4c1e-a853-654486f0abd8;CH;2022-10-08;2022-10-23;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GR;
-2ddd8f6e-4c7f-42d8-a88a-9eb30f5d6928;CH;2022-12-24;2023-01-08;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;GR;
-3b53f815-65fe-4097-8dfd-d820f9b98088;CH;2023-06-24;2023-08-13;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GR;
-09e5476c-ddfc-42c9-9450-a997ff0025de;CH;2023-10-07;2023-10-22;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GR;
-9a577903-484e-4dda-8350-aa82e812f955;CH;2023-12-23;2024-01-07;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;GR;
-fd40dac3-f77a-4c04-b72f-b1a4f3176f36;CH;2024-06-22;2024-08-11;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GR;
-9c24143e-837b-4ded-904c-908fa6d02081;CH;2024-10-05;2024-10-20;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GR;
-c64aa6d5-c002-4e4e-b447-1264c1e5a389;CH;2024-12-21;2025-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;GR;
-02ad0f4b-72f8-4f17-a3f8-94fb1f7767a8;CH;2025-06-21;2025-08-10;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GR;
-7d7286f7-e04d-41e2-b9ef-41ec0cf8dda8;CH;2025-10-04;2025-10-19;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GR;
-862dd9a5-3e4f-43ef-a7a9-4ece11a48115;CH;2025-12-20;2026-01-04;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;GR;
-b268f168-28cd-46c2-b731-6ccc4eeb288f;CH;2026-06-27;2026-08-16;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GR; 
-02eeea62-8045-4ffb-bcb5-6ea2cefc06b3;CH;2026-10-10;2026-10-25;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GR;
-05e0e955-e42a-4cff-8793-e321213da7f0;CH;2026-12-23;2027-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;GR;
-2312eeb9-31ee-42d1-b448-d1b438aafcaa;CH;2027-06-28;2027-08-15;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GR; 
-0a8e9acb-7d5e-411f-840a-02177b1808ae;CH;2027-10-09;2027-10-24;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GR;
-7df17184-a317-42da-ab55-9f9f0a46dd71;CH;2027-12-23;2028-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;GR;
-b86cf466-fe0f-4338-8111-f99a9e34a328;CH;2028-06-24;2028-08-13;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GR;
-600b61f4-5dfa-4cca-874f-29c3268f8942;CH;2028-10-07;2028-10-22;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GR; 
-08fcf163-3770-4ae6-9a5e-01762a8848aa;CH;2028-12-23;2029-01-07;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;GR;
-ed50bcb8-0dd2-4d91-bfa6-2ecf259fabb5;CH;2029-06-23;2029-08-12;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;GR;  
-5a9bc9e5-7744-4eb4-92c5-79523073232a;CH;2029-10-06;2029-10-21;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;GR;
-f2a1da6f-3508-4874-9eae-db429777905f;CH;2029-12-22;2029-01-06;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;GR;
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Groups
+2471bed6-048c-42c6-bd95-635748fb5347;CH;2019-12-21;2020-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+4800fa0c-1768-4568-b442-99f7054fc579;CH;2020-08-17;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+9e9ec93e-1ff2-4e26-ab14-f680301d4fa8;CH;2020-10-10;2020-10-25;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+07b12225-945e-4e36-a42a-88f2283ddff3;CH;2020-12-23;2021-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+3329c9e6-0059-4506-a086-0ded2f4ea332;CH;2021-08-16;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+4ec422bf-2f03-4e91-8e86-c719f553304b;CH;2021-10-09;2021-10-24;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+3f68d45b-9fbd-4105-94f8-c323efac1232;CH;2021-12-23;2022-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+ac4e1f87-6f3c-4c60-bd73-8bf22260591f;CH;2022-08-15;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+a15e4d18-9481-40f8-bb34-07090fd3398c;CH;2022-10-08;2022-10-23;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+1f3dc475-c050-4ace-9ca6-6635b474526c;CH;2022-12-24;2023-01-08;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+57fe5130-3067-45c2-8ec1-a9ca83b8eed8;CH;2023-08-14;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+f29d1d11-7eb5-4719-953f-3e21832be0c4;CH;2023-08-21;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-MS;GR-VS
+519baf75-a905-4f37-a930-a38f7d626a5a;CH;2023-10-07;2023-10-22;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+b5dee9cb-900e-4301-a65c-dcee34694049;CH;2023-10-28;2023-11-05;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-MS;GR-VS
+8bc323f5-e146-4134-89e4-f3e94c25b725;CH;2023-12-23;2024-01-07;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-MS;GR-VS
+c6cf3fd9-d7ec-487b-b334-e198cbc34d66;CH;2023-12-23;2024-01-07;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+ae4d3135-ba5c-4aa4-b1a7-a3e891a2bd77;CH;2024-08-12;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+e3ed4fea-e79f-4bb2-afaa-fc6e37aafb21;CH;2024-08-26;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-MS;GR-VS
+32465a21-7547-4f10-a562-aeb6d77c2d51;CH;2024-10-05;2024-10-20;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+169a9175-3446-4935-b83a-42cdff2c89e9;CH;2024-10-26;2024-11-03;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-MS;GR-VS
+4bc6110e-1c93-4bbc-8321-ff8b81d889a9;CH;2024-12-21;2025-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+15f29925-93c0-4dd6-9db2-4121d70f91ec;CH;2024-12-21;2025-01-06;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-MS;GR-VS
+b7b61d23-cc5d-41c7-b5dd-808c87f7b9ce;CH;2025-08-11;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+23296fbc-de54-4852-8a59-1cf633115e89;CH;2025-08-25;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-MS;GR-VS
+58fc68d7-b829-49b5-a715-0b5b2e5599c1;CH;2025-10-06;2025-10-17;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+daa27294-1cb0-4fa2-ba79-1d65d0b34e20;CH;2025-11-01;2025-11-09;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-MS;GR-VS
+67988060-855a-463d-af82-f83c02a359c7;CH;2025-12-22;2026-01-02;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+c0394acf-7723-43f6-8f57-b0d60520bbc1;CH;2025-12-24;2026-01-06;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-MS;GR-VS
+41b8cc8f-361e-4e36-9f9a-0eaa37c91ba1;CH;2026-08-17;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+603a6e77-9285-474e-9d39-07982f3b41cb;CH;2026-08-24;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-MS;GR-VS
+43936b40-6f78-4f45-96a2-41eb0cf621f9;CH;2026-10-10;2026-10-25;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+5c000dfd-ba7f-4966-ba88-1c9379ffd35e;CH;2026-10-31;2026-11-08;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-MS;GR-VS
+6785b84b-9431-48b1-8a49-1e5a5de9547f;CH;2026-12-23;2027-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+6368307e-c48a-429d-b846-efd5ac75fdd0;CH;2026-12-24;2027-01-06;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-MS;GR-VS
+aa7ccc2b-2ee5-48d0-a3dc-03b2cac0d27f;CH;2027-08-16;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+68256f70-c956-4084-bff0-87f751fb6f7c;CH;2027-10-09;2027-10-24;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+342f9907-d5e3-4d1a-9833-5353384f06c0;CH;2027-12-23;2028-01-05;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+1999e902-648e-4b50-b268-b5fdbaf9df85;CH;2028-08-14;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+361c412f-9f36-4a16-85fd-26770b7c7182;CH;2028-10-07;2028-10-22;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+97a99f97-e93b-49bf-a31c-9f5404b6f23f;CH;2028-12-23;2029-01-07;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+09df1e85-19bc-4873-8cc4-96d6b7384789;CH;2029-08-13;;BackToSchool;Regional;DE Schulbeginn,FR Rentrée scolaire,IT Ritorno a scuola,EN Start of the school year;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+aa80ed06-9e85-4c37-b2ff-f30ea3864417;CH;2029-10-06;2029-10-21;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS
+488584ae-13af-499d-acb0-a9062d3da5bd;CH;2029-12-22;2029-01-06;School;Regional;DE Weihnachtsferien,FR Vacances de Noël,IT Vacanze di Natale,EN Christmas holidays;GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM;GR-VS

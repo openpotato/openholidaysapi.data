@@ -1,7 +1,9 @@
 ﻿Country;Code;ShortName;Category;Name;OfficialLanguages
-CH;CH-SO-BS;SO-BS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Berufsfachschulen,FR écoles professionnelles,IT scuole professionali,EN Vocational Schools;DE
-CH;CH-SO-MS;SO-MS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Mittelschulen,FR collèges,IT scuole medie,EN secondary schools;DE
-CH;CH-SO-VS;SO-VS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Volksschulen,FR écoles primaires,IT scuole elementari,EN primary Schools;DE
-CH;CH-ZH-BS;ZH-BS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Berufsfachschulen,FR écoles professionnelles,IT scuole professionali,EN Vocational Schools;DE
-CH;CH-ZH-MS;ZH-MS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Mittelschulen,FR collèges,IT scuole medie,EN secondary schools;DE
-CH;CH-ZH-VS;ZH-VS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Volksschulen,FR écoles primaires,IT scuole elementari,EN primary Schools;DE
+CH;CH-GR-KS;GR-KS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Bündner Kantonsschule,FR École cantonale des Grisons,IT Scuola cantonale grigione,EN Graubünden Cantonal School;DE,RM,IT
+CH;CH-GR-VS;GR-VS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Volksschulen,FR Écoles primaires,IT Scuole elementari,EN Primary Schools;DE,RM,IT
+CH;CH-SO-BS;SO-BS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Berufsfachschulen,FR Écoles professionnelles,IT Scuole professionali,EN Vocational Schools;DE
+CH;CH-SO-MS;SO-MS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Mittelschulen,FR Collèges,IT Scuole medie,EN Secondary Schools;DE
+CH;CH-SO-VS;SO-VS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Volksschulen,FR Écoles primaires,IT Scuole elementari,EN Primary Schools;DE
+CH;CH-ZH-BS;ZH-BS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Berufsfachschulen,FR Écoles professionnelles,IT Scuole professionali,EN Vocational Schools;DE
+CH;CH-ZH-MS;ZH-MS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Mittelschulen,FR Collèges,IT Scuole medie,EN Secondary Schools;DE
+CH;CH-ZH-VS;ZH-VS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Volksschulen,FR Écoles primaires,IT scuole elementari,EN Primary Schools;DE
