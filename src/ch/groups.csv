@@ -1,4 +1,6 @@
 ﻿Country;Code;ShortName;Category;Name;OfficialLanguages
+CH;CH-AI-VS;AI-VS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Volksschulen,FR Écoles primaires,IT Scuole elementari,EN Primary Schools;DE
+CH;CH-AR-VS;AR-VS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Volksschulen,FR Écoles primaires,IT Scuole elementari,EN Primary Schools;DE
 CH;CH-GR-KS;GR-KS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Bündner Kantonsschule,FR École cantonale des Grisons,IT Scuola cantonale grigione,EN Graubünden Cantonal School;DE,RM,IT
 CH;CH-GR-VS;GR-VS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Volksschulen,FR Écoles primaires,IT Scuole elementari,EN Primary Schools;DE,RM,IT
 CH;CH-SO-BS;SO-BS;DE Schulart,FR type d'école,IT tipo di scuola,EN school type;DE Berufsfachschulen,FR Écoles professionnelles,IT Scuole professionali,EN Vocational Schools;DE

@@ -208,36 +208,36 @@ CH;CH-AG-ZZ-SI;;AG-ZZ-SI;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN munic
 CH;CH-AG-ZZ-SN;;AG-ZZ-SN;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Schneisingen;DE;;AG-ZZ
 CH;CH-AG-ZZ-TE;;AG-ZZ-TE;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Tegerfelden;DE;;AG-ZZ
 CH;CH-AG-ZZ-ZZ;;AG-ZZ-ZZ;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Zurzach;DE;;AG-ZZ
-CH;CH-AI;CH-AI;AI;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Appenzell Innerrhoden,FR Appenzell Rhodes-Intérieures,IT Appenzello Interno,RM Appenzell Dadens,EN Appenzell Innerrhoden;DE;;
-CH;CH-AI-AP;;AI-AP;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Appenzell;DE;;AI
-CH;CH-AI-GO;;AI-GO;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Gonten;DE;;AI
-CH;CH-AI-OB;;AI-OB;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Oberegg;DE;;AI
-CH;CH-AI-SH;;AI-SH;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Schlatt-Haslen;DE;;AI
-CH;CH-AI-SR;;AI-SR;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Schwende-Rüte;DE;;AI
-CH;CH-AR;CH-AR;AR;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Appenzell Ausserrhoden,FR Appenzell Rhodes-Extérieures,IT Appenzello Esterno,RM Appenzell Dadora,EN Appenzell Ausserrhoden;DE;;
-CH;CH-AR-HL;;AR-HL;DE Bezirk,FR district,IT distretto,RM district,EN district;DE Hinterland;DE;;AG
-CH;CH-AR-HL-HE;;AR-HL-HE;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Herisau;DE;;AR-HL
-CH;CH-AR-HL-HU;;AR-HL-HU;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Hundwil;DE;;AR-HL
-CH;CH-AR-HL-SO;;AR-HL-SO;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Schönengrund;DE;;AR-HL
-CH;CH-AR-HL-ST;;AR-HL-ST;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Stein (AR);DE;;AR-HL
-CH;CH-AR-HL-SW;;AR-HL-SW;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Schwellbrunn;DE;;AR-HL
-CH;CH-AR-HL-UR;;AR-HL-UR;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Urnäsch;DE;;AR-HL
-CH;CH-AR-HL-WA;;AR-HL-WA;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Waldstatt;DE;;AR-HL
-CH;CH-AR-ML;;AR-ML;DE Bezirk,FR district,IT distretto,RM district,EN district;DE Mittelland;DE;;AG
-CH;CH-AR-ML-BU;;AR-ML-BU;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Bühler;DE;;AR-ML
-CH;CH-AR-ML-GA;;AR-ML-GA;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Gais;DE;;AR-ML
-CH;CH-AR-ML-SP;;AR-ML-SP;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Speicher;DE;;AR-ML
-CH;CH-AR-ML-TE;;AR-ML-TE;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Teufen (AR);DE;;AR-ML
-CH;CH-AR-ML-TR;;AR-ML-TR;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Trogen;DE;;AR-ML
-CH;CH-AR-VL;;AR-VL;DE Bezirk,FR district,IT distretto,RM district,EN district;DE Vorderland;DE;;AG
-CH;CH-AR-VL-GR;;AR-VL-GR;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Grub (AR);DE;;AR-VL
-CH;CH-AR-VL-HE;;AR-VL-HE;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Heiden;DE;;AR-VL
-CH;CH-AR-VL-LU;;AR-VL-LU;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Lutzenberg;DE;;AR-VL
-CH;CH-AR-VL-RE;;AR-VL-RE;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Reute (AR);DE;;AR-VL
-CH;CH-AR-VL-RT;;AR-VL-RT;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Rehetobel;DE;;AR-VL
-CH;CH-AR-VL-WA;;AR-VL-WA;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Wald (AR);DE;;AR-VL
-CH;CH-AR-VL-WO;;AR-VL-WO;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Wolfhalden;DE;;AR-VL
-CH;CH-AR-VL-WZ;;AR-VL-WZ;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Walzenhausen;DE;;AR-VL
+CH;CH-AI;CH-AI;AI;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Appenzell Innerrhoden,FR Appenzell Rhodes-Intérieures,IT Appenzello Interno,RM Appenzell Dadens,EN Appenzell Innerrhoden;DE;AI-VS;
+CH;CH-AI-AP;;AI-AP;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Appenzell;DE;AI-VS;AI
+CH;CH-AI-GO;;AI-GO;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Gonten;DE;AI-VS;AI
+CH;CH-AI-OB;;AI-OB;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Oberegg;DE;AI-VS;AI
+CH;CH-AI-SH;;AI-SH;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Schlatt-Haslen;DE;AI-VS;AI
+CH;CH-AI-SR;;AI-SR;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Schwende-Rüte;DE;AI-VS;AI
+CH;CH-AR;CH-AR;AR;DE Kanton,FR canton,IT canonte,RM chantun,EN canton;DE Appenzell Ausserrhoden,FR Appenzell Rhodes-Extérieures,IT Appenzello Esterno,RM Appenzell Dadora,EN Appenzell Ausserrhoden;DE;AR-VS;
+CH;CH-AR-HL;;AR-HL;DE Bezirk,FR district,IT distretto,RM district,EN district;DE Hinterland;DE;AR-VS;AG
+CH;CH-AR-HL-HE;;AR-HL-HE;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Herisau;DE;AR-VS;AR-HL
+CH;CH-AR-HL-HU;;AR-HL-HU;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Hundwil;DE;AR-VS;AR-HL
+CH;CH-AR-HL-SO;;AR-HL-SO;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Schönengrund;DE;AR-VS;AR-HL
+CH;CH-AR-HL-ST;;AR-HL-ST;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Stein (AR);DE;AR-VS;AR-HL
+CH;CH-AR-HL-SW;;AR-HL-SW;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Schwellbrunn;DE;AR-VS;AR-HL
+CH;CH-AR-HL-UR;;AR-HL-UR;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Urnäsch;DE;AR-VS;AR-HL
+CH;CH-AR-HL-WA;;AR-HL-WA;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Waldstatt;DE;AR-VS;AR-HL
+CH;CH-AR-ML;;AR-ML;DE Bezirk,FR district,IT distretto,RM district,EN district;DE Mittelland;DE;AR-VS;AG
+CH;CH-AR-ML-BU;;AR-ML-BU;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Bühler;DE;AR-VS;AR-ML
+CH;CH-AR-ML-GA;;AR-ML-GA;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Gais;DE;AR-VS;AR-ML
+CH;CH-AR-ML-SP;;AR-ML-SP;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Speicher;DE;AR-VS;AR-ML
+CH;CH-AR-ML-TE;;AR-ML-TE;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Teufen (AR);DE;AR-VS;AR-ML
+CH;CH-AR-ML-TR;;AR-ML-TR;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Trogen;DE;AR-VS;AR-ML
+CH;CH-AR-VL;;AR-VL;DE Bezirk,FR district,IT distretto,RM district,EN district;DE Vorderland;DE;AR-VS;AG
+CH;CH-AR-VL-GR;;AR-VL-GR;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Grub (AR);DE;AR-VS;AR-VL
+CH;CH-AR-VL-HE;;AR-VL-HE;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Heiden;DE;AR-VS;AR-VL
+CH;CH-AR-VL-LU;;AR-VL-LU;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Lutzenberg;DE;AR-VS;AR-VL
+CH;CH-AR-VL-RE;;AR-VL-RE;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Reute (AR);DE;AR-VS;AR-VL
+CH;CH-AR-VL-RT;;AR-VL-RT;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Rehetobel;DE;AR-VS;AR-VL
+CH;CH-AR-VL-WA;;AR-VL-WA;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Wald (AR);DE;AR-VS;AR-VL
+CH;CH-AR-VL-WO;;AR-VL-WO;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Wolfhalden;DE;AR-VS;AR-VL
+CH;CH-AR-VL-WZ;;AR-VL-WZ;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Walzenhausen;DE;AR-VS;AR-VL
 CH;CH-BE;CH-BE;BE;FR canton,DE Kanton,IT canonte,RM chantun,EN canton;DE Bern,FR Berne,IT Berna,RM Berna,EN Bern;DE,FR;;
 CH;CH-BE-BI;;BE-BI;DE Verwaltungskreis,FR arrondissement administratif,IT circondario amministrativo,RM circul administrativ,EN administrative district;DE Biel/Bienne;DE;;BE
 CH;CH-BE-BI-AE;;BE-BI-AE;DE Gemeinde,FR commune,IT comune,RM vischnanca,EN municipality;DE Aegerten;DE;;BE-BI
