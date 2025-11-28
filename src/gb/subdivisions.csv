@@ -1,0 +1,222 @@
+Country;Code;ShortName;Category;Name;Comment;OfficialLanguages;Parent
+GB;GB-ENG;ENG;DE Land,EN country;DE England,EN England;;EN;
+GB;GB-NIR;NIR;DE Provinz,EN province;DE Nordirland,EN Northern Ireland,GA Tuaisceart Éireann;;EN,GA;
+GB;GB-SCT;SCT;DE Land,EN country;DE Schottland,EN Scotland,GD Alba,SCO Scotland;;EN,GD,SCO;
+GB;GB-WLS;WLS;DE Land,EN country;CY Cymru,DE Wales,EN Wales;;CY,EN;
+GB;GB-CAM;CAM;EN two-tier county;EN Cambridgeshire;;;ENG
+GB;GB-CMA;CMA;EN two-tier county;EN Cumbria;;;ENG
+GB;GB-DBY;DBY;EN two-tier county;EN Derbyshire;;;ENG
+GB;GB-DEV;DEV;EN two-tier county;EN Devon;;;ENG
+GB;GB-DOR;DOR;EN two-tier county;EN Dorset;;;ENG
+GB;GB-ESX;ESX;EN two-tier county;EN East Sussex;;;ENG
+GB;GB-ESS;ESS;EN two-tier county;EN Essex;;;ENG
+GB;GB-GLS;GLS;EN two-tier county;EN Gloucestershire;;;ENG
+GB;GB-HAM;HAM;EN two-tier county;EN Hampshire;;;ENG
+GB;GB-HRT;HRT;EN two-tier county;EN Hertfordshire;;;ENG
+GB;GB-KEN;KEN;EN two-tier county;EN Kent;;;ENG
+GB;GB-LAN;LAN;EN two-tier county;EN Lancashire;;;ENG
+GB;GB-LEC;LEC;EN two-tier county;EN Leicestershire;;;ENG
+GB;GB-LIN;LIN;EN two-tier county;EN Lincolnshire;;;ENG
+GB;GB-NFK;NFK;EN two-tier county;EN Norfolk;;;ENG
+GB;GB-NYK;NYK;EN two-tier county;EN North Yorkshire;;;ENG
+GB;GB-NTT;NTT;EN two-tier county;EN Nottinghamshire;;;ENG
+GB;GB-OXF;OXF;EN two-tier county;EN Oxfordshire;;;ENG
+GB;GB-SOM;SOM;EN two-tier county;EN Somerset;;;ENG
+GB;GB-STS;STS;EN two-tier county;EN Staffordshire;;;ENG
+GB;GB-SFK;SFK;EN two-tier county;EN Suffolk;;;ENG
+GB;GB-SRY;SRY;EN two-tier county;EN Surrey;;;ENG
+GB;GB-WAR;WAR;EN two-tier county;EN Warwickshire;;;ENG
+GB;GB-WSX;WSX;EN two-tier county;EN West Sussex;;;ENG
+GB;GB-WOR;WOR;EN two-tier county;EN Worcestershire;;;ENG
+GB;GB-LND;LND;EN city corporation;EN London, City of;;;ENG
+GB;GB-BDG;BDG;EN London borough;EN Barking and Dagenham;;;ENG
+GB;GB-BNE;BNE;EN London borough;EN Barnet;;;ENG
+GB;GB-BEX;BEX;EN London borough;EN Bexley;;;ENG
+GB;GB-BEN;BEN;EN London borough;EN Brent;;;ENG
+GB;GB-BRY;BRY;EN London borough;EN Bromley;;;ENG
+GB;GB-CMD;CMD;EN London borough;EN Camden;;;ENG
+GB;GB-CRY;CRY;EN London borough;EN Croydon;;;ENG
+GB;GB-EAL;EAL;EN London borough;EN Ealing;;;ENG
+GB;GB-ENF;ENF;EN London borough;EN Enfield;;;ENG
+GB;GB-GRE;GRE;EN London borough;EN Greenwich;;;ENG
+GB;GB-HCK;HCK;EN London borough;EN Hackney;;;ENG
+GB;GB-HMF;HMF;EN London borough;EN Hammersmith and Fulham;;;ENG
+GB;GB-HRY;HRY;EN London borough;EN Haringey;;;ENG
+GB;GB-HRW;HRW;EN London borough;EN Harrow;;;ENG
+GB;GB-HAV;HAV;EN London borough;EN Havering;;;ENG
+GB;GB-HIL;HIL;EN London borough;EN Hillingdon;;;ENG
+GB;GB-HNS;HNS;EN London borough;EN Hounslow;;;ENG
+GB;GB-ISL;ISL;EN London borough;EN Islington;;;ENG
+GB;GB-KEC;KEC;EN London borough;EN Kensington and Chelsea;;;ENG
+GB;GB-KTT;KTT;EN London borough;EN Kingston upon Thames;;;ENG
+GB;GB-LBH;LBH;EN London borough;EN Lambeth;;;ENG
+GB;GB-LEW;LEW;EN London borough;EN Lewisham;;;ENG
+GB;GB-MRT;MRT;EN London borough;EN Merton;;;ENG
+GB;GB-NWM;NWM;EN London borough;EN Newham;;;ENG
+GB;GB-RDB;RDB;EN London borough;EN Redbridge;;;ENG
+GB;GB-RIC;RIC;EN London borough;EN Richmond upon Thames;;;ENG
+GB;GB-SWK;SWK;EN London borough;EN Southwark;;;ENG
+GB;GB-STN;STN;EN London borough;EN Sutton;;;ENG
+GB;GB-TWH;TWH;EN London borough;EN Tower Hamlets;;;ENG
+GB;GB-WFT;WFT;EN London borough;EN Waltham Forest;;;ENG
+GB;GB-WND;WND;EN London borough;EN Wandsworth;;;ENG
+GB;GB-WSM;WSM;EN London borough;EN Westminster;;;ENG
+GB;GB-BNS;BNS;EN metropolitan district;EN Barnsley;;;ENG
+GB;GB-BIR;BIR;EN metropolitan district;EN Birmingham;;;ENG
+GB;GB-BOL;BOL;EN metropolitan district;EN Bolton;;;ENG
+GB;GB-BRD;BRD;EN metropolitan district;EN Bradford;;;ENG
+GB;GB-BUR;BUR;EN metropolitan district;EN Bury;;;ENG
+GB;GB-CLD;CLD;EN metropolitan district;EN Calderdale;;;ENG
+GB;GB-COV;COV;EN metropolitan district;EN Coventry;;;ENG
+GB;GB-DNC;DNC;EN metropolitan district;EN Doncaster;;;ENG
+GB;GB-DUD;DUD;EN metropolitan district;EN Dudley;;;ENG
+GB;GB-GAT;GAT;EN metropolitan district;EN Gateshead;;;ENG
+GB;GB-KIR;KIR;EN metropolitan district;EN Kirklees;;;ENG
+GB;GB-KWL;KWL;EN metropolitan district;EN Knowsley;;;ENG
+GB;GB-LDS;LDS;EN metropolitan district;EN Leeds;;;ENG
+GB;GB-LIV;LIV;EN metropolitan district;EN Liverpool;;;ENG
+GB;GB-MAN;MAN;EN metropolitan district;EN Manchester;;;ENG
+GB;GB-NET;NET;EN metropolitan district;EN Newcastle upon Tyne;;;ENG
+GB;GB-NTY;NTY;EN metropolitan district;EN North Tyneside;;;ENG
+GB;GB-OLD;OLD;EN metropolitan district;EN Oldham;;;ENG
+GB;GB-RCH;RCH;EN metropolitan district;EN Rochdale;;;ENG
+GB;GB-ROT;ROT;EN metropolitan district;EN Rotherham;;;ENG
+GB;GB-SHN;SHN;EN metropolitan district;EN St. Helens;;;ENG
+GB;GB-SLF;SLF;EN metropolitan district;EN Salford;;;ENG
+GB;GB-SAW;SAW;EN metropolitan district;EN Sandwell;;;ENG
+GB;GB-SFT;SFT;EN metropolitan district;EN Sefton;;;ENG
+GB;GB-SHF;SHF;EN metropolitan district;EN Sheffield;;;ENG
+GB;GB-SOL;SOL;EN metropolitan district;EN Solihull;;;ENG
+GB;GB-STY;STY;EN metropolitan district;EN South Tyneside;;;ENG
+GB;GB-SKP;SKP;EN metropolitan district;EN Stockport;;;ENG
+GB;GB-SND;SND;EN metropolitan district;EN Sunderland;;;ENG
+GB;GB-TAM;TAM;EN metropolitan district;EN Tameside;;;ENG
+GB;GB-TRF;TRF;EN metropolitan district;EN Trafford;;;ENG
+GB;GB-WKF;WKF;EN metropolitan district;EN Wakefield;;;ENG
+GB;GB-WLL;WLL;EN metropolitan district;EN Walsall;;;ENG
+GB;GB-WGN;WGN;EN metropolitan district;EN Wigan;;;ENG
+GB;GB-WRL;WRL;EN metropolitan district;EN Wirral;;;ENG
+GB;GB-WLV;WLV;EN metropolitan district;EN Wolverhampton;;;ENG
+GB;GB-BAS;BAS;EN unitary authority;EN Bath and North East Somerset;;;ENG
+GB;GB-BDF;BDF;EN unitary authority;EN Bedford;;;ENG
+GB;GB-BBD;BBD;EN unitary authority;EN Blackburn with Darwen;;;ENG
+GB;GB-BPL;BPL;EN unitary authority;EN Blackpool;;;ENG
+GB;GB-BCP;BCP;EN unitary authority;EN Bournemouth, Christchurch and Poole;;;ENG
+GB;GB-BRC;BRC;EN unitary authority;EN Bracknell Forest;;;ENG
+GB;GB-BNH;BNH;EN unitary authority;EN Brighton and Hove;;;ENG
+GB;GB-BST;BST;EN unitary authority;EN Bristol, City of;;;ENG
+GB;GB-BKM;BKM;EN unitary authority;EN Buckinghamshire;;;ENG
+GB;GB-CBF;CBF;EN unitary authority;EN Central Bedfordshire;;;ENG
+GB;GB-CHE;CHE;EN unitary authority;EN Cheshire East;;;ENG
+GB;GB-CHW;CHW;EN unitary authority;EN Cheshire West and Chester;;;ENG
+GB;GB-CON;CON;EN unitary authority;EN Cornwall;;;ENG
+GB;GB-DAL;DAL;EN unitary authority;EN Darlington;;;ENG
+GB;GB-DER;DER;EN unitary authority;EN Derby;;;ENG
+GB;GB-DUR;DUR;EN unitary authority;EN Durham, County;;;ENG
+GB;GB-ERY;ERY;EN unitary authority;EN East Riding of Yorkshire;;;ENG
+GB;GB-HAL;HAL;EN unitary authority;EN Halton;;;ENG
+GB;GB-HPL;HPL;EN unitary authority;EN Hartlepool;;;ENG
+GB;GB-HEF;HEF;EN unitary authority;EN Herefordshire;;;ENG
+GB;GB-IOW;IOW;EN unitary authority;EN Isle of Wight;;;ENG
+GB;GB-IOS;IOS;EN unitary authority;EN Isles of Scilly;;;ENG
+GB;GB-KHL;KHL;EN unitary authority;EN Kingston upon Hull;;;ENG
+GB;GB-LCE;LCE;EN unitary authority;EN Leicester;;;ENG
+GB;GB-LUT;LUT;EN unitary authority;EN Luton;;;ENG
+GB;GB-MDW;MDW;EN unitary authority;EN Medway;;;ENG
+GB;GB-MDB;MDB;EN unitary authority;EN Middlesbrough;;;ENG
+GB;GB-MIK;MIK;EN unitary authority;EN Milton Keynes;;;ENG
+GB;GB-NEL;NEL;EN unitary authority;EN North East Lincolnshire;;;ENG
+GB;GB-NLN;NLN;EN unitary authority;EN North Lincolnshire;;;ENG
+GB;GB-NNH;NNH;EN unitary authority;EN North Northamptonshire;;;ENG
+GB;GB-NSM;NSM;EN unitary authority;EN North Somerset;;;ENG
+GB;GB-NBL;NBL;EN unitary authority;EN Northumberland;;;ENG
+GB;GB-NGM;NGM;EN unitary authority;EN Nottingham;;;ENG
+GB;GB-PTE;PTE;EN unitary authority;EN Peterborough;;;ENG
+GB;GB-PLY;PLY;EN unitary authority;EN Plymouth;;;ENG
+GB;GB-POR;POR;EN unitary authority;EN Portsmouth;;;ENG
+GB;GB-RDG;RDG;EN unitary authority;EN Reading;;;ENG
+GB;GB-RCC;RCC;EN unitary authority;EN Redcar and Cleveland;;;ENG
+GB;GB-RUT;RUT;EN unitary authority;EN Rutland;;;ENG
+GB;GB-SHR;SHR;EN unitary authority;EN Shropshire;;;ENG
+GB;GB-SLG;SLG;EN unitary authority;EN Slough;;;ENG
+GB;GB-SGC;SGC;EN unitary authority;EN South Gloucestershire;;;ENG
+GB;GB-STH;STH;EN unitary authority;EN Southampton;;;ENG
+GB;GB-SOS;SOS;EN unitary authority;EN Southend-on-Sea;;;ENG
+GB;GB-STT;STT;EN unitary authority;EN Stockton-on-Tees;;;ENG
+GB;GB-STE;STE;EN unitary authority;EN Stoke-on-Trent;;;ENG
+GB;GB-SWD;SWD;EN unitary authority;EN Swindon;;;ENG
+GB;GB-TFW;TFW;EN unitary authority;EN Telford and Wrekin;;;ENG
+GB;GB-THR;THR;EN unitary authority;EN Thurrock;;;ENG
+GB;GB-TOB;TOB;EN unitary authority;EN Torbay;;;ENG
+GB;GB-WRT;WRT;EN unitary authority;EN Warrington;;;ENG
+GB;GB-WBK;WBK;EN unitary authority;EN West Berkshire;;;ENG
+GB;GB-WNH;WNH;EN unitary authority;EN West Northamptonshire;;;ENG
+GB;GB-WIL;WIL;EN unitary authority;EN Wiltshire;;;ENG
+GB;GB-WNM;WNM;EN unitary authority;EN Windsor and Maidenhead;;;ENG
+GB;GB-WOK;WOK;EN unitary authority;EN Wokingham;;;ENG
+GB;GB-YOR;YOR;EN unitary authority;EN York;;;ENG
+GB;GB-ANN;ANN;EN district;EN Antrim and Newtownabbey,GA Aontroim agus Baile Nua na Mainistreach;;;NIR
+GB;GB-AND;AND;EN district;EN Ards and North Down,GA Aird agus An Dún Thuaidh;;;NIR
+GB;GB-ABC;ABC;EN district;EN Armagh City, Banbridge and Craigavon,GA Cathair Ard Mhacha, Droichead na Banna agus Creag Abhann;;;NIR
+GB;GB-BFS;BFS;EN district;EN Belfast City,GA Cathair Bhéal Feirste;;;NIR
+GB;GB-CCG;CCG;EN district;EN Causeway Coast and Glens,GA Cósta an Chlocháin agus na Gleannta;;;NIR
+GB;GB-DRS;DRS;EN district;EN Derry and Strabane,GA Doire agus An Srath Bán;;;NIR
+GB;GB-FMO;FMO;EN district;EN Fermanagh and Omagh,GA Fear Manach agus An Ómaigh;;;NIR
+GB;GB-LBC;LBC;EN district;EN Lisburn and Castlereagh,GA Lios na gCearrbhach agus An Caisleán Riabhach;;;NIR
+GB;GB-MEA;MEA;EN district;EN Mid and East Antrim,GA An tAontas Lárnach agus Oirthear Aontroma;;;NIR
+GB;GB-MUL;MUL;EN district;EN Mid-Ulster,GA An Lár Uladh;;;NIR
+GB;GB-NMD;NMD;EN district;EN Newry, Mourne and Down,GA An Iúr, Múrna agus An Dún;;;NIR
+GB;GB-ABE;ABE;EN council area;EN Aberdeen City,GD Baile Obar Dheathain,SCO Aiberdeen Ceety;;;SCT
+GB;GB-ABD;ABD;EN council area;EN Aberdeenshire,GD Siorrachd Obar Dheathain,SCO Aiberdeenshire;;;SCT
+GB;GB-ANS;ANS;EN council area;EN Angus,GD Aonghas,SCO Angus;;;SCT
+GB;GB-AGB;AGB;EN council area;EN Argyll and Bute,GD Earra-Ghàidheal agus Bòd,SCO Argyll an Bute;;;SCT
+GB;GB-CLK;CLK;EN council area;EN Clackmannanshire,GD Siorrachd Chlach Mhannainn,SCO Clackmannanshire;;;SCT
+GB;GB-DGY;DGY;EN council area;EN Dumfries and Galloway,GD Dùn Phrìs is Gall-Ghaidhealaibh,SCO Dumfries an Gallowa;;;SCT
+GB;GB-DND;DND;EN council area;EN Dundee City,GD Dùn Dè,SCO Dundee Ceety;;;SCT
+GB;GB-EAY;EAY;EN council area;EN East Ayrshire,GD Siorrachd Inbhir Àir an Ear,SCO East Ayrshire;;;SCT
+GB;GB-EDU;EDU;EN council area;EN East Dunbartonshire,GD Siorrachd Dhùn Breatann an Ear,SCO East Dunbartonshire;;;SCT
+GB;GB-ELN;ELN;EN council area;EN East Lothian,GD Lodainn an Ear,SCO East Lowden;;;SCT
+GB;GB-ERW;ERW;EN council area;EN East Renfrewshire,GD Siorrachd Rinn Friù an Ear,SCO East Renfrewshire;;;SCT
+GB;GB-EDH;EDH;EN council area;EN Edinburgh, City of,GD Dùn Èideann,SCO Embra Ceety;;;SCT
+GB;GB-ELS;ELS;EN council area;EN Eilean Siar,GD Eilean Siar,SCO Wastren Isles;;;SCT
+GB;GB-FAL;FAL;EN council area;EN Falkirk,GD An Eaglais Bhreac,SCO Fawkirk;;;SCT
+GB;GB-FIF;FIF;EN council area;EN Fife,GD Fìobha,SCO Fife;;;SCT
+GB;GB-GLG;GLG;EN council area;EN Glasgow City,GD Glaschu,SCO Glesga Ceety;;;SCT
+GB;GB-HLD;HLD;EN council area;EN Highland,GD A' Ghàidhealtachd,SCO Hieland;;;SCT
+GB;GB-IVC;IVC;EN council area;EN Inverclyde,GD Inbhir Chluaidh,SCO Inverclyde;;;SCT
+GB;GB-MLN;MLN;EN council area;EN Midlothian,GD Meadhan Lodainn,SCO Midlowden;;;SCT
+GB;GB-MRY;MRY;EN council area;EN Moray,GD Moireibh,SCO Moray;;;SCT
+GB;GB-NAY;NAY;EN council area;EN North Ayrshire,GD Siorrachd Inbhir Àir a Tuath,SCO North Ayrshire;;;SCT
+GB;GB-NLK;NLK;EN council area;EN North Lanarkshire,GD Siorrachd Lannraig a Tuath,SCO North Lanrikshire;;;SCT
+GB;GB-ORK;ORK;EN council area;EN Orkney Islands,GD Àrcaibh,SCO Orkney Islands;;;SCT
+GB;GB-PKN;PKN;EN council area;EN Perth and Kinross,GD Peairt agus Ceann Rois,SCO Perth an Kinross;;;SCT
+GB;GB-RFW;RFW;EN council area;EN Renfrewshire,GD Siorrachd Rinn Friù,SCO Renfrewshire;;;SCT
+GB;GB-SCB;SCB;EN council area;EN Scottish Borders,GD Crìochan na h-Alba,SCO Scots Mairches;;;SCT
+GB;GB-ZET;ZET;EN council area;EN Shetland Islands,GD Sealtainn,SCO Shetland Islands;;;SCT
+GB;GB-SAY;SAY;EN council area;EN South Ayrshire,GD Siorrachd Inbhir Àir a Deas,SCO Sooth Ayrshire;;;SCT
+GB;GB-SLK;SLK;EN council area;EN South Lanarkshire,GD Siorrachd Lannraig a Deas,SCO Sooth Lanrikshire;;;SCT
+GB;GB-STG;STG;EN council area;EN Stirling,GD Sruighlea,SCO Stirlin;;;SCT
+GB;GB-WDU;WDU;EN council area;EN West Dunbartonshire,GD Siorrachd Dhùn Breatann an Iar,SCO Wast Dunbartonshire;;;SCT
+GB;GB-WLN;WLN;EN council area;EN West Lothian,GD Lodainn an Iar,SCO Wast Lowden;;;SCT
+GB;GB-BGW;BGW;EN unitary authority;EN Blaenau Gwent,CY Blaenau Gwent;;;WLS
+GB;GB-BGE,GB-POG;BGE;EN unitary authority;EN Bridgend,CY Pen-y-bont ar Ogwr;;;WLS
+GB;GB-CAY,GB-CAF;CAY;EN unitary authority;EN Caerphilly,CY Caerffili;;;WLS
+GB;GB-CRF,GB-CRD;CRF;EN unitary authority;EN Cardiff,CY Caerdydd;;;WLS
+GB;GB-CMN,GB-GFY;CMN;EN unitary authority;EN Carmarthenshire,CY Sir Gaerfyrddin;;;WLS
+GB;GB-CGN;CGN;EN unitary authority;EN Ceredigion,CY Sir Ceredigion;;;WLS
+GB;GB-CWY;CWY;EN unitary authority;EN Conwy,CY Conwy;;;WLS
+GB;GB-DEN,GB-DDB;DEN;EN unitary authority;EN Denbighshire,CY Sir Ddinbych;;;WLS
+GB;GB-FLN,GB-FFL;FLN;EN unitary authority;EN Flintshire,CY Sir y Fflint;;;WLS
+GB;GB-GWN;GWN;EN unitary authority;EN Gwynedd,CY Gwynedd;;;WLS
+GB;GB-AGY,GB-YNM;AGY;EN unitary authority;EN Isle of Anglesey,CY Sir Ynys Môn;;;WLS
+GB;GB-MTY,GB-MTU;MTY;EN unitary authority;EN Merthyr Tydfil,CY Merthyr Tudful;;;WLS
+GB;GB-MON,GB-FYN;MON;EN unitary authority;EN Monmouthshire,CY Sir Fynwy;;;WLS
+GB;GB-NTL,GB-CTL;NTL;EN unitary authority;EN Neath Port Talbot,CY Castell-nedd Port Talbot;;;WLS
+GB;GB-NWP,GB-CNW;NWP;EN unitary authority;EN Newport,CY Casnewydd;;;WLS
+GB;GB-PEM,GB-BNF;PEM;EN unitary authority;EN Pembrokeshire,CY Sir Benfro;;;WLS
+GB;GB-POW;POW;EN unitary authority;EN Powys,CY Powys;;;WLS
+GB;GB-RCT;RCT;EN unitary authority;EN Rhondda Cynon Taff,CY Rhondda CynonTaf;;;WLS
+GB;GB-SWA,GB-ATA;SWA;EN unitary authority;EN Swansea,CY Abertawe;;;WLS
+GB;GB-TOF;TOF;EN unitary authority;EN Torfaen,CY Tor-faen;;;WLS
+GB;GB-VGL,GB-BMG;VGL;EN unitary authority;EN Vale of Glamorgan, The,CY Bro Morgannwg;;;WLS
+GB;GB-WRX,GB-WRC;WRX;EN unitary authority;EN Wrexham,CY Wrecsam;;;WLS
