@@ -1,57 +1,73 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
-bc31252d-6977-4f04-a414-561ec274c5c1;CH;2020-04-04;2020-04-19;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
-2a512531-0349-49c4-a599-25d56adac85b;CH;2020-04-10;2020-04-26;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-1bdb6edd-1753-4a8e-8904-74c7b85dd6c6;CH;2020-07-04;2020-08-09;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-4a71f285-4f1d-4b0b-9c1b-b20b975432c8;CH;2020-07-04;2020-08-16;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-e4f75ada-4286-4577-a6a5-b181666c45d8;CH;2020-09-19;2020-10-11;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-b30230ac-7828-482d-b208-58829cb53188;CH;2020-10-03;2020-10-18;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-e8eb1c30-59f7-460d-a308-a0281a62643a;CH;2020-12-24;2021-01-10;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-db37c336-9b7e-4ba4-bffe-87a383b5fa2c;CH;2020-12-25;2021-01-10;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-269aa2a0-0235-4deb-95ca-4a93491839cb;CH;2021-04-02;2021-04-18;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-a831857e-dfeb-402e-b4b2-6539915e31ef;CH;2021-04-10;2021-04-25;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
-ee9bf254-57f3-4a7b-9a2e-6f03e2fd5e93;CH;2021-07-03;2021-08-15;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-d9c251c7-d73e-4004-9be2-dd63168f3fb8;CH;2021-07-03;2021-08-15;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-2cad2237-ca6f-4ccd-899b-7a352986fb5a;CH;2021-09-25;2021-10-17;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-a44b07be-67b3-4614-a1ac-8a03364bc5a9;CH;2021-10-09;2021-10-24;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-e4014ac8-6ae4-48c5-8d6e-d709eae17ab4;CH;2021-12-24;2022-01-09;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-ee2082d1-7f48-4a8a-adc3-20413f4a1709;CH;2021-12-25;2022-01-09;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-61193acf-8af5-4086-bcb1-deb1c43daeb1;CH;2022-04-09;2022-04-24;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergarten, Volksschulen
-2cc67123-da86-4bea-ae62-9a097e578859;CH;2022-04-09;2022-04-24;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-9b81bb60-6fba-466c-8cca-c6bcef22de0b;CH;2022-07-09;2022-08-14;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-0d08e7cd-f106-4153-83cf-672f3fc0eaf0;CH;2022-07-09;2022-08-21;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-57b4e1ed-9e94-4547-bd97-276171957ad5;CH;2022-09-24;2022-10-16;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-2ccdc0bc-6c43-474f-aa41-aeb78b830d66;CH;2022-10-08;2022-10-23;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-c4c753c0-92a0-4770-b1e8-4af11b6ae94c;CH;2022-12-24;2023-01-08;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-a6b7ac2c-fcfc-49ca-af91-225be544e245;CH;2022-12-24;2023-01-08;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-35f73a0a-74fb-4e08-bc89-8184330b7c51;CH;2023-04-07;2023-04-23;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
-6a0ff219-fe0b-4884-9518-8b5bf44666f8;CH;2023-04-07;2023-04-23;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-3131f9ae-0a51-4ac1-8264-33ab7119529c;CH;2023-07-08;2023-08-13;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-a3b68305-ec9b-4340-a611-d7e9d6d9b3af;CH;2023-07-08;2023-08-20;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-30ea1883-0c66-4a96-a04e-a724d05413f5;CH;2023-09-23;2023-10-15;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-7d545735-302f-4372-b9dc-84eeffc34497;CH;2023-10-07;2023-10-22;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-900ed459-26f8-4c22-81b0-8ccfb6039758;CH;2023-12-23;2024-01-07;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-a33be54a-a946-4bfe-bec6-c2df25865527;CH;2023-12-23;2024-01-07;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-9d4f2a33-43fd-4438-a183-75eeebba3448;CH;2024-03-29;2024-04-14;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-324bf367-998b-46c2-baf4-d19073ff78f0;CH;2024-04-06;2024-04-21;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergarten, Volksschulen
-d6da36bc-5e57-46e1-947b-d370e736ed91;CH;2024-07-06;2024-08-11;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-914eec4b-e86b-416d-bb00-d73903081353;CH;2024-07-06;2024-08-18;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-a1dd5775-13bd-453e-94f7-052afeb0777a;CH;2024-09-21;2024-10-13;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-c77c6f06-52f2-498c-8104-147689b0d623;CH;2024-10-05;2024-10-20;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-04174e70-4777-4c4f-ab84-486e5945179f;CH;2024-12-21;2025-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-8ea59868-6e80-4160-b0a4-b35fa383af29;CH;2024-12-21;2025-01-05;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-4df137dc-aa85-49d5-a65b-f8b3c5fe22fe;CH;2025-04-05;2025-04-20;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
-b7b2962c-b00a-440d-88a2-14b6836b007b;CH;2025-04-12;2025-04-27;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-7fe1257e-8eda-4049-aa10-f02ac7335d51;CH;2025-07-05;2025-08-10;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-8d2b7016-b38a-4280-8f98-e2d034b49958;CH;2025-07-05;2025-08-17;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-457e9ff5-7cd9-406c-952a-a931fcf43a0e;CH;2025-09-20;2025-10-12;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-f908ea4b-e1e8-4bfd-9e9e-9bab0d6c0b57;CH;2025-10-04;2025-10-19;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-79ab6250-bbb2-4c4b-9d65-84f43f189162;CH;2025-12-20;2026-01-04;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-8b71bf21-6970-4ac8-9a38-44d510dddf4d;CH;2025-12-20;2026-01-04;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-912d2bd6-c861-40f6-a382-1355467165aa;CH;2026-04-03;2026-04-19;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Kindergärten und Volksschulen
-fb84d55a-1d57-4a4b-94bb-c0e54e10c83a;CH;2026-04-03;2026-04-19;School;Regional;DE Frühling,FR Printemps,IT Primavera,EN Spring;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-f1ba14d3-8a0a-4209-9fe7-17c615faa5dd;CH;2026-07-04;2026-08-09;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Kindergärten und Volksschulen
-0bc37a23-3db4-4ac4-b62c-98fdd27569de;CH;2026-07-04;2026-08-16;School;Regional;DE Sommer,FR Été,IT Estate,EN Summer;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-b522b8c5-bf6e-48f7-b982-c25733b6a8e0;CH;2026-09-19;2026-10-11;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Kindergärten und Volksschulen
-1983c070-8fbb-4d4e-b4cb-4efc76ab6b8c;CH;2026-10-03;2026-10-18;School;Regional;DE Herbst,FR Automne,IT Autunno,EN Autumn;BE;DE Obligatorische Schulen,FR Écoles obligatoires
-4186e804-131f-4041-9a81-6700cdc3172a;CH;2026-12-24;2027-01-10;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Kindergärten und Volksschulen
-2cc64996-2d0f-490a-91aa-06a5ab21827a;CH;2026-12-25;2027-01-10;School;Regional;DE Winter,FR Noël,IT Inverno,EN Christmas;BE;DE Obligatorische Schulen,FR Écoles obligatoires
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Groups
+6636899b-70d2-40b4-9fc8-91d62be91450;CH;2020-02-01;2020-02-09;School;Regional;DE Februarwoche,FR Semaine de février,IT Settimana di febbraio,EN February week;BE;BE-VS
+bc31252d-6977-4f04-a414-561ec274c5c1;CH;2020-04-04;2020-04-19;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BE;BE-VS
+2a512531-0349-49c4-a599-25d56adac85b;CH;2020-04-10;2020-04-26;School;Regional;FR Vacances de printemps,DE Frühlingsferien,IT Vacanze di primavera,EN Spring holidays;BE;BE-EO
+1bdb6edd-1753-4a8e-8904-74c7b85dd6c6;CH;2020-07-04;2020-08-09;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BE;BE-VS
+4a71f285-4f1d-4b0b-9c1b-b20b975432c8;CH;2020-07-04;2020-08-16;School;Regional;FR Vacances d'été,DE Sommerferien,IT Vacanze estive,EN Summer holidays;BE;BE-EO
+e4f75ada-4286-4577-a6a5-b181666c45d8;CH;2020-09-19;2020-10-11;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-VS
+b30230ac-7828-482d-b208-58829cb53188;CH;2020-10-03;2020-10-18;School;Regional;FR Vacances d'automne,DE Herbstferien,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-EO
+e8eb1c30-59f7-460d-a308-a0281a62643a;CH;2020-12-24;2021-01-10;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Christmas;BE;BE-VS
+db37c336-9b7e-4ba4-bffe-87a383b5fa2c;CH;2020-12-25;2021-01-10;School;Regional;FR Vacances d'hiver,DE Winterferien,IT Vacanze invernali,EN Christmas;BE;BE-EO
+baf10b30-a69b-4809-9e5d-c70cbb416df9;CH;2021-02-06;2021-02-14;School;Regional;DE Februarwoche,FR Semaine de février,IT Settimana di febbraio,EN February week;BE;BE-VS
+269aa2a0-0235-4deb-95ca-4a93491839cb;CH;2021-04-02;2021-04-18;School;Regional;FR Vacances de printemps,DE Frühlingsferien,IT Vacanze di primavera,EN Spring holidays;BE;BE-EO
+a831857e-dfeb-402e-b4b2-6539915e31ef;CH;2021-04-10;2021-04-25;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BE;BE-VS
+ee9bf254-57f3-4a7b-9a2e-6f03e2fd5e93;CH;2021-07-03;2021-08-15;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BE;BE-VS
+d9c251c7-d73e-4004-9be2-dd63168f3fb8;CH;2021-07-03;2021-08-15;School;Regional;FR Vacances d'été,DE Sommerferien,IT Vacanze estive,EN Summer holidays;BE;BE-EO
+2cad2237-ca6f-4ccd-899b-7a352986fb5a;CH;2021-09-25;2021-10-17;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-VS
+a44b07be-67b3-4614-a1ac-8a03364bc5a9;CH;2021-10-11;2021-10-22;School;Regional;FR Vacances d'automne,DE Herbstferien,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-EO
+e4014ac8-6ae4-48c5-8d6e-d709eae17ab4;CH;2021-12-24;2022-01-09;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Christmas;BE;BE-VS
+ee2082d1-7f48-4a8a-adc3-20413f4a1709;CH;2021-12-27;2022-01-07;School;Regional;FR Vacances d'hiver,DE Winterferien,IT Vacanze invernali,EN Christmas;BE;BE-EO
+3b8f3d17-f680-4608-a521-af2bbd9ca0b0;CH;2022-02-05;2022-02-13;School;Regional;DE Februarwoche,FR Semaine de février,IT Settimana di febbraio,EN February week;BE;BE-VS
+61193acf-8af5-4086-bcb1-deb1c43daeb1;CH;2022-04-09;2022-04-24;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BE;BE-VS
+2cc67123-da86-4bea-ae62-9a097e578859;CH;2022-04-11;2022-04-22;School;Regional;FR Vacances de printemps,DE Frühlingsferien,IT Vacanze di primavera,EN Spring holidays;BE;BE-EO
+9b81bb60-6fba-466c-8cca-c6bcef22de0b;CH;2022-07-09;2022-08-14;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BE;BE-VS
+0d08e7cd-f106-4153-83cf-672f3fc0eaf0;CH;2022-07-11;2022-08-19;School;Regional;FR Vacances d'été,DE Sommerferien,IT Vacanze estive,EN Summer holidays;BE;BE-EO
+57b4e1ed-9e94-4547-bd97-276171957ad5;CH;2022-09-24;2022-10-16;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-VS
+2ccdc0bc-6c43-474f-aa41-aeb78b830d66;CH;2022-10-10;2022-10-21;School;Regional;FR Vacances d'automne,DE Herbstferien,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-EO
+c4c753c0-92a0-4770-b1e8-4af11b6ae94c;CH;2022-12-24;2023-01-08;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Christmas;BE;BE-VS
+a6b7ac2c-fcfc-49ca-af91-225be544e245;CH;2022-12-26;2023-01-06;School;Regional;FR Vacances d'hiver,DE Winterferien,IT Vacanze invernali,EN Christmas;BE;BE-EO
+e8fc8ba5-c31f-462a-b5e2-57584a5b1060;CH;2023-02-04;2023-02-12;School;Regional;DE Februarwoche,FR Semaine de février,IT Settimana di febbraio,EN February week;BE;BE-VS
+35f73a0a-74fb-4e08-bc89-8184330b7c51;CH;2023-04-07;2023-04-23;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BE;BE-VS
+6a0ff219-fe0b-4884-9518-8b5bf44666f8;CH;2023-04-07;2023-04-21;School;Regional;FR Vacances de printemps,DE Frühlingsferien,IT Vacanze di primavera,EN Spring holidays;BE;BE-EO
+3131f9ae-0a51-4ac1-8264-33ab7119529c;CH;2023-07-08;2023-08-13;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BE;BE-VS
+a3b68305-ec9b-4340-a611-d7e9d6d9b3af;CH;2023-07-10;2023-08-18;School;Regional;FR Vacances d'été,DE Sommerferien,IT Vacanze estive,EN Summer holidays;BE;BE-EO
+30ea1883-0c66-4a96-a04e-a724d05413f5;CH;2023-09-23;2023-10-15;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-VS
+7d545735-302f-4372-b9dc-84eeffc34497;CH;2023-10-09;2023-10-20;School;Regional;FR Vacances d'automne,DE Herbstferien,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-EO
+900ed459-26f8-4c22-81b0-8ccfb6039758;CH;2023-12-23;2024-01-07;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Christmas;BE;BE-VS
+a33be54a-a946-4bfe-bec6-c2df25865527;CH;2023-12-25;2024-01-05;School;Regional;FR Vacances d'hiver,DE Winterferien,IT Vacanze invernali,EN Christmas;BE;BE-EO
+76f24e19-d546-4dad-9c80-84aa1ba57bea;CH;2024-02-03;2024-02-11;School;Regional;DE Februarwoche,FR Semaine de février,IT Settimana di febbraio,EN February week;BE;BE-VS
+9d4f2a33-43fd-4438-a183-75eeebba3448;CH;2024-03-29;2024-04-12;School;Regional;FR Vacances de printemps,DE Frühlingsferien,IT Vacanze di primavera,EN Spring holidays;BE;BE-EO
+324bf367-998b-46c2-baf4-d19073ff78f0;CH;2024-04-06;2024-04-21;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BE;BE-VS
+d6da36bc-5e57-46e1-947b-d370e736ed91;CH;2024-07-06;2024-08-11;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BE;BE-VS
+914eec4b-e86b-416d-bb00-d73903081353;CH;2024-07-08;2024-08-16;School;Regional;FR Vacances d'été,DE Sommerferien,IT Vacanze estive,EN Summer holidays;BE;BE-EO
+a1dd5775-13bd-453e-94f7-052afeb0777a;CH;2024-09-21;2024-10-13;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-VS
+c77c6f06-52f2-498c-8104-147689b0d623;CH;2024-10-07;2024-10-18;School;Regional;FR Vacances d'automne,DE Herbstferien,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-EO
+04174e70-4777-4c4f-ab84-486e5945179f;CH;2024-12-21;2025-01-05;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Christmas;BE;BE-VS
+8ea59868-6e80-4160-b0a4-b35fa383af29;CH;2024-12-23;2025-01-03;School;Regional;FR Vacances d'hiver,DE Winterferien,IT Vacanze invernali,EN Christmas;BE;BE-EO
+3d142b84-9f6e-402b-9d7a-9e2a6df95ecf;CH;2025-02-01;2025-02-09;School;Regional;DE Februarwoche,FR Semaine de février,IT Settimana di febbraio,EN February week;BE;BE-VS
+b7b2962c-b00a-440d-88a2-14b6836b007b;CH;2025-04-05;2025-04-21;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BE;BE-VS
+03e506d7-6f66-4604-ba2e-55d31f35fcac;CH;2025-04-14;2025-04-25;School;Regional;FR Vacances de printemps,DE Frühlingsferien,IT Vacanze di primavera,EN Spring holidays;BE;BE-EO
+8d2b7016-b38a-4280-8f98-e2d034b49958;CH;2025-07-05;2025-08-10;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BE;BE-VS
+89d5804a-c0de-4641-9b53-46ce964b535b;CH;2025-07-07;2025-08-15;School;Regional;FR Vacances d'été,DE Sommerferien,IT Vacanze estive,EN Summer holidays;BE;BE-EO
+f908ea4b-e1e8-4bfd-9e9e-9bab0d6c0b57;CH;2025-09-20;2025-10-12;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-VS
+5a382363-d063-4760-89a7-0f22aa2ccf9e;CH;2025-10-06;2025-10-27;School;Regional;FR Vacances d'automne,DE Herbstferien,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-EO
+8b71bf21-6970-4ac8-9a38-44d510dddf4d;CH;2025-12-20;2026-01-04;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Christmas;BE;BE-VS
+8af999ea-84c9-4cc6-8b6f-1537ebd2641a;CH;2025-12-22;2026-01-02;School;Regional;FR Vacances d'hiver,DE Winterferien,IT Vacanze invernali,EN Christmas;BE;BE-EO
+4d5bb6a3-ae55-4ffa-8fe6-fc48b215b9ca;CH;2026-01-31;2026-02-08;School;Regional;DE Februarwoche,FR Semaine de février,IT Settimana di febbraio,EN February week;BE;BE-VS
+fb84d55a-1d57-4a4b-94bb-c0e54e10c83a;CH;2026-04-03;2026-04-19;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BE;BE-VS
+4831b62a-264e-431d-b0af-cc0508dbde89;CH;2026-04-03;2026-04-17;School;Regional;FR Vacances de printemps,DE Frühlingsferien,IT Vacanze di primavera,EN Spring holidays;BE;BE-EO
+0bc37a23-3db4-4ac4-b62c-98fdd27569de;CH;2026-07-04;2026-08-09;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BE;BE-VS
+6cba4a4b-f19e-45ed-9f56-d9d86c927f80;CH;2026-07-06;2026-08-14;School;Regional;FR Vacances d'été,DE Sommerferien,IT Vacanze estive,EN Summer holidays;BE;BE-EO
+1983c070-8fbb-4d4e-b4cb-4efc76ab6b8c;CH;2026-09-19;2026-10-11;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-VS
+0822bb06-c50b-473e-952c-abc354794527;CH;2026-10-05;2026-10-16;School;Regional;FR Vacances d'automne,DE Herbstferien,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-EO
+2cc64996-2d0f-490a-91aa-06a5ab21827a;CH;2026-12-25;2027-01-10;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Christmas;BE;BE-VS
+e3d5cf22-5043-40da-9922-8b27ef37e22c;CH;2026-12-25;2027-01-08;School;Regional;FR Vacances d'hiver,DE Winterferien,IT Vacanze invernali,EN Christmas;BE;BE-EO
+21bd61a5-fdf8-4b52-ae9d-590e0c51687a;CH;2027-02-06;2027-02-14;School;Regional;DE Februarwoche,FR Semaine de février,IT Settimana di febbraio,EN February week;BE;BE-VS
+b122d3cd-1ce5-436c-a7ca-b56ce2d8b0ec;CH;2027-03-26;2027-04-09;School;Regional;FR Vacances de printemps,DE Frühlingsferien,IT Vacanze di primavera,EN Spring holidays;BE;BE-EO
+e2eef72f-3baa-4695-8000-e64ca199dff2;CH;2027-04-10;2027-04-25;School;Regional;DE Frühlingsferien,FR Vacances de printemps,IT Vacanze di primavera,EN Spring holidays;BE;BE-VS
+f987801b-aea3-4378-9c6b-2654828c0c90;CH;2027-07-03;2027-08-15;School;Regional;DE Sommerferien,FR Vacances d'été,IT Vacanze estive,EN Summer holidays;BE;BE-VS
+fc7723a3-7de2-45df-8a09-5c3787b522b8;CH;2027-07-05;2027-08-13;School;Regional;FR Vacances d'été,DE Sommerferien,IT Vacanze estive,EN Summer holidays;BE;BE-EO
+0cb85ae9-d92c-4320-b061-8306a13c1db2;CH;2027-09-25;2027-10-17;School;Regional;DE Herbstferien,FR Vacances d'automne,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-VS
+d09c1d00-10d7-49ad-8322-30100801580e;CH;2027-10-04;2027-10-15;School;Regional;FR Vacances d'automne,DE Herbstferien,IT Vacanze d'autunno,EN Autumn holidays;BE;BE-EO
+1c631564-15cd-4ede-9a15-b5b3175e83a3;CH;2027-12-25;2028-01-09;School;Regional;DE Winterferien,FR Vacances d'hiver,IT Vacanze invernali,EN Christmas;BE;BE-VS
+d057d5b3-b90b-4a9c-8772-8e79f2a9bf94;CH;2027-12-27;2028-01-07;School;Regional;FR Vacances d'hiver,DE Winterferien,IT Vacanze invernali,EN Christmas;BE;BE-EO
