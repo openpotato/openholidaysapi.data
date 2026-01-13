@@ -1,4 +1,12 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
+Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Comment
+500477fe-4aa7-4cbc-a046-f6aa5d2a1ccf;RO;2014-12-20;2015-01-04;School;National;RO Vacanța de iarnă,DE Winterferien,EN Winter holidays;;
+77c0b57e-9678-4461-998d-c688f6eb94ec;RO;2015-01-31;2015-02-08;School;National;RO Vacanţa intersemestrială,DE Semesterferien,EN Semester holidays;;
+2b52a61b-cf26-4ab6-9c60-317b79c4432b;RO;2015-04-11;2015-04-19;School;National;RO Vacanța de primăvară,DE Frühlingsferien,EN Spring holidays;;
+1b9d092c-dee4-4150-800d-b27d754d0a8c;RO;2015-06-20;2015-09-13;School;National;RO Vacanța de vară,DE Sommerferien,EN Summer holidays;;
+5f6f3e17-5a45-4bb8-b86d-a1df8245c459;RO;2015-12-19;2016-01-03;School;National;RO Vacanța de iarnă,DE Winterferien,EN Winter holidays;;
+7de36492-ae23-4b1a-ae16-973b3b929633;RO;2016-01-30;2016-02-07;School;National;RO Vacanţa intersemestrială,DE Semesterferien,EN Semester holidays;;
+d8a19568-dc8f-4694-bd14-1bcd317eb912;RO;2016-04-23;2016-05-03;School;National;RO Vacanța de primăvară,DE Frühlingsferien,EN Spring holidays;;
+2dbfaf3b-f7b1-4de6-815a-baa3ec83174c;RO;2016-06-18;2016-09-04;School;National;RO Vacanța de vară,DE Sommerferien,EN Summer holidays;;
 131887d2-914f-49d8-8cf8-1a5d1bf437d0;RO;2019-12-21;2020-01-12;School;National;RO Vacanţa de iarnă,DE Winterferien,EN Winter holidays;;
 c16bd813-babc-42bb-aef6-0f094e047e79;RO;2020-04-04;2020-04-21;School;National;RO Vacanţa de primăvară,DE Frühlingsferien,EN Spring holidays;;
 96742364-c37d-4e54-8fec-46b85aa434a1;RO;2020-06-13;2020-09-13;School;National;RO Vacanţa de vară,DE Sommerferien,EN Summer holidays;;
