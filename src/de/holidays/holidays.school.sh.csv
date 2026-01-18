@@ -1,4 +1,4 @@
-﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Tags;Comment
+Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions;Tags;Comment
 c4edf8bc-c7b6-4632-8b31-1dc25f10283b;DE;2010-07-12;2010-08-21;School;Regional;DE Sommerferien,EN Summer Holidays;SH;;
 a1f5f1d8-1b2f-4ae2-82e1-ffeaab2a00a3;DE;2010-07-12;2010-08-14;School;Regional;DE Sommerferien,EN Summer Holidays;SH;Exception;DE Inseln Sylt%2C Föhr%2C Amrum%2C Helgoland und die Halligen,EN Islands Sylt%2C Föhr%2C Amrum%2C Helgoland and the Halligen
 7e52e96e-f773-4665-89ef-57edb44288cc;DE;2010-10-04;2010-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;SH;Exception;DE Inseln Sylt%2C Föhr%2C Amrum%2C Helgoland und die Halligen,EN Islands Sylt%2C Föhr%2C Amrum%2C Helgoland and the Halligen
