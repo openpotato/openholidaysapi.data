@@ -165,6 +165,42 @@ def _check_subdivisions(df: pd.DataFrame, subdivisions: set[str], filename: Path
     return [f"{filename}: unknown Subdivisions values: {sorted(unknown)}"]
 
 
+def _check_name_format(df: pd.DataFrame, filename: Path) -> list[str]:
+    """Check that each part of the Name field starts with a language code (two uppercase letters) followed by a space."""
+    if "Name" not in df.columns:
+        return []
+
+    errors: list[str] = []
+    for idx, name in df["Name"].items():
+        if pd.isna(name):
+            continue
+
+        parts = _split_csv_list(str(name))
+        for part in parts:
+            # Each part must start with a language code (2 uppercase letters) followed by a space
+            if len(part) < 3:
+                errors.append(
+                    f"{filename} (line {_csv_line(int(idx))}): Name part '{part}' is too short (must be language code + space + text). Hint: Use %2C instead of comma within text."
+                )
+                continue
+
+            # Check first 2 characters are uppercase letters (language code)
+            if not (part[0].isupper() and part[0].isalpha() and
+                    part[1].isupper() and part[1].isalpha()):
+                errors.append(
+                    f"{filename} (line {_csv_line(int(idx))}): Name part '{part}' must start with a language code (two uppercase letters). Hint: If this text contains a comma, use %2C instead."
+                )
+                continue
+
+            # Check that the 3rd character is a space
+            if part[2] != ' ':
+                errors.append(
+                    f"{filename} (line {_csv_line(int(idx))}): Name part '{part}' must have a space after the language code"
+                )
+
+    return errors
+
+
 def _check_uuids_and_global_uniqueness(
     df: pd.DataFrame, filename: Path, seen: dict[str, tuple[Path, int]]
 ) -> list[str]:
@@ -221,6 +257,9 @@ def main() -> None:
 
     errors: list[str] = []
     seen_uuids: dict[str, tuple[Path, int]] = {}
+    total_files = 0
+    files_with_errors = 0
+    errors_by_file: dict[Path, list[str]] = {}
 
     for country_dir in sorted([p for p in args.data_folder.iterdir() if p.is_dir()]):
         expected_country = country_dir.name.upper()
@@ -231,35 +270,66 @@ def main() -> None:
             continue
 
         for holidays_file in sorted(holidays_dir.glob("*.csv")):
+            total_files += 1
+            file_errors: list[str] = []
+
             try:
                 df = _read_csv(holidays_file)
             except pd.errors.ParserError as error:
-                errors.append(f"{holidays_file}: could not parse CSV - {error}")
+                file_errors.append(f"{holidays_file}: could not parse CSV - {error}")
+                errors.extend(file_errors)
+                files_with_errors += 1
                 continue
 
-            errors.extend(_check_required_columns(df, holidays_file))
+            file_errors.extend(_check_required_columns(df, holidays_file))
             if REQUIRED_COLUMNS - set(df.columns):
-                # Don’t cascade on missing columns.
+                # Don't cascade on missing columns.
+                errors.extend(file_errors)
+                files_with_errors += 1
                 continue
 
-            errors.extend(_check_required_values(df, holidays_file))
+            file_errors.extend(_check_required_values(df, holidays_file))
 
-            errors.extend(_check_country_column(df, holidays_file, expected_country))
-            errors.extend(_check_uuids_and_global_uniqueness(df, holidays_file, seen_uuids))
+            file_errors.extend(_check_country_column(df, holidays_file, expected_country))
+            file_errors.extend(_check_uuids_and_global_uniqueness(df, holidays_file, seen_uuids))
 
             start_dates, end_dates, date_errors = _parse_dates(df, holidays_file)
-            errors.extend(date_errors)
-            errors.extend(_check_duration(start_dates, end_dates, holidays_file))
-            errors.extend(_check_sorting(start_dates, holidays_file))
-            errors.extend(_check_subdivisions(df, subdivisions, holidays_file))
+            file_errors.extend(date_errors)
+            file_errors.extend(_check_duration(start_dates, end_dates, holidays_file))
+            file_errors.extend(_check_sorting(start_dates, holidays_file))
+            file_errors.extend(_check_subdivisions(df, subdivisions, holidays_file))
+            file_errors.extend(_check_name_format(df, holidays_file))
+
+            if file_errors:
+                files_with_errors += 1
+                errors.extend(file_errors)
+                errors_by_file[holidays_file] = file_errors
 
     if errors:
-        print(f"Validation failed with {len(errors)} error(s):\n", file=sys.stderr)
-        for message in errors:
-            print(f"- {message}", file=sys.stderr)
+        print(f"\n{'=' * 70}", file=sys.stderr)
+        print(f"VALIDATION FAILED", file=sys.stderr)
+        print(f"{'=' * 70}\n", file=sys.stderr)
+
+        # Group errors by file for better readability
+        for file_path, file_errors in errors_by_file.items():
+            print(f"\n{file_path}: {len(file_errors)} error(s)", file=sys.stderr)
+            for message in file_errors[:10]:  # Show first 10 errors per file
+                # Remove redundant file path from message
+                clean_message = message.replace(f"{file_path} ", "")
+                print(f"  • {clean_message}", file=sys.stderr)
+            if len(file_errors) > 10:
+                print(f"  ... and {len(file_errors) - 10} more errors", file=sys.stderr)
+
+        print(f"\n{'=' * 70}", file=sys.stderr)
+        print(f"Summary: {files_with_errors}/{total_files} files with errors ({len(errors)} total errors)", file=sys.stderr)
+        print(f"{'=' * 70}", file=sys.stderr)
         sys.exit(1)
 
-    print("✓ All validations passed")
+    print(f"{'=' * 70}")
+    print(f"✓ All validations passed!")
+    print(f"{'=' * 70}")
+    print(f"Checked {total_files} files successfully.")
+    print(f"{'=' * 70}")
 
 
 if __name__ == "__main__":
