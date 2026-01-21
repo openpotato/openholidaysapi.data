@@ -1,0 +1,37 @@
+Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+a22cae31-a43d-4376-a877-6522b32dd780;GB;2025-01-01;;Public;National;DE Neujahrstag,EN New Year's Day,CY Dydd Calan,GA Lá Caille,GD Là Bliadhna Mhath Ùr,SCO Hogmanay;
+f3599e3c-8551-44f6-a9b2-400249c5fc27;GB;2025-01-02;;Public;Regional;DE 2. Januar,EN 2nd January,GD An dàrna latha den Fhaoilleach,SCO Seicont o Januar;SCT
+50f22dcf-a0eb-4551-abc4-34858d4d79b1;GB;2025-03-17;;Public;Regional;DE St. Patrick's Tag,EN St Patrick's Day,GA Lá Fhéile Pádraig;NIR
+5540e61a-707b-4281-a193-f0b21f2b52be;GB;2025-04-18;;Public;National;DE Karfreitag,EN Good Friday,CY Dydd Gwener y Groglith,GA Aoine an Chéasta,GD Dihaoine na Ceusa,SCO Guid Friday;
+6b42c8eb-a9cf-44b4-87c6-b783b4e4fbc3;GB;2025-04-21;;Public;Regional;DE Ostermontag,EN Easter Monday,CY Dydd Llun y Pasg,GA Luan Cásca;ENG,WLS,NIR
+3ae390b8-c6ab-49c5-b066-5f998d355412;GB;2025-05-05;;Public;National;DE Maifeiertag,EN Early May bank holiday,CY Gwyl Banc Cynnar Mai,GA Lá Fhéile na Bealtaine,GD Là Fhèill Bealltainn,SCO May Day;
+e9fe2b40-bb63-4a0b-a612-3367652473ed;GB;2025-05-26;;Public;National;DE Frühlingsfeiertag,EN Spring bank holiday,CY Gwyl Banc y Gwanwyn,GA Lá Saoire an Earraigh,GD Là Saoraidh an Earraich,SCO Spring Bank Holiday;
+6f1bcde2-1f04-4737-9cf1-abc9739e4627;GB;2025-07-12;;Public;Regional;DE Schlacht am Boyne,EN Battle of the Boyne,GA Cath na Bóinne;NIR
+53001eed-f3b3-4266-bd06-c1de1a29e194;GB;2025-08-04;;Public;Regional;DE Sommerfeiertag,EN Summer bank holiday,GD Là Saoraidh an t-Samhraidh,SCO Simmer Bank Holiday;SCT
+ec356f93-c91c-4ce7-b331-2b4054dda9af;GB;2025-08-25;;Public;Regional;DE Sommerfeiertag,EN Summer bank holiday,CY Gwyl Banc yr Haf,GA Lá Saoire an tSamhraidh;ENG,WLS,NIR
+d47dfacb-1358-47de-b315-421d8816f634;GB;2025-12-25;;Public;National;DE Weihnachtstag,EN Christmas Day,CY Dydd Nadolig,GA Lá Nollag,GD Latha na Nollaige,SCO Yule;
+a377c0e8-464d-410b-994a-e8f401fc4e25;GB;2025-12-26;;Public;National;DE Zweiter Weihnachtstag,EN Boxing Day,CY Gwyl San Steffan,GA Lá Fhéile Stiofáin,GD Latha Bogsaidh,SCO Boxin Day;
+96dc2c6b-ff85-42a0-9d9a-7bf19482fde6;GB;2026-01-01;;Public;National;DE Neujahrstag,EN New Year's Day,CY Dydd Calan,GA Lá Caille,GD Là Bliadhna Mhath Ùr,SCO Hogmanay;
+b7abe7b5-ac8a-44e4-805d-9d6fbee35548;GB;2026-01-02;;Public;Regional;DE 2. Januar,EN 2nd January,GD An dàrna latha den Fhaoilleach,SCO Seicont o Januar;SCT
+334ad416-52b2-431b-a956-f19bd256018d;GB;2026-03-17;;Public;Regional;DE St. Patrick's Tag,EN St Patrick's Day,GA Lá Fhéile Pádraig;NIR
+3600cd7b-dfc2-4b62-9650-1d0e65fc4f5b;GB;2026-04-03;;Public;National;DE Karfreitag,EN Good Friday,CY Dydd Gwener y Groglith,GA Aoine an Chéasta,GD Dihaoine na Ceusa,SCO Guid Friday;
+ea8b81d6-de97-456f-b200-2a21cc52d7b3;GB;2026-04-06;;Public;Regional;DE Ostermontag,EN Easter Monday,CY Dydd Llun y Pasg,GA Luan Cásca;ENG,WLS,NIR
+e3e754d2-ef06-4f6f-9224-cc97cfcbf397;GB;2026-05-04;;Public;National;DE Maifeiertag,EN Early May bank holiday,CY Gwyl Banc Cynnar Mai,GA Lá Fhéile na Bealtaine,GD Là Fhèill Bealltainn,SCO May Day;
+ea3e5d92-951b-4a05-b610-16670c86c5ee;GB;2026-05-25;;Public;National;DE Frühlingsfeiertag,EN Spring bank holiday,CY Gwyl Banc y Gwanwyn,GA Lá Saoire an Earraigh,GD Là Saoraidh an Earraich,SCO Spring Bank Holiday;
+bd7582ba-a2ff-4f3e-9768-4682f72ee9f8;GB;2026-07-13;;Public;Regional;DE Schlacht am Boyne,EN Battle of the Boyne,GA Cath na Bóinne;NIR
+b0394170-d68d-41e0-b3cc-c4c0ff26bd1f;GB;2026-08-03;;Public;Regional;DE Sommerfeiertag,EN Summer bank holiday,GD Là Saoraidh an t-Samhraidh,SCO Simmer Bank Holiday;SCT
+6bce4362-8650-4a7c-bd38-c2ea8b7e79ec;GB;2026-08-31;;Public;Regional;DE Sommerfeiertag,EN Summer bank holiday,CY Gwyl Banc yr Haf,GA Lá Saoire an tSamhraidh;ENG,WLS,NIR
+42303993-7141-460a-b1de-1d1e8f0b143b;GB;2026-12-25;;Public;National;DE Weihnachtstag,EN Christmas Day,CY Dydd Nadolig,GA Lá Nollag,GD Latha na Nollaige,SCO Yule;
+d6372610-1396-4021-8a99-40fab672624b;GB;2026-12-28;;Public;National;DE Zweiter Weihnachtstag,EN Boxing Day,CY Gwyl San Steffan,GA Lá Fhéile Stiofáin,GD Latha Bogsaidh,SCO Boxin Day;
+6bb69f6b-8a0f-4bea-a621-eb20789aca2d;GB;2027-01-01;;Public;National;DE Neujahrstag,EN New Year's Day,CY Dydd Calan,GA Lá Caille,GD Là Bliadhna Mhath Ùr,SCO Hogmanay;
+eeb05ea0-1398-44de-86ed-94d07415c3db;GB;2027-01-04;;Public;Regional;DE 2. Januar,EN 2nd January,GD An dàrna latha den Fhaoilleach;SCT
+561aaf4c-090f-48d3-97a2-a8f003774f68;GB;2027-03-17;;Public;Regional;DE St. Patrick's Tag,EN St Patrick's Day,GA Lá Fhéile Pádraig;NIR
+73d02dd6-d3f6-4479-9338-a3dceb309730;GB;2027-03-26;;Public;National;DE Karfreitag,EN Good Friday,CY Dydd Gwener y Groglith,GA Aoine an Chéasta,GD Dihaoine na Ceusa,SCO Guid Friday;
+ca01e24a-f048-41fe-98e1-954903ad18f8;GB;2027-03-29;;Public;Regional;DE Ostermontag,EN Easter Monday,CY Dydd Llun y Pasg,GA Luan Cásca;ENG,WLS,NIR
+4c19130a-1976-4f5c-ab43-8ebbc3a7c4dd;GB;2027-05-03;;Public;National;DE Maifeiertag,EN Early May bank holiday,CY Gwyl Banc Cynnar Mai,GA Lá Fhéile na Bealtaine,GD Là Fhèill Bealltainn,SCO May Day;
+5ab1a1db-8169-4395-bf96-eb53cbd38fe7;GB;2027-05-31;;Public;National;DE Frühlingsfeiertag,EN Spring bank holiday,CY Gwyl Banc y Gwanwyn,GA Lá Saoire an Earraigh,GD Là Saoraidh an Earraich,SCO Spring Bank Holiday;
+519afed7-01f6-4d05-85d7-bee4ce9457b3;GB;2027-07-12;;Public;Regional;DE Schlacht am Boyne,EN Battle of the Boyne,GA Cath na Bóinne;NIR
+2f4c0386-5750-4bfa-9695-148f4db93b3b;GB;2027-08-02;;Public;Regional;DE Sommerfeiertag,EN Summer bank holiday,GD Là Saoraidh an t-Samhraidh,SCO Simmer Bank Holiday;SCT
+9659e7be-15df-461b-beb9-6ee5f19d82e9;GB;2027-08-30;;Public;Regional;DE Sommerfeiertag,EN Summer bank holiday,CY Gwyl Banc yr Haf,GA Lá Saoire an tSamhraidh;ENG,WLS,NIR
+63923a6f-329e-4888-9caa-d57a66b17995;GB;2027-12-27;;Public;National;DE Weihnachtstag,EN Christmas Day,CY Dydd Nadolig,GA Lá Nollag,GD Latha na Nollaige,SCO Yule;
+15563911-34fa-425f-b87b-94c8894e7e5c;GB;2027-12-28;;Public;National;DE Zweiter Weihnachtstag,EN Boxing Day,CY Gwyl San Steffan,GA Lá Fhéile Stiofáin,GD Latha Bogsaidh,SCO Boxin Day;
