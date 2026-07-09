@@ -11,6 +11,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + Bulgaria (public holidays and school holidays from 2020)
 + Croatia (public holidays and school holidays from 2020)
 + Czechia (public holidays and school holidays from 2020)
++ Denmark (public holidays and school holidays from 2025)
 + Estonia (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2018)
 + Germany (public holidays and school holidays from 2012)

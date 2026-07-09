@@ -1,6 +1,6 @@
-Code,Name_DA,Name_EN,Category
-DK-84,Region Hovedstaden,Capital Region of Denmark,Region
-DK-82,Region Midtjylland,Central Denmark Region,Region
-DK-81,Region Nordjylland,North Denmark Region,Region
-DK-85,Region Sjælland,Region Zealand,Region
-DK-83,Region Syddanmark,Region of Southern Denmark,Region
+Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
+DK;DK-84;DK-84;84;DA region,EN region;DA Region Hovedstaden,EN Capital Region of Denmark;DA;
+DK;DK-82;DK-82;82;DA region,EN region;DA Region Midtjylland,EN Central Denmark Region;DA;
+DK;DK-81;DK-81;81;DA region,EN region;DA Region Nordjylland,EN North Denmark Region;DA;
+DK;DK-85;DK-85;85;DA region,EN region;DA Region Sjælland,EN Region Zealand;DA;
+DK;DK-83;DK-83;83;DA region,EN region;DA Region Syddanmark,EN Region of Southern Denmark;DA;
