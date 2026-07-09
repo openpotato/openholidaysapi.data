@@ -1,0 +1,121 @@
+Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+20012c80-268f-4d5c-ad93-773669644651;US;2020-01-01;;Public;National;EN New Year's Day,DE Neujahrstag
+f5cbe8ff-ff95-4c3f-aec6-3c7fcedc426c;US;2020-01-20;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+8366d3c3-00e9-4d3b-8824-662fb35fb13f;US;2020-02-17;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+7d494925-c4b3-4a43-85fa-81e10fcd9ab8;US;2020-05-25;;Public;National;EN Memorial Day,DE Gedenktag
+1491ac93-0456-41e8-b806-f278c2686cd7;US;2020-07-03;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+c4bc8648-024a-4e08-b6bb-80502a6ad027;US;2020-09-07;;Public;National;EN Labor Day,DE Tag der Arbeit
+c2beb5b8-7cac-4a72-8424-1becbd7b0cb6;US;2020-10-12;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+d8c9a481-6ad6-48d5-af35-f671150f4857;US;2020-11-11;;Public;National;EN Veterans Day,DE Veteranentag
+82c4bbe5-9812-4fe4-9e56-84feb9df68e7;US;2020-11-26;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+f38dcbc8-0898-4680-bd69-5764918a1be9;US;2020-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+676db2f1-25d0-461b-a98d-b68e4efbdb0b;US;2021-01-01;;Public;National;EN New Year's Day,DE Neujahrstag
+76a41aa4-6082-4dd0-b3b0-a4b209192f96;US;2021-01-18;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+70b9dd18-b99b-4dc0-be6f-ebbc5eb73ba0;US;2021-02-15;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+ccdd5d0b-4a2b-4d14-9684-a9eef3f0f9df;US;2021-05-31;;Public;National;EN Memorial Day,DE Gedenktag
+a6b89118-d7e3-4cd1-9d3b-99eb00d089cb;US;2021-06-18;;Public;National;EN Juneteenth National Independence Day,DE Juneteenth Nationaler Unabhaengigkeitstag
+a8ff27bc-7c5d-448d-9dee-ab93b5df1c3e;US;2021-07-05;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+704a3307-c0c7-4013-82f6-1c0e1a97d12b;US;2021-09-06;;Public;National;EN Labor Day,DE Tag der Arbeit
+60548470-ce8b-4ccf-aff2-caf1ea0e7b44;US;2021-10-11;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+891ff5af-e036-4924-97b9-0b8cbae1c310;US;2021-11-11;;Public;National;EN Veterans Day,DE Veteranentag
+0bb59563-e9de-4f0c-915a-52806f3dd8c4;US;2021-11-25;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+51b1bae3-8024-4d1b-b833-542690d2722f;US;2021-12-24;;Public;National;EN Christmas Day,DE Weihnachtstag
+3cd7303c-b6dd-492c-8ab0-0a9c76f015cd;US;2021-12-31;;Public;National;EN New Year's Day,DE Neujahrstag
+b4114372-7839-4f37-8ab0-82708ae4e870;US;2022-01-17;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+fcf1534e-a8f8-44df-b82e-f531e299eaef;US;2022-02-21;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+6f746e76-00b6-4983-be07-2cdae322a165;US;2022-05-30;;Public;National;EN Memorial Day,DE Gedenktag
+b0f3851a-74a8-4e48-84c6-1171d5508048;US;2022-06-20;;Public;National;EN Juneteenth National Independence Day,DE Juneteenth Nationaler Unabhaengigkeitstag
+a6a7df9a-df19-492a-a77c-dd7efc72bd60;US;2022-07-04;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+601a4d5e-7d9e-44ef-9dba-1d2bfd948dd8;US;2022-09-05;;Public;National;EN Labor Day,DE Tag der Arbeit
+a3efd21e-e1bb-42d1-bdb1-47d0eeb571c7;US;2022-10-10;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+c4038a57-6c7c-4848-af1e-ae312df783d8;US;2022-11-11;;Public;National;EN Veterans Day,DE Veteranentag
+37ce3b1a-b3ec-44dc-b5d6-b29b8ec8bf01;US;2022-11-24;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+a38f444f-f47b-496a-b5c3-d6f26e4f909f;US;2022-12-26;;Public;National;EN Christmas Day,DE Weihnachtstag
+509b8346-a01d-46c7-abe4-3cb045efa1c5;US;2023-01-02;;Public;National;EN New Year's Day,DE Neujahrstag
+436d8b87-35e9-4577-b4ad-769057b8ec2a;US;2023-01-16;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+076512e3-fcea-4375-938c-a4e0fc9601c6;US;2023-02-20;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+8216b7d7-9755-47a2-8547-0592dbc5f20d;US;2023-05-29;;Public;National;EN Memorial Day,DE Gedenktag
+5bc72946-9704-45c3-aa39-a56f6d59a472;US;2023-06-19;;Public;National;EN Juneteenth National Independence Day,DE Juneteenth Nationaler Unabhaengigkeitstag
+523099f6-d367-4f6f-b972-96f2a4938366;US;2023-07-04;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+93a0ce11-3aaf-44b8-84c1-bcc91c75a914;US;2023-09-04;;Public;National;EN Labor Day,DE Tag der Arbeit
+05273cde-bee1-4027-845b-21a3be7c225a;US;2023-10-09;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+0f128aa6-da0b-4d12-b47b-2b2c43460df3;US;2023-11-10;;Public;National;EN Veterans Day,DE Veteranentag
+d6a4b132-3d58-4268-a8de-218dd651852b;US;2023-11-23;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+9ceb1f01-14eb-4b4e-9437-21e55b0bda06;US;2023-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+27603733-e033-4933-8d33-8162b150dfa0;US;2024-01-01;;Public;National;EN New Year's Day,DE Neujahrstag
+081908ec-77a5-4e0c-860c-401bdabfd0cd;US;2024-01-15;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+f54b5cf6-3b00-498d-bdbd-193990f4d4e3;US;2024-02-19;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+68f2f29f-65a0-466b-a872-1bf76c6ad874;US;2024-05-27;;Public;National;EN Memorial Day,DE Gedenktag
+d66ca52a-c710-4f49-bb66-87334bf0262a;US;2024-06-19;;Public;National;EN Juneteenth National Independence Day,DE Juneteenth Nationaler Unabhaengigkeitstag
+f2d51544-ff54-4198-9efd-25dcbfc18795;US;2024-07-04;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+d9ead315-a7c6-43ca-a848-51edf319e7e1;US;2024-09-02;;Public;National;EN Labor Day,DE Tag der Arbeit
+35a90dff-187b-4107-aec2-2782ef5d423a;US;2024-10-14;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+8ea90feb-d10a-4b2a-966c-fb2d3d5b81c7;US;2024-11-11;;Public;National;EN Veterans Day,DE Veteranentag
+0dec26a3-69be-4a54-ba1e-f086c4eff356;US;2024-11-28;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+ce86f2e0-9e2b-4030-a684-4e0e52a67425;US;2024-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+5a39661f-c961-4b9b-9747-7c517a7d9ce9;US;2025-01-01;;Public;National;EN New Year's Day,DE Neujahrstag
+a41a4311-5762-4233-a318-bb51b74f52af;US;2025-01-20;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+0d75cb80-33bc-4cd3-86f9-e238e5898363;US;2025-02-17;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+dcc9c835-8395-45c3-83a9-096f03deb162;US;2025-05-26;;Public;National;EN Memorial Day,DE Gedenktag
+fb9393cf-e4dc-4212-a32f-10fdd241025f;US;2025-06-19;;Public;National;EN Juneteenth National Independence Day,DE Juneteenth Nationaler Unabhaengigkeitstag
+cbe066da-3660-452a-8812-c83e4bc3ecae;US;2025-07-04;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+1480ff9b-a315-47e5-8cf8-ad1b963dc544;US;2025-09-01;;Public;National;EN Labor Day,DE Tag der Arbeit
+95122bfa-3e9f-429e-9c2c-82f003472a20;US;2025-10-13;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+a87c9b94-b24b-4e37-8633-1dff924b3a80;US;2025-11-11;;Public;National;EN Veterans Day,DE Veteranentag
+7e1a7a68-d2df-4ce7-ab14-e6d4b51e24a6;US;2025-11-27;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+ce83ee60-4734-41a4-91cd-c24a87397635;US;2025-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+dd9f9260-46b6-4067-aeeb-9a5cd064814d;US;2026-01-01;;Public;National;EN New Year's Day,DE Neujahrstag
+1a17b16f-d911-4bfb-88d0-e7750c04e3a1;US;2026-01-19;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+62c1bf75-d0ad-4371-9939-e5257bb96600;US;2026-02-16;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+9dfa1d3b-fa52-490c-9fda-285f57d5caec;US;2026-05-25;;Public;National;EN Memorial Day,DE Gedenktag
+042b3e43-5a41-481d-85f9-35503a04d290;US;2026-06-19;;Public;National;EN Juneteenth National Independence Day,DE Juneteenth Nationaler Unabhaengigkeitstag
+fe954604-a238-499b-8927-f87214963a00;US;2026-07-03;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+28879bff-97ca-4485-8c0f-a653eb388080;US;2026-09-07;;Public;National;EN Labor Day,DE Tag der Arbeit
+7bd5ee34-d25c-4121-8b5c-05f657552675;US;2026-10-12;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+90feafa1-fffd-4995-b8c9-3ac2612e64f3;US;2026-11-11;;Public;National;EN Veterans Day,DE Veteranentag
+1b3f2beb-6a7f-43fc-b74d-9d450225dbd0;US;2026-11-26;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+9f54e974-5eb4-476b-9120-109f405759aa;US;2026-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+c128d6ab-6532-438e-84de-4bac54d42d14;US;2027-01-01;;Public;National;EN New Year's Day,DE Neujahrstag
+36d2112e-e136-4292-a894-80a4048708d3;US;2027-01-18;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+61c5eb3a-b9cf-4f70-aa62-0de1ce4f3600;US;2027-02-15;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+4b0681a1-860f-4c6f-b22e-cb0c4e0013d7;US;2027-05-31;;Public;National;EN Memorial Day,DE Gedenktag
+590cffd4-0c00-4d9a-9761-53f87e615386;US;2027-06-18;;Public;National;EN Juneteenth National Independence Day,DE Juneteenth Nationaler Unabhaengigkeitstag
+6d7a66ea-e286-419c-aa8c-ae406858b00a;US;2027-07-05;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+b8cab0a6-d334-455c-bf76-67abbd8c24ea;US;2027-09-06;;Public;National;EN Labor Day,DE Tag der Arbeit
+2f76f39d-3b25-4576-93e4-35ec81b2c47c;US;2027-10-11;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+7f0445fd-5dc1-4762-9918-c49136e8a26d;US;2027-11-11;;Public;National;EN Veterans Day,DE Veteranentag
+c813a857-ee50-4ef4-8235-6b9a3996f728;US;2027-11-25;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+9560f618-0b66-48c0-9477-a01d57b8a437;US;2027-12-24;;Public;National;EN Christmas Day,DE Weihnachtstag
+064aa02f-fa55-4880-8e40-95a2174837f9;US;2027-12-31;;Public;National;EN New Year's Day,DE Neujahrstag
+03419125-5cc9-44dc-991f-a57aa1eea02f;US;2028-01-17;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+19062922-0c64-441e-9ca7-bc2df560e9eb;US;2028-02-21;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+07b67e4c-36eb-4d76-a68e-100e8bb5394a;US;2028-05-29;;Public;National;EN Memorial Day,DE Gedenktag
+4bb1e6d5-2571-48a4-b82d-f47b3f201f2b;US;2028-06-19;;Public;National;EN Juneteenth National Independence Day,DE Juneteenth Nationaler Unabhaengigkeitstag
+6c59a7fe-6313-42f4-942d-b4b14d885062;US;2028-07-04;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+ca85a4f6-f73e-4dda-9b60-6f24b4b18b10;US;2028-09-04;;Public;National;EN Labor Day,DE Tag der Arbeit
+30eb2c2a-8085-4544-b85c-3ab25d42b738;US;2028-10-09;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+79489097-3566-4137-a9e0-193d15ea5a4d;US;2028-11-10;;Public;National;EN Veterans Day,DE Veteranentag
+4806eb63-f0a5-4774-b7d2-fc22d46d8ac4;US;2028-11-23;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+46cdf0ac-cb9c-4667-b87c-ca5a61525b6f;US;2028-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+d59804b5-3883-4980-9370-773eb50d41e1;US;2029-01-01;;Public;National;EN New Year's Day,DE Neujahrstag
+5a7cc0cc-5f67-45b1-8b3c-4b692f0253af;US;2029-01-15;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+70774aef-5e81-4f1a-a2db-c4d5046ac166;US;2029-02-19;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+ad58af61-19ee-4c0d-bbac-7c68a450ed6e;US;2029-05-28;;Public;National;EN Memorial Day,DE Gedenktag
+ded8672d-6055-4318-87ae-f436083e0719;US;2029-06-19;;Public;National;EN Juneteenth National Independence Day,DE Juneteenth Nationaler Unabhaengigkeitstag
+fe6512bf-ed7d-458e-b66d-824fda34713a;US;2029-07-04;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+d9be16a4-cdd4-4814-9b21-331c49e869ac;US;2029-09-03;;Public;National;EN Labor Day,DE Tag der Arbeit
+3694bb44-9c17-4b23-a542-4c4aa57bc3f4;US;2029-10-08;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+7911cb28-539e-4285-bb74-e8310dd58fa3;US;2029-11-12;;Public;National;EN Veterans Day,DE Veteranentag
+1edee11c-49ad-4211-b370-493092832b67;US;2029-11-22;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+49e52287-ea4c-4d63-9d29-3081d15825d5;US;2029-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
+1478e1da-9e62-45c6-86d4-c417391b4176;US;2030-01-01;;Public;National;EN New Year's Day,DE Neujahrstag
+0affa04d-bac5-4509-aa69-fef8da4d4b35;US;2030-01-21;;Public;National;EN Birthday of Martin Luther King%2C Jr.,DE Geburtstag von Martin Luther King%2C Jr.
+e8caffa1-f87c-45ec-b5bd-571f4d2b366c;US;2030-02-18;;Public;National;EN Washington's Birthday,DE Washingtons Geburtstag
+0ef5dbd8-c37e-4d2b-acf3-9afc3b5d3aae;US;2030-05-27;;Public;National;EN Memorial Day,DE Gedenktag
+506bc8c7-1042-4172-b91b-8c96ff0bafa7;US;2030-06-19;;Public;National;EN Juneteenth National Independence Day,DE Juneteenth Nationaler Unabhaengigkeitstag
+9b4e0d81-1f78-438d-b6ad-c78818ec214f;US;2030-07-04;;Public;National;EN Independence Day,DE Unabhaengigkeitstag
+aaea1dcf-5e9d-4c71-8724-dc07318f38b7;US;2030-09-02;;Public;National;EN Labor Day,DE Tag der Arbeit
+f0224333-0a9e-4b5d-b94f-324e9258ad94;US;2030-10-14;;Public;National;EN Columbus Day,DE Kolumbus-Tag
+e9bba755-6f76-4fe8-b95a-9008d8cfa043;US;2030-11-11;;Public;National;EN Veterans Day,DE Veteranentag
+b18d4e28-980f-47da-a1c9-942b85165533;US;2030-11-28;;Public;National;EN Thanksgiving Day,DE Erntedankfest
+1018568a-1559-4f73-aaae-e7084b41097d;US;2030-12-25;;Public;National;EN Christmas Day,DE Weihnachtstag
