@@ -1,0 +1,111 @@
+Id;Country;StartDate;EndDate;Type;RegionalScope;Name
+891f9725-04d2-40ff-ab42-8d070beacdf0;DK;2025-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+13230fe8-bac5-425b-8052-d6797bbd3239;DK;2025-04-17;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+678e5507-17ec-4ba5-a926-569c160dac97;DK;2025-04-18;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+f7329519-1e6e-4b3a-9779-f6b5662f63ab;DK;2025-04-20;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+d3063ea3-876a-4848-8608-35d83d728603;DK;2025-04-21;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+d620b59a-0c9a-487c-a621-6b6691970a3c;DK;2025-05-29;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+112df931-5bea-417b-bd43-42c441a82428;DK;2025-06-08;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+d29ad045-c9dc-4d31-918a-83b2f0ec34b9;DK;2025-06-09;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+62270452-12b3-4ee4-8a92-57da26abe8f2;DK;2025-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+05391b84-170f-4168-9fd4-bcc863b933ff;DK;2025-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
+d73f2668-6001-4aa4-81d4-97978a533895;DK;2026-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+f6c485a6-6930-4179-bf14-9bbc2f6c9b01;DK;2026-04-02;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+768b73a6-a61e-452a-8e4e-dba3048572a4;DK;2026-04-03;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+c3264615-563a-4beb-8e2c-dad69e828845;DK;2026-04-05;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+1e13d0e1-ac83-4e14-b99a-db2ca9e87a0a;DK;2026-04-06;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+03868562-9c01-4e47-9bc5-2b09b71b212d;DK;2026-05-14;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+e225e4d7-53e5-42b4-8938-262da8355926;DK;2026-05-24;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+1d5935a8-c8c6-4856-b8ee-b76027f734c9;DK;2026-05-25;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+0d0d21cc-1038-4eae-8a18-54fccc957f54;DK;2026-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+5e8da92b-396c-48d7-88df-6fe96feca18f;DK;2026-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
+330168c5-5585-47f0-917b-fe69de8f20a1;DK;2027-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+f0e65b17-c263-4657-8063-efc0cd1c2f22;DK;2027-03-25;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+4a215145-f610-447d-b6a0-7814b780667b;DK;2027-03-26;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+a42791fc-2508-46f6-85ff-ed8fefb235c9;DK;2027-03-28;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+699ec568-b60b-4bd0-bc56-289d6595ba78;DK;2027-03-29;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+6ae98fd2-6bd5-41c5-b964-acfc49998507;DK;2027-05-06;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+6fcedd9f-b98a-49c5-977e-11436d8fdcab;DK;2027-05-16;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+37b6106d-40cd-4361-a7b0-ee7b59922db6;DK;2027-05-17;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+ebd52fee-b269-411f-a199-3adc14a1002a;DK;2027-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+5ffe99ee-2e12-4488-a171-89030cf7523a;DK;2027-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
+e437c28c-9119-4824-a1ab-77d6f488c93c;DK;2028-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+cbcd15ca-35b7-4467-82b5-7e41105a2081;DK;2028-04-13;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+baf22102-fcec-46cf-a9fd-156d30d8766a;DK;2028-04-14;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+b9ea5b36-9ffd-4460-9378-46615b4a8707;DK;2028-04-16;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+7ac76604-6e81-49e1-a76b-9acd4b931625;DK;2028-04-17;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+62f2c015-6a09-4cd9-b780-13b551c3810b;DK;2028-05-25;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+9677846c-16db-4361-b323-39f6a55f4394;DK;2028-06-04;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+b3531ab5-0283-4e60-91ef-86011c8b6d5e;DK;2028-06-05;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+2016693d-7b70-4e9e-b082-0b1f590b93ac;DK;2028-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+1bc0654f-4dcc-4488-b1ef-251a09950023;DK;2028-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
+39d71c7d-fbea-4b4a-8244-096c75b87a9c;DK;2029-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+18bb7e6e-d13e-495d-9bb3-139ee75abcef;DK;2029-03-29;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+280aad33-513f-47c0-ab8b-9e95dd39d79b;DK;2029-03-30;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+2eac13a8-b97f-4a01-8cde-fadc2d8aaf99;DK;2029-04-01;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+ae4273e2-3869-409a-aa99-f99455c6db44;DK;2029-04-02;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+ee65ffe8-9724-4bef-8be4-86357446ef2c;DK;2029-05-10;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+0e8c9d38-30f9-4a16-ae04-473487aeb7f1;DK;2029-05-20;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+7c1d3861-6643-497c-8525-581cd00b2156;DK;2029-05-21;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+1b46ba17-4432-4934-b28f-406e0681b57b;DK;2029-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+46623ad2-39d4-4b74-8734-5a2fd6f821ff;DK;2029-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
+f7a32bb1-fc02-4bba-a98d-6317a23ddff4;DK;2030-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+01971a0e-2dcd-46fb-9061-33bc6d050779;DK;2030-04-18;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+8011f47c-7539-42d5-b1d1-7a1c1d042736;DK;2030-04-19;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+b9d4b41e-78b8-4acd-92a1-cd6d89b56111;DK;2030-04-21;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+68aeaede-11aa-41f9-9e2c-8b71d4a23652;DK;2030-04-22;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+fb2c78a0-af47-4de2-9e12-c96894ce8eb3;DK;2030-05-30;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+09a2a448-16af-4017-85d9-be7157a07746;DK;2030-06-09;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+e158eb56-fbd1-4e90-859d-428c9d53765b;DK;2030-06-10;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+1f611810-c34a-4ae5-af78-91fb113a60f3;DK;2030-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+de666a74-2a58-405b-aa3e-4b71aea846b3;DK;2030-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
+33bb3970-7bcd-4064-8081-fde80807119b;DK;2031-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+d816bdca-9a4a-48cc-af65-45376e6aae0e;DK;2031-04-10;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+e174584f-e787-493a-ab62-da20ea4da3b0;DK;2031-04-11;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+bed262f3-6ca0-4a08-b5cc-d1a7564b109b;DK;2031-04-13;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+579fa08c-5716-4bc7-9460-72749bdf8ce0;DK;2031-04-14;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+58014d06-2f01-424d-a6cc-35fc647f273e;DK;2031-05-22;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+33a1e93e-b99f-4270-8662-b22fe1b48615;DK;2031-06-01;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+568b581d-8251-4d89-9151-b7bc04124d25;DK;2031-06-02;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+dab97e2c-0c46-4dd5-b31d-429b0fe7798e;DK;2031-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+04b8f0dd-0e6b-4827-8443-d6a1b8ff31e0;DK;2031-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
+fbc3e285-1081-47a0-8ebc-53b12f3d3b75;DK;2032-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+d7360df9-d1c8-4a48-993f-dbc9fa190e7d;DK;2032-03-25;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+c3bf02b8-7699-4d8e-abdb-7b3ac6f7bbc2;DK;2032-03-26;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+fe6fbd76-d345-447e-b057-74dc72450015;DK;2032-03-28;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+b6b30d67-d207-4384-a28d-193f8c7ec442;DK;2032-03-29;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+3aab9067-e1ed-4d15-8478-13a07700106a;DK;2032-05-06;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+765de067-b7ef-4998-9714-94e7c4676f1e;DK;2032-05-16;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+0e3ddd3f-1c85-436c-b26f-f5f6e724ad7d;DK;2032-05-17;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+8e04674b-675d-4415-ab0f-3b34a8f20aec;DK;2032-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+1d31eba3-39a6-401d-a1f1-fe6a88adab7f;DK;2032-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
+ba080d99-aa0f-41e1-9d0b-5187e2069da5;DK;2033-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+af9210fd-29ec-473b-ad8d-dbdf1c63956e;DK;2033-04-14;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+2b485915-e1a5-4da2-a232-9d9caca9de75;DK;2033-04-15;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+e87219c9-ae69-4f6c-8877-e54536100027;DK;2033-04-17;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+0f82a3ec-2bbf-4f22-9691-dcdc66d04d7e;DK;2033-04-18;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+874bcd0a-36d7-4ab5-8b55-1f33a8ba6864;DK;2033-05-26;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+972d92fc-ff6d-44eb-ab51-058f442ae343;DK;2033-06-05;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+6b4f4734-30e3-41b4-ab8e-77e310e20a21;DK;2033-06-06;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+98327833-f184-41e5-8047-d0d543eb0ecf;DK;2033-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+277270ca-37b2-471e-87db-f7b83a81b3b9;DK;2033-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
+2f267261-0076-4e72-90e9-676ef1e2a3fb;DK;2034-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+fba4d6b5-d206-46fb-92bf-686b3ff4e96b;DK;2034-04-06;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+13cc194a-f11d-474e-a34f-4b2b8dbbba8e;DK;2034-04-07;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+ce6f377d-b872-4883-b883-8a28a0529371;DK;2034-04-09;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+1e31225b-0920-408d-a500-f0d770a48867;DK;2034-04-10;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+67c7d7e0-acb8-4ba7-b96d-06e34eb142ca;DK;2034-05-18;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+d00d8fd4-fa87-4cbe-8052-d96151e93f6e;DK;2034-05-28;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+4c52707d-186a-43c2-b642-7c5a1917ebf9;DK;2034-05-29;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+f62ba2e5-a46e-46ec-9239-4ca7147a6d52;DK;2034-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+3fe12f45-dd58-4252-9e5d-b79822bada8e;DK;2034-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
+9e068633-b51d-49cc-8c5e-632e1f302e3a;DK;2035-01-01;;Public;National;DA Nytårsdag,DE Neujahrstag,EN New Year's Day
+59e954b7-1289-40cb-ace9-6dfb2a9a405b;DK;2035-03-22;;Public;National;DA Skærtorsdag,DE Gründonnerstag,EN Maundy Thursday
+dfb00979-91ce-4af3-b7a2-bdebcf50629e;DK;2035-03-23;;Public;National;DA Langfredag,DE Karfreitag,EN Good Friday
+e2b64391-1bfa-4867-b9a3-9773aeccb28c;DK;2035-03-25;;Public;National;DA Påskedag,DE Ostersonntag,EN Easter Sunday
+5207f723-11d6-490f-bb87-810f8db7bffc;DK;2035-03-26;;Public;National;DA Anden påskedag,DE Ostermontag,EN Easter Monday
+0347e10e-7803-4507-b6cd-7e9a0748fde1;DK;2035-05-03;;Public;National;DA Kristi himmelfartsdag,DE Christi Himmelfahrt,EN Ascension Day
+38cee09e-bd0f-47ab-92f1-53e88fa94990;DK;2035-05-13;;Public;National;DA Pinsedag,DE Pfingstsonntag,EN Whit Sunday
+d2441d5c-f543-42b1-a510-373bd79df9da;DK;2035-05-14;;Public;National;DA Anden pinsedag,DE Pfingstmontag,EN Whit Monday
+1a3b7a98-e223-4a93-bf4f-51450edea4e6;DK;2035-12-25;;Public;National;DA Juledag,DE Erster Weihnachtstag,EN Christmas Day
+66a8c6d2-d0a9-48be-8c15-2dc5d7834a33;DK;2035-12-26;;Public;National;DA Anden juledag,DE Zweiter Weihnachtstag,EN Second Day of Christmas
