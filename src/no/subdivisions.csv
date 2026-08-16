@@ -1,0 +1,16 @@
+﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent;Groups
+NO;NO-AG;NO-42;AG;NO Fylke,EN county,DE Provinz;NO Agder,EN Agder,DE Agder;NO;;
+NO;NO-AK;NO-32;AK;NO Fylke,EN county,DE Provinz;NO Akershus,EN Akershus,DE Akershus;NO;;
+NO;NO-BU;NO-33;BU;NO Fylke,EN county,DE Provinz;NO Buskerud,EN Buskerud,DE Buskerud;NO;;
+NO;NO-FI;NO-56;FI;NO Fylke,EN county,DE Provinz;NO Finnmark,EN Finnmark,DE Finnmark;NO;;
+NO;NO-IL;NO-34;IL;NO Fylke,EN county,DE Provinz;NO Innlandet,EN Innlandet,DE Innlandet;NO;;
+NO;NO-MR;NO-15;MR;NO Fylke,EN county,DE Provinz;NO Møre og Romsdal,EN Møre og Romsdal,DE Møre og Romsdal;NO;;
+NO;NO-NO;NO-18;NO;NO Fylke,EN county,DE Provinz;NO Nordland,EN Nordland,DE Nordland;NO;;
+NO;NO-OF;NO-31;OF;NO Fylke,EN county,DE Provinz;NO Østfold,EN Østfold,DE Østfold;NO;;
+NO;NO-OS;NO-03;OS;NO Fylke,EN county,DE Provinz;NO Oslo,EN Oslo,DE Oslo;NO;;
+NO;NO-RO;NO-11;RO;NO Fylke,EN county,DE Provinz;NO Rogaland,EN Rogaland,DE Rogaland;NO;;
+NO;NO-TD;NO-50;TD;NO Fylke,EN county,DE Provinz;NO Trøndelag,EN Trøndelag,DE Trøndelag;NO;;
+NO;NO-TE;NO-40;TE;NO Fylke,EN county,DE Provinz;NO Telemark,EN Telemark,DE Telemark;NO;;
+NO;NO-TR;NO-55;TR;NO Fylke,EN county,DE Provinz;NO Troms,EN Troms,DE Troms;NO;;
+NO;NO-VF;NO-39;VF;NO Fylke,EN county,DE Provinz;NO Vestfold,EN Vestfold,DE Vestfold;NO;;
+NO;NO-VL;NO-46;VL;NO Fylke,EN county,DE Provinz;NO Vestland,EN Vestland,DE Vestland;NO;;
