@@ -91,4 +91,13 @@ fc6714a0-5680-4869-ae78-6ab02a3d4ced;FR;2027-02-14;2027-02-28;School;Regional;FR
 7d0c13be-c980-44cf-8b64-356f3a77565e;FR;2027-04-11;2027-04-25;School;Regional;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZA,AR,BF,NA;;;;;;
 387330fc-6c9c-4912-8f14-a51656b00129;FR;2027-04-18;2027-05-02;School;Regional;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZB,BT,CV,GE,HF,NO,PC,PL;;;;;;
 8f659095-bec1-4ba1-b63d-d05bf521bf3f;FR;2027-05-06;2027-05-09;School;Regional;FR Pont de l'Ascension,DE Brückentage zu Christi Himmelfahrt,EN Ascension Bridge;ZA,AR,BF,NA,ZB,BT,CV,GE,HF,NO,PC,PL,ZC,IF,OC;;;;;;
-c09411e8-4aeb-4010-af91-22813b88b2c6;FR;2027-07-03;;EndOfLessons;Regional;FR Fin des cours,DE Unterrichtsende,EN End of lessons;ZA,AR,BF,NA,ZB,BT,CV,GE,HF,NO,PC,PL,ZC,IF,OC;;;;;;
+c09411e8-4aeb-4010-af91-22813b88b2c6;FR;2027-07-03;2027-08-31;School;Regional;FR Vacances d'été,DE Sommerferien,EN Summer Holidays;ZA,AR,BF,NA,ZB,BT,CV,GE,HF,NO,PC,PL,ZC,IF,OC;;;;;;
+0a231565-ba6c-4e19-a5ff-204bafa8bb6e;FR;2027-10-23;2027-11-08;School;Regional;FR Vacances de la Toussaint,DE Allerheiligenferien,EN All Saints Holidays;ZA,AR,BF,NA,ZB,BT,CV,GE,HF,NO,PC,PL,ZC,IF,OC;;;;;;
+313feba2-74ce-4c20-a651-8e155e68343b;FR;2027-12-18;2028-01-03;School;Regional;FR Vacances de Noël,DE Weihnachtsferien,EN Christmas Holidays;ZA,AR,BF,NA,ZB,BT,CV,GE,HF,NO,PC,PL,ZC,IF,OC;;;;;;
+7a1dee8f-17af-443a-8790-ed2e92322cbd;FR;2028-02-05;2028-02-21;School;Regional;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZB,BT,CV,GE,HF,NO,PC,PL;;;;;;
+745a4d42-f6c5-477d-8dd6-1438d5c93068;FR;2028-02-12;2028-02-28;School;Regional;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZC,IF;;;;;;
+93821996-2c89-4ad3-ab3d-1ef4951aaf7a;FR;2028-02-19;2028-03-06;School;Regional;FR Vacances d'hiver,DE Winterferien,EN Winter Holidays;ZA,AR,BF,NA;;;;;;
+49021058-02b9-43ac-a48c-ba49f30690b5;FR;2028-04-08;2028-04-24;School;Regional;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZB,BT,CV,GE,HF,NO,PC,PL;;;;;;
+6bfbedc5-e96f-41ed-8aac-851c2b5e642f;FR;2028-04-15;2028-05-02;School;Regional;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZC,IF,OC;;;;;;
+1a566a96-e4a7-40e2-955a-eda0f599c2c7;FR;2028-04-22;2028-05-09;School;Regional;FR Vacances de printemps,DE Frühjahrsferien,EN Spring Holidays;ZA,AR,BF,NA;;;;;;
+fbe4734e-2f9d-4825-8082-67f70c54f013;FR;2028-07-04;;EndOfLessons;Regional;FR Fin des cours,DE Unterrichtsende,EN End of lessons;ZA,AR,BF,NA,ZB,BT,CV,GE,HF,NO,PC,PL,ZC,IF,OC;;;;;;
