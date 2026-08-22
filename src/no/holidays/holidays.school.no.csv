@@ -1,0 +1,23 @@
+Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+665a8f65-5116-4a54-803a-3b9b61ae60b3;NO;2026-06-20;2026-08-12;School;Regional;NO Sommerferie,DE Sommerferien,EN Summer Holidays;NO
+79df5278-ad0e-4eb4-9e35-6c6f96e40de4;NO;2026-09-28;2026-10-02;School;Regional;NO Høstferie,DE Herbstferien,EN Autumn Holidays;NO
+5a3a6851-c8b5-420b-8b25-b953b6a5942f;NO;2026-11-20;2026-11-20;School;Regional;NO Lærestevne,DE Lehrkonferenz,EN Teaching conference;NO
+3750d6f1-9213-4ea2-8931-4491a18f10fe;NO;2026-12-19;2027-01-03;School;Regional;NO Juleferie,DE Weihnachtsferien,EN Christmas Holidays;NO
+c92aae1d-dfb5-4cb0-9635-f81e2df2a798;NO;2027-02-22;2027-02-26;School;Regional;NO Vinterferie,DE Winterferien,EN Winter Holidays;NO
+75a62f1a-9952-4a0b-84ac-8ddcc3e4db16;NO;2027-03-22;2027-03-30;School;Regional;NO Påskeferie,DE Osterferien,EN Easter Holidays;NO
+976630ec-8870-437d-ab08-c854a7d2716e;NO;2027-05-07;2027-05-07;School;Regional;NO Inneklemt dag,DE Brückentag,EN Bridge day;NO
+aeb67f72-4647-4796-9ba0-3a413a14ad36;NO;2027-06-18;2027-08-18;School;Regional;NO Sommerferie,DE Sommerferien,EN Summer Holidays;NO
+3f61a3bf-d765-4035-8c5f-4492f1557b89;NO;2027-10-11;2027-10-15;School;Regional;NO Høstferie,DE Herbstferien,EN Autumn Holidays;NO
+b97b5b1e-a8d2-4824-9b4e-c5cf39e37a8b;NO;2027-11-19;2027-11-19;School;Regional;NO Lærestevne,DE Lehrkonferenz,EN Teaching conference;NO
+ac64c847-cc3d-4130-8413-c5b766a2e0bb;NO;2027-12-22;2028-01-02;School;Regional;NO Juleferie,DE Weihnachtsferien,EN Christmas Holidays;NO
+f0397e82-7046-468b-826b-f310ff33bf08;NO;2028-03-06;2028-03-10;School;Regional;NO Vinterferie,DE Winterferien,EN Winter Holidays;NO
+3c8cec70-e6ca-44aa-80a4-daaffa01b041;NO;2028-04-10;2028-04-18;School;Regional;NO Påskeferie,DE Osterferien,EN Easter Holidays;NO
+94c8bb11-3c65-4a5f-b3d3-87b664b2c91e;NO;2028-05-26;2028-05-26;School;Regional;NO Inneklemt dag,DE Brückentag,EN Bridge day;NO
+0c101490-25cc-465d-adee-734159f2ece6;NO;2028-06-23;2028-08-20;School;Regional;NO Sommerferie,DE Sommerferien,EN Summer Holidays;NO
+1850161e-a829-41e6-910d-b2a95ff16d1d;NO;2028-10-09;2028-10-13;School;Regional;NO Høstferie,DE Herbstferien,EN Autumn Holidays;NO
+eb79715c-277d-40dd-8940-7fbe4fdf0dec;NO;2028-11-17;2028-11-17;School;Regional;NO Lærestevne,DE Lehrkonferenz,EN Teaching conference;NO
+46963683-3341-4d27-bec6-0628255a5586;NO;2028-12-22;2029-01-02;School;Regional;NO Juleferie,DE Weihnachtsferien,EN Christmas Holidays;NO
+77b88956-ca7e-4886-b0ae-a0fd4fbad4bf;NO;2029-02-26;2029-03-02;School;Regional;NO Vinterferie,DE Winterferien,EN Winter Holidays;NO
+b249330c-7d89-47e1-ba3c-8f77694fa0b3;NO;2029-03-26;2029-04-02;School;Regional;NO Påskeferie,DE Osterferien,EN Easter Holidays;NO
+59a37d56-f55e-48f7-887c-a1696bc0367d;NO;2029-05-18;2029-05-18;School;Regional;NO Inneklemt dag,DE Brückentag,EN Bridge day;NO
+1b500e2f-cf93-4b54-af95-d5f323effce1;NO;2029-06-23;;School;Regional;NO Sommerferie,DE Sommerferien,EN Summer Holidays;NO

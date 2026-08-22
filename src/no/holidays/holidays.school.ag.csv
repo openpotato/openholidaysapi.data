@@ -1,0 +1,16 @@
+Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+55ad17fb-3fe5-44ef-b90d-e1783526af3b;NO;2025-06-21;2025-08-13;School;Regional;NO Sommerferie,DE Sommerferien,EN Summer Holidays;AG
+d6597894-9bc2-47e0-86fd-2c2cec90a789;NO;2025-09-29;2025-10-03;School;Regional;NO Høstferie,DE Herbstferien,EN Autumn Holidays;AG
+d693bc97-ec26-441b-abd8-57cf5ffef2b5;NO;2025-11-07;2025-11-07;School;Regional;NO Sørlandsk lærestevne,DE Südliche Lehrkonferenz,EN Southern teaching conference;AG
+19d3b866-6d47-4540-bae6-ee30c5e16087;NO;2025-12-20;2026-01-04;School;Regional;NO Juleferie,DE Weihnachtsferien,EN Christmas Holidays;AG
+d55d30f5-5443-40e1-b7ba-3d23407951bd;NO;2026-02-16;2026-02-20;School;Regional;NO Vinterferie,DE Winterferien,EN Winter Holidays;AG
+372ce7c2-fd41-4cba-81f4-b036a4f284b6;NO;2026-03-30;2026-04-07;School;Regional;NO Påskeferie,DE Osterferien,EN Easter Holidays;AG
+51677022-6fc9-4771-859e-565522280b35;NO;2026-05-15;2026-05-15;School;Regional;NO Inneklemt dag,DE Brückentag,EN Bridge day;AG
+a707a17f-9015-4c16-a2ec-4aad7e7a820a;NO;2026-06-20;2026-08-12;School;Regional;NO Sommerferie,DE Sommerferien,EN Summer Holidays;AG
+d31c3048-8646-400c-8d92-ed1d0da3bf8b;NO;2026-09-28;2026-10-02;School;Regional;NO Høstferie,DE Herbstferien,EN Autumn Holidays;AG
+f2a3f45e-4651-40fc-8ffb-68d4c6980083;NO;2026-11-06;2026-11-06;School;Regional;NO Sørlandsk lærestevne,DE Südliche Lehrkonferenz,EN Southern teaching conference;AG
+a0566262-8fa9-4c02-a509-a00a282edf11;NO;2026-12-19;2027-01-04;School;Regional;NO Juleferie,DE Weihnachtsferien,EN Christmas Holidays;AG
+823c7824-939c-47ce-aa5f-4fe25aafca01;NO;2027-02-22;2027-02-26;School;Regional;NO Vinterferie,DE Winterferien,EN Winter Holidays;AG
+a2912c93-3688-4154-98c1-b2819f0dc37d;NO;2027-03-22;2027-03-30;School;Regional;NO Påskeferie,DE Osterferien,EN Easter Holidays;AG
+ef99043e-0857-4301-a00e-34fe1f5b7da7;NO;2027-05-07;2027-05-07;School;Regional;NO Inneklemt dag,DE Brückentag,EN Bridge day;AG
+f89247d7-f06f-4975-a727-a939a40d7046;NO;2027-06-19;;School;Regional;NO Sommerferie,DE Sommerferien,EN Summer Holidays;AG
