@@ -1,7 +1,7 @@
 ﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name
 6e2a37ed-4abc-4cba-b9d5-96649dfc0c08;AD;2020-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 e9874b92-098a-4f9d-89d3-e7d9c1fc1a02;AD;2020-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-8a3d1991-5123-46f7-8d96-cdfb8f4fbdbd;AD;2020-02-24;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+8a3d1991-5123-46f7-8d96-cdfb8f4fbdbd;AD;2020-02-24;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 133f01ba-9e62-4448-89fe-617ff32a9410;AD;2020-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 6ee78b54-d350-4119-ad4f-d9ce21f99c79;AD;2020-04-10;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 6bb0fa6e-cef6-465f-97bf-21d1c3bace09;AD;2020-04-13;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
@@ -15,7 +15,7 @@ ffff9b7f-7acf-4294-bca1-4e5a24191c61;AD;2020-12-25;;Public;National;CA Nadal,DE 
 47a27020-e84e-41f9-9522-cdc28fd019cf;AD;2020-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
 10378e57-8fe1-4626-a082-7e6c3e03a9e7;AD;2021-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 a14818cd-39c6-4bba-8d40-9746e0591343;AD;2021-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-d10d6159-8b77-4ca3-8e79-2f4354d99ae5;AD;2021-02-15;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+d10d6159-8b77-4ca3-8e79-2f4354d99ae5;AD;2021-02-15;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 fcd4e22a-86b9-47b4-9e13-f3b59e3fc590;AD;2021-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 b0132e61-dd77-4dfd-b03f-f67568339bbb;AD;2021-04-02;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 b6821e4f-b26e-4a4e-b7fa-ee332900fd93;AD;2021-04-05;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
@@ -29,7 +29,7 @@ eed1fdcf-7c8c-4d74-9736-4ba2fb192d7c;AD;2021-09-08;;Public;National;CA Mare de D
 4b7efd7a-954a-4c7a-bcf4-1d3259a03981;AD;2021-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
 3bc2074b-71f0-4994-a996-ac60fed3e794;AD;2022-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 82b8625f-713d-4a8c-acae-5cc541021ebb;AD;2022-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-d38493e7-43f8-4b42-b2e6-73ea4e52e521;AD;2022-02-28;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+d38493e7-43f8-4b42-b2e6-73ea4e52e521;AD;2022-02-28;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 ed46339a-c553-4018-90f2-a245b398bd7a;AD;2022-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 b343f567-cb19-403a-ba10-04b6cdd5a2b2;AD;2022-04-15;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 c55fb4fb-5eb2-466d-b7b6-638f4522f675;AD;2022-04-18;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
@@ -43,7 +43,7 @@ fc214e69-c47c-4700-abd0-9ec1902e3585;AD;2022-12-08;;Public;National;CA Immaculad
 61422aea-53c2-431a-b022-5a179003d88c;AD;2022-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
 8e52fe82-c919-451b-92aa-f259be2c34c1;AD;2023-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 93e218a1-b3d2-4c60-9d46-cb5db58ce70b;AD;2023-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-e3649ec0-8a6f-4356-b2e3-7f1fa1121a06;AD;2023-02-20;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+e3649ec0-8a6f-4356-b2e3-7f1fa1121a06;AD;2023-02-20;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 2e0e0f6d-0fee-47b1-9bab-0612cb6e395f;AD;2023-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 74eb5a17-6367-4d9d-ad6e-7e5937535950;AD;2023-04-07;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 6f851e0f-045a-4faf-8272-c4904a94184d;AD;2023-04-10;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
@@ -57,7 +57,7 @@ fad4cae8-7c5f-4ec7-a19d-0b003be156f2;AD;2023-12-08;;Public;National;CA Immaculad
 663bcdcb-c0e6-4872-9de9-6a05e60cf71d;AD;2023-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
 64edf70b-48d3-4e6e-9f45-9b4d7407384a;AD;2024-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 8642ee10-e37c-4311-9e3e-3195d3e3933a;AD;2024-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-2da3300c-6689-4cc6-a68d-61e46947cc9d;AD;2024-02-12;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+2da3300c-6689-4cc6-a68d-61e46947cc9d;AD;2024-02-20;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 80d05edd-9254-48b9-a401-9a383fbba680;AD;2024-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 9c399656-0005-4cea-b44a-1f6ba4154d2b;AD;2024-03-29;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 76667ae1-8439-4ff2-8800-e969d4969d1d;AD;2024-04-01;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
@@ -71,7 +71,7 @@ df4ebf7d-f133-40b9-9675-b1b9a86a06a4;AD;2024-12-25;;Public;National;CA Nadal,DE 
 8cb319fa-b7c8-4265-9ca3-eae729d9f288;AD;2024-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
 201e379b-01a0-4769-aace-30dea20a777f;AD;2025-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 ea1c680d-2537-4af2-8566-8dfa77774121;AD;2025-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-6ee1756c-e6f7-489e-b0b4-85f76131534d;AD;2025-03-03;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+6ee1756c-e6f7-489e-b0b4-85f76131534d;AD;2025-03-03;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 c7f0109f-602e-4ada-8b1d-cb0b92cf98c4;AD;2025-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 5603a2c6-54df-46cc-8849-a306905c4669;AD;2025-04-18;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 47ff3a98-df45-485b-a711-f4840d6ec6db;AD;2025-04-21;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
@@ -85,7 +85,7 @@ bc24fc41-d416-494a-9537-37528ef82861;AD;2025-11-01;;Public;National;CA Tots Sant
 ebb0b43b-bb46-49d1-974c-f64217f9d8c4;AD;2025-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
 63c01fe7-a888-418a-859a-697682e2cf7e;AD;2026-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 f9098395-cda4-40a8-aced-7d6853133b38;AD;2026-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-d29c21c0-5a9e-432e-924c-935585ebfc49;AD;2026-02-16;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+d29c21c0-5a9e-432e-924c-935585ebfc49;AD;2026-02-16;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 41456cd4-71ad-4602-9eba-976728798b54;AD;2026-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 2c7dd144-af66-496b-95b5-61937b42582c;AD;2026-04-03;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 f1d403e7-b133-4d12-9cd2-a02482830211;AD;2026-04-06;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
@@ -99,7 +99,7 @@ b4fb581b-b7ba-4bb4-87de-2a20b95dddbe;AD;2026-09-08;;Public;National;CA Mare de D
 f8474fc2-7817-4fe7-86a8-17a22d99b5ae;AD;2026-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
 d1887bdd-5d56-41d3-8d3f-fcb5525679f1;AD;2027-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 00289322-37d5-4011-aaa8-1b43011251f6;AD;2027-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-9246a70d-5758-4689-adfd-2fcfa1fc2c8c;AD;2027-02-08;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+9246a70d-5758-4689-adfd-2fcfa1fc2c8c;AD;2027-02-08;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 b3f812ef-f20c-4e8a-8dae-873afd6a7622;AD;2027-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 84c3a3f5-9cbe-4d02-9730-d8fa779515bc;AD;2027-03-26;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 4895035c-c5f9-40e5-a832-e23643e48252;AD;2027-03-29;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
@@ -113,7 +113,7 @@ dcb5faf3-8f87-4e28-a784-d4daa6cd90d8;AD;2027-11-01;;Public;National;CA Tots Sant
 4ebd05e0-0d7a-42d4-b8d5-9daefa5e81a8;AD;2027-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
 c38d343c-fa90-4f5b-8db4-7031a8857af7;AD;2028-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 2499dc99-bf0f-4b7c-9db5-0fbf5835a6a6;AD;2028-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-532db61c-19b4-4030-9433-5be42361a384;AD;2028-02-28;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+532db61c-19b4-4030-9433-5be42361a384;AD;2028-02-28;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 63da0054-06d2-41b4-8198-873b308a9419;AD;2028-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 0554a8f0-fb4b-47da-976c-09ea9611c45d;AD;2028-04-14;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 2cd39561-a789-46ba-a626-fd3793659be1;AD;2028-04-17;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
@@ -127,7 +127,7 @@ d6002d9b-ebdc-40ac-8d7e-ac2606be81ff;AD;2028-12-08;;Public;National;CA Immaculad
 cc3ff9df-2754-4d86-ae73-8c56f09fe174;AD;2028-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
 a1e9e87d-0c64-4a90-973f-d072c391a254;AD;2029-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 6a458775-9304-4d93-a5b1-94d325e5e9f2;AD;2029-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-8c16509a-816e-436e-964a-51b4fd2ea3a3;AD;2029-02-12;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+8c16509a-816e-436e-964a-51b4fd2ea3a3;AD;2029-02-12;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 7a6f9e02-8c04-4085-a454-77bbddd21d66;AD;2029-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 e6499d2c-bb00-4918-9d33-5ffa5035c284;AD;2029-03-30;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 8f28847c-72f0-4943-9d5e-736db3c52362;AD;2029-04-02;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
@@ -141,7 +141,7 @@ e6499d2c-bb00-4918-9d33-5ffa5035c284;AD;2029-03-30;;Public;National;CA Divendres
 dc22c483-b6c0-47a3-9486-65a62c16e2da;AD;2029-12-26;;Public;National;CA Sant Esteve,DE Stefanstag,EN St. Stephen's Day
 9c7db889-63c7-406d-b5c8-35a555f6452b;AD;2030-01-01;;Public;National;CA Any nou,DE Neujahr,EN New Year's Day
 f337ee08-ec70-42ec-9985-50c6d0409960;AD;2030-01-06;;Public;National;CA Reis,DE Dreikönigsfest,EN Epiphany
-531e38df-bf20-49c7-971f-fb6d008ac0ff;AD;2030-03-04;;Public;National;CA Carnaval,DE Karnevel,EN Carnival
+531e38df-bf20-49c7-971f-fb6d008ac0ff;AD;2030-03-04;;Public;National;CA Carnaval,DE Karneval,EN Carnival
 c175c148-8c43-4d8b-9a93-39f858d7fc7c;AD;2030-03-14;;Public;National;CA Dia de la Constitució,DE Tag der Konstitution,EN Constitution Day
 c5ba505c-443f-4a5c-b29b-c0cd1ad27347;AD;2030-04-19;;Public;National;CA Divendres Sant,DE Karfreitag,EN Good Friday
 287729b4-3582-4da7-91f0-29f754efd78b;AD;2030-04-22;;Public;National;CA Dilluns de Pasqua,DE Ostermontag,EN Easter Monday
