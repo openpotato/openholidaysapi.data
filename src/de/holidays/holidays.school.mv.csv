@@ -148,8 +148,8 @@ b45aa5f5-22ee-4507-a0f2-79eb2dc85859;DE;2026-05-22;2026-05-26;School;Regional;DE
 d21b921b-089f-4b70-ad91-4b874f937db4;DE;2026-07-13;2026-08-22;School;Regional;DE Sommerferien,EN Summer Holidays;MV-ABS
 afcf89fd-5efc-458a-99fe-361fbd6e7af4;DE;2026-10-15;2026-10-24;School;Regional;DE Herbstferien,EN Autumn Holidays;MV-ABS
 2bfb99ac-3ca2-4d7f-8402-75e1f449ba0a;DE;2026-10-19;2026-10-24;School;Regional;DE Herbstferien,EN Autumn Holidays;MV-BBS
-45efb86d-5b0b-4f35-8684-a787a04043cb;DE;2026-11-26;;School;Regional;DE Zusätzlicher Ferientag,EN Additional holiday;MV-ABS,MV-BBS
-76af2a1e-ee5d-4e1e-b8e3-64034b07bc95;DE;2026-11-27;;School;Regional;DE Zusätzlicher Ferientag,EN Additional holiday;MV-ABS,MV-BBS
+45efb86d-5b0b-4f35-8684-a787a04043cb;DE;2026-11-26;;School;Regional;DE Zusätzlicher Ferientag,EN Additional holiday;MV-BBS
+76af2a1e-ee5d-4e1e-b8e3-64034b07bc95;DE;2026-11-27;;School;Regional;DE Zusätzlicher Ferientag,EN Additional holiday;MV-BBS
 3025300f-9738-4eb8-942f-61874d2d4030;DE;2026-12-19;2027-01-02;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;MV-BBS
 070bae4d-8671-4c87-8dbb-6f790aa12e4e;DE;2026-12-21;2027-01-02;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;MV-ABS
 80d1a9e2-9c3e-41b7-925f-3cdf7a3b3cc0;DE;2027-02-08;2027-02-13;School;Regional;DE Winterferien,EN Winter Holidays;MV-BBS
@@ -163,8 +163,8 @@ e6959de8-eb3f-4b03-a040-1fe9fde9505e;DE;2027-07-05;2027-08-14;School;Regional;DE
 627b53fd-8a65-4a5a-b918-ae19d28ecdac;DE;2027-07-12;2027-08-28;School;Regional;DE Sommerferien,EN Summer Holidays;MV-BBS
 c0603985-81a2-43c8-a714-25b65f40c21b;DE;2027-10-14;2027-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;MV-ABS
 737ade84-4c91-4ac0-a403-141007e2dcff;DE;2027-10-16;2027-10-23;School;Regional;DE Herbstferien,EN Autumn Holidays;MV-BBS
-19332be1-0020-4e23-95de-27b1b8b849db;DE;2027-11-25;;School;Regional;DE Zusätzlicher Ferientag,EN Additional holiday;MV-ABS,MV-BBS
-bd056361-d360-44d7-8240-2492920b414d;DE;2027-11-26;;School;Regional;DE Zusätzlicher Ferientag,EN Additional holiday;MV-ABS,MV-BBS
+19332be1-0020-4e23-95de-27b1b8b849db;DE;2027-11-25;;School;Regional;DE Zusätzlicher Ferientag,EN Additional holiday;MV-BBS
+bd056361-d360-44d7-8240-2492920b414d;DE;2027-11-26;;School;Regional;DE Zusätzlicher Ferientag,EN Additional holiday;MV-BBS
 8cbf47d4-941a-4c82-9092-5c336d34bc10;DE;2027-12-22;2027-12-31;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;MV-BBS
 42a05609-93b0-4398-90e1-b36f3cc4cb0a;DE;2027-12-22;2028-01-04;School;Regional;DE Weihnachtsferien,EN Christmas Holidays;MV-ABS
 95eefce2-a004-49d0-a13e-5448b8611813;DE;2028-02-05;2028-02-17;School;Regional;DE Winterferien,EN Winter Holidays;MV-ABS
