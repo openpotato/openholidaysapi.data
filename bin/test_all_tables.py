@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from argparse import ArgumentParser
+import os
 from pathlib import Path
 import sys
 from uuid import UUID
@@ -126,6 +127,17 @@ def _check_duration(
     if more > 0:
         errors.append(f"{filename}: {more} more negative durations not shown")
     return errors
+
+
+def _check_long_school_holidays(
+    df: pd.DataFrame, start_dates: pd.Series, end_dates: pd.Series, filename: Path
+) -> list[tuple[Path, int, int]]:
+    durations = (end_dates - start_dates).dt.days + 1
+    mask = (df["Type"] == "School") & (durations > 150)
+    return [
+        (filename, _csv_line(int(idx)), int(durations.loc[idx]))
+        for idx in mask[mask].index
+    ]
 
 
 def _check_sorting(start_dates: pd.Series, filename: Path) -> list[str]:
@@ -256,6 +268,7 @@ def main() -> None:
     args = parser.parse_args()
 
     errors: list[str] = []
+    warnings: list[tuple[Path, int, int]] = []
     seen_uuids: dict[str, tuple[Path, int]] = {}
     total_files = 0
     files_with_errors = 0
@@ -296,6 +309,7 @@ def main() -> None:
             start_dates, end_dates, date_errors = _parse_dates(df, holidays_file)
             file_errors.extend(date_errors)
             file_errors.extend(_check_duration(start_dates, end_dates, holidays_file))
+            warnings.extend(_check_long_school_holidays(df, start_dates, end_dates, holidays_file))
             file_errors.extend(_check_sorting(start_dates, holidays_file))
             file_errors.extend(_check_subdivisions(df, subdivisions, holidays_file))
             file_errors.extend(_check_name_format(df, holidays_file))
@@ -304,6 +318,14 @@ def main() -> None:
                 files_with_errors += 1
                 errors.extend(file_errors)
                 errors_by_file[holidays_file] = file_errors
+
+    for filename, line, days in warnings:
+        message = f"school holiday lasts {days} days"
+        if os.environ.get("GITHUB_ACTIONS") == "true":
+            path = str(filename).replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A").replace(":", "%3A").replace(",", "%2C")
+            print(f"::warning file={path},line={line}::{message}")
+        else:
+            print(f"WARNING: {filename} (line {line}): {message}", file=sys.stderr)
 
     if errors:
         print(f"\n{'=' * 70}", file=sys.stderr)
