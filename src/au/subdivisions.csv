@@ -1,0 +1,9 @@
+﻿Country;Code;IsoCode;ShortName;Category;Name;OfficialLanguages;Parent
+AU;AU-ACT;AU-ACT;ACT;EN territory,DE Gebiet;EN Australian Capital Territory,DE Australisches Hauptstadtterritorium;EN;
+AU;AU-NSW;AU-NSW;NSW;EN state,DE Bundesstaat;EN New South Wales,DE Neusüdwales;EN;
+AU;AU-NT;AU-NT;NT;EN territory,DE Gebiet;EN Northern Territory,DE Nordterritorium;EN;
+AU;AU-QLD;AU-QLD;QLD;EN state,DE Bundesstaat;EN Queensland,DE Queensland;EN;
+AU;AU-SA;AU-SA;SA;EN state,DE Bundesstaat;EN South Australia,DE Südaustralien;EN;
+AU;AU-TAS;AU-TAS;TAS;EN state,DE Bundesstaat;EN Tasmania,DE Tasmanien;EN;
+AU;AU-VIC;AU-VIC;VIC;EN state,DE Bundesstaat;EN Victoria,DE Victoria;EN;
+AU;AU-WA;AU-WA;WA;EN state,DE Bundesstaat;EN Western Australia,DE Westaustralien;EN;

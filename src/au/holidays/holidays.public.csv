@@ -1,0 +1,330 @@
+﻿Id;Country;StartDate;EndDate;Type;RegionalScope;Name;Subdivisions
+6a8de49f-136a-4b9b-919b-07c75c93707f;AU;2026-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;ACT
+845f63b5-4773-4c9e-8431-e00671ecd777;AU;2026-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;NSW
+22e24a40-13ea-4877-847c-399a65d22864;AU;2026-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;NT
+fe94f478-e95c-4801-922c-7215bdb84deb;AU;2026-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;QLD
+0ed7ed22-9b3c-43e1-938d-c2d1bb5d1fc3;AU;2026-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;SA
+132846aa-1bdf-4658-88ad-078bfe7dc88e;AU;2026-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;TAS
+db254217-d82f-4506-be6f-3ef0185978ea;AU;2026-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;VIC
+d654d605-d731-4edf-b24e-93255b016137;AU;2026-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;WA
+8bb97dbd-5497-4f5b-b5d8-12d24cae58fb;AU;2026-01-26;;Public;Regional;EN Australia Day,DE Australia Day;ACT
+b6d79249-550b-474a-ba45-377969bd9130;AU;2026-01-26;;Public;Regional;EN Australia Day,DE Australia Day;NSW
+46834e52-68f7-44fc-ac27-a8961c0f4368;AU;2026-01-26;;Public;Regional;EN Australia Day,DE Australia Day;NT
+061065b5-0797-4729-a33b-69d283c35ccd;AU;2026-01-26;;Public;Regional;EN Australia Day,DE Australia Day;QLD
+47af741b-8446-42a4-b5f8-4075b74b9f31;AU;2026-01-26;;Public;Regional;EN Australia Day,DE Australia Day;SA
+e162c83f-49c2-47c6-8a58-7866d9b43fc8;AU;2026-01-26;;Public;Regional;EN Australia Day,DE Australia Day;TAS
+0b894642-a34a-4c92-9b86-532e3d9d4e3c;AU;2026-01-26;;Public;Regional;EN Australia Day,DE Australia Day;VIC
+e4de9d40-ce6b-4cde-9934-700651181014;AU;2026-01-26;;Public;Regional;EN Australia Day,DE Australia Day;WA
+c0d88f4b-2b75-461b-b303-a4544a446635;AU;2026-03-02;;Public;Regional;EN Labour Day,DE Tag der Arbeit;WA
+9141fb2f-9e67-4529-8f0e-51d99cea4577;AU;2026-03-09;;Public;Regional;EN Canberra Day,DE Canberra Day;ACT
+d0c2290f-cb66-472a-8ae0-ad553c107f22;AU;2026-03-09;;Public;Regional;EN Adelaide Cup Day,DE Adelaide Cup Day;SA
+0f163aba-c279-492f-bf04-c6efad1cb9bc;AU;2026-03-09;;Public;Regional;EN Eight Hours Day,DE Achtstundentag;TAS
+e1e7eba6-2278-4305-a338-0719f37f94e4;AU;2026-03-09;;Public;Regional;EN Labour Day,DE Tag der Arbeit;VIC
+e83fffc3-6ee6-4a1f-956c-8f73e90dc59c;AU;2026-04-03;;Public;Regional;EN Good Friday,DE Karfreitag;ACT
+dbb345e7-3947-4f93-83bc-7db03946a6e0;AU;2026-04-03;;Public;Regional;EN Good Friday,DE Karfreitag;NSW
+2d4ae793-3a52-46f1-8018-d71172c0dc91;AU;2026-04-03;;Public;Regional;EN Good Friday,DE Karfreitag;NT
+8b7376fe-93f5-48b6-8444-2d52970d5452;AU;2026-04-03;;Public;Regional;EN Good Friday,DE Karfreitag;QLD
+1c44a630-cb2c-41fc-9162-0c25833a63e8;AU;2026-04-03;;Public;Regional;EN Good Friday,DE Karfreitag;SA
+e47a1a4d-17aa-416f-8bf4-948b4a21e1e7;AU;2026-04-03;;Public;Regional;EN Good Friday,DE Karfreitag;TAS
+fe678e51-fee5-46fe-bf11-cea2cded343f;AU;2026-04-03;;Public;Regional;EN Good Friday,DE Karfreitag;VIC
+e7b714f9-7ccf-4a15-b762-c5ad4e5cc202;AU;2026-04-03;;Public;Regional;EN Good Friday,DE Karfreitag;WA
+308a95ec-b85e-463e-8c7b-a3b3e01728f9;AU;2026-04-04;;Public;Regional;EN Easter Saturday,DE Karsamstag;ACT
+c2798c8b-5a33-45db-9b99-41c787e21424;AU;2026-04-04;;Public;Regional;EN Easter Saturday,DE Karsamstag;NSW
+beae263f-6fff-464e-8ac4-4c51ab03129a;AU;2026-04-04;;Public;Regional;EN Easter Saturday,DE Karsamstag;NT
+3db0f136-e69e-4ad3-8f04-771f7b0dd8d6;AU;2026-04-04;;Public;Regional;EN Easter Saturday,DE Karsamstag;QLD
+b53bc4e7-347f-4318-ad76-2eca271a579d;AU;2026-04-04;;Public;Regional;EN Easter Saturday,DE Karsamstag;SA
+0cbce4a1-42b1-4481-ad0c-3d71824285b3;AU;2026-04-04;;Public;Regional;EN Easter Saturday,DE Karsamstag;VIC
+f6183b02-96d0-4f05-a6f0-7155f2e5a254;AU;2026-04-05;;Public;Regional;EN Easter Sunday,DE Ostersonntag;ACT
+a26aef93-cf65-40fa-a939-214569d7b314;AU;2026-04-05;;Public;Regional;EN Easter Sunday,DE Ostersonntag;NSW
+7019f601-9222-4edd-b383-0da8dd51a7c7;AU;2026-04-05;;Public;Regional;EN Easter Sunday,DE Ostersonntag;NT
+6caa431f-0ae7-4c96-ad4a-ed15504ee43b;AU;2026-04-05;;Public;Regional;EN Easter Sunday,DE Ostersonntag;QLD
+ddc8827b-764a-49ea-a035-cc124355193e;AU;2026-04-05;;Public;Regional;EN Easter Sunday,DE Ostersonntag;SA
+1c5f9796-8df5-4172-884d-23308d2c1873;AU;2026-04-05;;Public;Regional;EN Easter Sunday,DE Ostersonntag;VIC
+96cbbac4-0d00-48cb-8e70-9704c061f298;AU;2026-04-05;;Public;Regional;EN Easter Sunday,DE Ostersonntag;WA
+2c37dd3b-ea85-4193-8f8f-880c71f73261;AU;2026-04-06;;Public;Regional;EN Easter Monday,DE Ostermontag;ACT
+1772cc5c-14dc-4dd0-aa20-3d8f51476fe1;AU;2026-04-06;;Public;Regional;EN Easter Monday,DE Ostermontag;NSW
+1925ff6c-c3a9-484c-910b-f3f057420528;AU;2026-04-06;;Public;Regional;EN Easter Monday,DE Ostermontag;NT
+fbe3be7d-5c42-42c4-8943-b16723db8190;AU;2026-04-06;;Public;Regional;EN Easter Monday,DE Ostermontag;QLD
+b590a5c2-d014-4958-b72a-53464435cc16;AU;2026-04-06;;Public;Regional;EN Easter Monday,DE Ostermontag;SA
+3467bb19-bd60-41f2-9986-8b66d9413a29;AU;2026-04-06;;Public;Regional;EN Easter Monday,DE Ostermontag;TAS
+58adc188-88bf-40d7-a492-2dbcf0f8b90e;AU;2026-04-06;;Public;Regional;EN Easter Monday,DE Ostermontag;VIC
+dca8bc06-f104-4b8e-b006-39b46a560a11;AU;2026-04-06;;Public;Regional;EN Easter Monday,DE Ostermontag;WA
+35f8be44-645c-436c-9200-2437b6cf8502;AU;2026-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;ACT
+ed1de9a1-8fdd-4fb5-acd9-abe0273fd0fb;AU;2026-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;NSW
+e58e3167-8a62-4f30-90cb-91afb0b2ca07;AU;2026-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;NT
+0dcab7d9-1b30-40d6-a923-367355b5e425;AU;2026-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;QLD
+28014a28-4d14-4e72-8bbc-aa0b8cde14e2;AU;2026-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;SA
+8599563c-0e74-48a4-8cfd-334b25953b14;AU;2026-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;TAS
+d37bc301-f27e-4943-a100-5a5191ca5b8a;AU;2026-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;VIC
+b5b6c757-36a1-4b60-a47f-e57adb221993;AU;2026-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;WA
+424d268a-8c09-4356-9f43-f2279509b9ce;AU;2026-04-27;;Public;Regional;EN Additional Day (Anzac Day),DE Zusätzlicher Feiertag (Anzac Day);NSW
+1a67cee7-9c03-4051-83db-0b9cc227a34c;AU;2026-04-27;;Public;Regional;EN Anzac Day,DE Anzac Day;WA
+d7e8ff28-2c4e-43b8-b8e7-232ff5dc4b77;AU;2026-05-04;;Public;Regional;EN May Day,DE Maifeiertag;NT
+e03820ac-45ea-4835-9f00-15162d25b1d2;AU;2026-05-04;;Public;Regional;EN Labour Day,DE Tag der Arbeit;QLD
+1ab0c6a3-3b45-4472-a82f-11a370c771a5;AU;2026-06-01;;Public;Regional;EN Western Australia Day,DE Western Australia Day;WA
+d66897fd-b865-4eb0-b882-572ce2d95b36;AU;2026-06-02;;Public;Regional;EN Reconciliation Day,DE Tag der Versöhnung;ACT
+2fbb391a-4b56-4e26-8346-75a36d51056c;AU;2026-06-08;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;NSW
+929d82c6-ca30-4f7a-8a54-4df7cbed3d03;AU;2026-06-08;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;NT
+5b783ed6-0312-4230-af13-66f65920f4d1;AU;2026-06-08;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;SA
+c1f37bfb-d52a-49b0-8698-95653b01b04e;AU;2026-06-08;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;TAS
+865d30db-bf0e-4b30-8601-592aec8d3d10;AU;2026-06-08;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;VIC
+8973db6d-8ca4-4ff8-bd1c-17ee71770366;AU;2026-06-09;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;ACT
+106105a2-0d9d-4c4a-9f01-ec002b976a6c;AU;2026-08-03;;Public;Regional;EN Picnic Day,DE Picnic Day;NT
+6d0012d9-be14-4725-96b3-d25b03072c86;AU;2026-09-25;;Public;Regional;EN Friday before the AFL Grand Final,DE Freitag vor dem AFL-Grand-Final;VIC
+b3762357-e11f-4619-8832-d5ad3d846945;AU;2026-09-28;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;WA
+ca411c5a-ec65-46f8-bf77-1768d425f3e1;AU;2026-10-05;;Public;Regional;EN Labour Day,DE Tag der Arbeit;NSW
+8e575195-1e26-4204-8401-3269c2bba93c;AU;2026-10-05;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;QLD
+19ef9fee-3fac-4804-9eb9-d2893d2fdfdd;AU;2026-10-05;;Public;Regional;EN Labour Day,DE Tag der Arbeit;SA
+4cbc7393-2100-46e7-b722-252cf4b70af2;AU;2026-10-06;;Public;Regional;EN Labour Day,DE Tag der Arbeit;ACT
+e582abe0-e695-4ba0-a44a-8d3fd0d4f332;AU;2026-11-03;;Public;Regional;EN Melbourne Cup,DE Melbourne Cup;VIC
+6144e3b4-2137-4275-8658-c6637c5f6019;AU;2026-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;ACT
+2992733a-b1db-462b-93d7-ea1c5d9dbe85;AU;2026-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;NSW
+291424ae-c45b-493e-bb70-993a1cd371ef;AU;2026-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;NT
+d1de7115-57ac-4370-ad4e-381a8d61b833;AU;2026-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;QLD
+2a6d10fe-3142-410f-b2f8-73e41acc06c4;AU;2026-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;SA
+5cdde0d8-d4c4-4d96-a36d-04f15861d586;AU;2026-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;TAS
+fc7cfc27-1a23-49b2-95fd-9e81683fc3b7;AU;2026-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;VIC
+d196fa46-f013-4039-8edd-6e00e201de5a;AU;2026-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;WA
+6d73b3ca-a0ec-41fd-b236-820bf3940eeb;AU;2026-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;ACT
+e59accfa-2df0-4442-8929-8c3414b61ef1;AU;2026-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;NSW
+b9c96418-124b-40e1-995e-709100794b31;AU;2026-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;NT
+58aac750-e4f2-4ea7-8f05-35b39ed3942f;AU;2026-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;QLD
+6c3a1397-9673-4b38-9dc5-5fa7709ec466;AU;2026-12-26;;Public;Regional;EN Proclamation Day,DE Proclamation Day;SA
+cd7abe6a-ce7b-412c-8707-aa29a99fbe54;AU;2026-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;VIC
+9b9108b0-682f-4b79-a339-4cf0c29eda74;AU;2026-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;WA
+54fb4c3b-451d-434a-868a-0cc3db75d2ae;AU;2026-12-28;;Public;Regional;EN Additional Day (Boxing Day),DE Zusätzlicher Feiertag (Zweiter Weihnachtsfeiertag);NSW
+2bac18cb-c2e9-42c9-8ea2-9faea14a1476;AU;2026-12-28;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;NT
+cf9b73db-8030-49b5-ac2b-dff0b73942a3;AU;2026-12-28;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;QLD
+f832203a-8c35-4640-be85-81e255df7c5d;AU;2026-12-28;;Public;Regional;EN Proclamation Day,DE Proclamation Day;SA
+3d286077-aef9-497d-bd42-42737e75d66a;AU;2026-12-28;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;TAS
+3ddd3bdc-1cf5-4c16-a16d-fbf23c9d637f;AU;2026-12-28;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;VIC
+b197124a-0b59-4f44-82a7-7c5767f06d28;AU;2026-12-28;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;WA
+38da26cb-19f0-4f03-bb27-216009143001;AU;2027-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;ACT
+f658ee9d-7dba-48d2-aaeb-e0658237e777;AU;2027-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;NSW
+7b8505ed-fc3c-4183-8a14-b0220896d14e;AU;2027-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;NT
+58898601-c955-48c6-aede-784730b617ff;AU;2027-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;QLD
+8533ba37-efe4-44e4-a819-319e0e2d89bd;AU;2027-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;SA
+470337f0-e07e-4013-a92c-af8b1708d982;AU;2027-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;TAS
+cfcb305e-7bd7-40b0-9cbc-33ecfabcf274;AU;2027-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;VIC
+62f2e620-1f91-42e3-8ae5-95085931109a;AU;2027-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;WA
+938966bd-52bd-49b8-9c7f-90d7f5324fa5;AU;2027-01-26;;Public;Regional;EN Australia Day,DE Australia Day;ACT
+b5f9c05a-2b54-4e4a-b7dd-c0912f2ebfda;AU;2027-01-26;;Public;Regional;EN Australia Day,DE Australia Day;NSW
+f7aeb806-b25e-43c5-92c0-f642a26cd866;AU;2027-01-26;;Public;Regional;EN Australia Day,DE Australia Day;NT
+e3e0f2d2-3fd6-4584-af67-7b72a30b40c0;AU;2027-01-26;;Public;Regional;EN Australia Day,DE Australia Day;QLD
+220b1b57-d93e-46e7-b657-1bdb7368e94a;AU;2027-01-26;;Public;Regional;EN Australia Day,DE Australia Day;SA
+f024c388-a44c-4bc8-99ff-53a51bc796c1;AU;2027-01-26;;Public;Regional;EN Australia Day,DE Australia Day;TAS
+b70e178d-770c-4120-b846-9c052d6503f7;AU;2027-01-26;;Public;Regional;EN Australia Day,DE Australia Day;VIC
+c340cb32-79f0-4836-8db5-9d57488a7f73;AU;2027-01-26;;Public;Regional;EN Australia Day,DE Australia Day;WA
+255be972-c6f8-4ad5-bb3d-cc56395f172d;AU;2027-03-01;;Public;Regional;EN Labour Day,DE Tag der Arbeit;WA
+5da1f497-882b-4219-9b67-8df9acd806da;AU;2027-03-08;;Public;Regional;EN Canberra Day,DE Canberra Day;ACT
+ee7f1e94-5d95-423f-8be5-4f946633e8d3;AU;2027-03-08;;Public;Regional;EN Adelaide Cup Day,DE Adelaide Cup Day;SA
+b486f61e-1a1b-40d5-8414-c762e893173e;AU;2027-03-08;;Public;Regional;EN Eight Hours Day,DE Achtstundentag;TAS
+8483d5e7-b30b-48a5-9d05-02884a43c58c;AU;2027-03-08;;Public;Regional;EN Labour Day,DE Tag der Arbeit;VIC
+d3b3443d-fc06-4776-b83d-3c6d44cbd74a;AU;2027-03-26;;Public;Regional;EN Good Friday,DE Karfreitag;ACT
+be262028-7cc9-4253-b1a1-ee4c3395750a;AU;2027-03-26;;Public;Regional;EN Good Friday,DE Karfreitag;NSW
+b16e201d-26f1-44e3-af60-f5734c345e60;AU;2027-03-26;;Public;Regional;EN Good Friday,DE Karfreitag;NT
+97870dc7-da9c-4e3a-9e74-51344a778270;AU;2027-03-26;;Public;Regional;EN Good Friday,DE Karfreitag;QLD
+02a773f4-d4b4-4f1d-9d30-0a17cb4c78cf;AU;2027-03-26;;Public;Regional;EN Good Friday,DE Karfreitag;SA
+0ecdd92e-1887-4130-82da-dacc2b097317;AU;2027-03-26;;Public;Regional;EN Good Friday,DE Karfreitag;TAS
+729fcef2-f2e1-4db8-af43-eb32508e8f90;AU;2027-03-26;;Public;Regional;EN Good Friday,DE Karfreitag;VIC
+4a275e08-5245-41a4-84de-b82ec48dd736;AU;2027-03-26;;Public;Regional;EN Good Friday,DE Karfreitag;WA
+2e988e13-9380-4c6b-9691-7f121c16a36e;AU;2027-03-27;;Public;Regional;EN Easter Saturday,DE Karsamstag;ACT
+79fca123-187f-44a9-b6a2-e0c8e88809bd;AU;2027-03-27;;Public;Regional;EN Easter Saturday,DE Karsamstag;NSW
+d46b51bb-b85e-475e-9bc7-ad1b4380d594;AU;2027-03-27;;Public;Regional;EN Easter Saturday,DE Karsamstag;NT
+70e55fa7-aefe-43ef-b030-b0f21461347d;AU;2027-03-27;;Public;Regional;EN Easter Saturday,DE Karsamstag;QLD
+261d6779-0810-44aa-93b0-8ab238979cb8;AU;2027-03-27;;Public;Regional;EN Easter Saturday,DE Karsamstag;SA
+b1c3c8cd-33a7-4fcc-aae9-74d633a628f5;AU;2027-03-27;;Public;Regional;EN Easter Saturday,DE Karsamstag;VIC
+25b68662-ef4b-4180-899c-c534b9b1a6f1;AU;2027-03-28;;Public;Regional;EN Easter Sunday,DE Ostersonntag;ACT
+fd9b3b04-cc2e-4a1d-b843-3c4028b8ea19;AU;2027-03-28;;Public;Regional;EN Easter Sunday,DE Ostersonntag;NSW
+41f1ab2b-c37d-4c10-a7b3-d71f68c84c15;AU;2027-03-28;;Public;Regional;EN Easter Sunday,DE Ostersonntag;NT
+e2f4eabd-efa2-4f6a-9ec0-6ce9e4762ca6;AU;2027-03-28;;Public;Regional;EN Easter Sunday,DE Ostersonntag;QLD
+c46eb01b-1d86-4249-9ebb-bcfaa4c5c3bb;AU;2027-03-28;;Public;Regional;EN Easter Sunday,DE Ostersonntag;SA
+428948ce-238c-495e-980c-e38a225d3ab1;AU;2027-03-28;;Public;Regional;EN Easter Sunday,DE Ostersonntag;TAS
+85a83092-006b-4de8-a8e5-190cbca6d08d;AU;2027-03-28;;Public;Regional;EN Easter Sunday,DE Ostersonntag;VIC
+85ea315f-22ec-4165-8918-31bab1d2b628;AU;2027-03-28;;Public;Regional;EN Easter Sunday,DE Ostersonntag;WA
+9d8bb7de-e87a-4c9d-b5a6-ac5227a2fcbf;AU;2027-03-29;;Public;Regional;EN Easter Monday,DE Ostermontag;ACT
+decc9f77-bb0c-4f15-bfe7-929b7fa25ada;AU;2027-03-29;;Public;Regional;EN Easter Monday,DE Ostermontag;NSW
+046bae59-8362-4b07-bce4-176c11f5a2c1;AU;2027-03-29;;Public;Regional;EN Easter Monday,DE Ostermontag;NT
+7849f0bb-f263-41a1-a9e6-1f7e4256864b;AU;2027-03-29;;Public;Regional;EN Easter Monday,DE Ostermontag;QLD
+3913be46-ed63-4fae-8702-2039b49f51cb;AU;2027-03-29;;Public;Regional;EN Easter Monday,DE Ostermontag;SA
+18f9a809-6efb-468f-8dfe-54faf8b58e99;AU;2027-03-29;;Public;Regional;EN Easter Monday,DE Ostermontag;TAS
+90fc70ce-cad7-4e25-b05c-717160622e2d;AU;2027-03-29;;Public;Regional;EN Easter Monday,DE Ostermontag;VIC
+b02a48b9-0a5a-464d-a1d2-9bd9634010ef;AU;2027-03-29;;Public;Regional;EN Easter Monday,DE Ostermontag;WA
+707f0ce9-f006-4f91-927a-b32b44cffedb;AU;2027-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;NSW
+bfc55bf4-c2fe-479a-9e50-aa0689b64d85;AU;2027-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;SA
+77b50a2c-dfcd-47d2-896d-3bdaf61a0981;AU;2027-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;TAS
+88a72f61-694e-415d-a0f6-74516ce011fe;AU;2027-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;VIC
+620952d1-c7d0-4296-b011-6c1ef3ad3902;AU;2027-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;WA
+27a778a4-5295-4712-9117-a2570f30d5f4;AU;2027-04-26;;Public;Regional;EN Anzac Day,DE Anzac Day;ACT
+9bb70206-127b-44d4-a48f-77000004caa5;AU;2027-04-26;;Public;Regional;EN Additional Day (Anzac Day),DE Zusätzlicher Feiertag (Anzac Day);NSW
+80dec702-82a0-4308-b334-b22345c3de2f;AU;2027-04-26;;Public;Regional;EN Anzac Day,DE Anzac Day;NT
+4a50ba2e-a0f7-422f-8674-0e6e3a0e3368;AU;2027-04-26;;Public;Regional;EN Anzac Day,DE Anzac Day;QLD
+29c616c9-18bf-4bbb-a024-124fa9899292;AU;2027-04-26;;Public;Regional;EN Anzac Day,DE Anzac Day;WA
+f693b82e-ab75-4830-a7db-43148202568a;AU;2027-05-03;;Public;Regional;EN May Day,DE Maifeiertag;NT
+060ca940-4ee4-4de8-bd46-ea28818244d0;AU;2027-05-03;;Public;Regional;EN Labour Day,DE Tag der Arbeit;QLD
+5c099266-b400-4137-a48b-00db95c4938d;AU;2027-05-31;;Public;Regional;EN Reconciliation Day,DE Tag der Versöhnung;ACT
+0b3e984b-31de-4ec7-8a5a-baf0b3a7e0a1;AU;2027-06-07;;Public;Regional;EN Western Australia Day,DE Western Australia Day;WA
+cbb2ab11-e71e-4cf1-8149-c337d8b26104;AU;2027-06-14;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;ACT
+8e0929ba-f054-4720-a406-3313475afce3;AU;2027-06-14;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;NSW
+7797db78-0747-4bf6-990c-6732aabfb5f2;AU;2027-06-14;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;NT
+d283cba7-6d40-43d8-93c5-7d054b615ce9;AU;2027-06-14;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;SA
+44ae61d2-92fc-4fbd-bb33-fb00e30bbfad;AU;2027-06-14;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;TAS
+68258b43-137c-4acc-b92f-4c0229cd52da;AU;2027-06-14;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;VIC
+de1438e3-88bc-4dc2-be79-6e8c04c9a7a9;AU;2027-08-02;;Public;Regional;EN Picnic Day,DE Picnic Day;NT
+ba013602-470d-4c04-82f8-6bcade242301;AU;2027-09-27;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;WA
+d9d763de-3971-4046-a87f-e41793e11539;AU;2027-10-04;;Public;Regional;EN Labour Day,DE Tag der Arbeit;ACT
+42c4faad-c910-4b5e-8f21-60b3a998a50f;AU;2027-10-04;;Public;Regional;EN Labour Day,DE Tag der Arbeit;NSW
+2f840eb3-0d27-4b56-99ab-757b99d7ebb3;AU;2027-10-04;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;QLD
+acf96798-3cfa-4dd7-95f7-36a39c4798ba;AU;2027-10-04;;Public;Regional;EN Labour Day,DE Tag der Arbeit;SA
+1485cca5-0c99-4f04-8186-8bd508b1bd51;AU;2027-11-02;;Public;Regional;EN Melbourne Cup,DE Melbourne Cup;VIC
+22978505-e0f1-44f4-be55-302dffa91ef8;AU;2027-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;ACT
+02be2e03-52b6-4b6e-b0a7-78d37a9455df;AU;2027-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;NSW
+6e51f657-5ae0-44ed-95b4-fcab636ea035;AU;2027-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;NT
+8b7a8201-0cf7-4b12-b555-38b6cfd8f094;AU;2027-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;QLD
+76e0952c-34f2-4e52-8819-af25b7b74f39;AU;2027-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;SA
+8116de25-ff4c-4d0a-8710-33c6a10105cf;AU;2027-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;VIC
+9c22c8a0-918a-41a9-8484-155d70be2ed7;AU;2027-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;WA
+c014f5a1-5fec-46a5-b272-23fbcfc471bf;AU;2027-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;ACT
+68054fa5-635e-472b-be58-0abe275b01b1;AU;2027-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;NSW
+6f21cc28-f5ae-4d6b-be04-a35f440a3f4f;AU;2027-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;NT
+127d4169-d0ab-4ea3-998a-6fad2ca8434c;AU;2027-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;QLD
+d43d19b0-1764-4c77-8b7f-af3e4c8a2270;AU;2027-12-26;;Public;Regional;EN Proclamation Day,DE Proclamation Day;SA
+6fc9fc9e-cb7d-43ff-983c-017128b49e6c;AU;2027-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;VIC
+fbc3ad4f-ff2d-4501-a69d-4e92eaef84bd;AU;2027-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;WA
+00e0e664-13c9-4659-b40d-a57bb0e5b619;AU;2027-12-27;;Public;Regional;EN Additional Day (Christmas Day),DE Zusätzlicher Feiertag (Weihnachtstag);NSW
+2a2fc2e1-cfc9-46fc-8345-287e4599f33b;AU;2027-12-27;;Public;Regional;EN Christmas Day,DE Weihnachtstag;NT
+37b395d3-6c85-4f1a-bea0-6be38aec3d4b;AU;2027-12-27;;Public;Regional;EN Christmas Day,DE Weihnachtstag;QLD
+0b1eb530-6c4f-43a2-ad95-c293a4c1d479;AU;2027-12-27;;Public;Regional;EN Christmas Day,DE Weihnachtstag;SA
+e9a818b1-2cfc-42b0-a276-095cd2057f54;AU;2027-12-27;;Public;Regional;EN Christmas Day,DE Weihnachtstag;TAS
+594a28f3-dec1-4fd0-8892-6ef00ffe47f2;AU;2027-12-27;;Public;Regional;EN Christmas Day,DE Weihnachtstag;VIC
+03b561c4-3c60-4f98-82ef-5b92e7451833;AU;2027-12-27;;Public;Regional;EN Christmas Day,DE Weihnachtstag;WA
+74f1b150-7283-4d7e-add5-2728b7ce23f0;AU;2027-12-28;;Public;Regional;EN Additional Day (Boxing Day),DE Zusätzlicher Feiertag (Zweiter Weihnachtsfeiertag);NSW
+93493cd6-8b17-4721-9716-68db1fa2b50d;AU;2027-12-28;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;NT
+ca2e1f71-43d5-48c1-bcf8-a9f1dbe676b5;AU;2027-12-28;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;QLD
+aa11f6a4-010c-4e32-a45b-dd9df41f1bcf;AU;2027-12-28;;Public;Regional;EN Proclamation Day,DE Proclamation Day;SA
+c97b9a86-a907-4d72-91d6-082b5e057065;AU;2027-12-28;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;TAS
+bd46b06a-9d51-471a-baac-8f68b6ee4817;AU;2027-12-28;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;VIC
+44d2f431-1cfc-404c-b683-5fd8e953fdfb;AU;2027-12-28;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;WA
+392f1c80-9754-447e-a728-8e25cc81b95d;AU;2028-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;ACT
+f7aecf07-f6fa-4e02-ae7c-7b2e2f6d444f;AU;2028-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;NT
+89c3afc1-d797-472a-8816-dd94429a2a32;AU;2028-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;QLD
+a0f0b943-f653-4874-8525-ac326c0a4ce6;AU;2028-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;SA
+ff245219-4502-48d8-885a-2ae4feea44b8;AU;2028-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;TAS
+1350a307-df7b-45ab-b0e5-9446f6554b8c;AU;2028-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;VIC
+3562f0c3-816f-4f8e-a9d2-6253b4252ea8;AU;2028-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;WA
+c8f530f0-0861-4414-b235-7d96fdb79f93;AU;2028-01-03;;Public;Regional;EN New Year's Day,DE Neujahrstag;NT
+90436a82-0c18-4061-ad8c-6b7e3f8ff502;AU;2028-01-03;;Public;Regional;EN New Year's Day,DE Neujahrstag;QLD
+108e83bb-4272-47f6-85fd-1dd9c8b95111;AU;2028-01-03;;Public;Regional;EN New Year's Day,DE Neujahrstag;SA
+eebebba4-251f-4955-9507-4072f78e1750;AU;2028-01-03;;Public;Regional;EN New Year's Day,DE Neujahrstag;VIC
+de746b6b-8c91-42c9-91c7-4f783dfe67a7;AU;2028-01-03;;Public;Regional;EN New Year's Day,DE Neujahrstag;WA
+e60ed96d-ac18-4325-aeef-9da6ce3c797b;AU;2028-01-26;;Public;Regional;EN Australia Day,DE Australia Day;NT
+75932ea1-93cc-459c-9311-2c7651acc6b5;AU;2028-01-26;;Public;Regional;EN Australia Day,DE Australia Day;QLD
+afb0ddcb-c5f1-47ab-8842-be79de1d4d18;AU;2028-01-26;;Public;Regional;EN Australia Day,DE Australia Day;SA
+c2842e08-ec88-4672-bcc9-cc7fc408aa98;AU;2028-01-26;;Public;Regional;EN Australia Day,DE Australia Day;TAS
+b8ee20d9-bda0-4acc-90df-8f8c138980f2;AU;2028-01-26;;Public;Regional;EN Australia Day,DE Australia Day;VIC
+73928005-0cf2-4cac-9d5f-8036e670a620;AU;2028-01-26;;Public;Regional;EN Australia Day,DE Australia Day;WA
+dc774be3-6657-41ff-8b2a-7b1b81832921;AU;2028-01-27;;Public;Regional;EN Australia Day,DE Australia Day;ACT
+a84fd4b2-d362-4fdd-ae84-3dacb0f1d940;AU;2028-03-13;;Public;Regional;EN Canberra Day,DE Canberra Day;ACT
+dde2d037-5918-40dc-b70b-edcbedcc3532;AU;2028-03-13;;Public;Regional;EN Adelaide Cup Day,DE Adelaide Cup Day;SA
+368677a7-9e8e-4d07-8b9a-3b047fec7dd7;AU;2028-03-13;;Public;Regional;EN Eight Hours Day,DE Achtstundentag;TAS
+3b510cee-9de6-416e-ad32-d19c773524c0;AU;2028-03-13;;Public;Regional;EN Labour Day,DE Tag der Arbeit;VIC
+9ec7996a-2086-4cc2-b918-202f41449d84;AU;2028-03-13;;Public;Regional;EN Labour Day,DE Tag der Arbeit;WA
+f7c10577-2c0a-4912-8c60-8593ee9e1a91;AU;2028-04-14;;Public;Regional;EN Good Friday,DE Karfreitag;ACT
+3459ea30-7660-4299-a429-21df4bb95605;AU;2028-04-14;;Public;Regional;EN Good Friday,DE Karfreitag;NT
+092fba8d-b0e5-4038-9849-2c4a57f026f0;AU;2028-04-14;;Public;Regional;EN Good Friday,DE Karfreitag;QLD
+86ee612d-6acd-4ab1-ae81-8df20c612472;AU;2028-04-14;;Public;Regional;EN Good Friday,DE Karfreitag;SA
+43e11792-59d2-4708-8ae8-ce0b62106e31;AU;2028-04-14;;Public;Regional;EN Good Friday,DE Karfreitag;TAS
+289d64a4-6e15-42e9-b635-e1748fbc6ead;AU;2028-04-14;;Public;Regional;EN Good Friday,DE Karfreitag;VIC
+4b028915-c245-43b9-93f0-5a0d5e97090b;AU;2028-04-14;;Public;Regional;EN Good Friday,DE Karfreitag;WA
+51cad11c-63fb-42fa-99be-cef0257be7bb;AU;2028-04-15;;Public;Regional;EN Easter Saturday,DE Karsamstag;ACT
+23bef6c5-5f88-4ae7-951e-405572746de2;AU;2028-04-15;;Public;Regional;EN Easter Saturday,DE Karsamstag;NT
+f53663d4-be32-439a-b53e-91528f5171b2;AU;2028-04-15;;Public;Regional;EN Easter Saturday,DE Karsamstag;QLD
+c487e745-b46d-432f-b6ce-9a4903e39c5d;AU;2028-04-15;;Public;Regional;EN Easter Saturday,DE Karsamstag;SA
+569a890d-2209-4d6e-afd9-7293a08ee943;AU;2028-04-15;;Public;Regional;EN Easter Saturday,DE Karsamstag;VIC
+11d6f60a-be5e-4a15-aa0e-09788e195985;AU;2028-04-15;;Public;Regional;EN Easter Saturday,DE Karsamstag;WA
+7438095e-ceda-431b-84a3-ae4801da0ef5;AU;2028-04-16;;Public;Regional;EN Easter Sunday,DE Ostersonntag;ACT
+2125885b-b897-40f3-b192-ff97cd06c5bd;AU;2028-04-16;;Public;Regional;EN Easter Sunday,DE Ostersonntag;NT
+908e0e88-3b5b-4a27-91c4-c421d1b0796f;AU;2028-04-16;;Public;Regional;EN Easter Sunday,DE Ostersonntag;QLD
+89fa6adb-1f7d-4885-a224-43df66d168dd;AU;2028-04-16;;Public;Regional;EN Easter Sunday,DE Ostersonntag;SA
+08889098-e95e-4755-aa0e-6cd08aebe247;AU;2028-04-16;;Public;Regional;EN Easter Sunday,DE Ostersonntag;TAS
+fdfd10de-9976-4852-9246-9171b273579a;AU;2028-04-16;;Public;Regional;EN Easter Sunday,DE Ostersonntag;VIC
+0202ea3b-61cd-46b4-936a-2af610ea8dcf;AU;2028-04-16;;Public;Regional;EN Easter Sunday,DE Ostersonntag;WA
+21857c81-c78b-4245-a263-a70c37d9352a;AU;2028-04-17;;Public;Regional;EN Easter Monday,DE Ostermontag;ACT
+c566d9fb-38fa-40c0-8a91-cc4b2c1d845b;AU;2028-04-17;;Public;Regional;EN Easter Monday,DE Ostermontag;NT
+031bf072-adeb-4416-a707-225750a08c0a;AU;2028-04-17;;Public;Regional;EN Easter Monday,DE Ostermontag;QLD
+4d38f092-0bde-40d1-a669-95227f01bfbb;AU;2028-04-17;;Public;Regional;EN Easter Monday,DE Ostermontag;SA
+e3dde35c-e588-4cb8-90a1-90b7fb920f85;AU;2028-04-17;;Public;Regional;EN Easter Monday,DE Ostermontag;TAS
+f2d1e788-ecc8-462d-8a27-4d91a0698e99;AU;2028-04-17;;Public;Regional;EN Easter Monday,DE Ostermontag;VIC
+6ebafc02-910a-44dc-bc66-a6c32f955a64;AU;2028-04-17;;Public;Regional;EN Easter Monday,DE Ostermontag;WA
+001e80ac-5604-4b57-8342-6c085da18ef5;AU;2028-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;ACT
+b7cccec4-0251-404a-8cb6-c863321d20c5;AU;2028-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;NT
+9aefce8e-1c58-44ea-b3dc-2c622876aa53;AU;2028-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;QLD
+183270ed-82a3-4e0b-8436-d3e3203defb6;AU;2028-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;SA
+50824bcb-8881-4ac0-a4d4-da4864846e5e;AU;2028-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;TAS
+c8bf434f-d319-4c2c-b188-ca2b8e3f6bba;AU;2028-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;VIC
+5b98ec61-fd85-44e6-9591-fce20d317416;AU;2028-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;WA
+b96ff229-664a-47a7-b97a-c8166d05fc75;AU;2028-05-01;;Public;Regional;EN May Day,DE Maifeiertag;NT
+e9c5b49e-500a-4013-bdd1-e38e27618448;AU;2028-05-01;;Public;Regional;EN Labour Day,DE Tag der Arbeit;QLD
+228439a1-ad11-4f83-a004-1c352bc8107f;AU;2028-05-29;;Public;Regional;EN Reconciliation Day,DE Tag der Versöhnung;ACT
+a5b887ba-b166-4e28-a33b-53f0b79aaf1e;AU;2028-06-12;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;ACT
+acc57e46-abfd-4626-b813-ea858a8c3565;AU;2028-06-12;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;NT
+fdf006a3-efa5-461b-b9b4-89a51720b745;AU;2028-06-12;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;SA
+f2035005-3095-4ce1-bedd-5d0b0ec3ccbb;AU;2028-06-12;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;TAS
+e346f5e9-2444-4032-89c0-cf2b5ec6473a;AU;2028-06-12;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;VIC
+544f6bdb-d087-48b0-9037-2e286fe6c90c;AU;2028-06-12;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;WA
+6ef11022-5075-478c-a4e8-2501b18ada7b;AU;2028-08-07;;Public;Regional;EN Picnic Day,DE Picnic Day;NT
+32ad48c8-a147-4df5-af7d-25fa1d9835b9;AU;2028-10-02;;Public;Regional;EN Labour Day,DE Tag der Arbeit;ACT
+60ddeb6b-2e3a-45fb-ba92-17f203d716d1;AU;2028-10-02;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;QLD
+146a80ea-bf0a-4d1c-8e0f-2ba58d2034db;AU;2028-10-02;;Public;Regional;EN Labour Day,DE Tag der Arbeit;SA
+893444f0-a4a3-419a-97bd-6b6c1c39eccf;AU;2028-11-07;;Public;Regional;EN Melbourne Cup,DE Melbourne Cup;VIC
+5d685d82-8888-4a48-97bb-5772643839bc;AU;2028-11-13;;Public;Regional;EN Western Australia Day,DE Western Australia Day;WA
+f9fa0061-a88b-48e4-88ce-cd6f1c9c085f;AU;2028-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;ACT
+602eac12-952d-4fe6-a888-a2fdc64d98c7;AU;2028-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;NT
+1e085cbc-39fc-46f2-a940-6978a9d7867e;AU;2028-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;QLD
+e4645f65-03cf-4a0a-9251-13ec2753d68e;AU;2028-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;SA
+b4f1c51e-5ab2-4488-8d81-e9cf6eda86d4;AU;2028-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;TAS
+1b7fb328-4d02-41b4-a745-0c0990ef6ba5;AU;2028-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;VIC
+b03aed76-c044-4eec-9c1d-bef3ec6c548d;AU;2028-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;WA
+72763507-c738-48c4-b9f6-53ae704da29e;AU;2028-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;ACT
+aadee845-bdd5-4ad2-a0cd-bd6c8020d776;AU;2028-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;NT
+62c2872f-641f-4e39-a3e3-4ab1dc82d3bf;AU;2028-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;QLD
+4b5e7f45-88d4-408e-91fd-a61c16e3ea93;AU;2028-12-26;;Public;Regional;EN Proclamation Day,DE Proclamation Day;SA
+91a6de4d-fefb-4fe5-af09-6a1ed24ed3f3;AU;2028-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;TAS
+8fff6fec-53e9-4d3c-80a3-dfaf0c968482;AU;2028-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;VIC
+83a1b639-ce0d-4181-8106-dc9aca7628e1;AU;2028-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;WA
+63984939-4840-4f8c-8707-bb288930e57c;AU;2029-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;ACT
+e75753d4-a03c-4479-99d7-ab88b92b040c;AU;2029-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;QLD
+a9cd337b-e271-45a5-9f5f-8c66b4d77ae8;AU;2029-01-01;;Public;Regional;EN New Year's Day,DE Neujahrstag;WA
+0ca5d74e-6353-4be5-8384-f20ede80f8ca;AU;2029-01-26;;Public;Regional;EN Australia Day,DE Australia Day;QLD
+c2b7a144-7ce6-4415-9a8e-0f230d515d8d;AU;2029-01-26;;Public;Regional;EN Australia Day,DE Australia Day;WA
+7cefbaf0-9474-4a26-b94a-63d4c1ff3826;AU;2029-01-27;;Public;Regional;EN Australia Day,DE Australia Day;ACT
+44f6ba7d-4594-401a-9b2a-6dab17b40e43;AU;2029-03-12;;Public;Regional;EN Canberra Day,DE Canberra Day;ACT
+dabea833-a04e-4f6f-ab8f-733d5b47b48c;AU;2029-03-19;;Public;Regional;EN Labour Day,DE Tag der Arbeit;WA
+34ff811d-2674-44e0-ba49-9de486c8b0f3;AU;2029-03-30;;Public;Regional;EN Good Friday,DE Karfreitag;QLD
+4b9193e1-3430-452d-a1a0-78d43b4929e2;AU;2029-03-30;;Public;Regional;EN Good Friday,DE Karfreitag;WA
+180a6e02-e275-409a-a522-74c5ab36ed0d;AU;2029-03-31;;Public;Regional;EN Good Friday,DE Karfreitag;ACT
+b8a5ba8a-58db-4261-97ee-345285cb88e4;AU;2029-03-31;;Public;Regional;EN Easter Saturday,DE Karsamstag;QLD
+c3571894-6419-4d7e-9792-798d420a493a;AU;2029-03-31;;Public;Regional;EN Easter Saturday,DE Karsamstag;WA
+ffd9d5bd-29eb-4c6f-afc8-130cc270417e;AU;2029-04-01;;Public;Regional;EN Easter Saturday,DE Karsamstag;ACT
+c01b935e-d196-4eda-b834-4a6e744db229;AU;2029-04-01;;Public;Regional;EN Easter Sunday,DE Ostersonntag;QLD
+07604aa6-4eea-4694-97a6-cd91a091ac7c;AU;2029-04-01;;Public;Regional;EN Easter Sunday,DE Ostersonntag;WA
+92d16cca-3ce0-44b3-9fb1-5b4c99e9d056;AU;2029-04-02;;Public;Regional;EN Easter Sunday,DE Ostersonntag;ACT
+743b9d9f-245b-4e2d-9721-430403b4da35;AU;2029-04-02;;Public;Regional;EN Easter Monday,DE Ostermontag;QLD
+67b4b41d-0f6e-402f-8a0d-ca15b54b1fd7;AU;2029-04-02;;Public;Regional;EN Easter Monday,DE Ostermontag;WA
+25062ff5-9f70-41ef-b8e3-50ff2875bca4;AU;2029-04-03;;Public;Regional;EN Easter Monday,DE Ostermontag;ACT
+8d6928f9-f809-4150-ac77-fd7e44290251;AU;2029-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;ACT
+412e656e-04dc-4936-ba4a-4d3d0a07d39a;AU;2029-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;QLD
+d198d800-1fa7-4a43-b08a-52cd378ae359;AU;2029-04-25;;Public;Regional;EN Anzac Day,DE Anzac Day;WA
+b6f6b250-7daa-4fb3-981b-56f10b15df51;AU;2029-05-07;;Public;Regional;EN Labour Day,DE Tag der Arbeit;QLD
+4a7e32fe-cadc-4e18-9f78-9f87e09a1080;AU;2029-05-28;;Public;Regional;EN Reconciliation Day,DE Tag der Versöhnung;ACT
+d4db34e6-209b-44c5-9888-801d2d35d77f;AU;2029-06-11;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;ACT
+d644c6ec-e386-4f3f-9f87-0837d221ae98;AU;2029-06-11;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;WA
+594cd720-7d09-4a25-a073-407ca1dfa831;AU;2029-10-01;;Public;Regional;EN Labour Day,DE Tag der Arbeit;ACT
+8dc6dbad-92ab-420b-b763-4d03f50aa4d1;AU;2029-10-01;;Public;Regional;EN King's Birthday,DE Geburtstag des Königs;QLD
+652e0b78-4551-4efe-85e2-9de65548cb98;AU;2029-11-12;;Public;Regional;EN Western Australia Day,DE Western Australia Day;WA
+311d9326-625c-42c7-96b3-21b6530f6024;AU;2029-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;ACT
+f039bda1-46b1-4cda-8f09-018835c6b03f;AU;2029-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;QLD
+e4fb9f97-2af0-4e75-9ac8-78b78350345e;AU;2029-12-25;;Public;Regional;EN Christmas Day,DE Weihnachtstag;WA
+aaad7786-641f-4543-b8bd-560f1a79423d;AU;2029-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;ACT
+601ba32c-e69d-4950-9467-4e74b109f855;AU;2029-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;QLD
+2eda86d1-49ba-46b8-bd29-e0994abca2ec;AU;2029-12-26;;Public;Regional;EN Boxing Day,DE Zweiter Weihnachtsfeiertag;WA
