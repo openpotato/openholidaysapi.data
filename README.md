@@ -4,6 +4,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 
 + Albania (public holidays and school holidays from 2020)
 + Andorra (public holidays and school holidays from 2020)
++ Australia (public holidays and school holidays from 2026)
 + Austria (public holidays and school holidays from 2017)
 + Belarus (public holidays and school holidays from 2020)
 + Belgium (public holidays and school holidays from 2020)
@@ -46,6 +47,7 @@ You can find a detailed list of data sources at https://www.openholidaysapi.org/
 + [Data sources for Africa](https://www.openholidaysapi.org/en/sources-africa/)
 + [Data sources for Americas](https://www.openholidaysapi.org/en/sources-americas/)
 + [Data sources for Europe](https://www.openholidaysapi.org/en/sources-europe/)
++ [Data sources for Oceania](https://www.openholidaysapi.org/en/sources-oceania/)
 
 ## Additional information
 
